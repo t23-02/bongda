@@ -3,14 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130918150608.png",08h30 Real Espana vs Real Sociedad Tocoa 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.a4chat.com/lives/e6e21195664b5dcf4cb78e71b3565a80/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130919130801.png",09h00 Alajuelense vs Pumas U.N.A.M. 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.a4chat.com/lives/c796853f05dc64724bd78eaef431ab4c/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/34306/1gqc389a3j1y.png",10h00 Tijuana Nữ vs Juarez FC Nữ 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.a4chat.com/lives/47e89505c8990949e79cd5a21f9095d0/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/9090/1hd5yk316230.png",15h00 Central Coast Mariners (W) vs Perth Glory Nữ 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -43,6 +43,10 @@ https://live.a4chat.com/lives/548e73e03c658628a2f08eba291e1e2b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.a4chat.com/lives/a2595eac4d0b4e4dfd723769672269b4/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20200711144804.jpg",16h15 Glenorchy Knights FC vs Hobart Zebras 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.a4chat.com/lives/9fa7607ec0c0aa7f4f710f2182d02c54/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170724113821.png",16h15 Launceston City vs LAN Thurston 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -51,10 +55,6 @@ https://live.a4chat.com/lives/1af9fed15598a7fcf1ae8d28c4979e56/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.a4chat.com/lives/52ab7403535495587f1721ff60201583/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/50dbc9a21f9981c226058e1dd40c7bfd.png",08h30 Real Espana vs Real Sociedad Tocoa (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -147,74 +147,90 @@ https://hls.cdnokvip.com/live/KEN/index.m3u8?expire=1873178820&sign=4cf8fc801a94
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
 https://flv.cdnokvip.com/live/KEN.flv?expire=1873178820&sign=4cf8fc801a94e455a9c053b6d7f1d591
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 Real Espana VS Real Sociedad Tocoa (Backup 1)
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/a_mPqbkpHz4H3b74WvIzlw/Fv2lucGIbhPi2caWYvF5Lg/1741944001328/live/sd-6MtJeuCCCz1Xv69qdu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/may2HD.flv?expire=1741937841&sign=acf5e9e02e19e764d1ce973728d9e1a5
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/J2bp1S3XhRweFuOTeUGU4Q/Fv2lucGIbhPi2caWYvF5Lg/1741937841213/live/may2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/may2SD.flv?expire=1741937841&sign=6ee3b3270751febf0823260aebaa824f
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/-4ZSBK_-MJCmTOfAPeGfUQ/Fv2lucGIbhPi2caWYvF5Lg/1741937841213/live/may2FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 Tijuana (w) vs Juarez FC (w) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/O3vI9U1Fl1-AgktGnFkgng/Fv2lucGIbhPi2caWYvF5Lg/1741944603412/live/sd-6MtMPZK71hjSCpBtRH/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Warriors vs Kings (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ar2q4BUO3NdhtkLkcvxaaA/Fv2lucGIbhPi2caWYvF5Lg/1741944001329/live/cuonHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8jNQQAmqw5ZLQJp3baZ7BA/Fv2lucGIbhPi2caWYvF5Lg/1741945182496/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Warriors vs Kings (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/8PSQnS0EtcDi4sh_l-tY5g/Fv2lucGIbhPi2caWYvF5Lg/1741944001329/live/cuonFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/EMATjMJrGTTATyYq5_0L_Q/Fv2lucGIbhPi2caWYvF5Lg/1741945182496/live/cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Warriors vs Kings (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ar2q4BUO3NdhtkLkcvxaaA/Fv2lucGIbhPi2caWYvF5Lg/1741944001329/live/cuonHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ZiaHsHAdh7OK25xQuVQvww/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Warriors vs Kings (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/8PSQnS0EtcDi4sh_l-tY5g/Fv2lucGIbhPi2caWYvF5Lg/1741944001329/live/cuonFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/B5a_KcQtvVBcr6ZhdLrLaA/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Alajuelense vs Pumas U.N.A.M. (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/6u_8WirJg_008mI8rVF1ew/Fv2lucGIbhPi2caWYvF5Lg/1741944001330/live/coHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/L4T_RgSXkPQ1IKaGi0-6QQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Alajuelense vs Pumas U.N.A.M. (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4kD6PMVfMCIo-_88lfqbqA/Fv2lucGIbhPi2caWYvF5Lg/1741944001330/live/coFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/DkkrMmFzYMKWfGK40xYReQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/coFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Alajuelense vs Pumas U.N.A.M. (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hAkiwoRHOEw5tQ3FfgBJVQ/Fv2lucGIbhPi2caWYvF5Lg/1741944001330/live/may2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/jgyT2pwZh-JgidfphLH4pw/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/may2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Alajuelense vs Pumas U.N.A.M. (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Hi1BEIuF3QBXguvCoclrxQ/Fv2lucGIbhPi2caWYvF5Lg/1741944001330/live/may2FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yNlb5uQdB6Vc41J-xVvFyQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/may2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Carlos Alcaraz vs Francisco Cerundolo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4wAmSRfirQYwzKhxwoK-dg/Fv2lucGIbhPi2caWYvF5Lg/1741944001330/live/may1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iXm_gd7rGnSiid3zTR5YDQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182497/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Carlos Alcaraz vs Francisco Cerundolo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zVpwFh9O5bhPVLDrZtljiA/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/may1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/jDVDNZPfJvfXpfq2MROkaQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Carlos Alcaraz vs Francisco Cerundolo (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/pC2NDrhTlFHTbf1-N1GTMw/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/UkInzdhwz3XKQjKmpeDPVg/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may111/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h05 Francisco Cerundolo vs Carlos Alcaraz (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Fn_F7X_OYZsbwmGl9VSd3Q/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/may1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/shiZaBbfL5FxbnuxoymyAA/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h05 Francisco Cerundolo vs Carlos Alcaraz (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zVpwFh9O5bhPVLDrZtljiA/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/may1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/jDVDNZPfJvfXpfq2MROkaQ/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h05 Francisco Cerundolo vs Carlos Alcaraz (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/pC2NDrhTlFHTbf1-N1GTMw/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/UkInzdhwz3XKQjKmpeDPVg/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may111/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h00 Tijuana (w) VS Juarez FC (w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/PHmi_agfElYj-PPJTWwOzw/Fv2lucGIbhPi2caWYvF5Lg/1741944001331/live/sd-6MtMPZK71hjSCpBtRH/playlist.m3u8
+https://apisportzz179528093.nsnd.live/mEAynmBmqL8HWJJIJnBIgA/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/sd-6MtMPZK71hjSCpBtRH/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h00 WTT Champions Chongqing 2025 (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/6_zTykiwx_pQGwbY7Q05ag/Fv2lucGIbhPi2caWYvF5Lg/1741944001332/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/MHBoc9Pidr0C27lZkZxM9Q/Fv2lucGIbhPi2caWYvF5Lg/1741945182498/live/may21/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/cat143.jpg",0 Highlights Vitoria de Guimaraes vs Real Betis | BLV Người Cast | 14.3.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14088,10 +14104,6 @@ https://hotlivezz179536519.akainu.xyz/live/cuonSD.flv?expire=1741938883&sign=bc9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/4ryg_Y5yTd0HH5KfK6BLgg/Fv2lucGIbhPi2caWYvF5Lg/1741938883000/live/cuonFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/50dbc9a21f9981c226058e1dd40c7bfd.png",08h30 Real Espana VS Real Sociedad Tocoa (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/09IkxAuSxgUolO456vu_UQ/Fv2lucGIbhPi2caWYvF5Lg/1741938908409/live/sd-6MtJeuCCCz1Xv69qdu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14228,10 +14240,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/50dbc9a21f9981c226058e1dd40c7bfd.png",08h30 Real Espana vs Real Sociedad Tocoa (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -14404,10 +14412,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/50dbc9a21f9981c226058e1dd40c7bfd.png",08h30 Real Espana vs Real Sociedad Tocoa (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Mz5BwxB3U3PMlE-PmBfooQ/Fv2lucGIbhPi2caWYvF5Lg/1741938904424/live/sd-6MtJeuCCCz1Xv69qdu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs Pumas U.N.A.M. (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
