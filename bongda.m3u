@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170801151607.png",08h05 Chivas Guadalajara vs Puebla 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/289c447c2751ad1995603c17661c5582/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130917101105.jpg",08h30 Deportes Tolima vs Atletico Junior Barranquilla 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -19,6 +15,10 @@ https://live.rapid-api.icu/live/af2f165e67a0121469737d6f60d60afd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/1d1617f8520b18cacf8a16897048b860/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170120114629.jpg",10h00 FC Juarez vs Necaxa 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/d6f4a54db0d531e3a03b9752a83a34c1/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2013131194628.jpg",01h45 SC Covilha vs SC Lusitania 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -159,10 +159,30 @@ https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara VS Puebla (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/nlwqWrzZv3nSqd0c6Gq_6w/Fv2lucGIbhPi2caWYvF5Lg/1744787286066/live/sd-6MtMNzkdMS3Zs3D8EX/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/40f17f08ff7bb44a641273044db78c64.png",08h30 Deportes Tolima VS Atletico Junior Barranquilla (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -339,30 +359,34 @@ https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) SD Nhanh
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhisd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) HD Nhanh
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhihd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) SD 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) HD 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhihd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) SD 2
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/honghainhisd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e8a82975e71014b3298d2c3130cbe445.png",08h05 Chivas Guadalajara vs Puebla (LK) HD 2
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/honghainhihd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/40f17f08ff7bb44a641273044db78c64.png",08h30 Deportes Tolima vs Atletico Junior Barranquilla (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -403,14 +427,54 @@ https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1267/1h5e47dg6f1c.png?win007=sell",08h05 Chivas Guadalajara vs Puebla (LS) BLV VĂN TÍCH m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/VANTICH/index.m3u8?expire=1852358580&sign=747277a83601556552a2586590215965
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1267/1h5e47dg6f1c.png?win007=sell",08h05 Chivas Guadalajara vs Puebla (LS) BLV VĂN TÍCH flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/VANTICH.flv?expire=1852358580&sign=747277a83601556552a2586590215965
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2647/1gv1yk239rz.png?win007=sell",08h30 Deportes Tolima vs Atletico Junior Barranquilla (LS) BLV LÂM XUNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -435,6 +499,46 @@ https://hls.cdnokvip.com/live/LINHLUNA/index.m3u8?expire=1872315180&sign=c3258eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/LINHLUNA.flv?expire=1872315180&sign=c3258eb96df0addb28a32f6770b50820
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210812161651.png?win007=sell",10h00 FC Juarez vs Necaxa (LS) BLV THÀNH LONG  m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/THANHLONG/index.m3u8?expire=1852184880&sign=543f77b1ec88d6561572e35260f6927d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210812161651.png?win007=sell",10h00 FC Juarez vs Necaxa (LS) BLV THÀNH LONG  flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/THANHLONG.flv?expire=1852184880&sign=543f77b1ec88d6561572e35260f6927d14:49
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210812161651.png?win007=sell",10h00 FC Juarez vs Necaxa (LS) BLV BRUNO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210812161651.png?win007=sell",10h00 FC Juarez vs Necaxa (LS) BLV BRUNO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV ĐOÀN DỰ  m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV ĐOÀN DỰ  flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV VĂN TÍCH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/VANTICH/index.m3u8?expire=1852358580&sign=747277a83601556552a2586590215965
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV VĂN TÍCH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/VANTICH.flv?expire=1852358580&sign=747277a83601556552a2586590215965
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h00 Pachuca vs Tigres UANL (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -575,10 +679,30 @@ https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 htt1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ef54b1a50442520bc2027bcb5b43354e.png",08h05 Chivas Guadalajara vs Puebla (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/TXylAyYsDWLMPpDn5E3Tsw/Fv2lucGIbhPi2caWYvF5Lg/1744787102237/live/sd-6MtMNzkdMS3Zs3D8EX/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h00 FC Juarez vs Necaxa (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/40f17f08ff7bb44a641273044db78c64.png",08h30 Deportes Tolima vs Atletico Junior Barranquilla (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -599,54 +723,66 @@ https://apisportzz179528093.nsnd.live/6KCMNoTnju0KEclBpp18mg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/R_ZHbQ1LzGfB1nGsi80v5Q/Fv2lucGIbhPi2caWYvF5Lg/1744791901442/live/sd-6MuRsjYLvz2EnAPtZ1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ce9d354a3c189f6b91e917814396e13f.png",10h00 FC Juarez vs Necaxa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vOAE5e-0NgCpHiLE6wJygA/Fv2lucGIbhPi2caWYvF5Lg/1744794904163/live/sd-6MtMNzkd1xJaWSa5Ph/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14b7388bfb2a0a8016dffdd520f2ba7a.png",10h05 CDSyC Cruz Azul vs Club Leon (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gD1QchKVIZ6MXyVY7k9h_Q/Fv2lucGIbhPi2caWYvF5Lg/1744794301325/live/sd-6MtMNzmNLjK74SdEJF/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 Deportes Tolima VS Atletico Junior Barranquilla (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/tn6MtR8Bqy_rJO0CKsc9jw/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MtN8NPTZVr6KuCwpP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/nLaV_Ha60u5WQFsLjnsVjg/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/sd-6MtN8NPTZVr6KuCwpP/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 ITTF World Cup Macao 2025 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/tOSe8-kTDzGW5u7q4EmRiQ/c447692e6da13744a99dfc2b26df7bc6/1744794477/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Hu53vgyr_SZiPSg0ixAGfA/c447692e6da13744a99dfc2b26df7bc6/1744792645/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 ITTF World Cup Macao 2025 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/W4PPPxssAUj519rfF-Y4dQ/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/G3COR2XhpYjnTw5_HmWqXA/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/heSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 ITTF World Cup Macao 2025 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/J1idMvAU3tJtA099Y3v4CA/83de23c4424f537b01b08ca40d8e3c83/1744794477/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/dQdgNkbQCRkN-w1gQJ_djg/83de23c4424f537b01b08ca40d8e3c83/1744792645/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Herediano VS Santos De Guapiles (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/aRXeEsSFTHlSThnRnuBhwQ/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MtMP7GdBEUQGTLXpw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/nT2Ftm72llDaQ4ll7Bs-4Q/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/sd-6MtMP7GdBEUQGTLXpw/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Puntarenas VS Deportivo Saprissa (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/O491qsT8kWRUk16tdgK6sA/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MtMP7GdBM4qstpHHd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/tlfmLtQa6RZWz6yLvLwpsA/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/sd-6MtMP7GdBM4qstpHHd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 AV Alta VS Orange County Blues FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/9LCRJu-ws-GHc5Ff7Iv3Ug/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MuRsjYLw2DieeDohu/playlist.m3u8
+https://apisportzz179528093.nsnd.live/IjPJS5-HtrFjDXdLpRnwzg/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/sd-6MuRsjYLw2DieeDohu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Dodgers vs Rockies (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/HOGDVah2hin7BWOKuFUSHw/fc78fc174aa2842a71350738a7720538/1744794477/live/_definst_/stream_1_1bda7@cayHD/playlist.m3u8
+https://live-xlvb.nsnd.live/S03CzChWPBtXDB9zVxplww/fc78fc174aa2842a71350738a7720538/1744782725/live/_definst_/stream_1_1bda7@cayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Dodgers vs Rockies (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/TIfOwjyCDn9miyGwAS78Bg/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/caySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9NDs3D3T04lAeu-CmtmCUQ/Fv2lucGIbhPi2caWYvF5Lg/1744782725165/live/caySD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Dodgers vs Rockies (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/2KRh29spVUJXkqezCq_KdQ/0fb55f7bffe944b07b26e92c54cb3c98/1744794477/live/_definst_/stream_1_1bda7@cayFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/7cQgPCmkoVje1ih_WzxAuQ/0fb55f7bffe944b07b26e92c54cb3c98/1744782725/live/_definst_/stream_1_1bda7@cayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h35 Tacoma Defiance VS Oakland Roots (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/IlLgufnubdIpDXSHoIzmMA/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MuRsjYLvz2EnAPtZ1/playlist.m3u8
+https://apisportzz179528093.nsnd.live/OBbpWlFdMP6ibJCB47lDxw/Fv2lucGIbhPi2caWYvF5Lg/1744792645061/live/sd-6MuRsjYLvz2EnAPtZ1/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h00 FC Juarez VS Necaxa (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/lNMDAbFx57JwO0M59jwgxw/Fv2lucGIbhPi2caWYvF5Lg/1744794477560/live/sd-6MtMNzkd1xJaWSa5Ph/playlist.m3u8
+https://apisportzz179528093.nsnd.live/meioZBG8rG3esJ99XjNGBA/Fv2lucGIbhPi2caWYvF5Lg/1744794336915/live/sd-6MtMNzkd1xJaWSa5Ph/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h05 Cruz Azul VS Club Leon (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/wRkLhhrfn4YV5pThZgj5Nw/Fv2lucGIbhPi2caWYvF5Lg/1744795051794/live/sd-6MtMNzmNLjK74SdEJF/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/con164.jpg",[0] Fullmatch Dortmund vs Barcelona | BLV Người Cồn | 16.4.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15400,6 +15536,30 @@ https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",10h05 Cruz Azul vs Club Leon (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2647/1gv1yk239rz.png?win007=sell",08h30 Deportes Tolima vs Atletico Junior Barranquilla (LS) BLV LÂM XUNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -15440,6 +15600,30 @@ https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV VĂN TÍCH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/VANTICH/index.m3u8?expire=1852358580&sign=747277a83601556552a2586590215965
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV VĂN TÍCH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/VANTICH.flv?expire=1852358580&sign=747277a83601556552a2586590215965
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV ĐOÀN DỰ  m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV ĐOÀN DỰ  flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20150618160556.jpg?win007=sell",10h05 CDSyC Cruz Azul vs Club Leon (LS) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h00 Pachuca vs Tigres UANL (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15628,3 +15812,7 @@ https://apisportzz179528093.nsnd.live/R_ZHbQ1LzGfB1nGsi80v5Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/8g9EAt2ATlQVIcGfmj7_cw/Fv2lucGIbhPi2caWYvF5Lg/1744794288523/live/sd-6MtMNzkd1xJaWSa5Ph/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14b7388bfb2a0a8016dffdd520f2ba7a.png",10h05 CDSyC Cruz Azul vs Club Leon (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gD1QchKVIZ6MXyVY7k9h_Q/Fv2lucGIbhPi2caWYvF5Lg/1744794301325/live/sd-6MtMNzmNLjK74SdEJF/playlist.m3u8
