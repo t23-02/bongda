@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2004924153239.gif",17h00 Gornik Leczna vs Chrobry Glogow 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/014342fdf903e246d5d120af448d785d/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130813183816.jpg",17h15 Puszcza Niepolomice vs Radomiak Radom 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -195,6 +191,10 @@ https://live.rapid-api.icu/live/7d8506990eb30e08111043516458ea3d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/16e1130262baaf89e9fd0e6cb756ea5a/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2013120125213.jpg",20h00 Siegen Sportfreunde vs Adams Sam Beek 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/9dcf2ac654220dca8878617e359266db/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -343,10 +343,30 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna VS Chrobry Glogow (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/TNXobxDLNi4ZeQdLgNW-MA/Fv2lucGIbhPi2caWYvF5Lg/1745252104272/live/sd-6MsFQvG1PRTeweUsb9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice VS Radomiak Radom (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -643,10 +663,34 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice vs Radomiak Radom (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -719,22 +763,6 @@ https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS)  BLV ĐỊCH NHÂN KIỆT m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/NHANKIET/index.m3u8?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS)  BLV ĐỊCH NHÂN KIỆT flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/NHANKIET.flv?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS) BLV BRUNO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS) BLV BRUNO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14803/1h53w17xg82q.png?win007=sell",17h15 Puszcza Niepolomice vs Radomiak Radom (LS) BLV CAO CẦU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -903,10 +931,30 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/k_obJXZqCTOuy8H8Oe3HDQ/Fv2lucGIbhPi2caWYvF5Lg/1745250901564/live/sd-6MsFQvG1PRTeweUsb9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice vs Radomiak Radom (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -979,206 +1027,190 @@ https://apisportzz179528093.nsnd.live/cKYYh6AxTbXBrpKWSnrC-A/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/1lvKNVjiUFEIFSYvkRtqXQ/Fv2lucGIbhPi2caWYvF5Lg/1745256304776/live/sd-6MtMssgbefy4rFQM3q/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Falcons vs SAW (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/87A37DXgpE54YzgiJlWwjg/66ae10d686c6ce5cc9ef4eeff7542f73/1745257787/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Falcons vs SAW (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/nj-QuQiQdGEaQPzQTuaDyw/Fv2lucGIbhPi2caWYvF5Lg/1745257787874/live/gaySD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Falcons vs SAW (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/IpfiqTlOBzKvNmYZVHf0zQ/84da5215d1a1dcfaac34c074325b27a0/1745257787/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Navi vs MIBR (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/0vhQvX0WFFzw4ZxOOwnzyQ/44aad5dfa01c79ab75667d799c2e06c1/1745257787/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+https://live-xlvb.nsnd.live/QOHtp22Q9EZdl8EgBs6goA/44aad5dfa01c79ab75667d799c2e06c1/1745258383/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Navi vs MIBR (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pp0FYwQ6TYZ05fGR0EoxOA/Fv2lucGIbhPi2caWYvF5Lg/1745257787874/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ef4mlbl4WFjtlFdiol1AMQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383849/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h45 Navi vs MIBR (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/2f4uR9Vxm2bXRfULazKyag/bb30dc1883f5f92057cd67eec640c4d0/1745257787/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/3iKKUNioTtX4mpdzFuQ03Q/bb30dc1883f5f92057cd67eec640c4d0/1745258383/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 JD Gaming vs Weibo Gaming (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/2DjH7JeoFz0xTlF2C1G71g/5db020e7dd5349c469bf4ecffea8539b/1745257787/live/_definst_/stream_1_1bda7@hoiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/VuTohqYXlXzfkHz7-D54VA/5db020e7dd5349c469bf4ecffea8539b/1745258383/live/_definst_/stream_1_1bda7@hoiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 JD Gaming vs Weibo Gaming (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yZzRw9KB_IUT4lmjJ9wS4w/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/hoiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7vJVyr31R6gL12CcHQ9Unw/Fv2lucGIbhPi2caWYvF5Lg/1745258383849/live/hoiSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 JD Gaming vs Weibo Gaming (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/fBKp07IVNrPZruiEg23_JQ/9f4a66eaa9212d11b576a17aa8c29a66/1745257787/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",17h00 Gornik Leczna VS Chrobry Glogow (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/P0GQjF0WW3B-gWLdzrm1-g/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/sd-6MsFQvG1PRTeweUsb9/playlist.m3u8
+https://live-xlvb.nsnd.live/LC5-yOvzeuHgOU_kzp5pxw/9f4a66eaa9212d11b576a17aa8c29a66/1745258383/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",17h15 Puszcza Niepolomice VS Radomiak Radom (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/KQ-tDil9r-GSsfnwsQCySg/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/sd-6MsFQafq7pwS4ZBAQb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/YSD5y_y0x4F8X2pW1diHyQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MsFQafq7pwS4ZBAQb/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu Almaty Women vs Creamline Cool Smashers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/4ATl0S_UcbdZggSFxpIjjg/0b2e28127a2e2b232b9e60c4c837a3d2/1745257787/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/SOO6vDEz2cWgWN2pYyRA7w/0b2e28127a2e2b232b9e60c4c837a3d2/1745258383/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu Almaty Women vs Creamline Cool Smashers (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/JXOTiXkL4LPLU4c47GlVdg/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/qfQLkQMpvPw57NjEYtsP4Q/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu Almaty Women vs Creamline Cool Smashers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Dg9gddpMkblV5Z9KeqOQpA/4f331a41223542c17c4032aeaac138d5/1745257787/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/FYIjEt-G4h08h8DIm3a2ag/4f331a41223542c17c4032aeaac138d5/1745258383/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jeļena Ostapenko (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/wAWsgproqwY5zPY5SHZhaQ/61b7c9f6fb3bff2f3c2273378af449b7/1745257787/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/jEzg2RQK-sXEwuHOUxC5nQ/61b7c9f6fb3bff2f3c2273378af449b7/1745258383/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jeļena Ostapenko (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/gW7prUgEi1mc9sVs-Sd-rw/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Waoxn237cKXqsC9MYQDAAQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jeļena Ostapenko (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/VEMrtPASuJg9dRV16B3xcw/e56ce8a755cda33e7f050da0b700d013/1745257787/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/jneFKLAZ0M_qdTLpFgcW0w/e56ce8a755cda33e7f050da0b700d013/1745258383/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Varbergs BoIS FC VS Umea FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/u6BA5JeR48GH1N1Ox99bGw/Fv2lucGIbhPi2caWYvF5Lg/1745257787875/live/sd-6MtN8ReTobKPrcDKoh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/x8wS0k5zRT3Ae1apeu2KBg/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtN8ReTobKPrcDKoh/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Skedsmo VS Assiden (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/eFwO2yXMdDvrnGKyBFzzng/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMssiomsRD3y438w/playlist.m3u8
+https://apisportzz179528093.nsnd.live/gPLxb2KXJrCSyoROoZL1-Q/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMssiomsRD3y438w/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Ullern FC VS Baerum SK (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/aS316skWtbeb3YMk8QBNiA/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMssgbekN2bD4BMd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/lbHlwAmoSKb8rgAaixwYeg/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMssgbekN2bD4BMd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Gjovik Lyn VS Skjetten Fotball (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/ogwHYhzzmlhz6xp1XadVJA/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMssiomNqxjjK89H/playlist.m3u8
+https://apisportzz179528093.nsnd.live/ul-mpjKi4VAO3VJrM_Ao-A/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMssiomNqxjjK89H/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Innstranden VS IF Floya (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/aCis7bUUmbHpfL4al_BCkw/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMssgbeUyfVrGmHM/playlist.m3u8
+https://apisportzz179528093.nsnd.live/OK0y5friVfIlEWcG3LTW2A/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMssgbeUyfVrGmHM/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Hvidovre IF VS Odense BK (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/-9SK7W0mHAWS2d3sx81yxQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MuRsWYbFQcJfVhCrf/playlist.m3u8
+https://apisportzz179528093.nsnd.live/hD7-N6l8UCpz-zhTwGi_OQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MuRsWYbFQcJfVhCrf/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Drobak-Frogn IL VS Stabaek B (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/IdmWyDkOi2USkl1SdB-NyQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMspSM4Bt7Rz3bCf/playlist.m3u8
+https://apisportzz179528093.nsnd.live/YhrUbKLeYlyntuSY5p0TSw/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMspSM4Bt7Rz3bCf/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Haugesund B VS Vag (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/zh1tZot01YGZ3yP9NVTd8Q/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtMspQrQyePAJNXmd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/hTtUj-_PvKqVfyfvjN9IHA/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MtMspQrQyePAJNXmd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 FC Goa VS Gokulam Kerala FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/gUzUmB6GEPGz5UprDTJPCQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MuScbpkJBssGYoeAF/playlist.m3u8
+https://apisportzz179528093.nsnd.live/5C15zh3xRbWRKUGmGN-VcA/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MuScbpkJBssGYoeAF/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Odder IGF VS Bronshoj (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/V9B2RH-4UGlHBMyzbSmq-A/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MuScf7FBkyGAJGVes/playlist.m3u8
+https://apisportzz179528093.nsnd.live/XzqT-O0iH-RBcRblsu1skg/Fv2lucGIbhPi2caWYvF5Lg/1745258383850/live/sd-6MuScf7FBkyGAJGVes/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Sandnes Ulf VS Pors Grenland (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/D3pibkquNXXT3sHJBzNrvw/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MtN8FqFcMBCEr8BXH/playlist.m3u8
+https://apisportzz179528093.nsnd.live/QNCWMjzLjC2KRwK0IbNtTg/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MtN8FqFcMBCEr8BXH/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Naestved VS Fremad Amager (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/kGztt8dGFW1mpHxEXuJgKg/Fv2lucGIbhPi2caWYvF5Lg/1745257787876/live/sd-6MuRsxgFywQ8Uj9Yks/playlist.m3u8
+https://apisportzz179528093.nsnd.live/hwPgWPXX9UslYY-re2H3-g/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MuRsxgFywQ8Uj9Yks/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Stjordals Blink VS Rana FK (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/YiHLAul5-MLyMMRMcBGBew/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/sd-6MtN8FrjRKSDZo7ch1/playlist.m3u8
+https://apisportzz179528093.nsnd.live/0dF8R-qogC-w0vdMmU2Myw/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MtN8FrjRKSDZo7ch1/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Team WE vs Invictus Gaming (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/2DjH7JeoFz0xTlF2C1G71g/5db020e7dd5349c469bf4ecffea8539b/1745257787/live/_definst_/stream_1_1bda7@hoiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/VuTohqYXlXzfkHz7-D54VA/5db020e7dd5349c469bf4ecffea8539b/1745258383/live/_definst_/stream_1_1bda7@hoiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Team WE vs Invictus Gaming (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/9iaV7C64Kw4OuI7jlmzWwQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/hoiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/y4IWcYLm0zD8z65wXAZR6g/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/hoiSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Team WE vs Invictus Gaming (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/fBKp07IVNrPZruiEg23_JQ/9f4a66eaa9212d11b576a17aa8c29a66/1745257787/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LC5-yOvzeuHgOU_kzp5pxw/9f4a66eaa9212d11b576a17aa8c29a66/1745258383/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jelena Ostapenko (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/wAWsgproqwY5zPY5SHZhaQ/61b7c9f6fb3bff2f3c2273378af449b7/1745257787/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/jEzg2RQK-sXEwuHOUxC5nQ/61b7c9f6fb3bff2f3c2273378af449b7/1745258383/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jelena Ostapenko (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/HUxyy-O54XXb1tPgR-bfLg/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Hl7U5yfhnNVoLwezRlhuXg/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Aryna Sabalenka vs Jelena Ostapenko (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/VEMrtPASuJg9dRV16B3xcw/e56ce8a755cda33e7f050da0b700d013/1745257787/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/jneFKLAZ0M_qdTLpFgcW0w/e56ce8a755cda33e7f050da0b700d013/1745258383/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu W vs Creamline W (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/4ATl0S_UcbdZggSFxpIjjg/0b2e28127a2e2b232b9e60c4c837a3d2/1745257787/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/SOO6vDEz2cWgWN2pYyRA7w/0b2e28127a2e2b232b9e60c4c837a3d2/1745258383/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu W vs Creamline W (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/d8jg1Z3gprubpezH1nDJ7Q/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/jUXLrODmC90-3K1O-7F3DQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Zhetysu W vs Creamline W (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Dg9gddpMkblV5Z9KeqOQpA/4f331a41223542c17c4032aeaac138d5/1745257787/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/FYIjEt-G4h08h8DIm3a2ag/4f331a41223542c17c4032aeaac138d5/1745258383/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 SP Falcons VS Khoromkhon Club (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/6sDDogyVTr9iniJPvMZwcQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/sd-6MuRsd7YrS3uxMD1NB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/t4lfPDY1OEwDt7mF5GydFg/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MuRsd7YrS3uxMD1NB/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 China U16 VS MexicoU16 (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/fwBw47zttAX9AcjsMjqGSw/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/sd-6MuScbrF76ncM3yJro/playlist.m3u8
+https://apisportzz179528093.nsnd.live/FMBIw8FDrYJz1kHBqhhksA/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MuScbrF76ncM3yJro/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 IF Lyseng VS BK Avarta (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/g1DyhgStAiP0EoIS6YccXg/Fv2lucGIbhPi2caWYvF5Lg/1745257787877/live/sd-6MuScf7FBimnHpSaVy/playlist.m3u8
+https://apisportzz179528093.nsnd.live/nhSVO8mQa4cAi-U1PUb8EQ/Fv2lucGIbhPi2caWYvF5Lg/1745258383851/live/sd-6MuScf7FBimnHpSaVy/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h30 Tromso B VS Frigg (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/LGIiuj0ZteHJAgwITTdFJA/Fv2lucGIbhPi2caWYvF5Lg/1745257787878/live/sd-6MtMssgbefy4rFQM3q/playlist.m3u8
+https://apisportzz179528093.nsnd.live/S7KEnIuTYJ0eJxwLlmDdMA/Fv2lucGIbhPi2caWYvF5Lg/1745258383852/live/sd-6MtMssgbefy4rFQM3q/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h30 Newport County VS Walsall (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Ub4UURcE7xw1EIceafYfuQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787878/live/sd-6MsGeGaFFG6SGPWwWT/playlist.m3u8
+https://apisportzz179528093.nsnd.live/xm9YEIZRYP7P-3x4V9kLSg/Fv2lucGIbhPi2caWYvF5Lg/1745258383852/live/sd-6MsGeGaFFG6SGPWwWT/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/iBxQEvArzoecpjjes_MZcg/9f8b38d400ef6d394f2d68b3096e00f1/1745257787/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+https://live-xlvb.nsnd.live/QExruJmG76knCEj0OwvYWQ/9f8b38d400ef6d394f2d68b3096e00f1/1745258383/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BJfj-jyEBOT4DZ8Ip-J7MQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787878/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-u7ukxLFXmEPyPgoZ7xJmg/Fv2lucGIbhPi2caWYvF5Lg/1745258383852/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/F-HrnZH2nwumbbNUeJep7A/74b8773ecaa9df430432c2bf2b6bd9e0/1745257787/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LZLwBPT1YD6nk8P4eR9exg/74b8773ecaa9df430432c2bf2b6bd9e0/1745258383/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/iBxQEvArzoecpjjes_MZcg/9f8b38d400ef6d394f2d68b3096e00f1/1745257787/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+https://live-xlvb.nsnd.live/QExruJmG76knCEj0OwvYWQ/9f8b38d400ef6d394f2d68b3096e00f1/1745258383/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BJfj-jyEBOT4DZ8Ip-J7MQ/Fv2lucGIbhPi2caWYvF5Lg/1745257787878/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-u7ukxLFXmEPyPgoZ7xJmg/Fv2lucGIbhPi2caWYvF5Lg/1745258383852/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h35 Beijing Konggu vs Beijing Beiqi (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/F-HrnZH2nwumbbNUeJep7A/74b8773ecaa9df430432c2bf2b6bd9e0/1745257787/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LZLwBPT1YD6nk8P4eR9exg/74b8773ecaa9df430432c2bf2b6bd9e0/1745258383/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/my214.jpg",[0] Highlights Real Madrid vs Athletic Bilbao | BLV Mỳ Tôm | 21.4.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15780,10 +15812,30 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna VS Chrobry Glogow (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/v4N4Zds9RLhlvVhjHoIYfA/Fv2lucGIbhPi2caWYvF5Lg/1745251505067/live/sd-6MsFQvG1PRTeweUsb9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice VS Radomiak Radom (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15908,6 +15960,54 @@ https://apisportzz179528093.nsnd.live/cNZb7gYxon4WcpaY_5QrjQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/bLcyFCCWtBvWiPK-dHWxkw/Fv2lucGIbhPi2caWYvF5Lg/1745256913939/live/sd-6MsGeGaFFG6SGPWwWT/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg VS Lyngby (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/O3Vn8V7TSnnQsLean_bZlQ/Fv2lucGIbhPi2caWYvF5Lg/1745258706026/live/sd-6MuS8Q6dW7DQ8gqY4s/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle VS Silkeborg (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/fyg93bmuMpD7vuhpJ077-A/Fv2lucGIbhPi2caWYvF5Lg/1745258706396/live/sd-6MuS8Q6dWbneSvaT4X/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14f208832a15405c34c9cc19c3a5c288.png",19h00 Stord IL VS Vidar (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/R6mOBq1-3nAHRoS0xDKBAg/Fv2lucGIbhPi2caWYvF5Lg/1745258706010/live/sd-6MtMspQrR1qs2nCSvX/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/4601ba442967bf758568a00b9cfa486e.png",19h00 Skive IK VS Middelfart G og (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iRfQbZK8ZjPFU4bPdMTSRg/Fv2lucGIbhPi2caWYvF5Lg/1745258707817/live/sd-6MuRsxgFz3za6AdJDZ/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2f5fb7967cfb1434fb56103a7628df5f.png",19h00 Phonix Lubeck VS St Pauli II (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/GJ1pZVpMas58XlKdcoO1Ww/Fv2lucGIbhPi2caWYvF5Lg/1745258708390/live/sd-6MsGPtQpdCVfsEo5zK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/63f5c42ac1f148e1689ae3366622e354.png",19h00 ETSV Weiche Flensburg VS Bremer SV (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vSpA5p5xHChYJZZvAbTc5w/Fv2lucGIbhPi2caWYvF5Lg/1745258708813/live/sd-6MsGPtQqdBLsVGoEg3/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/66d601d115be276cb08d4fe49f7a95fb.png",19h00 Nykobing FC VS BK Frem (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/uxYF48Dy9bfqCVclsysm3A/Fv2lucGIbhPi2caWYvF5Lg/1745258708132/live/sd-6MuRsxgFz1o6DgoP4f/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8b5700012be65c9da25f49408d959ca0.gif",19h00 Naesby VS Brabrand (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/CkcVX30buJXU6l5ctjSKNw/Fv2lucGIbhPi2caWYvF5Lg/1745258709991/live/sd-6MuScf7FBqNDuFvKxf/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04479ab0f5198b08a4b0bc057ef20cc4.png",19h00 Sundby BK VS Young Boys FD (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gINfaetfUOrssL7g7ey58A/Fv2lucGIbhPi2caWYvF5Lg/1745258710335/live/sd-6MuScf7FBoAk2n6Qom/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/95aa51bdddabe83c5841b1b587792af5.png",19h00 SV Todesfelde VS Eintracht Norderstedt (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Z7A10FrBDWkkQZ6gadHkrQ/Fv2lucGIbhPi2caWYvF5Lg/1745258710403/live/sd-6MsGPtQqdSjEadaekK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aaae955bb877d02ca22bf4d5a7751042.png",19h00 Jerv VS Sandvikens (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/cqqkk9vzA2a6iOePygFKmw/Fv2lucGIbhPi2caWYvF5Lg/1745258711891/live/sd-6MtN8FpXJABZEZHqko/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens VS GAIS (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/T4fWnoc6CVYw-QKslSeuVA/Fv2lucGIbhPi2caWYvF5Lg/1745258712220/live/sd-6MtN8RamiUtpvibvMH/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -16080,10 +16180,34 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice vs Radomiak Radom (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -16156,22 +16280,78 @@ https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS)  BLV ĐỊCH NHÂN KIỆT m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/NHANKIET/index.m3u8?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS)  BLV ĐỊCH NHÂN KIỆT flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/NHANKIET.flv?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS) BLV BRUNO m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phuhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/667/1gtqm7p54a1r.png?win007=sell",17h00 Gornik Leczna vs Chrobry Glogow (LS) BLV BRUNO flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d15445b5ebaaad062065f158f1d1fd8.png",19h00 Djurgardens vs GAIS (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (LK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14803/1h53w17xg82q.png?win007=sell",17h15 Puszcza Niepolomice vs Radomiak Radom (LS) BLV LÂM XUNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -16188,6 +16368,54 @@ https://hls.cdnokvip.com/live/CAOCAU/index.m3u8?expire=1873644300&sign=e7f33e673
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/CAOCAU.flv?expire=1873644300&sign=e7f33e673af9b9d5c9123b6c87445f4c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1313/1gtqm5s60626.png?win007=sell",19h00 Vejle vs Silkeborg (LS) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1313/1gtqm5s60626.png?win007=sell",19h00 Vejle vs Silkeborg (LS) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/KHONGMINH.flv?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/421/1gv1yreqw82.png?win007=sell",19h00 Djurgardens vs GAIS (LS) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/421/1gv1yreqw82.png?win007=sell",19h00 Djurgardens vs GAIS (LS) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DUONGQUA.flv?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/421/1gv1yreqw82.png?win007=sell",19h00 Djurgardens vs GAIS (LS) BLV TIÊU PHONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/TIEUPHONG/index.m3u8?expire=1873178820&sign=6e1740b8bce1c32c24959d4eb43ec3ad
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/421/1gv1yreqw82.png?win007=sell",19h00 Djurgardens vs GAIS (LS) BLV TIÊU PHONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/TIEUPHONG.flv?expire=1873178820&sign=6e1740b8bce1c32c24959d4eb43ec3ad
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/240/1gtqm082hs2k.png?win007=sell",19h00 Viborg vs Lyngby (LS) BLV KHÔNG NGỦ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/KHONGNGU/index.m3u8?expire=1883375220&sign=f9ad9ccdb120773d0e657140b8b2d33d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/240/1gtqm082hs2k.png?win007=sell",19h00 Viborg vs Lyngby (LS) BLV KHÔNG NGỦ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/KHONGNGU.flv?expire=1883375220&sign=f9ad9ccdb120773d0e657140b8b2d33d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/240/1gtqm082hs2k.png?win007=sell",19h00 Viborg vs Lyngby (LS) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/MASIEU/index.m3u8?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/240/1gtqm082hs2k.png?win007=sell",19h00 Viborg vs Lyngby (LS) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/MASIEU.flv?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1745151475.jpg",19h00 LIVE GAME vs LIVE GAME (LS) LIVE GAME ĐIÊU THUYỀN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DIEUTHUYEN/index.m3u8?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1745151475.jpg",19h00 LIVE GAME vs LIVE GAME (LS) LIVE GAME ĐIÊU THUYỀN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DIEUTHUYEN.flv?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -16340,10 +16568,30 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6e439947a099fe7afb6f67968dd48ac2.png",17h00 Gornik Leczna vs Chrobry Glogow (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/k_obJXZqCTOuy8H8Oe3HDQ/Fv2lucGIbhPi2caWYvF5Lg/1745250901564/live/sd-6MsFQvG1PRTeweUsb9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png",19h30 Vålerenga Fotball Elite vs Rosenborg (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5b4ebe277ab57c29bde70110a562d94f.png",17h15 Puszcza Niepolomice vs Radomiak Radom (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -16416,3 +16664,51 @@ https://apisportzz179528093.nsnd.live/cKYYh6AxTbXBrpKWSnrC-A/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/1lvKNVjiUFEIFSYvkRtqXQ/Fv2lucGIbhPi2caWYvF5Lg/1745256304776/live/sd-6MtMssgbefy4rFQM3q/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/63f5c42ac1f148e1689ae3366622e354.png",19h00 ETSV Weiche Flensburg vs Bremer SV (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/znh_NJicETIJk_d0SLS3fA/Fv2lucGIbhPi2caWYvF5Lg/1745258103934/live/sd-6MsGPtQqdBLsVGoEg3/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/95aa51bdddabe83c5841b1b587792af5.png",19h00 SV Todesfelde vs Eintracht Norderstedt (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ZmjqhKXa8BRhLPwhTzGO1A/Fv2lucGIbhPi2caWYvF5Lg/1745258103944/live/sd-6MsGPtQqdSjEadaekK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b30a4aaf3971d2507340dfbfbbbcd28a.jfif",19h00 Phonix Lubeck vs St Pauli II (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/QAxDAQzRFewPGh6I2IlDnQ/Fv2lucGIbhPi2caWYvF5Lg/1745258103946/live/sd-6MsGPtQpdCVfsEo5zK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aaae955bb877d02ca22bf4d5a7751042.png",19h00 Jerv vs Sandvikens (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/KOBt4EoVqgBjFl_lZemL5A/Fv2lucGIbhPi2caWYvF5Lg/1745258104252/live/sd-6MtN8FpXJABZEZHqko/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b8c1647b4f0dd610d8432389f015e4ab.png",19h00 Djurgardens vs GAIS (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lFcnVlIw9HYnPo6-XqlTJQ/Fv2lucGIbhPi2caWYvF5Lg/1745258104270/live/sd-6MtN8RamiUtpvibvMH/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14f208832a15405c34c9cc19c3a5c288.png",19h00 Stord IL vs Vidar (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/HOJ2ErOAQbAdkFVNJ8wzbQ/Fv2lucGIbhPi2caWYvF5Lg/1745258104304/live/sd-6MtMspQrR1qs2nCSvX/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png",19h00 Vejle vs Silkeborg (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/8NGU9eoasx0VpS1ps5FBDg/Fv2lucGIbhPi2caWYvF5Lg/1745258703001/live/sd-6MuS8Q6dWbneSvaT4X/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c5beffcdc88a77f8494e85108b306062.png",19h00 Viborg vs Lyngby (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/LD1IQA3J7yOGCaWduGyWAg/Fv2lucGIbhPi2caWYvF5Lg/1745258163219/live/sd-6MuS8Q6dW7DQ8gqY4s/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/4601ba442967bf758568a00b9cfa486e.png",19h00 Skive IK vs Middelfart G og (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/TtrQGzjJsaYltKoVk1YmAA/Fv2lucGIbhPi2caWYvF5Lg/1745258104987/live/sd-6MuRsxgFz3za6AdJDZ/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/66d601d115be276cb08d4fe49f7a95fb.png",19h00 Nykobing FC vs BK Frem (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wpPn-R92c4W29iYaCFoRkA/Fv2lucGIbhPi2caWYvF5Lg/1745258104978/live/sd-6MuRsxgFz1o6DgoP4f/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8b5700012be65c9da25f49408d959ca0.gif",19h00 Naesby vs Brabrand (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/TmCPZpANTNFeKHUi9EurRw/Fv2lucGIbhPi2caWYvF5Lg/1745258105011/live/sd-6MuScf7FBqNDuFvKxf/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04479ab0f5198b08a4b0bc057ef20cc4.png",19h00 Sundby BK vs Young Boys FD (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-QiLDcgqlyNmq7eXlvpaUQ/Fv2lucGIbhPi2caWYvF5Lg/1745258105013/live/sd-6MuScf7FBoAk2n6Qom/playlist.m3u8
