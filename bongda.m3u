@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2009622162906.jpg",00h15 NK Lokomotiva Zagreb vs HNK Sibenik 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/3a8b76dcea31d46cc0d33e966c6ab756/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130824134647.jpg",00h30 Hapoel Tel Aviv vs Hapoel Beer Sheva 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -39,6 +35,10 @@ https://live.rapid-api.icu/live/7b8b3108cfaaf75e865484478a7d9395/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/09644f879bd614d7dd39a72b490acdfd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20160728021003.jpg",02h00 Manchester City vs Aston Villa 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/1641de38d7e01c62245cd9942b63648e/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2013121234720.jpg",23h00 Gubbio vs Milan Futuro 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -51,62 +51,6 @@ https://live.rapid-api.icu/live/c93dced0f6adb1284c896ca4c5e4bf52/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/d84c0287041d23213d94ad4cc4c2a671/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h30 Al-Arabi(KSA) vs Neom SC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -267,10 +211,6 @@ https://ckcdn.livestreameuro.live/live/thoxayhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb VS HNK Sibenik (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/KRryzIMEkaIMaMr6bd3O7A/Fv2lucGIbhPi2caWYvF5Lg/1745364605113/live/sd-6MsFQXM7mWFwsXmjgF/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png",00h30 Konyaspor vs Galatasaray (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -383,70 +323,26 @@ https://apisportzz179528093.nsnd.live/5QIQVjwe6fLv7vR2hxPdoQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/IDMd4Lb-4FsAUfg5iaXb_A/Fv2lucGIbhPi2caWYvF5Lg/1745369404715/live/sd-6MtN8YATdYY9jweQ1h/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) RaKhoi TV
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1745369413&sign=16c50dc4158b305f3973b592cb35d8dc
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link/
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD 1
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/yx4QuTqIT8EMBTCISXZJDg/61b7c9f6fb3bff2f3c2273378af449b7/1745369413/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/toth1eGO-OAFOh3a09PaJg/Fv2lucGIbhPi2caWYvF5Lg/1745369413044/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (CK) FULLHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/UoffKUA1aQDEZhdiw4V1Aw/e56ce8a755cda33e7f050da0b700d013/1745369413/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (CK) Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) RaKhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link/
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/W1WlG7c9JzUWjWLZqIU8HQ/Fv2lucGIbhPi2caWYvF5Lg/1745369413044/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aac881cf177c83c85e6e31181aaf12c6.png",00h30 Hapoel Tel Aviv vs Hapoel Beer Sheva (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -595,14 +491,38 @@ https://ckcdn.livestreameuro.live/live/luhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hodood (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (LK) Nhà đài
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aac881cf177c83c85e6e31181aaf12c6.png",00h30 Hapoel Tel Aviv vs Hapoel Beer Sheva (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -679,6 +599,34 @@ https://179939170.vipcdnlive.xyz/live/bachlongmasd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/bachlongmahd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1744890201.png",01h45 Nantes vs Paris Saint Germain (PSG) (LS) BLV CÔNG TÔN THẮNG  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -695,62 +643,94 @@ https://hls.cdnokvip.com/live/TIEUPHONG/index.m3u8?expire=1873178820&sign=6e1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/TIEUPHONG.flv?expire=1873178820&sign=6e1740b8bce1c32c24959d4eb43ec3ad
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (RK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD 1
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD 1
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/KAKA.flv?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD 2
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD 2
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/TRIEUTULONG.flv?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD Nhanh
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD Nhanh
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/LUUBI.flv?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV CHU ĐỒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD 1
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/CHUDONG/index.m3u8?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV CHU ĐỒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD 1
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/CHUDONG.flv?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV DẾ LỬA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD 2
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DELUA/index.m3u8?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV DẾ LỬA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD 2
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DELUA.flv?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV SONBAEMIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD Nhanh
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/SONBAEMIN/index.m3u8?expire=1834471080&sign=b8abd51d0be24e77858aaa3c731f8290
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV SONBAEMIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD Nhanh
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/SONBAEMIN.flv?expire=1834471080&sign=b8abd51d0be24e77858aaa3c731f8290
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV CAO CẦU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (RK) Nhà đài
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/CAOCAU/index.m3u8?expire=1873644300&sign=e7f33e673af9b9d5c9123b6c87445f4c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV CAO CẦU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/CAOCAU.flv?expire=1873644300&sign=e7f33e673af9b9d5c9123b6c87445f4c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LA THÀNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+ https://hls.cdnokvip.com/live/LATHANH/index.m3u8?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LA THÀNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+ https://flv.cdnokvip.com/live/LATHANH.flv?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/LUBO/index.m3u8?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+ https://flv.cdnokvip.com/live/LUBO.flv?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV TRƯƠNG VÔ KỴ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/VOKY/index.m3u8?expire=1873178820&sign=c47c50264a61b6bc86366646a533d178
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV TRƯƠNG VÔ KỴ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/VOKY.flv?expire=1873178820&sign=c47c50264a61b6bc86366646a533d178
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577478031.png?win007=sell",02h00 Manchester City vs Aston Villa (LS) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png",00h30 Konyaspor vs Galatasaray (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -883,18 +863,34 @@ https://ckcdn.livestreameuro.live/live/loihd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1a95ee9167d9a7806d192bde38965c3a.png",00h00 Kotwica Kolobrzeg vs Ruch Chorzow (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/PG_j50fIou0aLBvN5c6eFQ/Fv2lucGIbhPi2caWYvF5Lg/1745362505654/live/sd-6MsFQvG1PJsDLD188T/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7c2a2b235737937d783bff7397a6eb00.png",00h00 Banik Ostrava vs Sigma Olomouc (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/4_Ucf-OBwYA58-Kru-ykxw/Fv2lucGIbhPi2caWYvF5Lg/1745363703462/live/sd-6MuRsxgF9fDwfWe1Lf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/PGtl4aFgV3qE4VQ0gQO4JA/Fv2lucGIbhPi2caWYvF5Lg/1745364610082/live/sd-6MsFQXM7mWFwsXmjgF/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/heohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",02h30 FC Barcelona vs Mallorca (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h30 Al-Arabi(KSA) vs Neom SC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1015,238 +1011,266 @@ https://apisportzz179528093.nsnd.live/_MaKaYwXXwb3M1Bkn0lO-w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/PibgJOPuPoEqdv4HOstWxA/Fv2lucGIbhPi2caWYvF5Lg/1745370010863/live/sd-6MtN8YATdYY9jweQ1h/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/may2HD.flv?expire=1745370891&sign=cf23e6044a1ba4c8730a654705fc3a22
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/HzjGuksIfKBanfyAE7r7jg/22cae28023fa288f487687774823edc9/1745370891/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/bxK5aEFo_E9zzFjKOdNjsA/Fv2lucGIbhPi2caWYvF5Lg/1745370891197/live/may2SD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Ou9UiZqx-JaBsggt_Vovog/d5b200387e6a5a1b18e0bf7cbe2d7615/1745370891/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://dd.banhkhuc12.fun/truc-tiep/manchester-city-vs-aston-villa-GjPWlop
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/QLpa7RMW6qc9RW_6SUKcBg/Fv2lucGIbhPi2caWYvF5Lg/1745370891197/live/sd-6MsG9cemxnmgX8Adyu/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 Manchester City vs Aston Villa (VB) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iITNHMZ_qcRv2zIe3ux_Kw/Fv2lucGIbhPi2caWYvF5Lg/1745370891197/live/hd-en-6MsG9cemxnmgX8Adyu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 WTA1000 Madrid Open (Sân Manolo Santana)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/xiqbTHUPfYp1EsEEWvjECg/Fv2lucGIbhPi2caWYvF5Lg/1745362936711/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/i7XjFW5tchKS4VuNSWxqYA/Fv2lucGIbhPi2caWYvF5Lg/1745356432985/live/may24/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 WTA1000 Madrid Open (Sân Arantxa Sanchez)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/W75Bp36vqOXJKPU9BlYbCA/Fv2lucGIbhPi2caWYvF5Lg/1745362936711/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/n_AxlUbvvQAQTKgniCRLWQ/Fv2lucGIbhPi2caWYvF5Lg/1745356432985/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Al-Arabi(KSA) VS Neom SC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/ygDCARUF22ScOO_PTXMd6Q/Fv2lucGIbhPi2caWYvF5Lg/1745370578778/live/sd-6MtN8UsFmWRfutmpMR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/QJdf8hlZJtMkeBCMB_YKwQ/Fv2lucGIbhPi2caWYvF5Lg/1745365283869/live/sd-6MtN8UsFmWRfutmpMR/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Hapoel Tel Aviv VS Hapoel Beer Sheva (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/9CigXYJFtwlN1pB-7G3ktg/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/sd-6MuS8Q88ev3R94jLJ7/playlist.m3u8
+https://apisportzz179528093.nsnd.live/XSRNAWOUL7Im-vxgjQfDGw/Fv2lucGIbhPi2caWYvF5Lg/1745365283869/live/sd-6MuS8Q88ev3R94jLJ7/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/3Mf0GtBZLUZqeFvmKREPeg/ee9edaa79c6d2bdf3bb6484d076ab262/1745362936/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
+https://live-xlvb.nsnd.live/w3FQ57sWKGSzx5ExAwfGcQ/ee9edaa79c6d2bdf3bb6484d076ab262/1745362313/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/aYG3RBOhUt5rC-6hNSe7pQ/Fv2lucGIbhPi2caWYvF5Lg/1745362936715/live/caSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ZJGDlARyWmIYgGYjtoV5Pw/Fv2lucGIbhPi2caWYvF5Lg/1745362313150/live/caSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/PTzdaRC0VYLUS2mL4AmweA/cfb1d1e3eb5f383163a349652a8f21a5/1745362936/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/QRxlxhmOIonb-A2syAnhvA/cfb1d1e3eb5f383163a349652a8f21a5/1745362313/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ahLZjVjLoISHKoaz-uqD-Q/b3a4e09812c4bf982e7ada2e2628f1f9/1745370578/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
+https://live-xlvb.nsnd.live/HvXJMkwQZIZ2mcsdjRlTFw/b3a4e09812c4bf982e7ada2e2628f1f9/1745365603/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zkIokQxlXhwd1RFKvG5_4w/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9nBUCygV2lvfLDkBgytbew/Fv2lucGIbhPi2caWYvF5Lg/1745365603515/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h40 Konyaspor vs Galatasaray (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/vRFThL64jF-Q18OvaQf4ig/847878fb5be3ca4c0539d0883bc5274a/1745370578/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/xAgZbvUf2FL8C3l2JbKxrQ/847878fb5be3ca4c0539d0883bc5274a/1745365603/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/eLREIt6g0l9nPDEsCwa97w/d8575e4f2bb7991d6a11b5e422c908f2/1745362936/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/Br_1B7c7RH3A3nCkFVifcg/d8575e4f2bb7991d6a11b5e422c908f2/1745365283/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/h7lv0DebtLeOa_N-ClrP1w/Fv2lucGIbhPi2caWYvF5Lg/1745362936715/live/Z2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gp7vT9rYs-B8y32qgm6Qog/Fv2lucGIbhPi2caWYvF5Lg/1745365283869/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/x94OBZp8LcimTp-l5JOqzg/2f5c86e8dcb258706feb1f79081dd77d/1745362936/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/T-1KtOvJC1PnkHm2QUYUyw/2f5c86e8dcb258706feb1f79081dd77d/1745365283/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/o3wSe2X0u-4CigOeLTcg7Q/d8575e4f2bb7991d6a11b5e422c908f2/1745370578/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/4nldReICwFEFj_u3di9JAA/d8575e4f2bb7991d6a11b5e422c908f2/1745371199/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/kvDr-ICf3KeTLVTssLbSNQ/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/Z2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pzu_i-ruVtu2pSE-uKbhDQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Paris Basketball (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/9BGXKSMchpCtk70oPfwIIQ/2f5c86e8dcb258706feb1f79081dd77d/1745370578/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/apM8mmKXvYoOqVbW2v4DWw/2f5c86e8dcb258706feb1f79081dd77d/1745371199/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 SK Austria Klagenfurt vs LASK Linz (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/MA3QDYolXF-roqDZDIkMDw/59682603c0192799f9ad86b719cb364d/1745370578/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
+https://live-xlvb.nsnd.live/rARvymSAmRCHXuHvpvoThA/59682603c0192799f9ad86b719cb364d/1745371199/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 SK Austria Klagenfurt vs LASK Linz (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/8ursSmsVvJ1_Q54I85mtAw/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/momSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/eCdWD58qu0vGob_76ux-kg/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/momSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 SK Austria Klagenfurt vs LASK Linz (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/LejE3zP8xdKOhrGWTbTe_g/8ea4ad32686fd43bf1bf1c1424d75942/1745370578/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/2eLckhtTzcfHMT6h-ZjA0w/8ea4ad32686fd43bf1bf1c1424d75942/1745371199/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 SK Austria Klagenfurt vs LASK Linz (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/MA3QDYolXF-roqDZDIkMDw/59682603c0192799f9ad86b719cb364d/1745370578/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
+https://live-xlvb.nsnd.live/rARvymSAmRCHXuHvpvoThA/59682603c0192799f9ad86b719cb364d/1745371199/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Standard Liege VS  Oud-Heverlee Leuven (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/bncRUezJrEwoK7M7jUAgiA/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/sd-6MuS84Yf2qa22Pm8aw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/dGSz1vcDsaIdpzTT4M6WIQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/sd-6MuS84Yf2qa22Pm8aw/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 KV Mechelen VS KVC Westerlo (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Aph6z3RILn-wXpfA1Xlr8g/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/sd-6MuS84Yf2JoHqgCJSP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/ZwUA51DSxwXG5lZBwsXsXw/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/sd-6MuS84Yf2JoHqgCJSP/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 FCV Dender EH VS  RC Sporting Charleroi (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/1toWOcB3UGNKw_-b0c03kA/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/sd-6MuS84ZRMUqJazLgiX/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_lJ_7cd4m11mW_4ou-ieZQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/sd-6MuS84ZRMUqJazLgiX/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Sacachispas VS Club Atletico Acassuso (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/fB3v9NPA4oxvbC5MwjRlug/Fv2lucGIbhPi2caWYvF5Lg/1745370578779/live/sd-6MtMsvsAUh1sYfcauh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/r_jpeMd1NPZUNHaZWrP9kw/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/sd-6MtMsvsAUh1sYfcauh/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Panathinaikos VS Anadolu Efes Sports Club (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/FX29sWLMNqxb_fjF1EtejA/364b95ac53bf5686ef14a09b64f6f3c1/1745370578/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
+https://live-xlvb.nsnd.live/-ugRdCIRoA3IFiKH8mkzXQ/364b95ac53bf5686ef14a09b64f6f3c1/1745371199/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Panathinaikos VS Anadolu Efes Sports Club (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hRMvd5nvyf0g3FFdxmBO2w/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/wpBn1e0HR4bv8A3sNXe7JA/Fv2lucGIbhPi2caWYvF5Lg/1745371199301/live/thuongSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Panathinaikos VS Anadolu Efes Sports Club (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/lAaBE1ToA83GZVUXUyaZyQ/9d3c1936b065e6a3605ccd426df0ce6c/1745370578/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/bnbJn09yH3Fp4892IZ_Tyg/9d3c1936b065e6a3605ccd426df0ce6c/1745371199/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Rzeszow Women vs LKS Lodz Women (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/BbNAnNcS0NiDkRcNwWg_0w/5428272ba123236cba4a561082063385/1745370578/live/_definst_/stream_1_1bda7@chimHD/playlist.m3u8
+https://live-xlvb.nsnd.live/03KJwJ2K9T5M47xY-d-jWA/5428272ba123236cba4a561082063385/1745371199/live/_definst_/stream_1_1bda7@chimHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Rzeszow Women vs LKS Lodz Women (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/dvQO1zA1MLMiasqfTB_Iuw/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/chimSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/HmfWj0T-a3NJTEEZ2UneFw/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/chimSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Rzeszow Women vs LKS Lodz Women (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/d928ydq7cgJFt7MhrsBTvA/bee03a114a12e586ce1aa6c439f97251/1745370578/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/CXq7KqtLzJlsvBUSFQNjoQ/bee03a114a12e586ce1aa6c439f97251/1745371199/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h40 Sportivo Barracas VS Victoriano Arenas (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/JOoE4Iy-iW_JgDd9rCaMsw/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/sd-6MtMsm7fP4vAfYhpuy/playlist.m3u8
+https://apisportzz179528093.nsnd.live/fkMU0skOFpZoIzZyyknPIQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/sd-6MtMsm7fP4vAfYhpuy/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/OJuKcZzFj98dqzOAz-F8iQ/0b674066671a5356b75fdc1e1fd487b0/1745370578/live/_definst_/stream_1_1bda7@baoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qVeg5lXrYhk-EfOPQ9EM4A/0b674066671a5356b75fdc1e1fd487b0/1745371199/live/_definst_/stream_1_1bda7@baoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ApBDhs2PrsZMoKmE1ChpWw/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/baoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ipKv5U114pvWB7jSmLwZBg/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/baoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jWxCjP3ZvltEWB6k5GOaTw/c5d626322a01e0920b2c18ca97d94054/1745370578/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/5yUE0UjhxZ8PxkNps92iPg/c5d626322a01e0920b2c18ca97d94054/1745371199/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/WSaHxqkXtTM4RkVeSmgDFQ/e2a777bf46a328bbf6d4faa777932bd8/1745370578/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/DHzv5VLGGyb7SVH83cNACA/e2a777bf46a328bbf6d4faa777932bd8/1745371199/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/QgkF5WX3wjlI-_r3zE95vw/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/may3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6eCD-UvngvWxd65e7bw8Cg/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may3SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Nantes vs Paris Saint Germain (PSG) (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/b-tV64XqY9F5DjxSKJPiFQ/134f6a1c41770169e638f6127af8a455/1745370578/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/dXFdFQ4rBkS6nNh1ZIZzFg/134f6a1c41770169e638f6127af8a455/1745371199/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h45 Derry City VS Sligo Rovers (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/xnrc0TxHbP0edAiqVBuBJw/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/sd-6MtN8YATdYY9jweQ1h/playlist.m3u8
+https://apisportzz179528093.nsnd.live/b1ARhC364o73zLbn01ZtRQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/sd-6MtN8YATdYY9jweQ1h/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/T_Z7n1Ti1nk1Y5YAEIH2LQ/61b7c9f6fb3bff2f3c2273378af449b7/1745370578/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/DtLzrLFRkmBSnNLpQqW_CA/61b7c9f6fb3bff2f3c2273378af449b7/1745371199/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/NAjY8LQGxmC3JWcZvVM_ZA/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/w9MoeCT2Y_uePG-0Yn75wg/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/e7F8xu2cg3noaQmbdQ4qAw/e56ce8a755cda33e7f050da0b700d013/1745370578/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wcptcIl7irkCj0PKUSWdQw/e56ce8a755cda33e7f050da0b700d013/1745371199/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (Nhà Đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7c6nQ7vavXW5r1zW1bgoKg/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dIrzw98DI4hnTbS49R-0rw/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/88eyBy7-B0nn1egBmlImKA/22cae28023fa288f487687774823edc9/1745370578/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/bjx27fwUaBSSJ-B15fNQ7g/22cae28023fa288f487687774823edc9/1745371199/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/f1-YFl53De2A6TYj87ehCQ/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/may2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/NaAyjzmrlGBbBsHB3peHmA/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/gaxRIQSVc5yasFgGbzN2Ew/d5b200387e6a5a1b18e0bf7cbe2d7615/1745370578/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/OAUAxP4-hU9vCJgV4mNQrQ/d5b200387e6a5a1b18e0bf7cbe2d7615/1745371199/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7c6nQ7vavXW5r1zW1bgoKg/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dIrzw98DI4hnTbS49R-0rw/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/JvRMvTA0ia4z081GKV9Pgg/099e82fb17c22635f01902e2355c5ade/1745370578/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/gAQPihb4ivpvc3k2OTSCaQ/099e82fb17c22635f01902e2355c5ade/1745371199/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zK59pBEM41YYomUxAhOO-Q/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/Z1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/EQyhdaGxzFC39-ZBOZT2wQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/Z1SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/C8frFT39G_lOLMCMHN6nCA/bf44ba621235a4936d4c6ae6054d551e/1745370578/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Io967-MwUqxKSVrRlPKDHg/bf44ba621235a4936d4c6ae6054d551e/1745371199/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Manchester City vs Aston Villa (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7c6nQ7vavXW5r1zW1bgoKg/Fv2lucGIbhPi2caWYvF5Lg/1745370578780/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dIrzw98DI4hnTbS49R-0rw/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h05 Peyton Stearns vs Kimberly Birrell (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/YmOTvDokB4R3Ogf5jF1Rug/Fv2lucGIbhPi2caWYvF5Lg/1745362936715/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/3FwIIKGXIobfXzzfDQql6Q/Fv2lucGIbhPi2caWYvF5Lg/1745356432994/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 FC Barcelona vs Mallorca (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/mHUobk6xwOPkz9UTFoLJHA/0aafe7a6d19bfafd5e27cf7084b37d51/1745370578/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/KMWbxky37MlfEGNzmdttqw/0aafe7a6d19bfafd5e27cf7084b37d51/1745371199/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 FC Barcelona vs Mallorca (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/7UsWBDTQHMIc4IbKinVmbg/Fv2lucGIbhPi2caWYvF5Lg/1745370578781/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/dzgFwDSYTXEprQBl03uqSA/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 FC Barcelona vs Mallorca (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/oYJwZONrL-7Aktqth5gJ0g/cac03b136a8c356be180b4618c6bfeb5/1745370578/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/zkoZJuefY5726cAGYGN36g/cac03b136a8c356be180b4618c6bfeb5/1745371199/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 FC Barcelona vs Mallorca (Nhà Đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/X4Ncimz1YXiw6GAP2Cb6tw/Fv2lucGIbhPi2caWYvF5Lg/1745370578781/live/may6/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/wwQoEBgdx9DGc0_P2Jwggw/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h45 Rio Ave vs Sporting CP (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/RGiW_Ld5ip1iJQd8mr-JlQ/2b6f412a8d5f1f173548083dc2d6020e/1745370578/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+https://live-xlvb.nsnd.live/h_IomUGXf-iIkPUfA4_UAw/2b6f412a8d5f1f173548083dc2d6020e/1745371199/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h45 Rio Ave vs Sporting CP (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/NdARSgT4FOoWXJ606YyRzg/Fv2lucGIbhPi2caWYvF5Lg/1745370578781/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/POhkDP8LKS1wE3pwN7cmeQ/Fv2lucGIbhPi2caWYvF5Lg/1745371199302/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h45 Rio Ave vs Sporting CP (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5maGKEDIBzh_wRl9-e1r2Q/883ca40e5184f080c92fcfdbaf37405d/1745370578/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/L3n2H2tqEPUBMSRVfZhAEQ/883ca40e5184f080c92fcfdbaf37405d/1745371199/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/hoc224.jpg",[0] Highlights Girona vs Real Betis | BLV Hawkeye | 22.4.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15712,62 +15736,6 @@ https://hl.eztool.xyz/hls/2light/bda/fullmatch/juve-milan-290523.mp4/playlist.m3
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png",00h30 Al-Arabi(KSA) vs Neom SC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -16060,70 +16028,6 @@ https://live-xlvb.nsnd.live/UoffKUA1aQDEZhdiw4V1Aw/e56ce8a755cda33e7f050da0b700d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/W1WlG7c9JzUWjWLZqIU8HQ/Fv2lucGIbhPi2caWYvF5Lg/1745369413044/live/may11/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) RaKhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link/
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (CKhia) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) RaKhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link/
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (CKhia) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aac881cf177c83c85e6e31181aaf12c6.png",00h30 Hapoel Tel Aviv vs Hapoel Beer Sheva (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -16512,62 +16416,6 @@ https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d63099fdff083541d1ebef9beae90f63.png",00h00 Nordsjaelland vs Midtjylland (RK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",00h00 Enppi vs Haras El Hedoud (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/49e4ff5b51f311b1ed45ce0eaa07aefa.png",00h00 Stal Mielec vs Gornik Zabrze (RK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3a628a345b4aefdab4111cf683ec36d6.png",00h15 NK Lokomotiva Zagreb vs HNK Sibenik (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aac881cf177c83c85e6e31181aaf12c6.png",00h30 Hapoel Tel Aviv vs Hapoel Beer Sheva (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
