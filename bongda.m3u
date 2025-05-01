@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/d24b86b45201feb68683c40cfcc8b04d/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",04h10 Jaguares de Cordoba vs Cucuta Deportivo 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/4e1af1b5de619157645da9f5616de110/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",04h30 Criciuma vs Red Bull Bragantino 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -23,6 +15,14 @@ https://2893254555.global.cdnfastest.com/live/6813f9413bf5a_5601/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6813f9413bf5a_5601.flv?expire=1746744257&sign=33be559d22dae28853b0642f199f35b3
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",06h30 Detroit Pistons vs New York Knicks [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6813fd7e3bf5a_4733/index.m3u8?expire=1746745342&sign=dad39038bc4690ea808282ee8d962470
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d12774b3339413a0eef3c2da2ae5a342.png",06h30 Detroit Pistons vs New York Knicks [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6813fd7e3bf5a_4733.flv?expire=1746745342&sign=dad39038bc4690ea808282ee8d962470
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="",19h00 Scottish Open 2025 Table 1 [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -31,58 +31,34 @@ https://2893254555.global.cdnfastest.com/live/68139cdc40091_103/index.m3u8?expir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68139cdc40091_103.flv?expire=1746720604&sign=7d49039d9b2a53505e5e94354a3effff
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",04h30 Criciuma vs Red Bull Bragantino (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) SD 1
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) HD 1
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) SD 2
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) HD 2
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CH) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",04h10 Jaguares de Cordoba VS Cucuta Deportivo (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -107,6 +83,10 @@ https://live-xlvb.nsnd.live/VXrnR4OPYa_QFy-uX3YB9A/f7d74fcca7b86aaec98d69192d99e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/2_KPChkC1Nx94MxS5FtP_Q/Fv2lucGIbhPi2caWYvF5Lg/1746156906751/live/sd-6MuScwTAXRs291QKJK/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB VS CR Flamengo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lbOsEMpiiKZ099s0VEQarA/Fv2lucGIbhPi2caWYvF5Lg/1746162603427/live/sd-6MuRsxaM6NTbg612JX/playlist.m3u8
 #EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png",19h30 Gremio Novorizontino vs Corinthians Paulista (SP) (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -163,150 +143,70 @@ https://ckcdn.livestreameuro.live/live/sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/sunhd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",04h30 Criciuma vs Red Bull Bragantino (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) SD 1
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) Rakhoi TV
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://rakhoiz.link
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) HD 1
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) SD 2
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) HD 2
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (CKhia) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",04h30 Criciuma vs Red Bull Bragantino (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0840bace9b911b3f0dbadb710ea20316.png",04h00 Santos vs CRB AL (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",04h30 Criciuma vs Red Bull Bragantino (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) SD 1
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) HD 1
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) SD 2
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) HD 2
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs CR Flamengo (RK) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w60",06h30 Detroit Pistons vs New York Knicks (RK) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",04h10 Jaguares de Cordoba vs Cucuta (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/MwGBygXDyuR9QcPBy5sdoQ/Fv2lucGIbhPi2caWYvF5Lg/1746155104271/live/sd-6MuScwQwjRipi1nC99/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",04h30 Criciuma vs Bragantino (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -327,42 +227,46 @@ https://live-xlvb.nsnd.live/EKr56050AZd1OmVNPKo5ZQ/37c56eb4aaf958eda25bed5c53705
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/sKiGFd1_jzadpnEbK_NkWw/Fv2lucGIbhPi2caWYvF5Lg/1746156304251/live/sd-6MuScwTAXRs291QKJK/playlist.m3u8
-#EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h00 Santos VS CRB AL (Backup 1)
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/475747ba5248e82a2b67c82c3a6f03f4.png",06h00 Botafogo PB vs Flamengo (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/92vRBNw9SHQWhGIBcx9khw/Fv2lucGIbhPi2caWYvF5Lg/1746161999432/live/sd-6MuRsxaMRUDnKtNucP/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/owoivcE4YygZIqmMsVnoHg/Fv2lucGIbhPi2caWYvF5Lg/1746162602204/live/sd-6MuRsxaM6NTbg612JX/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h10 Jaguares de Cordoba VS Cucuta Deportivo (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/vTTGyawSkaKhtvoc91hoQQ/Fv2lucGIbhPi2caWYvF5Lg/1746161999432/live/sd-6MuScwQwjRipi1nC99/playlist.m3u8
+https://apisportzz179528093.nsnd.live/h_CPZR36K7KxjAx3Kux9LQ/Fv2lucGIbhPi2caWYvF5Lg/1746162589492/live/sd-6MuScwQwjRipi1nC99/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/SbCs-6ibqvjhM5yLve4Zvg/e106295966a1a26dfddb5b60b193571b/1746161999/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+https://live-xlvb.nsnd.live/bYAMScFDp48uXGXplAFbUg/e106295966a1a26dfddb5b60b193571b/1746162589/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4P8-BELuNpCtRKzCkKRhmQ/Fv2lucGIbhPi2caWYvF5Lg/1746161999432/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/mEO2PqvQJkv2XbNoVJ9ZBg/Fv2lucGIbhPi2caWYvF5Lg/1746162589492/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/MTOLRsu0UZ5Dk51cUpA4Zg/f7d74fcca7b86aaec98d69192d99ee8f/1746161999/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/NiQ5oxspV0msAzN_Oh4AOw/f7d74fcca7b86aaec98d69192d99ee8f/1746162589/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/qIrPEdPtOGcEFmvydAMZnA/ad962176acd070100f306c790419005d/1746161999/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-xlvb.nsnd.live/SsjKXnTgLqNMBN8d_O5NAw/ad962176acd070100f306c790419005d/1746162589/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wtfIOCNKKPODczSL5PM83w/Fv2lucGIbhPi2caWYvF5Lg/1746161999433/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/KD1WqmTWZbZ007gWBKnQpg/Fv2lucGIbhPi2caWYvF5Lg/1746162589492/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Criciuma vs Red Bull Bragantino (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/bTIAX9i47UHaf-N_gCE9-w/37c56eb4aaf958eda25bed5c53705fc2/1746161999/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/EMOx1OHB4KK55RUeY4GVNg/37c56eb4aaf958eda25bed5c53705fc2/1746162589/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",04h30 Bolivia (w) U17 VS Uruguay (w) U17 (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/iIj_0jkLuC2shpzupCrWgw/Fv2lucGIbhPi2caWYvF5Lg/1746161999433/live/sd-6MuScwTAXRs291QKJK/playlist.m3u8
+https://apisportzz179528093.nsnd.live/bpUaeTIUVLaM-7o0ejnFgg/Fv2lucGIbhPi2caWYvF5Lg/1746162589493/live/sd-6MuScwTAXRs291QKJK/playlist.m3u8
+#EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Botafogo PB VS CR Flamengo (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/5QcRMYVOJDLH2xZ6NtM1_A/Fv2lucGIbhPi2caWYvF5Lg/1746162589493/live/sd-6MuRsxaM6NTbg612JX/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/che-2525.jpg",[0] Full match Djurgarden vs Chelsea | BLV Người Cún | 2.5.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
