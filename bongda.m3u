@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/a428af70f71a4ebf4d7e80e0a74ee01b.png",23h10 Al-Batin vs Al-Adalah [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6818dc013bf5c_8884/index.m3u8?expire=1747064449&sign=0a37eae9cf4ee11cc02de10643ced8e9
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/a428af70f71a4ebf4d7e80e0a74ee01b.png",23h10 Al-Batin vs Al-Adalah [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6818dc013bf5c_8884.flv?expire=1747064449&sign=0a37eae9cf4ee11cc02de10643ced8e9
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f32f196f677a402e01f3c8807a2318a1.png",23h45 Ajman vs Al Orooba(UAE) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -143,10 +135,6 @@ https://live.rapid-api.icu/live/daecbe95db4202501fb0c9941001b6b9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/ebc10d11912e392741b1be80804e356c/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/a5b0ae972c3c595300e4eea67145a460.png",00h30 Maccabi Tel Aviv vs Hapoel Beer Sheva 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/fa47e5b2d34e73ae4fa00a8669a94f2a/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/a413daa882f96b18ddb1f0e8c9dbfda7.png",00h30 Fotbal Club FCSB vs FC Dinamo 1948 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -747,6 +735,10 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png",02h15 Breidablik vs KR Reykjavik (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/f32f196f677a402e01f3c8807a2318a1.png",23h45 Ajman vs Al Orooba(UAE) (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -915,6 +907,54 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png",01h30 Castellon vs Sporting Gijon (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs CF Estrela Amadora SAD (LK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210317161450.png?win007=sell",23h50 Neom vs Al-Faisaly Harmah (LS) BLV SAITAMA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -1199,10 +1239,38 @@ https://ckcdn.livestreameuro.live/live/bipsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/biphd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/da3ea21acf8f6d2f547e09f66a83ebae.jpg",23h00 Banjul Hawks FC vs Real Banjul (VB) Backup 1
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/LPJNALE4lmH21UBJ_C7UWA/Fv2lucGIbhPi2caWYvF5Lg/1746482106979/live/sd-6MuSdASCQBgimCXu71/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) Heo SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) Heo HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",01h45 Genoa vs AC Milan (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png",02h15 Breidablik vs KR Reykjavik (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/f32f196f677a402e01f3c8807a2318a1.png",23h45 Ajman vs Al Oruba (UAE) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1355,206 +1423,214 @@ https://live-xlvb.nsnd.live/CRDwd2UoV6QIUMtrO5OC0w/37c56eb4aaf958eda25bed5c53705
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/DtBPQlVtZ_a1LJoJVaSMRg/Fv2lucGIbhPi2caWYvF5Lg/1746489662432/live/sd-6MuScmbm2p56gzG2WF/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png",01h30 Rio Ave vs Estrela da Amadora (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/86E-Ru3MAdaBLpYkwTSHfA/Fv2lucGIbhPi2caWYvF5Lg/1746488703910/live/may4/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/7be7ff61850ecaa635567f74fd7aa3cc.png",01h30 Castellon vs Sporting Gijon (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-u1D_DMYuJsd0gc8DoWATg/Fv2lucGIbhPi2caWYvF5Lg/1746491102085/live/sd-6MsGeGY2SoaUPdypWX/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/25da78139c03b69098a5fa566a61b115.jpg",01h30 CA Fenix Pilar vs Villa Dalmine (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/cbfKsoTLrgEMD7OFWg8h4g/Fv2lucGIbhPi2caWYvF5Lg/1746491102570/live/sd-6MtMsvsAyz2KKXDzUj/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h00 Banjul Hawks FC VS Real Banjul (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/oqA9dfIqHDMSy1AlEuCc5w/Fv2lucGIbhPi2caWYvF5Lg/1746490785504/live/sd-6MuSdASCQBgimCXu71/playlist.m3u8
-#EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h10 Al-Batin VS Al-Adalah (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/2c6Ni0SRTZ2X27SJTqN-XQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MtN8UsFbxYaazashV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/1BKkrcGbfLJyEV5lWI_ZFQ/Fv2lucGIbhPi2caWYvF5Lg/1746491376193/live/sd-6MuSdASCQBgimCXu71/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h45 Ajman vs Al Orooba(UAE) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jPSYE7H5apZttYYoS6w86g/0aafe7a6d19bfafd5e27cf7084b37d51/1746490785/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/7GlTi6Eu-7QWjhep8ZiUIg/0aafe7a6d19bfafd5e27cf7084b37d51/1746491376/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h45 Ajman vs Al Orooba(UAE) (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Egk_m6nnW7XPaLDwJ3udaQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Ve0kLlZ9mIZLyi-zEYiFqQ/Fv2lucGIbhPi2caWYvF5Lg/1746491376193/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h45 Ajman vs Al Orooba(UAE) (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/zy0o6W8bpE2bbrYaaOfiUg/cac03b136a8c356be180b4618c6bfeb5/1746490785/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/zYsEJeOKmbqnWQTEGMMByA/cac03b136a8c356be180b4618c6bfeb5/1746491376/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h50 Neom SC VS Al-Faisaly Harmah (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/LEUW5mWKBTegjkh2LHJVWQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MtN8UsFbvM6iWkxYb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/FdPdoOsTjRLEZU0QbqhJpA/Fv2lucGIbhPi2caWYvF5Lg/1746491376193/live/sd-6MtN8UsFbvM6iWkxYb/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/RI-mWNB0aA_1O4YzkFnnew/11553a292db421b3acfd01e6b41f6c9b/1746490785/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/p0zcSjm2DRtOVnnqAEL7fw/11553a292db421b3acfd01e6b41f6c9b/1746491376/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ZnbcXdQ4YUZXIbgKxZMGQA/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/voiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/TAdtfpoZikEkvETsz87QAw/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/voiSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/b8HolpbPXkaia9PZGPR9Zg/0d429cee859d1413d31a3e1db44fd57e/1746490785/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qPMu9-rl5CXNiQ3snw-h0A/0d429cee859d1413d31a3e1db44fd57e/1746491376/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/YJYSXqAV2Iiep_R-S7oQxg/5e80ef9f7927d7fe3e2715feff063a1a/1746490785/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/x1u3YqpVa6BlHL5Ya9XOoA/5e80ef9f7927d7fe3e2715feff063a1a/1746491376/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/tt2X5jZtlEqN5KH6WDqSYg/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gOoXT0RUO5KZK3AfvUPrsw/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kasimpasa vs Trabzonspor (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/aaOp8gA3BTHlu2MB0KdkLw/fc724b392eb664de8f0b54609b1e66f5/1746490785/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ZRZc9Id2_j4-pPKO0CaI5Q/fc724b392eb664de8f0b54609b1e66f5/1746491376/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Poland (w) U17 vs Italy (w) U17 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/pBmHFl-_vSmn35tW0xeyhA/c968032542c0f2ddc2f2be031c5ab09b/1746490785/live/_definst_/stream_1_1bda7@mapHD/playlist.m3u8
+https://live-xlvb.nsnd.live/6fJcg1ojwk6ayWgZrRRqFw/c968032542c0f2ddc2f2be031c5ab09b/1746491376/live/_definst_/stream_1_1bda7@mapHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Poland (w) U17 vs Italy (w) U17 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Vn-xcoqKjYdKT33y2JhFlg/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/mapSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/D9CrxNNfo_VcN_pzw6dTWw/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/mapSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Poland (w) U17 vs Italy (w) U17 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/36sQGPoHoXuDkO2owGFwCA/2ab36550347e65f07744d25bb0b46764/1746490785/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/d0fW1BFjaCn8Kr2weMgOfQ/2ab36550347e65f07744d25bb0b46764/1746491376/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Djurgardens (w) VS IFK Norrkoping DFK (w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/g6n0A6bAFF0z4vN4fbmWmQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MtMtNzpYktxxwXk7u/playlist.m3u8
+https://apisportzz179528093.nsnd.live/jDUp52PzFzuZtonS2C0a7w/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MtMtNzpYktxxwXk7u/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 IK Brage VS Ostersunds FK (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/fHzpk_zgvV_CPPJJgjBxCg/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MtN8ReTePDdN2TdXq/playlist.m3u8
+https://apisportzz179528093.nsnd.live/w-X9_RdazrX5CE-Z2xc57A/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MtN8ReTePDdN2TdXq/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Korona Kielce VS GKS Katowice (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/3zMYPeFr1aHfRVrURbjm_w/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MsFQafpGq17iDyD5M/playlist.m3u8
+https://apisportzz179528093.nsnd.live/8Gcbbh5BQWD-zZPVQ9irZQ/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MsFQafpGq17iDyD5M/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Sonderjyske VS Aalborg (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/oWtzgWipE6dZrhXdvvPyzQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785505/live/sd-6MuS8Q7PqPqrVSTfoh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/wtfqaRTga7-G6g0Pkutxlg/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MuS8Q7PqPqrVSTfoh/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Orebro VS Trelleborgs FF (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/omaKtqVxYG3EPV_UR8mZnw/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtN8ReTdteP3niiYB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Un9Xsr_tEaPux3xWOP0mdA/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MtN8ReTdteP3niiYB/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Bank El Ahly VS Zamalek SC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/mwp65dNl9aW5ef8GLkbPhA/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MuS7x2gD4Bs7VTnq9/playlist.m3u8
+https://apisportzz179528093.nsnd.live/JeNpQJpnpNtdl2FaUzooxg/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MuS7x2gD4Bs7VTnq9/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Hammarby (w) VS BK Hacken (w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/6F5KXmIySfHPptU3LeKwuw/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtMtNzpYsVQaP1Vab/playlist.m3u8
+https://apisportzz179528093.nsnd.live/fFCGjoi2duUQbo9D3zBeAw/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MtMtNzpYsVQaP1Vab/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Rosenborg B VS Nardo FK (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/a8d5zDpmVy6kitzEpbnEJw/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtMssi5SxfSWZXHTR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/VJmPh0bfPx_HNrMVvLSMRA/Fv2lucGIbhPi2caWYvF5Lg/1746491376194/live/sd-6MtMssi5SxfSWZXHTR/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Penafiel VS SCU Torreense (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/78yPBxXQzKtQ_YGhTfolYw/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MsGeYsDozQTwXsr9h/playlist.m3u8
+https://apisportzz179528093.nsnd.live/YOa1kaz3m3UdmBuBXDTkfA/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MsGeYsDozQTwXsr9h/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Kotwica Kolobrzeg VS Chrobry Glogow (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/5xrXQ0Ddz8cYZJn6JArtog/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MsFQvFzP2SAkLPeDZ/playlist.m3u8
+https://apisportzz179528093.nsnd.live/HEZPDFq1KrdXcMElu3XNEA/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MsFQvFzP2SAkLPeDZ/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Malmo FF VS Brommapojkarna (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/0AmZ_tGsVHggBu1pL1cbOw/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtN8RbWsQSRByroNj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Ovva328dFsiNKwnDJh1xMQ/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MtN8RbWsQSRByroNj/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Binga VS AS Police (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/zh4t9mR5PqVsYtsMiXN76Q/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MuSdASCEZQfhLh89H/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_Edegdd7BDpmW9vl_5JTUA/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MuSdASCEZQfhLh89H/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 BK Olympic VS FC Rosengard (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/KB4n9SQXDHdetd7nDym8xg/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtN8NLWnX4t9rc7fH/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_U57rPEwbwU-vhGzkYw12g/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MtN8NLWnX4t9rc7fH/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Lamia VS Levadiakos (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/qgRZIYaco1CzcM5u-o2T6A/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MuRsZn7XD8NmEUhwh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/gqL44-hJM78aXNKpY95fNg/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MuRsZn7XD8NmEUhwh/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Assyriska VS Vasalunds IF (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/XmTKDpWrjvfPll8YP7kAcg/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MtN8NPT4S2XmvZ3Aj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/-IN6uQAYDKRIs-O3DrwP1g/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MtN8NPT4S2XmvZ3Aj/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h05 Al Naser SC VS Al-Yarmouk (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/IVYsRrprIeehSEE3qqPIxQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785506/live/sd-6MuRsnp71T6MbZgAF5/playlist.m3u8
+https://apisportzz179528093.nsnd.live/MokmEqieW79FUukWaSKCXg/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MuRsnp71T6MbZgAF5/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h10 Elfsborg VS GAIS (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/v59zUfkZrhFDNmcumYo6VQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/sd-6MtN8RbWsL3TT2Cy4w/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LgQdC-sAnQqcK4n7Rsqouw/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MtN8RbWsL3TT2Cy4w/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Al Rayyan VS Lusail city fc (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/yw9as_iODNLz8qPN-AREKA/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/sd-6MuScmbm3C3uPnXC3D/playlist.m3u8
+https://apisportzz179528093.nsnd.live/uxbBYzQ-lbvEwk9JQFJw-g/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MuScmbm3C3uPnXC3D/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Fotbal Club FCSB vs Dinamo Bucuresti (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/XD3xoIrVBxYgLqHy0DXg-Q/22cae28023fa288f487687774823edc9/1746490785/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/e5F8G2J_05Gu0AFMsTR9pA/22cae28023fa288f487687774823edc9/1746491376/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Fotbal Club FCSB vs Dinamo Bucuresti (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/XD3xoIrVBxYgLqHy0DXg-Q/22cae28023fa288f487687774823edc9/1746490785/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/e5F8G2J_05Gu0AFMsTR9pA/22cae28023fa288f487687774823edc9/1746491376/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Fotbal Club FCSB vs Dinamo Bucuresti (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/7Km5Gz8Hq_4ExN6Gk1ozew/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/may2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gr_SRNvtid5MvoMWypkqUA/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Fotbal Club FCSB vs Dinamo Bucuresti (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/N7oWVPXNrhAXCdyeUV727g/d5b200387e6a5a1b18e0bf7cbe2d7615/1746490785/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wIWImUtkp__m7rtyx1Wxhg/d5b200387e6a5a1b18e0bf7cbe2d7615/1746491376/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Maccabi Tel Aviv VS Hapoel Beer Sheva (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/fHU9M9932esJkcbuSc_zAg/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/sd-6MuS8AzxbJ8YWPDhJs/playlist.m3u8
+https://apisportzz179528093.nsnd.live/2BtpxdSJshydwSIjGlFH8g/Fv2lucGIbhPi2caWYvF5Lg/1746491376195/live/sd-6MuS8AzxbJ8YWPDhJs/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Haugesund B VS Sandnes B (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/SamDiQgOzXImoTYbUuPROA/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/sd-6MtMspQrvETM4gA2Bm/playlist.m3u8
+https://apisportzz179528093.nsnd.live/3hMxoZJAkbqhfpTKd1qZLw/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/sd-6MtMspQrvETM4gA2Bm/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Shamrock Rovers VS Sligo Rovers (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/waBkMb5jRfTbIOJ9QKlqDw/Fv2lucGIbhPi2caWYvF5Lg/1746490785507/live/sd-6MtN8YATyWrPQn2MrB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/C-a87GMo1I7vL4TDc-oglg/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/sd-6MtN8YATyWrPQn2MrB/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Ghana U20 vs Senegal U20 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/AdeBXAz8XufYoHv3AIo_vw/ad962176acd070100f306c790419005d/1746490785/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-xlvb.nsnd.live/nbyEoQPEdyJwzA0InBGDyg/ad962176acd070100f306c790419005d/1746491376/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Ghana U20 vs Senegal U20 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/AdeBXAz8XufYoHv3AIo_vw/ad962176acd070100f306c790419005d/1746490785/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-xlvb.nsnd.live/nbyEoQPEdyJwzA0InBGDyg/ad962176acd070100f306c790419005d/1746491376/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Ghana U20 vs Senegal U20 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Ja7FVEUfcTjwLrGELCXnwQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785508/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/agjJrRNNA-uSRrs53grTVw/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Ghana U20 vs Senegal U20 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/__RuNqUOYAOcOPRur7v9bg/37c56eb4aaf958eda25bed5c53705fc2/1746490785/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/DsDxef7hvxKuZ9YfxICHew/37c56eb4aaf958eda25bed5c53705fc2/1746491376/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Egnatia VS Partizani Tirana (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/cV8YpKh2fAjx8X-toRG29Q/Fv2lucGIbhPi2caWYvF5Lg/1746490785508/live/sd-6MuScmbm2p56gzG2WF/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Y8WCvda9-jNa9jPH5WOyRw/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/sd-6MuScmbm2p56gzG2WF/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h30 Rio Ave vs Estrela (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7mIYhKHXeibEtjPr9tO3GA/Fv2lucGIbhPi2caWYvF5Lg/1746490785508/live/may4/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/LFNRRFwSO-1MV-YzpLQN4w/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/may4/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h45 Genoa vs AC Milan (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jWzL-vE5V1tE6h0r-0fhAg/61b7c9f6fb3bff2f3c2273378af449b7/1746490785/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/IgpLLDSBGGn5c_N_cGsktA/61b7c9f6fb3bff2f3c2273378af449b7/1746491376/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h45 Genoa vs AC Milan (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/gGkTalN3bdVw3prPSgOAKQ/Fv2lucGIbhPi2caWYvF5Lg/1746490785508/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yBLWSAe3BwGCTgu37dmm5w/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h45 Genoa vs AC Milan (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/AmIQK8VJAsERelx4p6snEQ/e56ce8a755cda33e7f050da0b700d013/1746490785/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/MbHtky5HytBaIV5OXj0cPw/e56ce8a755cda33e7f050da0b700d013/1746491376/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h45 Genoa vs AC Milan (Nhà Đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7mIYhKHXeibEtjPr9tO3GA/Fv2lucGIbhPi2caWYvF5Lg/1746490785508/live/may4/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/LFNRRFwSO-1MV-YzpLQN4w/Fv2lucGIbhPi2caWYvF5Lg/1746491376196/live/may4/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/cat55.jpg",[0] Highlights Espanyol vs Real Betis | BLV Người Cast | 5.5.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
