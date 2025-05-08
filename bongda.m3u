@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/d9d4eaa44d1faae1704196667103a6e8/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/eef8932afd66a66daa76d47cf7503957.png",06h00 Forge FC vs HFX Wanderers FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/e520208d0b93fc546f3457c85e8c7632/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/df3283f4c6615d2aa45031dd020c9c52.png",06h00 Boston Celtics vs New York Knicks [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -111,6 +107,10 @@ https://2893254555.global.cdnfastest.com/live/681bf8ef3bf5c_5601/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/681bf8ef3bf5c_5601.flv?expire=1747268463&sign=b6d523307e23c8e4450629c1ebd55dc9
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/90c95cd154f9b016cbf26854770b8401.png",07h30 Austin FC vs El Paso Locomotive FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/139eea80258e7a1a2c839ee5fbebae92/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -251,6 +251,54 @@ https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",06h00 Celtics vs Knicks (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -267,14 +315,6 @@ https://hotlivezz179602324.akainu.xyz/k0cvK1Sb85qeK3re7DqLsg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/kGnxpDxJhDkBDPdf51DlYg/2f5c86e8dcb258706feb1f79081dd77d/1746681606/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/eef8932afd66a66daa76d47cf7503957.png",06h00 Forge FC VS HFX Wanderers FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/SfjhZokbH4D6YiERFrSsVQ/Fv2lucGIbhPi2caWYvF5Lg/1746681307380/live/sd-6MuScbvfgnSUkgnA7M/playlist.m3u8
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/602255b6d0275cd1008b99c59cd10c87.png",06h00 Pittsburgh Riverhounds VS New York City FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/K9ZcxOOSpEgo3CGmxGSJcw/Fv2lucGIbhPi2caWYvF5Lg/1746682208254/live/sd-6MuScfBfvzWDtqGHZM/playlist.m3u8
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/5ff0038a6de9a7e34fcb7c202843ea1c.png",06h30 Tampa Bay Rowdies VS Orlando City (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -327,6 +367,50 @@ https://apisportzz179528093.nsnd.live/CddBlgHnpx1DQZbT5Jvv9w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/a4IYetNa6S59UcmJDpX0Gw/Fv2lucGIbhPi2caWYvF5Lg/1746685210097/live/sd-6MuScfBfvj7roUUsV5/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png",07h30 Central Cordoba SDE vs Flamengo (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1746684905&sign=4d27583e5c4be0d3fad3ac84bd9755b2
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png",07h30 Central Cordoba SDE vs Flamengo (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/CkNnEyKlf_D8u7QHxK470A/61b7c9f6fb3bff2f3c2273378af449b7/1746684905/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png",07h30 Central Cordoba SDE vs Flamengo (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/G3li3VGvmNudcpSQJTm3Yg/Fv2lucGIbhPi2caWYvF5Lg/1746684905093/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png",07h30 Central Cordoba SDE vs Flamengo (CK) FULLHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/-_Bvx_45ePMPfde5rjdDsA/e56ce8a755cda33e7f050da0b700d013/1746684905/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",07h30 Cerro Porteno vs Palmeiras (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1746684004&sign=3ca602139b6eedce844784db85f2d593
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",07h30 Cerro Porteno vs Palmeiras (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Ay23sa_qrE-OxO9qf-ur-Q/43bf1bdbba25fb941e370ed383221c53/1746684004/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",07h30 Cerro Porteno vs Palmeiras (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/PO38Ch0ViPoxDgvzVoBUyw/Fv2lucGIbhPi2caWYvF5Lg/1746684004701/live/nuiSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",07h30 Cerro Porteno vs Palmeiras (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/leJuuItLxGyI7r6_0GxjXQ/adb8de5045254f4388ff92b08aeba831/1746684004/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/6a6cce9aa801c9ba65832a685dd144b7.png",07h30 Atletico Grau VS Gremio (RS) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/UDbdUuMY4qq9ogfJh7szfQ/Fv2lucGIbhPi2caWYvF5Lg/1746686103524/live/sd-6MuS81DzrxGEnND1Q7/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/f84d3c03b83f445cb752a403995e0a11.png",07h30 Mushuc Runa VS Cruzeiro Esporte Clube (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/9WtSPQyBJzW9WvityvmLLQ/Fv2lucGIbhPi2caWYvF5Lg/1746686103832/live/sd-6MuS81Dz1v8SZZB8uy/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/90c95cd154f9b016cbf26854770b8401.png",07h30 Austin FC VS El Paso Locomotive FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/a5daP4KePRIXfo2qtTOHig/Fv2lucGIbhPi2caWYvF5Lg/1746687908603/live/sd-6MuScfBfvgvNvzexLB/playlist.m3u8
 #EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png",19h30 Gremio Novorizontino vs Corinthians Paulista (SP) (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -531,6 +615,62 @@ https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/702dba9d21d2115e446d58edd9042008.png",06h15 Genesis vs CD Motagua (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -635,6 +775,30 @@ https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/13541/1gxsf4vmaw1p.png?win007=sell",06h30 Philadelphia Union vs Indy Eleven (LS) BLV QUAN THẮNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -839,14 +1003,54 @@ https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/602255b6d0275cd1008b99c59cd10c87.png",06h00 Pittsburgh Riverhounds vs New York City Football Club (VB) Backup 1
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Zgsk5bjyu9RXhyP0F6ahqg/Fv2lucGIbhPi2caWYvF5Lg/1746680282660/live/sd-6MuScfBfvzWDtqGHZM/playlist.m3u8
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/eef8932afd66a66daa76d47cf7503957.png",06h00 Forge FC vs HFX Wanderers FC (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/mscOYRGOi0ILyI3TITw5qg/Fv2lucGIbhPi2caWYvF5Lg/1746680882164/live/sd-6MuScbvfgnSUkgnA7M/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9abd1e86ec5852bad0225a527fdd7b1e.png",08h00 Monterrey vs Toluca (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w60",08h30 Oklahoma City Thunder vs Denver Nuggets (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/09fcea913a706ccc99331101f8871314.png",06h30 Louisville City FC vs Minnesota United FC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -950,203 +1154,199 @@ https://apisportzz179528093.nsnd.live/Th_K5Gjg-q1U1e52ZnIcnw/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/fO8SgLxSIJFDQd1Jwx8kQQ/d8575e4f2bb7991d6a11b5e422c908f2/1746686976/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/IQbb-pMW1nQXipik_Nle8w/d8575e4f2bb7991d6a11b5e422c908f2/1746686697/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Vvt7I7nfN7TNYG76LhsuPw/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/Z2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/EjvNJCmyEpFFwnBZ1kv7gQ/Fv2lucGIbhPi2caWYvF5Lg/1746686697361/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/s_HOWboXiDiQi8ugrzGCmg/2f5c86e8dcb258706feb1f79081dd77d/1746686976/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/PGvoMCoafy_3iY476BXoOQ/2f5c86e8dcb258706feb1f79081dd77d/1746686697/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/zywjEeOyrvidvPOCM2nAgg/fb66c70ca3f448381bbb4498056c794d/1746686976/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/o01H7hvlkQ2S9BfA-Zn4QA/fb66c70ca3f448381bbb4498056c794d/1746686697/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/DI_4aqUu1BxgDR-6X9aKFA/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/caoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/S_UlZNQK3ouhWJxAx6uIzg/Fv2lucGIbhPi2caWYvF5Lg/1746686697361/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/nVyMOyclVSL7AtaKmFdblQ/0027e56455a2e21d4e9af4c00853528e/1746686976/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/6tVuI8cOpizvvT_c4BAdlw/0027e56455a2e21d4e9af4c00853528e/1746686697/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/fO8SgLxSIJFDQd1Jwx8kQQ/d8575e4f2bb7991d6a11b5e422c908f2/1746686976/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+https://live-xlvb.nsnd.live/o01H7hvlkQ2S9BfA-Zn4QA/fb66c70ca3f448381bbb4498056c794d/1746686697/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Vvt7I7nfN7TNYG76LhsuPw/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/Z2SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ACtYPbeP3V7SUGIqJ6rVOA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/s_HOWboXiDiQi8ugrzGCmg/2f5c86e8dcb258706feb1f79081dd77d/1746686976/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/6tVuI8cOpizvvT_c4BAdlw/0027e56455a2e21d4e9af4c00853528e/1746686697/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/zywjEeOyrvidvPOCM2nAgg/fb66c70ca3f448381bbb4498056c794d/1746686976/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/o01H7hvlkQ2S9BfA-Zn4QA/fb66c70ca3f448381bbb4498056c794d/1746686697/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/DI_4aqUu1BxgDR-6X9aKFA/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/caoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ACtYPbeP3V7SUGIqJ6rVOA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Celtics vs Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/nVyMOyclVSL7AtaKmFdblQ/0027e56455a2e21d4e9af4c00853528e/1746686976/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
-#EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Forge FC VS HFX Wanderers FC (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/oBQrlhpICVAqwc0u9w2piw/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/sd-6MuScbvfgnSUkgnA7M/playlist.m3u8
+https://live-xlvb.nsnd.live/6tVuI8cOpizvvT_c4BAdlw/0027e56455a2e21d4e9af4c00853528e/1746686697/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h00 Pittsburgh Riverhounds VS New York City FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/7tIHaXVjpm_y43M_U4VLZw/Fv2lucGIbhPi2caWYvF5Lg/1746686976857/live/sd-6MuScfBfvzWDtqGHZM/playlist.m3u8
+https://apisportzz179528093.nsnd.live/UBpcIOi2p9nxp-4YT8kQMA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuScfBfvzWDtqGHZM/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h10 Yankees vs Padres (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/qaTLfBMn_NBTmaAVS635oQ/44aad5dfa01c79ab75667d799c2e06c1/1746686976/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wlecTmlU7fNq71IItzZ-PA/44aad5dfa01c79ab75667d799c2e06c1/1746686697/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h10 Yankees vs Padres (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/NNlAZE1a73gxvvcPLdxtyg/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/RSO0J25fio2i5WbasfwWIA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h10 Yankees vs Padres (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/tB6f2xepg7Kx2efxjrgCTg/bb30dc1883f5f92057cd67eec640c4d0/1746686976/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/8grCj31cpIh-1wvJXH9SDg/bb30dc1883f5f92057cd67eec640c4d0/1746686697/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h30 Tampa Bay Rowdies VS Orlando City (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/bNwrnwxVrerqZ1Gat_8nyg/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfw9J9NkZxAw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/PTOiWt3Y7Y0sLkbrP-m0Tg/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuScfBfw9J9NkZxAw/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h30 Louisville City FC VS Minnesota United FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/yYTt6iCKFAEULbOtABvcsQ/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfw76fWGk323/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Gz5nE6p-wHrJocnKRtk8vA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuScfBfw76fWGk323/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h30 Rhode Island VS New England Revolution(R) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/qqA2mqUG1ffsFRJ8SDXgfA/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfwBVdFEPsKq/playlist.m3u8
+https://apisportzz179528093.nsnd.live/r6l8Zj5_znWWp1gUPC0n4w/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuScfBfwBVdFEPsKq/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",06h30 Philadelphia Union VS Indy Eleven (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Kq4kqMSUt4QKPyDbE1jFog/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfw4uBdnv7s9/playlist.m3u8
+https://apisportzz179528093.nsnd.live/AlYP045BOIlPEMundnscPQ/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuScfBfw4uBdnv7s9/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/sb5Qjav6m0Nh25R2nuJwvg/19c6df53af2e8e4da3153ccd33338ce9/1746686976/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
+https://live-xlvb.nsnd.live/CjJ_kN55DF1ZlbQZuSKyCw/19c6df53af2e8e4da3153ccd33338ce9/1746686697/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/-TiROZvBFWZaVGSSMnkK_Q/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/thuSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ad1VJ4E_c585mQ0_1xlURA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/thuSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ObZFy4Cm6ivx4AMCXLKKuw/23c640f28fcd1bae0920b90a9358ecbd/1746686976/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/OHtSfunniX2ZrljwnYaN9A/23c640f28fcd1bae0920b90a9358ecbd/1746686697/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ymZKT2DpZXRyd8znO0diMw/1dae3400e4a56a95aa98d9615588b5c1/1746686976/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
+https://live-xlvb.nsnd.live/s7nVoYc4dbnbHXxiWDg0lw/1dae3400e4a56a95aa98d9615588b5c1/1746686697/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/iYAux_V09BCYbRK5_a5mdA/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/dungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/zqpt8luZRuJJiFH5KdkozA/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/dungSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Universidad de Chile vs Estudiantes La Plata (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/0IpiMt2Yodq61UnwDaHoEA/09b8150fd09801bcc1dbb7e4e226d0e0/1746686976/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Ir7B2I-OdKz5-C-czxd4Gw/09b8150fd09801bcc1dbb7e4e226d0e0/1746686697/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Gualaceo SC VS CD Vargas Torres (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/cnnP-UfJqJUQhXCL2Hfhcw/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuS7nBzNPfjVgaA2w/playlist.m3u8
+https://apisportzz179528093.nsnd.live/ZW36EcLwElVOu8iqJrGmTQ/Fv2lucGIbhPi2caWYvF5Lg/1746686697362/live/sd-6MuS7nBzNPfjVgaA2w/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 FC Dallas VS AV Alta (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/DrkavEqJwJyp_o7MMK_42Q/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfwDh77iDnUj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/rHvf9jLJHb_mtnK_9Tcjwg/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuScfBfwDh77iDnUj/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Chicago Fire VS Detroit City (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/5jIp19WdRMnHxuWQCbRGDA/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScfBfwFtazC3hdd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/GVO0KrKWc5Yq3usHrOXcew/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuScfBfwFtazC3hdd/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 Uruguay (w) U17 VS Brazil (w) U17 (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/rmK8BavFFiaJeyx8fREcrA/Fv2lucGIbhPi2caWYvF5Lg/1746686976858/live/sd-6MuScmcUrf1JgR8sY7/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Na0gmkm2cmySu1pUHolEwg/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuScmcUrf1JgR8sY7/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h00 St. Louis City SC VS Omaha (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/AzdIRYksWFtrZZq8BZw0tw/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/sd-6MuScfBfvj7roUUsV5/playlist.m3u8
+https://apisportzz179528093.nsnd.live/XIjVdG8KlA_nG_kwQCWEWQ/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuScfBfvj7roUUsV5/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/HgHo_IeksRA58Z9nrMWfFg/61b7c9f6fb3bff2f3c2273378af449b7/1746686976/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Oo50a4fqa7U-ymuYmFSRXg/61b7c9f6fb3bff2f3c2273378af449b7/1746686697/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/SpmxYnyMIrE2uEbQZBsoBg/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/LLGGxqgTql91pDU6rRyWJA/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/e4-3LjxGQZUSI9N8J33xcA/e56ce8a755cda33e7f050da0b700d013/1746686976/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/aOQOI8ulvPFxGcwVD6353A/e56ce8a755cda33e7f050da0b700d013/1746686697/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/izKHKahFZblfqJZl95egRg/fbc5fd0a829e41a59c011e80bc90bdb3/1746686976/live/_definst_/stream_1_1bda7@daHD/playlist.m3u8
+https://live-xlvb.nsnd.live/AdFhJAt0CgNmW7wpEXAhyg/fbc5fd0a829e41a59c011e80bc90bdb3/1746686697/live/_definst_/stream_1_1bda7@daHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/iORuIx6JO4p7SLD_Kb3bIA/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/daSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/A0nfxNwUIo3YPmRULwdjIg/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/daSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Central Cordoba SDE vs Flamengo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/tZpZzDpPW6tqhB1DP_W_3A/216a439451ab4126df1eead1ba49bd50/1746686976/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/rXwCu1_qElgDsyzqjv0tWA/216a439451ab4126df1eead1ba49bd50/1746686697/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/nv0-llRb4Eww0ejC9wxyDA/43bf1bdbba25fb941e370ed383221c53/1746686976/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LsoUCE-KAsYpejnyUjE_tg/43bf1bdbba25fb941e370ed383221c53/1746686697/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/_iuT6B2uWDjnzruViR7k_A/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/nuiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/MyXQdr4Jv6qaSA0XvOiQXA/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/nuiSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/i3Wvm-7jWXMz5vhIKxPkjQ/adb8de5045254f4388ff92b08aeba831/1746686976/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/aaAgafJqBYt127eOBoMFiQ/adb8de5045254f4388ff92b08aeba831/1746686697/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6Pf0UP6rHYYWVySRe-36Sw/a9876ad3e6becc6c1302850d079b79d6/1746686976/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/qUy2u8MVxyHrXPYZGRArBg/a9876ad3e6becc6c1302850d079b79d6/1746686697/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/913zXVFsDMb1sCaIWp3yjw/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/may1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pGTvrqx2RJ4oYLPqQ66F6Q/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/may1SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Cerro Porteno vs Palmeiras (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/e7sBjxnc9Hqgx7WtbzOiAw/a75e9b78c79480f30c7ea83b12c71e42/1746686976/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/HXJ7OfitMUIjAtH_XN0U0w/a75e9b78c79480f30c7ea83b12c71e42/1746686697/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Atletico Grau VS Gremio (RS) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/jkTyRv5R3ScAyjoqnry4tA/Fv2lucGIbhPi2caWYvF5Lg/1746686976859/live/sd-6MuS81DzrxGEnND1Q7/playlist.m3u8
+https://apisportzz179528093.nsnd.live/enyIY3xNAvFRvEemNALu_w/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuS81DzrxGEnND1Q7/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Mushuc Runa VS Cruzeiro Esporte Clube (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/pdZjF__mVusyJtSckJ3nAQ/Fv2lucGIbhPi2caWYvF5Lg/1746686976860/live/sd-6MuS81Dz1v8SZZB8uy/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_rqWJ662DdH38gS9j3KBCw/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuS81Dz1v8SZZB8uy/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",07h30 Austin FC VS El Paso Locomotive FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/CwoFf3FFzZ17M7CrOjqJ6g/Fv2lucGIbhPi2caWYvF5Lg/1746686976860/live/sd-6MuScfBfvgvNvzexLB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/o-hJYsVbNnOhM4X4AyFdWg/Fv2lucGIbhPi2caWYvF5Lg/1746686697363/live/sd-6MuScfBfvgvNvzexLB/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h00 Monterrey vs Toluca (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/PYPIDf8qgpPiYDRJxKJbBg/ee9edaa79c6d2bdf3bb6484d076ab262/1746686976/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
+https://live-xlvb.nsnd.live/7izIqAjssLZCu9vE9rTh3g/ee9edaa79c6d2bdf3bb6484d076ab262/1746686697/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h00 Monterrey vs Toluca (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/waD-bLp7XN7JKsHkjODdFw/Fv2lucGIbhPi2caWYvF5Lg/1746686976861/live/caSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ZWrIN4KY3jc7NeZoWmKJ-g/Fv2lucGIbhPi2caWYvF5Lg/1746686697364/live/caSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h00 Monterrey vs Toluca (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/_CRQTkP14WzriXXo8CYBIg/cfb1d1e3eb5f383163a349652a8f21a5/1746686976/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/4PIWhxOoNhmotHqsiJlzWA/cfb1d1e3eb5f383163a349652a8f21a5/1746686697/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/con85.jpg",[0] Fullmatch PSG vs Arsenal | BLV Người Cồn | 8.5.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
