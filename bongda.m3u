@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",23h30 Arges vs FC Voluntari 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/146ebae9c9c0338d28c1136bfe361285/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f2e98454cf2fc81dea92c1401521eac1.png",23h45 SC Telstar vs ADO Den Haag 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -115,10 +111,14 @@ https://2893254555.global.cdnfastest.com/live/682381d65d6cd_4908/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/682381d65d6cd_4908.flv?expire=1747762262&sign=d3511efc2a30eab10ae854d028ada5b7
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",23h30 Arges vs FC Voluntari (CH) Nhà đài
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/957bdc50c307e2a9b526b34b3792da1a.png",02h00 Sunderland vs Coventry City [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68238d7b5d6cd_6315/index.m3u8?expire=1747765243&sign=1efd459d528065d7e50ed16ab7330ae2
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/957bdc50c307e2a9b526b34b3792da1a.png",02h00 Sunderland vs Coventry City [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68238d7b5d6cd_6315.flv?expire=1747765243&sign=1efd459d528065d7e50ed16ab7330ae2
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/f2e98454cf2fc81dea92c1401521eac1.png",23h45 SC Telstar vs ADO Den Haag (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -299,10 +299,6 @@ https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",23h30 Arges vs FC Voluntari (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
 #EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3b19cae478679881554914e45d318742.png",00h15 CSKA Sofia vs Spartak Varna (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -631,10 +627,6 @@ https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",23h30 Arges vs FC Voluntari (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/f2e98454cf2fc81dea92c1401521eac1.png",23h45 SC Telstar vs ADO Den Haag (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -863,6 +855,38 @@ https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/00341629f46340bd928496510b3147f9.png",01h30 Juve Stabia vs Sampdoria (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/3fcd619b384dbbd8b4c3af19f622fc7f.png",01h30 FC Zurich vs Winterthur (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165700351316.png?win007=sell",00h00 Real Valladolid vs Girona (LS) BLV DẾ LỬA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -967,6 +991,22 @@ https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2013121192844.jpg?win007=sell",01h30 Juve Stabia vs Sampdoria (LS) BLV SAITAMA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/SAITAMA/index.m3u8?expire=1926142200&sign=bb9bdd4dfcc5e330099961c4d71d9578
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2013121192844.jpg?win007=sell",01h30 Juve Stabia vs Sampdoria (LS) BLV SAITAMA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/SAITAMA.flv?expire=1926142200&sign=bb9bdd4dfcc5e330099961c4d71d9578
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2013121192844.jpg?win007=sell",01h30 Juve Stabia vs Sampdoria (LS)  BLV ĐỊCH NHÂN KIỆT m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/NHANKIET/index.m3u8?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2013121192844.jpg?win007=sell",01h30 Juve Stabia vs Sampdoria (LS)  BLV ĐỊCH NHÂN KIỆT flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/NHANKIET.flv?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png",07h30 Gremio Novorizontino vs Corinthians Paulista (SP) (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1019,10 +1059,6 @@ https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",23h30 Arges vs FC Voluntari (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3b19cae478679881554914e45d318742.png",00h15 CSKA Sofia vs Spartak Varna (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1447,242 +1483,258 @@ https://apisportzz179528093.nsnd.live/mjdjX9GjGXNQwRrsx-ftYA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/n4YKfdObrRwsbPRKAeO0_A/Fv2lucGIbhPi2caWYvF5Lg/1747180503284/live/sd-6MuSd7BCf1F4JYsm9m/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/ba3446f5a45cbd7cf01f43b9ca1774ac.png",01h30 Cittadella vs Salernitana (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/C-S54EYUNLv9k-4s0JqSLw/Fv2lucGIbhPi2caWYvF5Lg/1747182904722/live/sd-6MsGeGZWG5RLgRaauR/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/00341629f46340bd928496510b3147f9.png",01h30 Juve Stabia vs Sampdoria (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/xNcY5vNZeDIPqAybjn-kbQ/Fv2lucGIbhPi2caWYvF5Lg/1747182904755/live/sd-6MsGeGZW69ZSej8UiX/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/d290c25a10a287144ecd5bc93183c967.png",01h30 SudTirol vs Bari (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/jCe_EzYkSyGNaH3vi7V8Dw/Fv2lucGIbhPi2caWYvF5Lg/1747182904838/live/sd-6MsGeGZV66KHHjUVj1/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png",01h30 FC Sion vs St. Gallen (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/m5DHiG6uKaju8lbnZn9k5w/Fv2lucGIbhPi2caWYvF5Lg/1747182363987/live/sd-6MuScwPUmC1ke3DJEP/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/9cfd2272fbc0d003ceab1e990068f019.png",01h30 FC Zurich vs Winterthur (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/m9wsqqUff4njXnC56S9qgw/Fv2lucGIbhPi2caWYvF5Lg/1747182364081/live/sd-6MuScwPUmJcCFUh3h5/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",16h00 ATP1000 Rome Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/99r-vZvhEoZkvgpF0RgcIA/Fv2lucGIbhPi2caWYvF5Lg/1747181974352/live/may241/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/KTLyKPk5E6ggZHQJ1oKEhw/Fv2lucGIbhPi2caWYvF5Lg/1747182599315/live/may241/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",16h00 ATP1000 Rome Open (Sân Campo Centrale)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/v4VsKEyMuk2EEBWUT8eGWw/Fv2lucGIbhPi2caWYvF5Lg/1747181974352/live/may28/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/B_LKaWBDagp0Xsgk6q-JQQ/Fv2lucGIbhPi2caWYvF5Lg/1747182599315/live/may28/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",16h00 ATP1000 Rome Open (Sân Grand Stand)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/M5C573SKrJ45vQLK02AuOw/Fv2lucGIbhPi2caWYvF5Lg/1747181974352/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/3v3MeWkCEg8LzmKgsjY8Bg/Fv2lucGIbhPi2caWYvF5Lg/1747182599315/live/may281/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",16h00 ATP1000 Rome Open (Sân SuperTennis)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/GJyQ9sMEw1NkHpuamu_VXw/Fv2lucGIbhPi2caWYvF5Lg/1747181974352/live/may6/playlist.m3u8
-#EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h30 Arges VS FC Voluntari (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/yeSQz13W05WT3IUAQ7SclA/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/sd-6MuS8Q6fBVvLug2nH1/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/CI6nqkBOeTHkmmvJMpPIBg/Fv2lucGIbhPi2caWYvF5Lg/1747182599316/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h30 Jannik Sinner vs Francisco Cerundolo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/rU2JKcb_8Y3mkVreC2eIJQ/e94fbd8082e0d1238fcf5da3554b20e5/1747181974/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
+https://live-xlvb.nsnd.live/7LZdxslBg5uTjoHk64FEww/e94fbd8082e0d1238fcf5da3554b20e5/1747182599/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h30 Jannik Sinner vs Francisco Cerundolo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/6aPaqVvBN5ez9Ln7oeCm_A/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/hucSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/DLJD2uZ7IsNtTlwCEjPjcw/Fv2lucGIbhPi2caWYvF5Lg/1747182599316/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h30 Jannik Sinner vs Francisco Cerundolo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/4gv-E4oQes7CTTOU9R7ilw/f13af37e22c82318c65a375473fc75f2/1747181974/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qRZhDok0ZlarYzuYLcg0KA/f13af37e22c82318c65a375473fc75f2/1747182599/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",23h45 SC Telstar VS ADO Den Haag (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/RG0rrUVx8P81ljDxtUa2Zg/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/sd-6MuSNL99D956zGNrrw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/HVUMMwjAe5bmVSIOIJfGBA/Fv2lucGIbhPi2caWYvF5Lg/1747182599316/live/sd-6MuSNL99D956zGNrrw/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/FCyz5_YzxHRJyWSrXB-JMQ/61b7c9f6fb3bff2f3c2273378af449b7/1747181974/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+https://live-xlvb.nsnd.live/er28mQUz4-r21Fvw-K-Kow/61b7c9f6fb3bff2f3c2273378af449b7/1747182599/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/tPmfwORsTjewH-6x8_gI7w/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/d-9Nk9p6YYQlZjY49zgx9A/Fv2lucGIbhPi2caWYvF5Lg/1747182599365/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/c5ZRrG3GCcXKtXQ_kdVIfA/e56ce8a755cda33e7f050da0b700d013/1747181974/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/VjTpE2xE8YvxeQdvGr_ZPQ/e56ce8a755cda33e7f050da0b700d013/1747182599/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (Nhà đài	)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/pH3WWQo2yP7ygp8IJpBtew/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/nAulWz2x5Ayc1HkCWCz4EA/Fv2lucGIbhPi2caWYvF5Lg/1747182599365/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/eyOJb4SLkDMgBcmdTmUStQ/5e80ef9f7927d7fe3e2715feff063a1a/1747181974/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/yogqM4x7ljDYdeIofvGevg/5e80ef9f7927d7fe3e2715feff063a1a/1747182599/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/3yDd00GZ1uyTfXNhJZeGAA/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/NaPpmzfevhAGGBiL9E1Z1w/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ysJhvdz3-DxyBrNtofbRFA/fc724b392eb664de8f0b54609b1e66f5/1747181974/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/dNmozTKoBcw9yriJKXWTPA/fc724b392eb664de8f0b54609b1e66f5/1747182599/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Real Valladolid vs Girona (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/pH3WWQo2yP7ygp8IJpBtew/Fv2lucGIbhPi2caWYvF5Lg/1747181974353/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/_dk0vGZTJolnCm4fFjdiMQ/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/z7DyCUEIDvyvE66K2xQuIQ/0b674066671a5356b75fdc1e1fd487b0/1747181974/live/_definst_/stream_1_1bda7@baoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/cRhPkcHPMFac6xXqAaw_-Q/0b674066671a5356b75fdc1e1fd487b0/1747182599/live/_definst_/stream_1_1bda7@baoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zkgmeU1W7nJc7GJZrwh1jg/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/baoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/zqsV65oKfqc6N8VN_V986w/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/baoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Y4ews_qpMFubAINJWTF-RA/c5d626322a01e0920b2c18ca97d94054/1747181974/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/6MJC6j7e6ucD_To-GInrpQ/c5d626322a01e0920b2c18ca97d94054/1747182599/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/i8OmZM9ZDvWffkEwsCz2Dw/fbc5fd0a829e41a59c011e80bc90bdb3/1747181974/live/_definst_/stream_1_1bda7@daHD/playlist.m3u8
+https://live-xlvb.nsnd.live/_xW3aSJS_VuYnGT5BVq9kQ/fbc5fd0a829e41a59c011e80bc90bdb3/1747182599/live/_definst_/stream_1_1bda7@daHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/K2z1R1MZIDfB4tDnxuXaJQ/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/daSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/uQ7_e_FlIfJvObjP99eC2A/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/daSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Al Nasr Dubai vs Shabab AlAhli (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DQSBgxSlSGcjhgKBe_a_VA/216a439451ab4126df1eead1ba49bd50/1747181974/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/bmo-6hUHIf0pjNSsYXFqSg/216a439451ab4126df1eead1ba49bd50/1747182599/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Zamalek SC VS Pyramids FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/d-Sx3WD7pn86KP61CF37hQ/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/sd-6MuS7x2gi5ownzHnKu/playlist.m3u8
+https://apisportzz179528093.nsnd.live/q2oe_MY0ZvYrsJ7hRzgGcg/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/sd-6MuS7x2gi5ownzHnKu/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Helsingborg VS IK Brage (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/ILKRNgI81pxES6R5rP2VNA/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/sd-6MtN8ReSooTbayLktT/playlist.m3u8
+https://apisportzz179528093.nsnd.live/fzsB8yJEW9aHdRfy3TDOZA/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/sd-6MtN8ReSooTbayLktT/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Ajman VS Ittihad Kalba FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Q8Vl_9enbRbc7H9am2chhA/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/sd-6MuScYewnmtsGFM3H5/playlist.m3u8
+https://apisportzz179528093.nsnd.live/GKgOZOPS7fM_ObCeANasEA/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/sd-6MuScYewnmtsGFM3H5/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h00 Haras El Hedoud VS Bank El Ahly (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/cpW-G_1zcM1_dEfzy_h4dQ/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/sd-6MuS7x2gi81RfU7hUo/playlist.m3u8
+https://apisportzz179528093.nsnd.live/YyzVFk_gbN8Y-I2gh2ZuSg/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/sd-6MuS7x2gi81RfU7hUo/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6ALwnXxFqLyrRXmiDpT5kQ/11553a292db421b3acfd01e6b41f6c9b/1747181974/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/vwA09ajEzslOF77d08aayg/11553a292db421b3acfd01e6b41f6c9b/1747182599/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/z8yL0BVfT0P8Vefv6Cm2pQ/Fv2lucGIbhPi2caWYvF5Lg/1747181974354/live/voiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/4i0TT_wao1MQn4o6WFxx-g/Fv2lucGIbhPi2caWYvF5Lg/1747182599366/live/voiSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Cf0O7OYZ7bxHY1XxxHZ7YQ/0d429cee859d1413d31a3e1db44fd57e/1747181974/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/2B__ZY_8wgpRomGDvRGWeA/0d429cee859d1413d31a3e1db44fd57e/1747182599/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Y3QFJZyB87Si_YLvD4QNdQ/0b2e28127a2e2b232b9e60c4c837a3d2/1747181974/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/hQWBWu_imoLsQgd3z9W2Dw/0b2e28127a2e2b232b9e60c4c837a3d2/1747182599/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/XtWADVIJax_G4pA23c5yWg/Fv2lucGIbhPi2caWYvF5Lg/1747181974355/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yia-OhYZbOcR5Pg9fcylVw/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 CSKA Sofia vs Spartak Varna (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ErPGk4SI-H2b1F4WzRYdjQ/4f331a41223542c17c4032aeaac138d5/1747181974/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/v2HEyQulU9lwkm1Y7F1x8w/4f331a41223542c17c4032aeaac138d5/1747182599/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/cZVHJndnkIqK7ttR7qTs6g/0aafe7a6d19bfafd5e27cf7084b37d51/1747181974/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/HBiiw9MfVUW4g0BY1BfDcQ/0aafe7a6d19bfafd5e27cf7084b37d51/1747182599/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/LxVtPjzTySoqbY7Vru7aAg/Fv2lucGIbhPi2caWYvF5Lg/1747181974355/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pmabeVjYFmt-HE5nXo_xKw/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/tTyxgghG2eLUpcEoWtDeAw/cac03b136a8c356be180b4618c6bfeb5/1747181974/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/bWj1j_aK_XRFuRxciO3bjw/cac03b136a8c356be180b4618c6bfeb5/1747182599/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/U_XKu1-4IPy9yy8cjuOBiA/778e7779236aef8ae68b578426d0ddb4/1747181974/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/eeLaqRdNV4d-nHbnZltmPg/778e7779236aef8ae68b578426d0ddb4/1747182599/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BP83YmWbwgJUHO_QaMDjTQ/Fv2lucGIbhPi2caWYvF5Lg/1747181974355/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/fb0q8rsHUu-EbRLUI4EDdw/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h15 Umm Salal vs Al Shamal (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/bmUA9As7B7duhbhxsx2lZA/aa2414c41b563aa2e0f4a276a0f50172/1747181974/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/CcpVd02p93TCUsPVG1dt4g/aa2414c41b563aa2e0f4a276a0f50172/1747182599/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h20 Jannik Sinner vs Francisco Cerundolo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/rU2JKcb_8Y3mkVreC2eIJQ/e94fbd8082e0d1238fcf5da3554b20e5/1747181974/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
+https://live-xlvb.nsnd.live/7LZdxslBg5uTjoHk64FEww/e94fbd8082e0d1238fcf5da3554b20e5/1747182599/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h20 Jannik Sinner vs Francisco Cerundolo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/LaOPedSKLfSy9kuhKFF0Tw/Fv2lucGIbhPi2caWYvF5Lg/1747181974355/live/hucSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/qz8dyzR3No1DzhkHKPb2_Q/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h20 Jannik Sinner vs Francisco Cerundolo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/4gv-E4oQes7CTTOU9R7ilw/f13af37e22c82318c65a375473fc75f2/1747181974/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qRZhDok0ZlarYzuYLcg0KA/f13af37e22c82318c65a375473fc75f2/1747182599/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h30 Naft Maysan SC VS Al Zawraa (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/FcrbATFtjKT4Op4rxHx8CA/Fv2lucGIbhPi2caWYvF5Lg/1747181974356/live/sd-6MuSd7DQ7Q19GzZ2Ao/playlist.m3u8
+https://apisportzz179528093.nsnd.live/vYZM7D-JNAif6pD5zi_aGQ/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/sd-6MuSd7DQ7Q19GzZ2Ao/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h40 Arthur Fils vs Alexander Zverev (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/3222VEN0b9rAaLYBFgMy8Q/5c978519fd4da0d4f4d7d1181446e6c9/1747181974/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Wm2XOGPrEQ98BXzmDirWzw/5c978519fd4da0d4f4d7d1181446e6c9/1747182599/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h40 Arthur Fils vs Alexander Zverev (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zw5kIbuAPI2-2A6gQIj1iw/Fv2lucGIbhPi2caWYvF5Lg/1747181974356/live/satSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/LzAarfBoyDm7rPlvmK2N8A/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h40 Arthur Fils vs Alexander Zverev (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DAvp8l5IDpSueZ1OQuJhKw/6b78b4ff262c15bca3bdb372d5d5d695/1747181974/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qY2vUsbJJwrkpKcg2B6hrQ/6b78b4ff262c15bca3bdb372d5d5d695/1747182599/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h45 Arthur Fils vs Alexander Zverev (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/3222VEN0b9rAaLYBFgMy8Q/5c978519fd4da0d4f4d7d1181446e6c9/1747181974/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Wm2XOGPrEQ98BXzmDirWzw/5c978519fd4da0d4f4d7d1181446e6c9/1747182599/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h45 Arthur Fils vs Alexander Zverev (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/zw5kIbuAPI2-2A6gQIj1iw/Fv2lucGIbhPi2caWYvF5Lg/1747181974356/live/satSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/LzAarfBoyDm7rPlvmK2N8A/Fv2lucGIbhPi2caWYvF5Lg/1747182599367/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",00h45 Arthur Fils vs Alexander Zverev (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DAvp8l5IDpSueZ1OQuJhKw/6b78b4ff262c15bca3bdb372d5d5d695/1747181974/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qY2vUsbJJwrkpKcg2B6hrQ/6b78b4ff262c15bca3bdb372d5d5d695/1747182599/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/dOeAyFDHE6l3rBQfDHunZA/ee9edaa79c6d2bdf3bb6484d076ab262/1747181974/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
+https://live-xlvb.nsnd.live/cjcNOx53Ge3S16H__y1OOg/ee9edaa79c6d2bdf3bb6484d076ab262/1747182599/live/_definst_/stream_1_1bda7@caHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pvr20mSvNcYQrK53OHVWeA/Fv2lucGIbhPi2caWYvF5Lg/1747181974356/live/caSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JugbDJRV3VahwNsokwspIQ/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/caSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/cBxLqBTiu3epiBU8GFmjsQ/cfb1d1e3eb5f383163a349652a8f21a5/1747181974/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/k26cpniSP-vZfyC5cKDpTQ/cfb1d1e3eb5f383163a349652a8f21a5/1747182599/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (Nhà đài	)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/-lSdpAZZmOz-Ttn4A_ixAw/Fv2lucGIbhPi2caWYvF5Lg/1747181974356/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/D5RaFTpCfDDaCPZ7TmOIbg/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/may111/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jtWcjpL61QqJSUUAgveTRA/099e82fb17c22635f01902e2355c5ade/1747181974/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/mp46ZEGsf9dy7yCZ2XPZ0Q/099e82fb17c22635f01902e2355c5ade/1747182599/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/-jsA6RDswAAC3OD7yLIBsw/Fv2lucGIbhPi2caWYvF5Lg/1747181974357/live/Z1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/dEKIEKk-ZiR7QrsF6sOHxw/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/Z1SD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/sjyh8aSF-ZHjrZxMSVe2Sg/bf44ba621235a4936d4c6ae6054d551e/1747181974/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Y8z0dYB95wx2ASNDJxcOxg/bf44ba621235a4936d4c6ae6054d551e/1747182599/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Real Sociedad vs Celta Vigo (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/qTPYlFtXnsS4yvJ9YvGojA/Fv2lucGIbhPi2caWYvF5Lg/1747181974357/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/D5RaFTpCfDDaCPZ7TmOIbg/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/may111/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Atletico Mineiro Youth VS Internacional RS U20 (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/2ryNkQZzLVsILquh8IlkgA/Fv2lucGIbhPi2caWYvF5Lg/1747181974357/live/sd-6MuS8LqfGWDE2mQHbZ/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Eg4Bt5a7h8pNBkVy9WdTyA/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/sd-6MuS8LqfGWDE2mQHbZ/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",01h00 Gimnasia LP (w) VS Huracan (w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/0VZgovWH53fpFAZLtaHmNw/Fv2lucGIbhPi2caWYvF5Lg/1747181974357/live/sd-6MuSd7BCf1F4JYsm9m/playlist.m3u8
+https://apisportzz179528093.nsnd.live/f4RwiFYX6S7fZzIjt8agJw/Fv2lucGIbhPi2caWYvF5Lg/1747182599368/live/sd-6MuSd7BCf1F4JYsm9m/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/my125.jpg",[0] Highlights Al Akhdoud vs Al Nassr | BLV Mỳ Tôm | 13.5.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
