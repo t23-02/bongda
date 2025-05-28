@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/26925b43cbc2bd9c860f9910fe3451dd.png",02h30 Sportivo Oliveno vs Club Libertad FBC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/ef3ffca5999d743d407f842333124fbb/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/e55c4e513733efe6baf71d4914d4ce64.png",03h00 Excursionistas vs Argentinos Juniors 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -35,6 +31,14 @@ https://2893254555.global.cdnfastest.com/live/68377fb85d6d3_4915/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68377fb85d6d3_4915.flv?expire=1749072440&sign=274249af872a9532c6c33e47bc7716f7
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/47174721b260fae6e833329c13c9f2ee.png",05h00 CA Independiente vs Nacional Potosi [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/683780b85d6d3_11719/index.m3u8?expire=1749072696&sign=74dee7dcc038fcdb60eae96565799af6
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/47174721b260fae6e833329c13c9f2ee.png",05h00 CA Independiente vs Nacional Potosi [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/683780b85d6d3_11719.flv?expire=1749072696&sign=74dee7dcc038fcdb60eae96565799af6
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/1a72de006966355cce5d44b54fa8079b.png",05h00 Club Guaraní vs Boston River [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -83,10 +87,30 @@ https://chcdn.livestreameuro.live/live/chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/chuoihd1.flv
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="",02h30 Sportivo Oliveno VS Club Libertad FBC (CK) Backup 1
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/kFojZHEOuMoXWqgecY3SHw/Fv2lucGIbhPi2caWYvF5Lg/1748482806723/live/sd-6MuSNVzYsP95W9Mvcj/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/e55c4e513733efe6baf71d4914d4ce64.png",03h00 Excursionistas VS Argentinos Juniors (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -147,6 +171,34 @@ https://ckcdn.livestreameuro.live/live/chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/e55c4e513733efe6baf71d4914d4ce64.png",03h00 Excursionistas vs Argentinos Juniors (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -191,6 +243,30 @@ https://ckcdn.livestreameuro.live/live/chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7fc8831956b0f4fab51d0390a3957780.png",05h00 Internacional vs Bahia (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/e55c4e513733efe6baf71d4914d4ce64.png",03h00 Excursionistas vs Argentinos juniors (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
