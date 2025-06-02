@@ -19,10 +19,6 @@ https://2893254555.global.cdnfastest.com/live/683c33d35d994_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/683c33d35d994_6308.flv?expire=1749380691&sign=e99411fd895e451cf3bcf23d15d6bbbc
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/4ee24366d09a9239bb2c4207a5008111.png",08h15 Atletico Nacional Medellin vs Deportiva Once Caldas 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/454c8748397c2e2d26e1d01c702dffc2/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/4ee24366d09a9239bb2c4207a5008111.png",08h15 Atletico Nacional Medellin vs Deportiva Once Caldas [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -31,6 +27,10 @@ https://2893254555.global.cdnfastest.com/live/683cf39c5d994_4733/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/683cf39c5d994_4733.flv?expire=1749429788&sign=4df34babecf739cdcdf09919e295ccc3
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f9be02c8217b577960c698fbc0f29f24.png",09h00 Los Angeles FC II vs San Jose Earthquakes Reserve 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d0fb3f888a2312a3cf82f0ad701501c1/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f93ca58969938ab5583e30e71d8e31a4.png",09h00 Ventura County FC vs Real Monarchs 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -315,6 +315,30 @@ https://hls.cdnokvip.com/live/LYUNG1/index.m3u8?expire=1892637000&sign=9e3eb83ad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls35.live/
 https://flv.cdnokvip.com/live/LYUNG1.flv?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2 
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) BLV QUAN THẮNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) BLV QUAN THẮNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) TRỢ LÝ ĐIÊU THUYỀN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/DIEUTHUYEN/index.m3u8?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) TRỢ LÝ ĐIÊU THUYỀN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/DIEUTHUYEN.flv?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) BLV SONG NHI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/SONGNHI1/index.m3u8?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20170523174122.jpg?win007=sell",09h00 Ventura County FC vs Real Monarchs (LS) BLV SONG NHI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/SONGNHI1.flv?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",08h00 Cruz Azul vs Vancouver Whitecaps (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -415,6 +439,10 @@ https://apisportzz179528093.nsnd.live/ow7FRNojpUUgJ2STAeH4mg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/PJ0E7QA9mpmfegrUMHDk2Q/Fv2lucGIbhPi2caWYvF5Lg/1748851142024/live/sd-6MuSNVy54bsTXbW5DV/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/f93ca58969938ab5583e30e71d8e31a4.png",09h00 Ventura County FC vs Real Monarchs (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/jori4bl_eHaaFNl7HxcEKA/Fv2lucGIbhPi2caWYvF5Lg/1748851023230/live/sd-6MuSNVy54Zfyf7gA4b/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/cuon16.jpg",[0] Fullmatch PSG vs Inter Milan | BLV Bánh Cuốn | 1.6.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
