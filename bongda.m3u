@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/14479c8e663307cbedc2a23fb61be7df.png",12h00 Heisei Kokusai University vs Tokyo University of Economics 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/a06debcb10b182e691b5470eaf2e00d3/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/21ca12f8e95da9ec7d35ff7e12bc2610.jpg",12h45 BAEK Ha Na vs Apriyani RAHAYU [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -19,6 +15,10 @@ https://2893254555.global.cdnfastest.com/live/68413ce45d6d5_6315/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68413ce45d6d5_6315.flv?expire=1749710692&sign=4ad10c97ad9396171610825b20456404
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 Boeun Sangmu (w) vs Gyeongju FC (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/460d445c7aeb2ed00c500e9b8dcd0636/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 Boeun Sangmu (w) vs Gyeongju FC (w) [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -59,10 +59,6 @@ https://chcdn.livestreameuro.live/live/caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/cayhd1.flv
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="",12h00 Jobu University VS Tokyo Gakugei University (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/SC5M73dkMWQUFOYaXi91Cw/Fv2lucGIbhPi2caWYvF5Lg/1749121803618/live/sd-6MuSNnGncpSRkYQfgw/playlist.m3u8
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/14479c8e663307cbedc2a23fb61be7df.png",12h00 Heisei Kokusai University VS Tokyo University of Economics (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -99,14 +95,54 @@ https:/ckcdn.livestreameuro.live/live/caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cayhd1.flv
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1749093271.png",10h15 Đức vs Bồ Đào Nha (LS) BLV KHÔNG NGỦ m3u
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV DẾ LỬA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls35.live/
-https://hls.cdnokvip.com/live/TEST/index.m3u8?expire=1841039400&sign=96fcf5f00f6a32b0c59a452c3277c2dd
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1749093271.png",10h15 Đức vs Bồ Đào Nha (LS) BLV KHÔNG NGỦ flv
+https://hls.cdnokvip.com/live/DELUA/index.m3u8?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV DẾ LỬA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls35.live/
-https://flv.cdnokvip.com/live/TEST.flv?expire=1841039400&sign=96fcf5f00f6a32b0c59a452c3277c2dd
+https://flv.cdnokvip.com/live/DELUA.flv?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV LÂM XUNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/LAMXUNG/index.m3u8?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV LÂM XUNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/LAMXUNG.flv?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV QUAN THẮNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV QUAN THẮNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) TRỢ LÝ ĐIÊU THUYỀN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/DIEUTHUYEN/index.m3u8?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) TRỢ LÝ ĐIÊU THUYỀN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/DIEUTHUYEN.flv?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/LYUNG1/index.m3u8?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/LYUNG1.flv?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2 
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV SONG NHI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://hls.cdnokvip.com/live/SONGNHI1/index.m3u8?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10644/1gw8ppsgvw1e.png?win007=sell",14h00 Boeun Sangmu (W) vs Gyeongju FC (W) (LS) BLV SONG NHI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls35.live/
+https://flv.cdnokvip.com/live/SONGNHI1.flv?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 Boeun Sangmu (w) vs Gyeongju FC (w) (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -131,10 +167,6 @@ https://ckcdn.livestreameuro.live/live/caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cayhd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="",12h00 Jobu University vs Tokyo Gakugei University (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/usX4OF_lrZLZUNdEPJMyFQ/Fv2lucGIbhPi2caWYvF5Lg/1749121801441/live/sd-6MuSNnGncpSRkYQfgw/playlist.m3u8
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/10f3c12ec2b9d20d25e5bb39699775fd.png",12h00 Seikei University vs Hakuoh University (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -143,6 +175,10 @@ https://apisportzz179528093.nsnd.live/HmSz-9pgpgQWxFOl_fcwIw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/sjglV8rEhyHh8xS6su1mzQ/Fv2lucGIbhPi2caWYvF5Lg/1749122103003/live/sd-6MuSNnGncHfhZpqqYP/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/8db543b804198eba62d7ca7c1d5aeb1b.png",14h00 Boeun Sangmu (w) vs Gyeongju FC (w) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gUQGmh9e2gOx27IKvgcR2Q/Fv2lucGIbhPi2caWYvF5Lg/1749128100834/live/sd-6MuRsjYN6tjLRtr9Rd/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/my56.jpg",[0] Fullmatch Đức vs Bồ Đào Nha | BLV Mỳ Tôm | 5.6.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
