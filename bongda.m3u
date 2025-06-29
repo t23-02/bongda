@@ -15,10 +15,6 @@ https://2893254555.global.cdnfastest.com/live/6861559f82775_22/index.m3u8?expire
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6861559f82775_22.flv?expire=1751814175&sign=01cd875c489734cee274b8f83a332dc4
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/3091777d4e5cf166b1039ac3fffe05ae.png",22h30 Farul Constanta vs Egnatia 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/2993c4d5cb5789d8a8b9f8ea4b6c812a/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/5ca231d16159a5bb36151e6b274df2e7.png",23h00 Sporting Cristal vs Comerciantes Unidos 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -95,6 +91,10 @@ https://2893254555.global.cdnfastest.com/live/6861675a82775_4733/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6861675a82775_4733.flv?expire=1751818714&sign=a1f5f084d9437fd4876f28a6a35500ad
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Vålerenga Fotball Elite 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/1d1dc53fa4519d5e6d7ddcbec7445906/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Vålerenga Fotball Elite [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -681,6 +681,18 @@ https://hls.cdnokvip.com/live/TRUONGTHANH/index.m3u8?expire=1841990040&sign=a6b7
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/200842310495238366.gif?win007=sell",00h00 North Korea (W) vs Tajikistan (W) (LS) BLV TRƯƠNG THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/TRUONGTHANH.flv?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1285/1gxmbm1ncn10.png?win007=sell",00h15 Stromsgodset vs Valerenga (LS) BLV ODIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/ODIN/index.m3u8?expire=1892979900&sign=edf2447a8675bf94b650662debde4ce7
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1285/1gxmbm1ncn10.png?win007=sell",00h15 Stromsgodset vs Valerenga (LS) BLV ODIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/ODIN.flv?expire=1892979900&sign=edf2447a8675bf94b650662debde4ce7
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1285/1gxmbm1ncn10.png?win007=sell",00h15 Stromsgodset vs Valerenga (LS) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1285/1gxmbm1ncn10.png?win007=sell",00h15 Stromsgodset vs Valerenga (LS) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/DUONGQUA.flv?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9fb9e3f678e900bfa7c8150ffd6c9d97.png!w100",22h00 Uzbekistan (w) vs Sri Lanka (w) (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -905,6 +917,34 @@ https://apisportzz179528093.nsnd.live/dFdsVIzjo3SIZrXLBR97ZA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/tM6R2wa6_IScdH0M8V1_hA/Fv2lucGIbhPi2caWYvF5Lg/1751238287234/live/sd-6MtN8NKnU4gt4CzMpX/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/9dc621a3daae505518ad994d14ce05db.png",23h00 Slutsksakhar Slutsk vs Arsenal Dzyarzhynsk (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/8ZX4lyFdJDrU52XAl4G9Rg/Fv2lucGIbhPi2caWYvF5Lg/1751234343227/live/sd-6MuS7tmgdW2FiheRqd/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://static.flashscore.com/res/image/data/vRWklYYg-A5NQVAWs.png",00h00 Vestri vs Akranes (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/oDXb9nJuqRg_Wlbm6ayxow/Fv2lucGIbhPi2caWYvF5Lg/1751237822452/live/sd-6MtN8NKnUBHKfeU7HD/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/North%20Korea(1).png",00h00 North Korea (w) vs Tajikistan (w) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/38iXW3c_X8qSTCbd_9-Tjg/Fv2lucGIbhPi2caWYvF5Lg/1751237822570/live/sd-6MuSNnFKpFCtcuWTto/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Valerenga (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/daHD.flv?expire=1751236800&sign=07cc7ebec8245f974b9ffc3918d98ac3
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Valerenga (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/HhJXjGCDu_8RYKQxjTkxSg/fbc5fd0a829e41a59c011e80bc90bdb3/1751236800/live/_definst_/stream_1_1bda7@daHD/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Valerenga (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vtAWxuOloSOCupST3n1MnQ/Fv2lucGIbhPi2caWYvF5Lg/1751236800001/live/daSD/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/87cdaec6bdbed3b83fe57dd73386bbee.png",00h15 Stromsgodset vs Valerenga (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/F1HF57IHvpVlgTidhgRwmQ/216a439451ab4126df1eead1ba49bd50/1751236800/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/images/20250627-RBS-RMA-1.jpg",[0] Fullmatch Red Bull Salzburg vs Real Madrid | BLV Mun Nai | 27.6.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
