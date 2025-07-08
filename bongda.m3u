@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/7dfac73484b7ac128810c09acd77c4a1.png",09h00 Napa Valley 1839 (W) vs San Francisco Elite (W) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/3ee20266bc204c8e88cd05351b936b34/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/a42e531aae5a6e04914f1bd7bda64d3d.jpg",10h00 Ko Ping Han vs Nguyễn Anh Tuấn Minh [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -11,6 +7,10 @@ https://2893254555.global.cdnfastest.com/live/686c84b117f00_22/index.m3u8?expire
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/686c84b117f00_22.flv?expire=1752547121&sign=0d8c0ace0a4fc58e83c3db757e1cefeb
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/f5f7bdf5f65a95a775ffaf7124663fa7.png",11h00 Vanuatu (w) vs Solomon Islands (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a1dd1120453fd94109c29a66333df70e/playlist.m3u8
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img0.aiscore.com/football/team/d91f7910cd3924264d0a7732a94a624b.png!w100",11h00 Vanuatu (w) vs Solomon Islands (w) (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -99,12 +99,12 @@ https://ckcdn.livestreameuro.live/live/lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1751930415.png",11h00 Vanuatu (W) vs Solomon Islands (W) (LS) BLV TÔN QUYỀN m3u
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1751930415.png",11h00 Vanuatu (W) vs Solomon Islands (W) (LS) TRỢ LÝ ĐIÊU THUYỀN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONQUYEN1/index.m3u8?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1751930415.png",11h00 Vanuatu (W) vs Solomon Islands (W) (LS) BLV TÔN QUYỀN flv
+https://hls.cdnokvip.com/live/DIEUTHUYEN/index.m3u8?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1751930415.png",11h00 Vanuatu (W) vs Solomon Islands (W) (LS) TRỢ LÝ ĐIÊU THUYỀN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONQUYEN1.flv?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
+https://flv.cdnokvip.com/live/DIEUTHUYEN.flv?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img0.aiscore.com/football/team/d91f7910cd3924264d0a7732a94a624b.png!w100",11h00 Vanuatu (w) vs Solomon Islands (w) (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -129,10 +129,6 @@ https://ckcdn.livestreameuro.live/live/lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="",09h00 Napa Valley 1839 (W) vs San Francisco Elite (W) (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rRXx8qMpDSlXoHPRaJjDbw/Fv2lucGIbhPi2caWYvF5Lg/1751963704991/live/sd-6MuTcUChDXyGCMyQ2w/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/miami060725.jpg",[0] Fullmatch Inter Miami vs CF Montreal | BLV Bánh Cuốn | 06.07.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
