@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/69dcd46dc6f9a176684d6b1aee4eb0ac.png",02h00 Jefrey Roda vs Jayson Shaw [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68825962827bd_8310/index.m3u8?expire=1753977826&sign=59e218c710a5c23419f09e379faabb8a
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/69dcd46dc6f9a176684d6b1aee4eb0ac.png",02h00 Jefrey Roda vs Jayson Shaw [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68825962827bd_8310.flv?expire=1753977826&sign=59e218c710a5c23419f09e379faabb8a
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/3a24378f3f2e938ee5eee629c2d2c5a1.png",02h00 Ameer Ali vs Luong Duc Thien [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -91,6 +83,14 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/1a72de006966355cce5d44b54fa8079b.png",05h00 Guarani CA vs Universidad de Chile (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png",05h00 Metropolitanos FC vs Academia Anzoategui (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c0d08b2ac1894d1137e4089805d5f8d7.png",02h30 Deportivo Miranda VS Maritimo de La Guaira (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -127,6 +127,14 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/1a72de006966355cce5d44b54fa8079b.png",05h00 Guarani CA vs Universidad de Chile (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png",05h00 Metropolitanos FC vs Academia Anzoategui (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3dfa700c1f084e5a18fc926d6f7ae427.png",03h30 Gualaceo SC vs CD Independiente Juniors (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -135,6 +143,14 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/1a72de006966355cce5d44b54fa8079b.png",05h00 Guarani CA vs Universidad de Chile (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png",05h00 Metropolitanos FC vs Academia Anzoategui (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/da197.jpg",[0] Highlights Reading vs Tottenham | BLV Người Đá | 19.7.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
