@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/ae980a2cd3bb6b8e542f175a6fcad41e.png",20h30 Nyva Ternopil B vs Kulykiv 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/2081525e4aa3b70a72bc814e848de6a6/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/5b880ea9815173996cd07ab4898b295c.png",21h00 Neftchi Fargona vs Nasaf Qarshi 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -63,6 +59,14 @@ https://2893254555.global.cdnfastest.com/live/6899f83917f07_12524/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6899f83917f07_12524.flv?expire=1755525817&sign=9f03ce020cf64747543273974162ad8c
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/cc6d0105f751057a74ad7580822737f7.png",23h00 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/689a0c2817f07_5153/index.m3u8?expire=1755530920&sign=d578961ea2a405db0d22b374a5b24efd
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/cc6d0105f751057a74ad7580822737f7.png",23h00 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/689a0c2817f07_5153.flv?expire=1755530920&sign=d578961ea2a405db0d22b374a5b24efd
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png",23h00 HJK Helsinki vs Ilves Tampere [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -235,10 +239,30 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="",20h30 Nyva Ternopil B VS Kulykiv (CK) Backup 1
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/QQlu1cSIHd8eY-MJyj7A8w/Fv2lucGIbhPi2caWYvF5Lg/1754940903291/live/sd-6MuPtxNWQfXBZ3NZgF/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://image-eu-na-q2h7.4shares.live/thesports/team/SouthAfrica.png",21h00 South Africa vs Guinea (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -503,6 +527,34 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018843635.png?win007=sell",21h00 South Africa vs Guinea (LS) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/NHIKA1/index.m3u8?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
@@ -787,6 +839,30 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b7e1d23bb62776473efc5ef196a98de5.png",23h00 FC Botosani vs Arges (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/da197.jpg",[0] Highlights Reading vs Tottenham | BLV Người Đá | 19.7.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
