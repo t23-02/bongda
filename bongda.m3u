@@ -27,10 +27,6 @@ https://2893950149.global.cdnfastest.com/live/689c4f7982803_22.flv?expire=175567
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/e2ea8a989b1ef54dd56de9c87075fd5c/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/8e53ebb3491f836f5cbdae18388bb178.png",16h00  vs Shandong Zhujiazhuang 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/1ba428614f331a713de0163753223c88/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/2099aa2b1aa17c79ba159df9fcc01f8b.png",16h00 U21 USA vs U21 Bulgaria [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -39,6 +35,10 @@ https://2893254555.global.cdnfastest.com/live/689c4b9f17f07_39467/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/689c4b9f17f07_39467.flv?expire=1755678239&sign=96662e9af4eb1f828df65def0b4c1943
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/d5377d5885e254915d21b81d19ccbb9e.png",16h15 Xizang MotuoXian FC vs HongKong Accounting 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/42e5489cc6022edd537d26df077bbf28/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/ff2e694966de559719f778b5c79ea2ad.png",16h30 Avondale FC vs A.P.I.A. Leichhardt Tigers [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -119,6 +119,54 @@ https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/cayhd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1.flv
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/1965f2a571c94bcfadfa5b07672c9ecc.png",15h00 Beijing (w) VS Jiangsu Wuxi (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -227,6 +275,62 @@ https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https:/ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) RaKhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (CKhia) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1.flv
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7634/1gxw2287pxx.png?win007=sell",16h00 Sydney United vs Blacktown City Demons (LS) BLV LƯ TUẤN NGHĨA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
@@ -307,6 +411,54 @@ https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3728683390847f335552d077cf0b8752.png",16h30 South Melbourne vs Auckland FC (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0e0b5aff4e3af67154745e241c44e0e0.png",16h30 Cooks Hill United vs Newcastle Jets (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1.flv
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/da197.jpg",[0] Highlights Reading vs Tottenham | BLV Người Đá | 19.7.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
