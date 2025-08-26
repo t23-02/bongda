@@ -1,7 +1,11 @@
 #EXTM3U
 
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/614e71bf15778cadb40966799f270763.png",05h30 Bogota FC vs Cucuta Deportivo [hls]
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/17b1d56216d0b9ed7bf678c6b553ef17.png",13h30 Gansu Gannan vs Qinghai Huangnan 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ea33ef11a38a3cb6d4175565a82db033/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/614e71bf15778cadb40966799f270763.png",05h30 Bogota FC vs Cucuta Deportivo [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68acdd7d5bab7_18754/index.m3u8?expire=1756764157&sign=6ad4fc5e9496b80848db324ec0901caa
@@ -131,14 +135,6 @@ https://live.alilicloud.com/live/576decd999783bf58ad4dbb3e04a3293/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4041fec6c26d5c3d5b8eb3de033c86c9/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e1aa497ed73d54411618514d3a1a4db0/image/small",07h15 Club Atlético Lanús vs River Plate (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/06fbc58181ce31851d007d0b4d17cb14/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/2abb4fe185195e894ac90e4bb144c778/image/small",07h30 Avaí FC vs Amazonas FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a96158b4fd99328af09f40f6fdfc1449/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/453e9a9bd944a3e3210ba2fe85080691/image/small",08h00 Santa  Ana vs AD Cariari Pococi (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -179,6 +175,10 @@ https://live.alilicloud.com/live/576decd999783bf58ad4dbb3e04a3293/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4041fec6c26d5c3d5b8eb3de033c86c9/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/8bf193a203572a59cc811e12e0869a22/image/small",13h30 Gansu Gannan vs Qinghai Huangnan (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ea33ef11a38a3cb6d4175565a82db033/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1756184455.png",12h00 Newcastle United vs Liverpool (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
