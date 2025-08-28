@@ -17,10 +17,6 @@ https://live.alilicloud.com/live/3b448e1673a0fea508f0df77d4b216ed/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/75b227d63227f7f093c50e6388db7e00/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/55b51df91aa271033ebbca2cdfbbd0d7.png",19h00 FC Syunik vs MIKA Ashtarak 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/23fc21f0e84030371efab95d4cd21430/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",19h15 Cong An Ha Noi FC vs TT Hanoi 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -53,6 +49,10 @@ https://live.alilicloud.com/live/53a5580899e72064a0751e715411014f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/75cbcc61ce3a40173c9bb744aa29de71/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/56445b7fccea061fbee0ac71cbd53a83.png",21h00 Ordabasy vs Kyzylzhar Petropavlovsk 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/2e7cca0ae3ad54636d3d3febd1a859ae/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png",21h00 Corvinul Hunedoara vs Farul Constanta [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -861,30 +861,12 @@ https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/biphd2/playlist.m3u8
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV TÔN QUYỀN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONQUYEN1/index.m3u8?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV TÔN QUYỀN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONQUYEN1.flv?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210526144219.png?win007=sell",19h00 Ekibastuzets vs Akademiya Ontustik (LS) BLV KENCHU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/KENCHU/index.m3u8?expire=1892009160&sign=30771bf570c67e55c06cc8aead1099ee
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210526144219.png?win007=sell",19h00 Ekibastuzets vs Akademiya Ontustik (LS) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/KENCHU.flv?expire=1892009160&sign=30771bf570c67e55c06cc8aead1099ee
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONGGIANG.flv?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV GUMA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/GUMA/index.m3u8?expire=1891237320&sign=25b2eb2226ea9bf94dda7c8ec8abc96c
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1727347959.png",19h00 Kairat Almaty II vs AKAS Almaty (LS) BLV GUMA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/GUMA.flv?expire=1891237320&sign=25b2eb2226ea9bf94dda7c8ec8abc96c
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1744383645.webp",19h15 Cong An Ha Noi vs Hanoi FC (LS) BLV RICARDO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/RICARDO/index.m3u8?expire=1890804960&sign=a6f6dbb20b7053144fee781388230cfb
@@ -2143,14 +2125,6 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/1a7d0a769f8048fc8d9a5c09577d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/1a7d0a769f8048fc8d9a5c09577d35f3_720/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1753353372.jpg",19h00 Kairat Almaty II vs AKAS Almaty (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANCA/index.m3u8?expire=1892613780&sign=3a68ce9186d903d9bed821fd0e8e3054
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1753353372.jpg",19h00 Kairat Almaty II vs AKAS Almaty (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANCA.flv?expire=1892613780&sign=3a68ce9186d903d9bed821fd0e8e3054
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20210526144219.png?win007=sell",19h00 Ekibastuzets vs Akademiya Ontustik (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
