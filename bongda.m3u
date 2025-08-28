@@ -853,3 +853,11 @@ https://live.alilicloud.com/live/1eaf3199cf57dc8cbda6630feabab531/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/78dd44409765ab9c749dd84c4bdd7f81/playlist.m3u8
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1756357593.png",12h00 Inter millan vs Torino FC (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANVE/index.m3u8?expire=1891698660&sign=9796508c7cfc2018d21873968104e8e1
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1756357593.png",12h00 Inter millan vs Torino FC (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANVE.flv?expire=1891698660&sign=9796508c7cfc2018d21873968104e8e1
