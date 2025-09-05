@@ -530,3 +530,11 @@ https://live.alilicloud.com/live/7487612074d85b0d947754b3d8a87877/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e80d796e2f414e8c60494e4a3c208301/playlist.m3u8
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1757048473.png",12h05 Bulgaria vs Tây Ban Nha (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANNHOM/index.m3u8?expire=1891841280&sign=67c3f970d8b364ca14767d3aa6058fa5
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1757048473.png",12h05 Bulgaria vs Tây Ban Nha (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANNHOM.flv?expire=1891841280&sign=67c3f970d8b364ca14767d3aa6058fa5
