@@ -75,6 +75,14 @@ https://live.alilicloud.com/live/4c6f646fa046207b2c5671b47e4d8153/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/8ac7cde8ecfbc47b422fd6265543ddc9/playlist.m3u8
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/33593e70523f632c3184fab3ca8fb5e9.png",22h00 Vegar vs Esbjerg [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c18bcc2f365_12524/index.m3u8?expire=1758119500&sign=05753b1f1c201218b9f8fe2f410169ed
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/33593e70523f632c3184fab3ca8fb5e9.png",22h00 Vegar vs Esbjerg [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c18bcc2f365_12524.flv?expire=1758119500&sign=05753b1f1c201218b9f8fe2f410169ed
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",22h00 FK Fankom vs Khimik Dzerzhinsk 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -83,10 +91,6 @@ https://live.alilicloud.com/live/9cc0d622d311ce1ddf9630e58ec1fc58/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/bb63e50031eec978ac1612fb6d292807/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/82084ca945ad6d884135a45828136323.png",23h30 Kristall MEZ Borisoglebsk vs FK Spartak Tambov 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/611bc4c2e8e65adf87e6178050aae87e/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/82084ca945ad6d884135a45828136323.png",23h30 Kristall MEZ Borisoglebsk vs FK Spartak Tambov [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1143,6 +1147,14 @@ https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23511/1h6z25j43p16.png?win007=sell",22h00 Vegar vs Esbjerg (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANCA/index.m3u8?expire=1892613780&sign=3a68ce9186d903d9bed821fd0e8e3054
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23511/1h6z25j43p16.png?win007=sell",22h00 Vegar vs Esbjerg (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANCA.flv?expire=1892613780&sign=3a68ce9186d903d9bed821fd0e8e3054
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757405144-0-0-ecc07a579c17849078736e1c50e1a59c
