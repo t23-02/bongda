@@ -55,6 +55,10 @@ https://2893254555.global.cdnfastest.com/live/68c280422f365_5160/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68c280422f365_5160.flv?expire=1758182082&sign=b1ea82010c7d143f0262370f52e554ed
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e4577f1904bce88877a67e64500ccbcc.png",20h00 AKAS Almaty vs FC Shakhtyor Karagandy 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/1b18b0997883d3f5afd82fa799384496/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e4577f1904bce88877a67e64500ccbcc.png",20h00 AKAS Almaty vs FC Shakhtyor Karagandy [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -63,14 +67,10 @@ https://2893254555.global.cdnfastest.com/live/68c2c3f12f366_22/index.m3u8?expire
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68c2c3f12f366_22.flv?expire=1758199409&sign=09e8764bdf34f742be918aa18a5e4a79
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a73440391194d9ca64ea0826f5d8d0aa.png",20h00 Sabutaroti billisse B vs FC Gonio [hls]
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/3c4144192e2493299f0c13baa6a1fafa.png",20h00 FK Yarud Mariupol vs FC Livyi Bereh 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c2c6eb2f366_42127/index.m3u8?expire=1758200171&sign=7deecfecd07271d11f17d31cb950e77d
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a73440391194d9ca64ea0826f5d8d0aa.png",20h00 Sabutaroti billisse B vs FC Gonio [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c2c6eb2f366_42127.flv?expire=1758200171&sign=7deecfecd07271d11f17d31cb950e77d
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/8f478b06990974a584eb492ff2eb9fb6/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/d3388340534301c5b069a93854523ea9.png",20h00 Zimbabw U17 vs Mozambique U17 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -195,10 +195,74 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (CH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/bomsd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/bomhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",01h00 ngày 25.09 AZ Alkmaar vs PEC Zwolle (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/L89WD58TLKJ3Zanff62DRg/Fv2lucGIbhPi2caWYvF5Lg/1757615764984/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/JQnWxzVZoqY4nAFl3BGqTQ/Fv2lucGIbhPi2caWYvF5Lg/1757617567248/live/may101/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 ngày 11.09 Ittihad Kalba FC vs Al-Wahda FC (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1757617567&sign=9008e9daf77cbe6ff5e1dcf4b85a4b24
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 ngày 11.09 Ittihad Kalba FC vs Al-Wahda FC (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/kboPYJmqclL6gEj_WFGsAQ/2b6f412a8d5f1f173548083dc2d6020e/1757617567/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 ngày 11.09 Ittihad Kalba FC vs Al-Wahda FC (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/aQNvp5U4ZjvgNCNjdqpvUQ/Fv2lucGIbhPi2caWYvF5Lg/1757617567625/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 ngày 11.09 Ittihad Kalba FC vs Al-Wahda FC (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Dt6O5MWW5BYxna03_GFUdQ/883ca40e5184f080c92fcfdbaf37405d/1757617567/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/v2/team/91cf23812e9c322f3095477dadbe2b52.png",04h10 ngày 12.09 Elise Mertens vs Elsa Jacquemot (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -339,6 +403,54 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) SD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) SD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Cà Khịa) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Cà Khịa) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",19h30 FK MOIK Baku vs Shahdagh Qusar (LẤY KINH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -451,6 +563,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8  
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (LẤY KINH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941034098.png?win007=sell",19h00 Persita Tangerang vs PSM Makassar (LS) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -571,6 +731,36 @@ https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401e
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2012121931203.gif?win007=sell",19h30 Zaqatala FK vs Cəbrayıl FK (LS) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV CÔNG TÔN THẮNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV CÔNG TÔN THẮNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONTHANG.flv?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV SÁCH SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV SÁCH SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SACHSIEU1.flv?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV ZORO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (LS) BLV ZORO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/da85ffb03146e72ce9928729dcabda51.png",19h00 Persita Tangerang vs PSM Makassar (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -691,6 +881,54 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",19:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Persita và PSM Makassar (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -835,54 +1073,6 @@ https://live.alilicloud.com/live/d8387c8f416817a27e821faec36b0a96/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/fdcdee74e69c52454addcfd7c95797e2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png",18h00 Akademiya Ontustik vs FK Aktobe II (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png",18h00 Yassy Turkistan vs Khan Tengri FC (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",19h30 FK MOIK Baku vs Shahdagh Qusar (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -995,6 +1185,54 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8  
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/cca0ed101d29fbd7a21236dbc732050a.png",20h30 Mashal Muborak vs Shurtan Guzor (QUAY TAY) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/13357ea7bc5121e6daf03d2b70dc9d46.png",20h40 Ittihad Kalba FC vs Al-Wahda FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130604_74c6b78d.png",18h00 ngày 11 Akademiya Ontustik vs Aktobe Jas (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1115,30 +1353,6 @@ https://live.alilicloud.com/live/c8589000a947c7f8431b98bf2277b649/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/475612246acada2b4a3925e6b23141ec/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/1d29009081d14f3e80854f85cec0fd1e_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/1d29009081d14f3e80854f85cec0fd1e_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/1d29009081d14f3e80854f85cec0fd1e_480/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/1d29009081d14f3e80854f85cec0fd1e_720/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/1d29009081d14f3e80854f85cec0fd1e_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1babccfe06ecc2b1f095790cd403c8/image/small",18h00 Yassy Turkistan vs Khan Tengri FC (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/1d29009081d14f3e80854f85cec0fd1e_720/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/346279af2424c3a2292ce94ee5aabcd2/image/small",16h00 Irkutsk vs KDV Tomsk (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1211,6 +1425,30 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/e2ad4c162ded4d0abbe44eb9feee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/e2ad4c162ded4d0abbe44eb9feee9899_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/3696f29d92ed49b6b9dd2d8df0ddee2d_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/3696f29d92ed49b6b9dd2d8df0ddee2d_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3696f29d92ed49b6b9dd2d8df0ddee2d_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3696f29d92ed49b6b9dd2d8df0ddee2d_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/3696f29d92ed49b6b9dd2d8df0ddee2d_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small",20h30 Mashal Muborak vs Shurtan Guzor (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/3696f29d92ed49b6b9dd2d8df0ddee2d_720/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5c402a0d0ced35cb4062feaaaa46e7ec/image/small",17h30 MEG vs Bengaluru Roots FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1247,6 +1485,10 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/255fa1bc310247ff82db01715b5a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/255fa1bc310247ff82db01715b5a7a15_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/156a0974847e4112a33fc810c3de244f/image/small",20h00 Zimbabw U17 vs Mozambique U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d8387c8f416817a27e821faec36b0a96/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/5fdef03bd15e60ab4ce2d2fd80bd5fc4/image/small",17h00 Comoros U17 vs Eswatini U17 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1291,6 +1533,14 @@ https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/65487/1gvmvngdfbw.png?win007=sell",20h00 AKAS Almaty vs FC Shakhtyor Karagandy (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -1303,18 +1553,6 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef3
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360f953a70a882d52154c7845e2ccd7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/10af73ca837929c61f4181e68c24afef.png",18h00 ngày 11/09 Akademiya Ontustik vs FK Aktobe II [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1757590545-0-0-5d29b5374adc2d788bed15d3b8a5a813
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/10af73ca837929c61f4181e68c24afef.png",18h00 ngày 11/09 Akademiya Ontustik vs FK Aktobe II [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1757590545-0-0-a12f43060e9d8b3a3f789cec11fa978b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/10af73ca837929c61f4181e68c24afef.png",18h00 ngày 11/09 Akademiya Ontustik vs FK Aktobe II [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1757590545-0-0-776f98f191974b12d647b851f52f1092
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/10af73ca837929c61f4181e68c24afef.png",18h00 ngày 11/09 Akademiya Ontustik vs FK Aktobe II [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1757590545-0-0-41f18cdd5376e470c60fdd9693f5c050
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9c639d4812576bb16263f2e00c1a45c8.png",19h00 ngày 11/09 Persita Tangerang vs PSM Makassar [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=58f1577f50de080a67cdaf2aae365356&txTime=68c305a1
@@ -1579,3 +1817,63 @@ https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2ecb5dbc16b833e62f4
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e1273bc4c9ada4ac679303f061af723d&txTime=68c31c2c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=38b1b11ef220ce9e598c78353817f8ab&txTime=68c31d89
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=34dcc4a8255e95d32457a8a3ba390396&txTime=68c31d89
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=38b1b11ef220ce9e598c78353817f8ab&txTime=68c31d89
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=34dcc4a8255e95d32457a8a3ba390396&txTime=68c31d89
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1757599544-0-0-ea307a554ef24b22b0a77d104b8dfdb9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1757599544-0-0-0fe2f939a6730067f687d73bf01970fd
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1757599544-0-0-953294a302f305f03edacc5605f42eca
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/11533072e5e104094a6f3d5d7a3ed311.png",20h40 ngày 11/09 Ittihad Kalba FC vs Al-Wahda FC [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1757599544-0-0-14a0a3dcccee9098be0012ae88655b3a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1757599545-0-0-76f7357e640a706245d251a36bda65de
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1757599545-0-0-8deef78255374b5cb82732319ab1148f
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1757599545-0-0-31a3bc954f7515174aec2c6be3bd971b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1757599545-0-0-3ae786456d4da6c2f7e586aedcbf9606
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV XAVI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-525090_lsd.flv?auth_key=1757599545-0-0-e6affedafa6a3b932692f733c63353eb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV XAVI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-525090_lhd.flv?auth_key=1757599545-0-0-421a0031361fa79e214f2b3e78d877b6
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV XAVI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-525090_lsd.m3u8?auth_key=1757599545-0-0-d1e6f5bfadf508bf8f410198c105cf7a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV XAVI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-525090_lhd.m3u8?auth_key=1757599545-0-0-fc79a3106ed2bc281874fe9095316a59
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV MASON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lsd.flv?auth_key=1757599545-0-0-a0bc41427d4c4e32ab9e2cfa2a49345c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV MASON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lhd.flv?auth_key=1757599545-0-0-9755da9cc97e6fe7eca74c8f12047f34
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV MASON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lsd.m3u8?auth_key=1757599545-0-0-2b08d0e52aaf984df672df60279c7351
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250908/9ca1503a53e2f1d1369c7a2abe1dcb44.png",20h30 ngày 11/09 Mashal Muborak vs Shurtan Guzor [BLV MASON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lhd.m3u8?auth_key=1757599545-0-0-80535d8e81701a9854299d5da9fdf5ea
