@@ -359,12 +359,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1.flv
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2817/1gzsy54rhb1g.png?win007=sell",06h30 Nacional Montevideo vs Plaza Colonia (LS) BLV ĐỊCH NHÂN KIỆT m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2817/1gzsy54rhb1g.png?win007=sell",06h30 Nacional Montevideo vs Plaza Colonia (LS) BLV ĐỊCH NHÂN KIỆT flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHANKIET.flv?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/43296/1gy3wt3jvn1s.png?win007=sell",07h00 Valour vs Forge FC (LS) BLV RICARDO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
@@ -923,14 +917,6 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/8afccbddbdc5436d89b8e9918c06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d98c0885d17aec303f37db30fd15b23d/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/2817/1gzsy54rhb1g.png?win007=sell",06h30 Nacional Montevideo vs Plaza Colonia (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/2817/1gzsy54rhb1g.png?win007=sell",06h30 Nacional Montevideo vs Plaza Colonia (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/43296/1gy3wt3jvn1s.png?win007=sell",07h00 Valour vs Forge FC (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1219,3 +1205,27 @@ https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1757643824-0-0-f9a
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1757643824-0-0-54ed78ba806f8648f40494adfa88fe67
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=dcde4f31b1ebceebdde0ffd84977637b&txTime=68c3cbe8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=f9afe5d527da8660f8d13cc660359ea6&txTime=68c3cbe8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=dcde4f31b1ebceebdde0ffd84977637b&txTime=68c3cbe8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=f9afe5d527da8660f8d13cc660359ea6&txTime=68c3cbe8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1757644185-0-0-f4d1f5a46b73d74d8464e79bf562c47d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1757644185-0-0-d69ef75f40129e0811b6dd84733ede7c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1757644185-0-0-f656bcc2e2b63e4822b1ae3b961ca1cb
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250909/c70b82d4935358cb087a276c6b44b0c8.png",09h00 ngày 12/09 Guadalupe FC vs AD San Carlos [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1757644185-0-0-07cf4bb6d0870290a40004a901c22a09
