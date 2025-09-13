@@ -3,14 +3,6 @@
 https://hello
 #EXTINF:0 group-title="__THÔNG BÁO__",2. !!! Link DỰ PHÒNG: byvn.net/webbongda2
 https://hello
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/c3409751c10e3c3fd1b81c67003ddc1a.webp",13h00 Nhật Bản vs Thổ Nhĩ Kỳ [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c506ff5bab9_42127/index.m3u8?expire=1758347647&sign=45d0e4dea553b4cceefe94171cdbd98f
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/c3409751c10e3c3fd1b81c67003ddc1a.webp",13h00 Nhật Bản vs Thổ Nhĩ Kỳ [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c506ff5bab9_42127.flv?expire=1758347647&sign=45d0e4dea553b4cceefe94171cdbd98f
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",13h00 Maruyasu Okazaki vs Iwate Grulla Morioka 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -43,6 +35,10 @@ https://2893254555.global.cdnfastest.com/live/68c506485bab9_4908/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68c506485bab9_4908.flv?expire=1758347464&sign=9116144a671498cbbc44adac5c19c5d4
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c3121f8006eb023fd88c146818fb4313.png",14h00 UWA-Nedlands FC vs Joondalup City 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/9fd9e3d824257f2ab9847f9f8c4ae782/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/ed061fec6f6cc0edb88b1fe4c68bd105.png",14h00 Kalamunda City vs Forrestfield United 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -335,66 +331,118 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m206nd/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/cc6ff0248b27e09279c807ce35ff3488.png",12h00 ngày 13.09 Changwon City VS Gangneung City (CK) Backup 1
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phangsd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phanghd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@phangsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1.flv
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/8db3bf45c485cacf4f4709fd26a79f74.png",14h30 ngày 13.09 Taichung Blue Whale (w) VS Kaohsiung Attackers(w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/z0AeOO30pTdSECZO_WVWTw/Fv2lucGIbhPi2caWYvF5Lg/1757767685874/live/sd-6MtJQaFZNuf9YXYNUb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LT-47HB_VlnvHdxTi62cBQ/Fv2lucGIbhPi2caWYvF5Lg/1757770566297/live/sd-6MuPtu7WqNjwFcLcm1/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/aa33d6919294509723e6cbdbbffb1ea5.png",14h30 ngày 13.09 Chungnam Asan VS Bucheon FC 1995 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/DZy-WuH_bxDuRrl3pmCWJw/Fv2lucGIbhPi2caWYvF5Lg/1757770566999/live/sd-6MtMsseP2J6vV7czrP/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",13h00 ngày 13.09 Maruyasu Industries VS Iwate Grulla Morioka (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/HSUs_HOTxqHo5INTHrrSrA/Fv2lucGIbhPi2caWYvF5Lg/1757767688063/live/sd-6MuRsQ17x3GUYmZadZ/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/27fd837f1b837e64cbc1770264a7f430.png",13h00 ngày 13.09 Belconnen United VS Anu FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/MUKI7U6zlb_Isg5ANHjrLQ/Fv2lucGIbhPi2caWYvF5Lg/1757767689667/live/sd-6MvY6pDfNXQeN6Zzcj/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c3193d175a6db6a5a47226ca5bb30719.png",13h00 ngày 13.09 Minebea Mitsumi FC VS Briobecca Urayasu (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/tvDV1P59ZcIhq0za2xPaMg/Fv2lucGIbhPi2caWYvF5Lg/1757767690450/live/sd-6MuRsQ17x14zgHjfUf/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/2a2a5d251c157be485891c94a1e1a495.png",12h00 ngày 13.09 Hokkaido Consadole Sapporo VS Iwaki FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/xKqvfDLbFNqMr5kudV75EQ/Fv2lucGIbhPi2caWYvF5Lg/1757767692215/live/sd-6MtMPDkPYeFGasxTsy/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/93b1b82a7c5646eb10ca93d7f7ab3a45.png",13h00 ngày 13.09 Heidelberg United (w) VS Box Hill (w) (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/8kJfmLIctHRNKLIDvcThzQ/Fv2lucGIbhPi2caWYvF5Lg/1757767695345/live/sd-6MvY6kujBewMjbpVaj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Mfgm3_rrwbiahHXWYPNC8g/Fv2lucGIbhPi2caWYvF5Lg/1757770568450/live/sd-6MuRsQ17x3GUYmZadZ/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/71ff7ef0ad9a020d73ac9ef1a5cd6233.png",13h45 ngày 13.09 Gold Coast Knights (w) VS Brisbane City (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/5ziXxkDJUqjQiom3rFx5fw/Fv2lucGIbhPi2caWYvF5Lg/1757768048016/live/sd-6MvY6pER2jxgQDSHDD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/eSko85pwDnHqrdj7spzAuQ/Fv2lucGIbhPi2caWYvF5Lg/1757770569983/live/sd-6MvY6pER2jxgQDSHDD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a1cf2929915ce4146a4635d4f8ae2e5d.png",14h00 ngày 13.09 Yanbian Longding VS Shanghai Jiading Huilong (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1NorcMqHAnXparh3D4hnVw/Fv2lucGIbhPi2caWYvF5Lg/1757768768520/live/sd-6MtJQgpW9MLj4KwJLj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/NRIl9SFWNtM3ARl_S1szlA/Fv2lucGIbhPi2caWYvF5Lg/1757770570344/live/sd-6MtJQgpW9MLj4KwJLj/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/27fd837f1b837e64cbc1770264a7f430.png",13h00 ngày 13.09 Belconnen United VS Anu FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/aB8DcyWGvYKK9rt20ddpYA/Fv2lucGIbhPi2caWYvF5Lg/1757770570733/live/sd-6MvY6pDfNXQeN6Zzcj/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c3193d175a6db6a5a47226ca5bb30719.png",13h00 ngày 13.09 Minebea Mitsumi FC VS Briobecca Urayasu (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/6y79ami0nXpk5lRIpmChOQ/Fv2lucGIbhPi2caWYvF5Lg/1757770571770/live/sd-6MuRsQ17x14zgHjfUf/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/41d2318180a455a08cee6054fe7a7565.png",14h00 ngày 13.09 Cockburn City VS East Perth FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/oWU1tP_mxJEMU3qWAL5Wyw/Fv2lucGIbhPi2caWYvF5Lg/1757768771162/live/sd-6MvY6sRhqPsB1NBygw/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f336520db254da6d6d5294b720d26d83.png",18h35 ngày 12.09 Henan FC vs Beijing Guoan FC (CK) HD NHANH
+https://apisportzz179528093.nsnd.live/RnwYLTi77WxPr_XLk8d8_A/Fv2lucGIbhPi2caWYvF5Lg/1757770572958/live/sd-6MvY6sRhqPsB1NBygw/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0140309239d885f833152e3d74abcf13.png",14h30 ngày 13.09 Hualien (w) VS Taipei Brao Women (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1757768773&sign=93d4832e810b81846c1155be079dcb39
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f336520db254da6d6d5294b720d26d83.png",18h35 ngày 12.09 Henan FC vs Beijing Guoan FC (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/d-fwpwmdxuT6PovX2sbFcQ/2b6f412a8d5f1f173548083dc2d6020e/1757768773/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f336520db254da6d6d5294b720d26d83.png",18h35 ngày 12.09 Henan FC vs Beijing Guoan FC (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rb9fGlSXNMvSimWQY3cGeg/Fv2lucGIbhPi2caWYvF5Lg/1757768773925/live/lungSD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f336520db254da6d6d5294b720d26d83.png",18h35 ngày 12.09 Henan FC vs Beijing Guoan FC (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/h1h0fxJU1LmfkwxolqA8CQ/883ca40e5184f080c92fcfdbaf37405d/1757768773/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/7QX-GdJXniJpy7RmLS2GZg/Fv2lucGIbhPi2caWYvF5Lg/1757770573354/live/sd-6MuPtu7WqQwR86AXuu/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/c3121f8006eb023fd88c146818fb4313.png",14h00 ngày 13.09 UWA-Nedlands FC VS Joondalup City (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/QCnjr9i4xEFYfVXtw6l1Sw/Fv2lucGIbhPi2caWYvF5Lg/1757769135275/live/sd-6MvY6eU9wYAPjpVwEs/playlist.m3u8
+https://apisportzz179528093.nsnd.live/eAhOfe0bvh1ypC0LUUCLRA/Fv2lucGIbhPi2caWYvF5Lg/1757770577191/live/sd-6MvY6eU9wYAPjpVwEs/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ed061fec6f6cc0edb88b1fe4c68bd105.png",14h00 ngày 13.09 Kalamunda City VS Forrestfield United (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/krCfnLzv3UNfhhFouv_BSw/Fv2lucGIbhPi2caWYvF5Lg/1757769135676/live/sd-6MvY6sRhqtSRKbvtgb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/e4EjL4PlfDyLvQJI-u15TQ/Fv2lucGIbhPi2caWYvF5Lg/1757770578196/live/sd-6MvY6sRhqtSRKbvtgb/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ed068d60c30fc0b40ea1f4e417d59580.png",19h00 ngày 12.09 Shanghai Shenhua FC vs Shandong Taishan (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1757770578&sign=e28e5779ca81f7bed3664452731674f0
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ed068d60c30fc0b40ea1f4e417d59580.png",19h00 ngày 12.09 Shanghai Shenhua FC vs Shandong Taishan (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/VA2aNZSskQpFKf8NDd6d4g/19c6df53af2e8e4da3153ccd33338ce9/1757770578/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ed068d60c30fc0b40ea1f4e417d59580.png",19h00 ngày 12.09 Shanghai Shenhua FC vs Shandong Taishan (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vkOALdjDLVxtl_XgwoClwQ/Fv2lucGIbhPi2caWYvF5Lg/1757770578762/live/thuSD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/ed068d60c30fc0b40ea1f4e417d59580.png",19h00 ngày 12.09 Shanghai Shenhua FC vs Shandong Taishan (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/W5njnjxiXpSxe63L3MpudQ/23c640f28fcd1bae0920b90a9358ecbd/1757770578/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/93b1b82a7c5646eb10ca93d7f7ab3a45.png",13h00 ngày 13.09 Heidelberg United (w) VS Box Hill (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gqLm5HApH3GFiiAbWRCHRQ/Fv2lucGIbhPi2caWYvF5Lg/1757770579258/live/sd-6MvY6kujBewMjbpVaj/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",13h00 Maruyasu Industries vs Iwate Grulla Morioka (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -495,6 +543,54 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phangsd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phanghd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phangsd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",13h00 Maruyasu Industries vs Iwate Grulla Morioka (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -643,12 +739,66 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m305nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
  https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m206nd/playlist.m3u8 
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phangsd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phangsd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phanghd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (LẤY KINH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phanghd2/playlist.m3u8
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (LS) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (LS) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (LS) BLV TIÊU PHONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (LS) BLV TIÊU PHONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TIEUPHONG.flv?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
 #EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",13h00 Maruyasu Industries vs Iwate Grulla Morioka (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -749,14 +899,58 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phangsd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phanghd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phangsd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/32f2ba807df5414fff97d85fe8221577.png",15h00 Kwoon Chung Southern vs Lee Man (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",12:45 TRỰC TIẾP CẦU LÔNG vs GIẢI VIỆT NAM MỞ RỘNG (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",13:00 Nhật Bản vs Turkey (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1282988_small.png",14:00 Yanbian Longding và Shanghai Jiading (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1045,6 +1239,86 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m305nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
  https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m206nd/playlist.m3u8 
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/25a9817f47bdbc13a0a1b87dac6af6a8.png",15h00 Haikou Mingcheng vs Tai'an Tiankuang (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134249_f7c8e720.png",13h00 ngày 13 Japan vs Turkey (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133954_25a2b3ed.png",14h30 ngày 13 Asan Mugunghwa vs Bucheon FC 1995 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133954_25a2b3ed.png",14h30 ngày 13 Asan Mugunghwa vs Bucheon FC 1995 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125455_9f31cc8f.png",16h30 ngày 13 Germany vs Bulgaria (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/b81bd75dc33601f353b82f90dfaf5b83/image/small",12h00 Changwon City vs Gangneung Citizen (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1181,6 +1455,14 @@ https://hls.cdnvankhanh.com/live/TO2C/index.m3u8?expire=1875681300&sign=1dcca78f
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/TO2C.flv?expire=1875681300&sign=1dcca78f9f8c3621610c69bef6818ba8
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
+#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/47543/1gxsf6qkxh10.png?win007=sell",14h30 Chungnam Asan vs Bucheon FC 1995 (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -1349,3 +1631,15 @@ https://stream-flv.dfsfe.top/lives/534055-480p.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250910/c2c4b6ab1f54e409d82a71e3c3fcb469.png",15h00 ngày 13/09 Rockdale City Suns vs A.P.I.A. Leichhardt Tigers [BLV RAMBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/534055-720p.m3u8
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d34276ee4adafdbda0a640f8c1a04bba.png",15h00 ngày 13/09 Pasig City vs Mindoro Tamaraws [BLV GẤU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1757752544-0-0-f57b9c5103d2f0beeba0479851c40b0d
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d34276ee4adafdbda0a640f8c1a04bba.png",15h00 ngày 13/09 Pasig City vs Mindoro Tamaraws [BLV GẤU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1757752544-0-0-7027a7540426110756d680dfa6418ef2
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d34276ee4adafdbda0a640f8c1a04bba.png",15h00 ngày 13/09 Pasig City vs Mindoro Tamaraws [BLV GẤU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1757752544-0-0-fd3e3abfb80448059b151e2ab050e497
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/d34276ee4adafdbda0a640f8c1a04bba.png",15h00 ngày 13/09 Pasig City vs Mindoro Tamaraws [BLV GẤU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1757752544-0-0-8e579d44d29226143e083e46c4a98a89
