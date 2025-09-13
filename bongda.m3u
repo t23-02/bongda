@@ -3,22 +3,6 @@
 https://hello
 #EXTINF:0 group-title="__THÔNG BÁO__",2. !!! Link DỰ PHÒNG: byvn.net/webbongda2
 https://hello
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/93aebb72f5f275d332976c73a7731186.png",01h00 Palestino vs O.Higgins 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/3bb180f4a62b5661e29a9aedef439858/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/07a555616afab7be32e00150eacf4197.png",01h00 Al Hilal vs Al-Qadsiah 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/ae8cd984a567113b4d4ac1b71051c9b1/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/07a555616afab7be32e00150eacf4197.png",01h00 Al Hilal vs Al-Qadsiah [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c5a6a22f366_39936/index.m3u8?expire=1758388514&sign=9ea7de07a36f157280aad1e5670ec7c1
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/07a555616afab7be32e00150eacf4197.png",01h00 Al Hilal vs Al-Qadsiah [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c5a6a22f366_39936.flv?expire=1758388514&sign=9ea7de07a36f157280aad1e5670ec7c1
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/b510505e58cd138df949e152ab1c85f4.png",01h00 Al Wehda Mecca vs Al Ula FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -511,46 +495,58 @@ https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d24ce6a9273a1f719aa3b590e27a7a78.png",00h30 ngày 14.09 Newroz SC VS Al-Kahrbaa Club (CK) Backup 1
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",04h30 Palmeiras vs Internacional (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png",03h00 ngày 14.09 Nautico (PE) VS Guarani SP (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/o99vm49V5eFYhqBF-8h93A/Fv2lucGIbhPi2caWYvF5Lg/1757813409893/live/sd-6MvY6sTCUc6uH3s37y/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/090e676e6ca4c7e29d4e011a41772638.png",01h00 ngày 14.09 Genk U23 VS KV Kortrijk (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/EQkjiudoTbCtCDNGvd3xLQ/Fv2lucGIbhPi2caWYvF5Lg/1757813411078/live/sd-6MuTcJPUrHaCownKFq/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/dd48fd16e936a4b4253d3df6c3b7003c.png",01h00 ngày 14.09 Club Brugge KV U23 VS RFC de Liege (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/oBx42y35p8J6iFwaawBoYg/Fv2lucGIbhPi2caWYvF5Lg/1757813412166/live/sd-6MuTcJPV1gfNevfbJB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Ha5etaaAuQS-oCGQ-i7gSA/Fv2lucGIbhPi2caWYvF5Lg/1757815570695/live/sd-6MvXMtgGSQkaH5PTdD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-Real-Valladolid-7anxsna.image/jpeg",02h00 ngày 14.09 Real Valladolid VS Almeria (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/7slXhPF4VEU3KHi_pK3kEQ/Fv2lucGIbhPi2caWYvF5Lg/1757813423002/live/sd-6MuTcBtDW7Rf8HCSd9/playlist.m3u8
+https://apisportzz179528093.nsnd.live/8uUHdTrr9GPYHfeU23i6pg/Fv2lucGIbhPi2caWYvF5Lg/1757815571646/live/sd-6MuTcBtDW7Rf8HCSd9/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/741486b3cc28391ffd7720dc0a8e2265.png",02h00 ngày 14.09 SC Paysandu Para VS America MG (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/308_etAY3L77sV9epvJOhw/Fv2lucGIbhPi2caWYvF5Lg/1757813423901/live/sd-6MuS7qYAgqTr9F4jDM/playlist.m3u8
+https://apisportzz179528093.nsnd.live/x70GD_Xl4ECT2xrN-O9QWw/Fv2lucGIbhPi2caWYvF5Lg/1757815572105/live/sd-6MuS7qYAgqTr9F4jDM/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",01h00 ngày 14.09 Al Hilal vs Al Qadisiya (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1757813425&sign=6865f5963f4730f61521c06c58334168
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1757815573&sign=eaa62e671bbb904b664a3fc3e03f545b
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",01h00 ngày 14.09 Al Hilal vs Al Qadisiya (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/Cu1rloVupGeQjeJcajyk-A/e106295966a1a26dfddb5b60b193571b/1757813425/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+https://live-xlvb.nsnd.live/dvHBNocCe1ONFL3-p6XzlQ/e106295966a1a26dfddb5b60b193571b/1757815573/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",01h00 ngày 14.09 Al Hilal vs Al Qadisiya (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PXa-1pn3rby0bqA3w9NIew/Fv2lucGIbhPi2caWYvF5Lg/1757813425055/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/wvWDzI0O4mHRtbvH7W490w/Fv2lucGIbhPi2caWYvF5Lg/1757815573096/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",01h00 ngày 14.09 Al Hilal vs Al Qadisiya (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/cgp84dS3mO1txyjPWb2A-Q/f7d74fcca7b86aaec98d69192d99ee8f/1757813425/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",01h00 ngày 14.09 Al Hilal vs Al Qadisiya (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/yE1yNl5HUQ7x1ynWN05J4w/Fv2lucGIbhPi2caWYvF5Lg/1757813425055/live/sd-6MvXc74hJzejjGUv7M/playlist.m3u8
+https://live-xlvb.nsnd.live/idkvOaFjvEUGeMzYbntOJA/f7d74fcca7b86aaec98d69192d99ee8f/1757815573/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",01h45 ngày 14.09 Fiorentina vs Napoli (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -575,22 +571,18 @@ https://apisportzz179528093.nsnd.live/buQbEmxzI2ADm2xFF4rWrQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/03FyjhWyvBFMgB8cUQo5aQ/Fv2lucGIbhPi2caWYvF5Lg/1757811262225/live/hd-en-6MuSNj14DdUp6gqtkK/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/8089e760b9d728fbecc6efe12cdf52a1.png",00h45 ngày 14.09 Rijeka VS NK Lokomotiva Zagreb (CK) Backup 1
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/8eaf7a1c977421912b949fb270d3365a.png",03h00 ngày 14.09 Tigres Zipaquira VS Real Soacha Cundinamarca (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Gu7Cq5rENFsxA0xoG-twRA/Fv2lucGIbhPi2caWYvF5Lg/1757813430517/live/sd-6MuSs9oMSX6B5kWUSX/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/6d498363238b282307e8fafcde120972.png",01h00 ngày 14.09 FK Austria Vienna Youth VS First Wien 1894 (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/lBINZoa5BGVTbBHMsvDY-w/Fv2lucGIbhPi2caWYvF5Lg/1757813436120/live/sd-6MuSs9rKtfPSouM3tP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/ypeKOKBbIO2kDL0FXxtOxQ/Fv2lucGIbhPi2caWYvF5Lg/1757815577009/live/sd-6MvY6sPWPTUrUgRiWf/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/66a25bb6cfc9a26807a1fa30fcb0caf5.png",01h15 ngày 14.09 Piast Gliwice VS Jagiellonia Bialystok (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/nr3C1eSL46piG_zBrIFw7g/Fv2lucGIbhPi2caWYvF5Lg/1757813437368/live/sd-6MuT7UkiFzFrmeBjHd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/g3ZcdeiPJu6OQ8EQ6xG1EA/Fv2lucGIbhPi2caWYvF5Lg/1757815582533/live/sd-6MuT7UkiFzFrmeBjHd/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d1b4fee45c275f4eb9ceaff444e4ec56.png",02h00 ngày 14.09 Oriente Petrolero VS Real Oruro (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/T448wDruwAkhhy8ktTrQfg/Fv2lucGIbhPi2caWYvF5Lg/1757813437914/live/sd-6MvY6pCCQFW6ReBBZ5/playlist.m3u8
+https://apisportzz179528093.nsnd.live/VKLCd25L100FP6Cjao7oGw/Fv2lucGIbhPi2caWYvF5Lg/1757815582985/live/sd-6MvY6pCCQFW6ReBBZ5/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/b510505e58cd138df949e152ab1c85f4.png",01h00 ngày 14.09 Al Wehda Mecca VS Al Ula FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -598,67 +590,51 @@ https://apisportzz179528093.nsnd.live/uQVH-801GOfX3-s7clNLCw/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/44073f2d2c979a9388f98505ac3b754d.png",02h00 ngày 14.09 Feyenoord vs SC Heerenveen (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/VJL9L0HSG_BtvLxdkkq8pw/Fv2lucGIbhPi2caWYvF5Lg/1757813458576/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/vReAF5PMBs4GoYZct39e8w/Fv2lucGIbhPi2caWYvF5Lg/1757815592007/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/44073f2d2c979a9388f98505ac3b754d.png",02h00 ngày 14.09 Feyenoord vs SC Heerenveen (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/5sxi7c5zz0srCf03y4HRuA/Fv2lucGIbhPi2caWYvF5Lg/1757813458576/live/sd-6MuT7hoSixXAkBQYMH/playlist.m3u8
+https://apisportzz179528093.nsnd.live/kaEFLLCYpgke3YER3XRFBA/Fv2lucGIbhPi2caWYvF5Lg/1757815592007/live/sd-6MuT7hoSixXAkBQYMH/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/n5VsN1Br-tCv660YH.png",01h30 ngày 14.09 Defensores de Belgrano VS Chaco For Ever (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/t_O4v4Z8801ZP4VLm7oGCQ/Fv2lucGIbhPi2caWYvF5Lg/1757813464872/live/sd-6MtN8huD5ZFWWcuXsH/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/3bf72dbe870d64929ce0120521717977.png",00h30 ngày 14.09 Wisla Krakow VS Odra Opole (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Pe2os-7dHfU4DKXnxkUQeQ/Fv2lucGIbhPi2caWYvF5Lg/1757813467149/live/sd-6MuSrz7ZGdNYn49uhV/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/50f7236acb882158a34df0e39900acc2.png",00h30 ngày 14.09 Sampdoria VS Cesena (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/OX2sdL3I70VzOgyc08Fsaw/Fv2lucGIbhPi2caWYvF5Lg/1757813469155/live/sd-6MuPtjKncRYy4pUMNs/playlist.m3u8
+https://apisportzz179528093.nsnd.live/2IOhM2SRMFsiHdzPkgtVCg/Fv2lucGIbhPi2caWYvF5Lg/1757815594233/live/sd-6MtN8huD5ZFWWcuXsH/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e1f593199d4ee1d98b2db8a9522b605f.png",02h00 ngày 14.09 Gremio (RS) VS Mirassol (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/m0cgmluj5XqHvn_Wiapcbg/Fv2lucGIbhPi2caWYvF5Lg/1757813472824/live/sd-6MtJQoHZNDSgvqPjRd/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/O6jfFPdM-pztT5vMl.png",01h00 ngày 14.09 Clermont VS Saint Etienne (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/YLv6Ue0EUG5RfP14EOOhMA/Fv2lucGIbhPi2caWYvF5Lg/1757813475912/live/sd-6MvXbt6Qb8B9VrnJBD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/b4rFaRJHs99lAVztOnMvZw/Fv2lucGIbhPi2caWYvF5Lg/1757815596016/live/sd-6MtJQoHZNDSgvqPjRd/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/5a721f997fe18b1c151116a96b1b4ea8.png",02h00 ngày 14.09 Fortaleza F.C VS America de Cali (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1rgkwZbT97WvdHVKqctTfQ/Fv2lucGIbhPi2caWYvF5Lg/1757813478111/live/sd-6MuTcdxC9ePMd4X8Xd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/frM3_P-Gr5MTAi7eqh1c3g/Fv2lucGIbhPi2caWYvF5Lg/1757815598328/live/sd-6MuTcdxC9ePMd4X8Xd/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/cded7b7cce01069ad7d13ebf14a03723.png",02h00 ngày 14.09 FAR Rabat VS Yacoub El Mansour (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/zEDyefe50K6HMJEh27eP8g/Fv2lucGIbhPi2caWYvF5Lg/1757813480460/live/sd-6MuPtWMVDpnHM6T8gT/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a50c3c04722ce6ef1516f6b984b94e07.png",01h00 ngày 14.09 Sport Boys VS Comerciantes Unidos (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Lydw-mnl9ztD5nlkO7rd8g/Fv2lucGIbhPi2caWYvF5Lg/1757813481540/live/sd-6MvXMVtngps5NqnnkK/playlist.m3u8
+https://apisportzz179528093.nsnd.live/CsPQuaWJsDCWjKNwykCD8Q/Fv2lucGIbhPi2caWYvF5Lg/1757815601299/live/sd-6MuPtWMVDpnHM6T8gT/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7a2d0c79dd5d8589167c88684ac55aca.png",02h00 ngày 14.09 FC Twente Enschede vs NAC Breda (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/y0ZrlmNgnJaojrbMp7omIQ/Fv2lucGIbhPi2caWYvF5Lg/1757813482113/live/may12/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/SSeSfTau7OckGEqiDtjv9g/Fv2lucGIbhPi2caWYvF5Lg/1757815603004/live/may12/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7a2d0c79dd5d8589167c88684ac55aca.png",02h00 ngày 14.09 FC Twente Enschede vs NAC Breda (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Cl4LoWg1LLz8QRy6i2zaAg/Fv2lucGIbhPi2caWYvF5Lg/1757813482113/live/sd-6MuT7hoT4vqQR1nWBm/playlist.m3u8
+https://apisportzz179528093.nsnd.live/jl1yzJiUymueMO7AlzgLow/Fv2lucGIbhPi2caWYvF5Lg/1757815603004/live/sd-6MuT7hoT4vqQR1nWBm/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/7fe3c683e5051a531125ab8b9a47b00e.png",01h30 ngày 14.09 St. Gallen VS Lugano (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/4nVTKVbXManhUpltBSobqw/Fv2lucGIbhPi2caWYvF5Lg/1757813484259/live/sd-6MuSs9nd8BJcbYNU4T/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://static.flashscore.com/res/image/data/Klp0IsAr-nguvrH2r.png",00h30 ngày 14.09 OFK Beograd VS Novi Pazar (CK) Backup 1
+https://apisportzz179528093.nsnd.live/9QSYoRoEEpS8tkHpW6Xkqw/Fv2lucGIbhPi2caWYvF5Lg/1757815604638/live/sd-6MuSs9nd8BJcbYNU4T/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f772b20418c5809e65bf731740e235e4.png",02h30 ngày 14.09 Deportivo Moron VS Temperley (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/UvKUArQ1uM-o8ZBiB3yeEA/Fv2lucGIbhPi2caWYvF5Lg/1757813485921/live/sd-6MuSsD5petU2YuufVV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/k2j2dy-JWCW8moQ2Rrkp9g/Fv2lucGIbhPi2caWYvF5Lg/1757815605120/live/sd-6MtN8huD5kEus237dm/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png",02h00 ngày 14.09 Fortaleza VS Vitoria BA (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/uxy_-coxXW-AO0nqc0BBBw/Fv2lucGIbhPi2caWYvF5Lg/1757813486593/live/sd-6MtJQoHZN6rFKPuyxw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LDFZYNb1_CJMcXqR9Z3OgQ/Fv2lucGIbhPi2caWYvF5Lg/1757815607101/live/sd-6MtJQoHZN6rFKPuyxw/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/818b4d75f99723aea6d04340664f7e72.png",01h30 ngày 14.09 MSK Zilina VS Slovan Bratislava (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/DlQWftpPbtAzKkpdmkDbQA/Fv2lucGIbhPi2caWYvF5Lg/1757813489365/live/sd-6MuSsKdKTz3GWHZqp7/playlist.m3u8
+https://apisportzz179528093.nsnd.live/5-w4wevcYppvAAXMHVB1Lg/Fv2lucGIbhPi2caWYvF5Lg/1757815610024/live/sd-6MuSsKdKTz3GWHZqp7/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",02h00 ngày 14.09 Brentford vs Chelsea (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -683,114 +659,114 @@ https://apisportzz179528093.nsnd.live/2jBNzWADY43HI2hf5-nbkA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/x3S3JSv7Wv84i00xh4rOgg/Fv2lucGIbhPi2caWYvF5Lg/1757812065170/live/hd-en-6MuT7JwXQ1iSn7cCmH/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/47174721b260fae6e833329c13c9f2ee.png",02h45 ngày 14.09 CA Independiente VS Banfield (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/VMTktxb04GWWvhxdckzyTA/Fv2lucGIbhPi2caWYvF5Lg/1757815612387/live/sd-6MtMPH1Pxhmx1mEsD5/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/f6c8a28bf01610447b86c48ec05ce1b4.png",01h15 ngày 14.09 Maribor VS NK Mura 05 (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/mtEiQGAfwX6TQvDIZ446_A/Fv2lucGIbhPi2caWYvF5Lg/1757813495392/live/sd-6MuSsD5rKuCAd6qkAf/playlist.m3u8
+https://apisportzz179528093.nsnd.live/OLrvYvKZ_rhJEgA1us5Nhg/Fv2lucGIbhPi2caWYvF5Lg/1757815614526/live/sd-6MuSsD5rKuCAd6qkAf/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 ngày 14.09 Metaloglobus VS CFR Cluj (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/EPeLqDELMpDlwg2eT7G1xA/Fv2lucGIbhPi2caWYvF5Lg/1757813497838/live/sd-6MuSsKaMrJuawkNPYw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/J03nWb5cdyckjCye2hcT0Q/Fv2lucGIbhPi2caWYvF5Lg/1757815615381/live/sd-6MuSsKaMrJuawkNPYw/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/2901588b27808922610ec82a26631f01.png",02h00 ngày 14.09 Gremio Prudente VS Francana (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/kv34m7ASrbDg7PzBb08ZfA/Fv2lucGIbhPi2caWYvF5Lg/1757813498393/live/sd-6MvY6eTRHVSxg8mP6b/playlist.m3u8
+https://apisportzz179528093.nsnd.live/7soroZ0oCRDKfIdZejF0eg/Fv2lucGIbhPi2caWYvF5Lg/1757815616140/live/sd-6MvY6eTRHVSxg8mP6b/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d99224d8141858b8e278d3d4b6c43c63.png",02h00 ngày 14.09 Esporte Clube Sao Jose SP VS Comercial-SP (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/BZ3wUSjqDLRuMNSGta7siw/Fv2lucGIbhPi2caWYvF5Lg/1757813500049/live/sd-6MvY6eTRHZqvR6RDQP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/J-GQ8cLeG1oGgJ3GVy76sg/Fv2lucGIbhPi2caWYvF5Lg/1757815618238/live/sd-6MvY6eTRHZqvR6RDQP/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/051be0a9b61dedb583315fb75eaa8308.png",01h30 ngày 14.09 Liverpool URU VS CA Penarol (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rS6o05_j5ZSvL7pJ04BHsA/Fv2lucGIbhPi2caWYvF5Lg/1757813500626/live/sd-6MvY6UdTm1vU4ci64s/playlist.m3u8
+https://apisportzz179528093.nsnd.live/I_9ewG_UAG2Bd4MPh6r5fA/Fv2lucGIbhPi2caWYvF5Lg/1757815619173/live/sd-6MvY6UdTm1vU4ci64s/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/abd59f62f69ef9f59a8121c3baadd882.png",02h30 ngày 14.09 FC Famalicao vs Sporting CP (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/M7F1b4JP0j12zE-QKEOQqw/Fv2lucGIbhPi2caWYvF5Lg/1757815619678/live/may101/playlist.m3u8
+#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/abd59f62f69ef9f59a8121c3baadd882.png",02h30 ngày 14.09 FC Famalicao vs Sporting CP (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/uUU9YEoPbCtQX0Vk2byj9Q/Fv2lucGIbhPi2caWYvF5Lg/1757815619678/live/sd-6MuTchFRWzYxiUqBbZ/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/cb9797fa8614b9664231a4861ed71875.png",02h00 ngày 14.09 Independiente del Valle VS Cuniburo FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/4d_oagpvWKMaQdKpnma1VA/Fv2lucGIbhPi2caWYvF5Lg/1757813502382/live/sd-6MtMtA1oLMPZ8GTbYX/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/40ce8b99981bc3199784a1f6d3a7b26c.png",01h00 ngày 14.09 Vojvodina Novi Sad VS FK Čukarički (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/OTP8BfftlWwbX1XeERC_1A/Fv2lucGIbhPi2caWYvF5Lg/1757813504478/live/sd-6MuSsD6ayiiiTucoPZ/playlist.m3u8
+https://apisportzz179528093.nsnd.live/s5LvVTTIKmMaJgvH0pjmPw/Fv2lucGIbhPi2caWYvF5Lg/1757815622695/live/sd-6MtMtA1oLMPZ8GTbYX/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/1800be60204966114d63970b5d0873da.png",01h30 ngày 14.09 Hannover 96 VS Hertha Berlin (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/NmYmEvbMzLocwXhZYqya7w/Fv2lucGIbhPi2caWYvF5Lg/1757813505058/live/sd-6MuSsGMZDfWDQ9VJEw/playlist.m3u8
+https://apisportzz179528093.nsnd.live/x7K1VmunXqZ-nrWwpXMHfQ/Fv2lucGIbhPi2caWYvF5Lg/1757815623812/live/sd-6MuSsGMZDfWDQ9VJEw/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/92b3930be1795a5c2b97a7e19f46a277.png",01h00 ngày 14.09 Tlaxcala FC VS Club Chivas Tapatio (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/6U7ZskdLNKaD5wcPw37gcA/Fv2lucGIbhPi2caWYvF5Lg/1757813506272/live/sd-6MuQ9HGvTTVW2j4KbR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/6qhG3QBJ1LtN0rFHFcKxeQ/Fv2lucGIbhPi2caWYvF5Lg/1757815624783/live/sd-6MuQ9HGvTTVW2j4KbR/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1757813508/89fc20137ea75b9a8df5444cc3be0fd3/303859332/live/nuiHD.flv
+https://9ceg0825.edgemaxcdn.org/1757815626/202ae496a8ee175e5073ccefeec2b7b8/356770995/live/nuiHD.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1757813508/7cfcb298e8be51422b434038c7929d05/911616794/live/nuiHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1757815626/fe17798ca55fef33f23956dae4836f0c/947551980/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/oC7fYn07vUMNqs5SLuLI9w/Fv2lucGIbhPi2caWYvF5Lg/1757813508604/live/nuiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/94w-bVLfrCA3zH_D8vUWqg/Fv2lucGIbhPi2caWYvF5Lg/1757815626799/live/nuiSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/s10tUKZvNrfunjF24bO0cg/adb8de5045254f4388ff92b08aeba831/1757813508/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/iRNhPN7uLwHdUfS4StB8zQ/adb8de5045254f4388ff92b08aeba831/1757815626/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/LNHRcOhMvkKhmvFQOrtp4g/Fv2lucGIbhPi2caWYvF5Lg/1757813508603/live/sd-6MuT7Y3BeKh68yrwgP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/P6QtvjOcU7f-1vAf5r_WOA/Fv2lucGIbhPi2caWYvF5Lg/1757815626798/live/sd-6MuT7Y3BeKh68yrwgP/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-AJ-Auxerre-mltpohw.image/jpeg",02h05 ngày 14.09 AJ Auxerre vs Monaco (CK) Backup 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/JgYyWtR9j_vTdnomFCoNBA/Fv2lucGIbhPi2caWYvF5Lg/1757813508603/live/hd-en-6MuT7Y3BeKh68yrwgP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/NBOdBZ0EAjT_rz9JNf9LkQ/Fv2lucGIbhPi2caWYvF5Lg/1757815626798/live/hd-en-6MuT7Y3BeKh68yrwgP/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/0ec0f01c2246665da154a9c7de3b7666.png",02h10 ngày 14.09 Escorpiones Belen VS CS Uruguay De Coronado (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/4j-Xjo0tmcfZBz8NyMzvxA/Fv2lucGIbhPi2caWYvF5Lg/1757813509596/live/sd-6MvXc76ucCMjheEYh9/playlist.m3u8
+https://apisportzz179528093.nsnd.live/kxLkEYzzVtxRgOCLsUglrQ/Fv2lucGIbhPi2caWYvF5Lg/1757815627274/live/sd-6MvXc76ucCMjheEYh9/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/a3c65c2974270fd093ee8a9bf8ae7d0b.gif",01h45 ngày 14.09 LaLouviere VS Club Brugge (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/QZXykE1oHrT0Vu8izYxLNg/Fv2lucGIbhPi2caWYvF5Lg/1757813510175/live/sd-6MuT7Xxkj5uGdnmDHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/-tvsph9GHV3CfSVV6yjX8w/Fv2lucGIbhPi2caWYvF5Lg/1757815627731/live/sd-6MuT7Xxkj5uGdnmDHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1757813510&sign=df07af9eb264df150df24bf848f6751a
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1757815628&sign=089f5a4294766813c90df1237e073947
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/g3MjA-M6qcAdtir-gBoYtg/0aafe7a6d19bfafd5e27cf7084b37d51/1757813510/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LZFLfXgIcVQbSnYQ75x5ww/0aafe7a6d19bfafd5e27cf7084b37d51/1757815628/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/0msrQlsk26sZqIQZ1Eo9hA/Fv2lucGIbhPi2caWYvF5Lg/1757813510695/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ku-f9F_Tx8qWg-GvjMB6gA/Fv2lucGIbhPi2caWYvF5Lg/1757815628233/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/cxKkBOJHxgHZJ0M5LYnK1w/cac03b136a8c356be180b4618c6bfeb5/1757813510/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/-Wbve0xYbBwDuegYlK-U5A/cac03b136a8c356be180b4618c6bfeb5/1757815628/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/tVf2yXv8aVtEk2aBiGoQfg/Fv2lucGIbhPi2caWYvF5Lg/1757813510694/live/sd-6MuSsYcLVn88edKPST/playlist.m3u8
+https://apisportzz179528093.nsnd.live/k9toiC7wYHVTKuLZUStnCg/Fv2lucGIbhPi2caWYvF5Lg/1757815628233/live/sd-6MuSsYcLVn88edKPST/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/15f730f481d1ae7c75c1d28ee2862adc.png",02h00 ngày 14.09 Atletico Madrid vs Villarreal (CK) Backup 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-Tu7e_yx2IchiNTXNjzelw/Fv2lucGIbhPi2caWYvF5Lg/1757813510694/live/hd-en-6MuSsYcLVn88edKPST/playlist.m3u8
+https://apisportzz179528093.nsnd.live/KcJ3bp_SzBodMfuZFOALqg/Fv2lucGIbhPi2caWYvF5Lg/1757815628233/live/hd-en-6MuSsYcLVn88edKPST/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/93aebb72f5f275d332976c73a7731186.png",01h00 ngày 14.09 Palestino VS O.Higgins (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/J0ufvL0xMQWhSS--GMOanA/Fv2lucGIbhPi2caWYvF5Lg/1757813512252/live/sd-6MtMtP3mKatFf4pufR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/wxEzJixSmoe_jDz2BtJpbA/Fv2lucGIbhPi2caWYvF5Lg/1757815631654/live/sd-6MtMtP3mKatFf4pufR/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/9a010ad7b9470301118f5a8df5dd07f1.png",01h30 ngày 14.09 Estudiantes de Caseros VS Defensores Unidos (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/SRcree0xrv52ZaLGtmDZlQ/Fv2lucGIbhPi2caWYvF5Lg/1757813517801/live/sd-6MtN8huDuoEDTMbA8b/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/af2108b31664d582d4e59c34c9be571b.png",00h30 ngày 14.09 Al Talaba VS Zakho SC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/jXo3ya6uyi-qn7_bnz7Weg/Fv2lucGIbhPi2caWYvF5Lg/1757813519601/live/sd-6MvY6sTCUeJP9XgxGs/playlist.m3u8
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/d67cdae3f4d4af11bc1738a09376cd24.png",01h00 ngày 14.09 Francs Borains VS KAS Eupen (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/mlukQveI7D-X9P4Jwgu5eQ/Fv2lucGIbhPi2caWYvF5Lg/1757813521250/live/sd-6MuTcJPV1eTtnSqg9H/playlist.m3u8
+https://apisportzz179528093.nsnd.live/VpWlVgFndmMg8isINQF8uQ/Fv2lucGIbhPi2caWYvF5Lg/1757815635110/live/sd-6MtN8huDuoEDTMbA8b/playlist.m3u8
 #EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://img.thesports.com/football/team/07a555616afab7be32e00150eacf4197.png",01h00 Al-Hilal Saudi FC vs Al-Qadasiya (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1705,18 +1681,6 @@ https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_vjxm8ghe8v6er6o_football_fh
 https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_vjxm8ghe8v6er6o_football_hd/playlist.m3u8
 #EXTINF:0 group-title="RỔ BÓNG" tvg-logo="https://img.thesports.com/football/team/abd59f62f69ef9f59a8121c3baadd882.png",02h30 Famalicao vs Sporting CP (Rổ) SD
 https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_vjxm8ghe8v6er6o_football_sd/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",01:00 Al Hilal và Al Qadasiya (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x17y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",01:00 Al Hilal và Al Qadasiya (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x17y3-0262/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",01:00 Al Hilal và Al Qadasiya (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",01:45 Fiorentina và Napoli (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1789,7 +1753,7 @@ https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x2y1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4410_small.png",03:15 Alianza Atletico và ADC Juan Pablo II (Sao kê) SD 1
+#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4410_small.png",03:15 Alianza Atletico và ADC Juan Pablo II (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x2y3-4581/playlist.m3u8
@@ -1817,10 +1781,6 @@ https://live.alilicloud.com/live/dd6ce7164427c7302732068c0e44435e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/775eb26bcc6363f8cc94c6c705d69654/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/39d54a03db7a131d4869fd3ca6f378f1/image/small",21h00 Falkirk vs Saint Mirren (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9c0c8851dc308993d58bdf24fc08fbce/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/c121730afb6d3bc2d19a999f37468348/image/small",22h00 Stal Rzeszow vs Znicz Pruszkow (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1833,22 +1793,10 @@ https://live.alilicloud.com/live/092a74b37dd355a28b4742fb2299a7cc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/39b0a80be2cee6a3be87e58db81cc7b5/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3cbca87af2f552a468e4763e1ea77ee4/image/small",21h00 Shkendija Haracine vs Golemo Konjari (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/54f274b1ff9ef0cfc6212e2a87747d1a/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/9480d3a45b8df876efb7128b7f2a15d0/image/small",21h00 Dnepr Mogilev vs Volna Pinsk (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e2bd186a4df7a8bc333700eaac6b4b16/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/d5ee6ce06402d6a821ab006eceea2f72/image/small",01h00 Jong Genk vs KV Kortrijk (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/fdd6c0b93ed696fb506da1db45434ded/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0ba77074465703165d1766acca26c059/image/small",21h00 FK Osogovo vs FK Skopje (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/99e078b1ed2955511c16396ca9d07f36/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0cffc4335224289138d1f92bb5723928/image/small",22h00 Metalist 1925 Kharkiv vs FC Shakhtar Donetsk (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1861,66 +1809,18 @@ https://live.alilicloud.com/live/365eae2f2ad93e6e67dc2d950e39d02d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8671ada9f1fd911e4cbb4fe5fc98e4bd/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/f781564ff44d84d99ed460e6cfa57817/image/small",21h00 Dundee vs Motherwell (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/548d1bd9f7085a47aac44f3a43b93942/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/570e133c0fa758b38efb2a81c4875b1e/image/small",21h00 Throttur Reykjavik vs Thor Akureyri (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/11935eb1c069b7ee064d1e71e34e135b/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/362e8626ae83a1797899fe65a6cca85d/image/small",21h00 Ready vs Kvik Halden (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4e866f4e8d27f8825a130dff59005eaf/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/2c66d891748c19f0c23904f50fe19f52/image/small",23h00 Sivasspor vs Sariyer (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3b4fd338f9fe762b5856c885451777cb/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/3b980ea7ce85cef25da1291ebe2e11b1/image/small",21h00 Swindon Town vs Harrogate Town (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bf961060058a9fe3813245b9ee893545/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/04089c8b8c800b7c7a11d62142c34a96/image/small",21h00 Raith Rovers vs Saint Johnstone (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c569ff6b6bce550e969899ca8a079c4d/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/08c7cea8cf2e3283790a7356793b0356/image/small",22h00 Radnik Surdulica vs Radnicki 1923 Kragujevac (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4d3b5fd94fc026dab7cc5dce6f4d1cd0/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/bb2e880c6a593497b2a84a271992f599/image/small",21h00 Swansea City vs Hull City (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6a34692e1631f457bddf5a31cc588832/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/0ea545b207f0d30cc4b2adb63d010af3/image/small",21h00 Peterborough United vs Wycombe Wanderers (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/31ebc10bf85b2da8cad7e05ae73ae57c/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/a72506a82a3e64a1ff2228a94d68e531/image/small",22h30 Pontedera vs Rimini (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/41beec44dc0748719339671856a1ced5/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/b107018d7d37b4cc32d640b4f7b6ca8d/image/small",21h00 Volda vs Surnadal (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f01a2528ab6956b70c274b5898861a6d/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/11886cb725d52911465275f63d983dfc/image/small",21h00 Madla IL vs Brodd (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0688d7c4a0cb3aabde72a6978ea2560f/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fba08e29a816d29562068515d13e73f8/image/small",21h00 Fjolnir vs Leiknir Reykjavik (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9d949425d5d49fc0d1500071cf4b7eb9/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ad70014732ed374280b37fee02c7dc66/image/small",21h00 Harstad vs Funnefoss/Vormsund (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bddfef09820c104e0c8a426f5a1c08e2/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/528eba60d8d0d2ff4da691ef218edc37/image/small",21h00 AFC Eskilstuna vs Gefle IF (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/39f4b91eefff2e02c64c741b36573e4b/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/bc413fd2c6a5ae2cfd229fdb8e1f1460/image/small",23h00 Brann vs Vålerenga Fotball Elite (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1929,6 +1829,10 @@ https://live.alilicloud.com/live/4eabed5dc092ac685c1eef0a027419cd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9f054e291b7a2c7c00545fba0939a6d3/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/94a12ba18e275e878ec171ea5e761bd7/image/small",03h00 Nautico (PE) vs Guarani SP (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/eb9cabf18cc8ccad230d6bea6813e678/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/86b0f49c53a72c1a2a3ce9e1f6dc19ec/image/small",00h00 FUS Rabat vs Raja Club Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1977,66 +1881,14 @@ https://live.alilicloud.com/live/5276069c7917384b1eba9269bbb9c34e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/15fd629f46436305b4e3d72827fac67a/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/9acfbc792afa60d78578b249248a2155/image/small",21h00 Ranheim IL vs Asane Fotball (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c1d7b4b4089fd5357dfda4022f2513c1/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/78c4d36d59f4af210088853036985652/image/small",21h00 UMF Njardvik vs Grindavik (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/29f162976ad0eb7ea6bf78ae98006b68/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/b5b6e2541a1fc9382273d780ed5d3753/image/small",02h00 SC Paysandu Para vs America MG (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/53fb411c0324665b632d71d68f1961a9/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/67b77d35e2162973e912a96661afdde7/image/small",21h00 Bjorkelangen vs Elverum (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7f454c91f1f1fcb1d546f0b689215f6d/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/e62fe171c72158a1ed642b047fa165ae/image/small",21h00 Askoy FK vs Valerenga B (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/cdbf4f18156f5f4148c1f2f906f4f02f/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/59d8ee95ca239f638db195349761c62d/image/small",21h00 Vitkovice vs Vrchovina (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ad6d61d4cdf3a172e138c6e03dcd686d/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/da4c2974e820b64f98bdd97806f9b697/image/small",21h00 BKMA vs Alashkert (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/61566232b4398aebac94bdecbf942350/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/655a329157c9993835631352227e8ff9/image/small",23h00 Racing Club Montevideo vs Boston River (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/26eebf680742c28144c9f7464863a0bd/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ae8cd984a567113b4d4ac1b71051c9b1/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/32d1dd0a7b7b47bd974ca1ec3f06df8e_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/32d1dd0a7b7b47bd974ca1ec3f06df8e_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/32d1dd0a7b7b47bd974ca1ec3f06df8e_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/32d1dd0a7b7b47bd974ca1ec3f06df8e_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/32d1dd0a7b7b47bd974ca1ec3f06df8e_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/32d1dd0a7b7b47bd974ca1ec3f06df8e_720/index.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/987941c5714a35beb459f350fa055d47/image/small",22h00 Pogradeci vs KF Laci (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2049,6 +1901,118 @@ https://live.alilicloud.com/live/7e6e964922a492ecefd268cd299e87c6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6025cfbc02825402f03541853cc354bc/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/2937c3eae9e66291008095ac903aff36/image/small",22h30 Wisla Plock vs Cracovia Krakow (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/246c1d4d40518adca639d7b23b648068/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/548a3e6675aa0ee8d55d3f911c93b459/image/small",22h00 Maxline Vitebsk vs FC Torpedo Zhodino (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/181ad0f8af6567d919d1e803abd1c672/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/6451242cbf03b2bd7433a18797c82d7a/image/small",22h25 Al Khaleej Club vs AlvsFayha (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/794d942a1e0eec6b6cf83a996a0e2acd/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/763adf63279ba45b473d921864a3fdeb/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/0fa87bd0db8e43afb7df8ca1c0f4fe5a_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/0fa87bd0db8e43afb7df8ca1c0f4fe5a_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/0fa87bd0db8e43afb7df8ca1c0f4fe5a_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/0fa87bd0db8e43afb7df8ca1c0f4fe5a_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/0fa87bd0db8e43afb7df8ca1c0f4fe5a_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small",01h45 Fiorentina vs Napoli (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/0fa87bd0db8e43afb7df8ca1c0f4fe5a_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/046102af35f531fcae88e2aeb46c15df/image/small",03h00 Tigres Zipaquira vs Real Soacha Cundinamarca (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/977f5724a09af7242b491b74bfa7a1cb/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ec101380de54d5ce8c3874aa5253979e/image/small",22h30 US Siracusa vs Benevento (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c1af4ec8fdf44304c28098a32a7fab00/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/e4c33b2b174af4cd4c3915f58f45d382/image/small",22h00 Radomlje vs NK Olimpija Ljubljana (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/516756e2ddbde22a8a0c62562384ee7d/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ba09d32ec1a8819de5d1c247ad3a835c/image/small",23h00 Corum Belediyespor vs Belediye Vanspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b3102e8bb5485e279cd90a87b3aa0b3c/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/7c485bed7e6a88cabc991409a4e8f4c9/image/small",23h30 Al Hussein Irbid vs Al Faisaly (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a3f516a238c2360c481d9a45b4347737/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/5636e5dd47bddbf8643af14b75119e7e/image/small",22h00 Rijeka vs NK Lokomotiva Zagreb (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/892018a1b19370f8094dbc2d5ded345e/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/45cb1dcdb1908f8bb1848592d4af7f9d/image/small",23h00 Aarau vs Vaduz (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/68a1c2da74f95ffbc6e4cf3d93ab5abf/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/ed65cf27e63ca3b1012a550bda0527dd/image/small",22h30 Forli vs Gubbio (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/645b9d66e0b7a99e4082707761f7d3c9/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/46a87c0a99da98fd1b5948ec5ea5f983/image/small",23h30 North Carolina Women vs Angel City FC Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/631240020554f1c60925786f2fbe4cb6/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/31482846377edf4be51dd945f448062f/image/small",00h00 Torpedo Kutaisi vs Samgurali Tskh (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/224fdbd8b04742961193133a3ad44915/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/7ede55552a381ddc2f2fca0eccfdb163/image/small",01h00 Young Violets Austria Wien vs First Vienna FC 1894 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/007c2d159cc8a32bc242179fbee6015a/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/99d49eb5049c639e85690ef3962d7538/image/small",22h00 Sandecja Nowy Sacz vs Stal Stalowa Wola (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5232fa2eb42bd102004a841ad8d845f1/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/12e7ba4b4bafa6fd8296bdef6240bd75/image/small",21h30 Alemannia Aachen vs SSV Ulm 1846 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aa4f160089362a211e2cbeb3d4e3e0cd/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/91447c19e275a13a60de1ba27965acb7/image/small",01h15 Piast Gliwice vs Jagiellonia Bialystok (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/44c8bf4220cc4498613978ff3e769c05/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/082844088c184bd9807ef2c73b777418/image/small",02h00 Oriente Petrolero vs Real Oruro (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/72608e78e1818bbd75d6e5ec768a6d95/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/c798960d25965bc9dfeb504e6101cad7/image/small",23h30 Zenit St Petersburg Women vs Lokomotiv Moscow Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cded947796f927f06f6aa5a9b3642eee/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/4deabe2aefa4106dae0afb48f026e37b/image/small",00h00 Hapoel Bnei Sakhnin FC vs Hapoel Haifa (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/162eeb491ffb165919bf1016f462675b/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/90cedb68e2df2149d45436ac3a31b0a1/image/small",23h45 NEC Nijmegen vs PSV Eindhoven (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d4213c979dab3f05edc18516b8552d7d/playlist.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/07a555616afab7be32e00150eacf4197.png",01h00 Al-Hilal Saudi FC vs Al-Qadasiya (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2329,22 +2293,6 @@ https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m202qt/playlist.m3u8 
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131436_f3e8c8f3.png",01h00 ngày 14 Al-Hilal Saudi FC vs Al-Qadisiyah FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131436_f3e8c8f3.png",01h00 ngày 14 Al-Hilal Saudi FC vs Al-Qadisiyah FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125639_27caf093.png",01h00 ngày 14 Clermont Foot vs Saint Etienne (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125639_27caf093.png",01h00 ngày 14 Clermont Foot vs Saint Etienne (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133919_0e464bea.png",01h30 ngày 14 Metaloglobus vs CFR 1907 Cluj (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2441,6 +2389,30 @@ https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125536_9879fc79.png",04h30 ngày 14 Palmeiras vs Internacional (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/35650a6a61d4d955900faab61aa59b71/image/small",00h00 SK Artis Brno vs Sparta Praha B (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2477,34 +2449,6 @@ https://live.alilicloud.com/live/15fd629f46436305b4e3d72827fac67a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/53fb411c0324665b632d71d68f1961a9/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ae8cd984a567113b4d4ac1b71051c9b1/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/b2f77d2d31c74ce2ad0d388e0e5b129a_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/b2f77d2d31c74ce2ad0d388e0e5b129a_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/b2f77d2d31c74ce2ad0d388e0e5b129a_480/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/b2f77d2d31c74ce2ad0d388e0e5b129a_720/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/b2f77d2d31c74ce2ad0d388e0e5b129a_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small",01h00 Al Hilal vs AlvsQadsiah (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/b2f77d2d31c74ce2ad0d388e0e5b129a_720/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/b8351117d59ca3a9ffa39382da09673c/image/small",00h00 Zamalek SC vs Al Masry (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2713,6 +2657,10 @@ https://live.alilicloud.com/live/eb9cabf18cc8ccad230d6bea6813e678/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/977f5724a09af7242b491b74bfa7a1cb/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/fe1a99314716c2cf63073f995d2b04f0/image/small",00h00 Ceramica Cleopatra FC vs Smouha SC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c2dea33b353b99ffe35e76e970502892/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/201312092606.jpg?win007=sell",01h30 Hannover 96 vs Hertha Berlin (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2773,66 +2721,6 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef3
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360f953a70a882d52154c7845e2ccd7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=4d81c3fc4d16990a53f0233ad9d13fde&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=2377d75d9b30e49f0fa96f4b3f5c7929&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=4d81c3fc4d16990a53f0233ad9d13fde&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=2377d75d9b30e49f0fa96f4b3f5c7929&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=77c689c9a6d0625d7e8d443720ffc35d&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=c575386f5be1322ee98cad1e0cf51c2c&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=77c689c9a6d0625d7e8d443720ffc35d&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=c575386f5be1322ee98cad1e0cf51c2c&txTime=68c60139
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1757788905-0-0-624ff64490e6d09774b342f9b6be6a57
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1757788905-0-0-2c21e97c6614bff92774d6d97a1d010a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1757788905-0-0-555118f12bd833abb4a095d4e6e19199
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1757788905-0-0-cdb0cad60eb38b0e853c21cc01ebaaa5
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1757788905-0-0-898ed37e85b0f95c340abaa54fec2ed2
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1757788905-0-0-7cba604f3e1d241323066869648c4cf1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1757788905-0-0-47effb8a786d6a9f932e88c297a5aca8
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1757788905-0-0-fd824c075c39026b8db6b27e1a382fd5
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1757789985-0-0-4192e213c48e0245f1412037cdbca263
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1757789985-0-0-792ec264665a3cf0269ea6a9c1f4eaa5
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1757789985-0-0-16b492957887a76385f353850506aed4
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/1262e12671eff0460039992129feced1.png",01h00 ngày 14/09 Al Hilal vs Al-Qadsiah [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1757789985-0-0-c6541cdc2f9888369f3e372d08769644
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/52bc6a467cc7c445b191851b8442e93f.png",01h30 ngày 14/09 Hannover 96 vs Hertha Berlin [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1757789986-0-0-d58bcaa5e523ce0d3d8ec536752c4d7f
@@ -3157,3 +3045,15 @@ https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=6dc8971132eb5a18bc8c
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250911/697ce3bf67ddf8cb73c8414a65a7fec1.png",02h00 ngày 14/09 FC Twente Enschede vs NAC Breda [BLV ADAM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=1fa83054479ff0dbc446a1772f176e11&txTime=68c617b9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA PR: Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1757797545-0-0-e8d8291e352adeb75a45c4c4b90c6ffe
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA PR: Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1757797545-0-0-81728651fa4f345aecb6c8e32153b357
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA PR: Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1757797545-0-0-37fd51b160cda1dfbcc405625aa44f40
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",KSA PR: Al Hilal vs Al-Qadsiah [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1757797545-0-0-9eb9fa2cc932f195eacd238a244e49e0
