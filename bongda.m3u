@@ -665,10 +665,6 @@ https://live.alilicloud.com/live/f3749f93c7bbf7bfe47f645e1c35e5e5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5d0ecce9cb4054fe633a0d2bb655a661/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/e3fb951907a897f6de6b0af0f5baa253/image/small",09h30 Turkey vs Libya (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7a3ff3a0396fd1232c93ab62fb3dae5c/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/c86b0c1a2432cc40eaa553d043cbbd17/image/small",12h30 Germany vs Chile (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -745,6 +741,10 @@ https://live.alilicloud.com/live/6522979650e451c442fefb0461455aeb/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6f133ba1720d6480b038b2877bfb4cf2/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/72b0fadd02761e608678a930c1889196/image/small",15h30 Persela Lamongan vs Deltras Sidoarjo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5e627bdcfaefdbb09963481d5d4547b1/playlist.m3u8
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -901,3 +901,15 @@ https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1757928225-0-0-7679
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",JPN D3 : FC Ryukyu Okinawa vs Zweigen Kanazawa FC [Casting] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1757928225-0-0-6cfd5d9ac627f7fa1b9d5c383b17b39e
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=2e023c831c2b5bb17bf5d0298bf2c253&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=40e9a4f66a50cce7d2a55558f851728d&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=2e023c831c2b5bb17bf5d0298bf2c253&txTime=68c822da
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/76ddc4c289f93c21e29269f9fd508c4b.png",16h00 ngày 15/09 FC Ryukyu Okinawa vs Zweigen Kanazawa FC [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=40e9a4f66a50cce7d2a55558f851728d&txTime=68c822da
