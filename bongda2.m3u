@@ -1605,10 +1605,6 @@ https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8701_small.png",23:00 Chernomorets Novorossiysk và Chayka (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/b3f09e3ccf026db87abb675036c53c58/image/small",17h00 RTC FC vs Paro FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2085,14 +2081,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125816_76ea33b1.png",20h45 ngày 15 Sharjah FC vs Al-Gharafa (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125816_76ea33b1.png",20h45 ngày 15 Sharjah FC vs Al-Gharafa (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133807_7b861c8d.png",21h00 ngày 15 FC UFA vs Ural (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2381,14 +2369,6 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/22a76399b5ff46faa42fec667744
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/22a76399b5ff46faa42fec667744ea0b_720/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/3435/1gqbqekjkv27.png?win007=sell",20h45 Al-Sharjah vs Al-Garrafa (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/13988/1grgc5aqm72w.png?win007=sell",21h00 FC Ufa vs Ural Sverdlovsk Oblast (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2821,39 +2801,51 @@ https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1757954505-0-0-e0f
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",CYP D1: Aris Limassol vs Olympiakos Nicosia FC [BLV HOPE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1757954505-0-0-f29308a216106785c2f2e9851e3b7a92
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV CRIS] (Socolive) flv
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Wahda FC vs Al-Ittihad Club [BLV CRIS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=6b95a8c8949a653c279698b25396224f&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV CRIS] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=d09c78078476e7332575917c2676dc9b&txTime=68c88aea
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Wahda FC vs Al-Ittihad Club [BLV CRIS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=ef385790c676332fa07bf1d30a1d1260&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV CRIS] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=5437517a8605209629f1570b7656047b&txTime=68c88aea
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Wahda FC vs Al-Ittihad Club [BLV CRIS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=6b95a8c8949a653c279698b25396224f&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV CRIS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=d09c78078476e7332575917c2676dc9b&txTime=68c88aea
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Wahda FC vs Al-Ittihad Club [BLV CRIS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=ef385790c676332fa07bf1d30a1d1260&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=5437517a8605209629f1570b7656047b&txTime=68c88aea
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1757954866-0-0-42a34e3b544047d8a8ee3066bcfa1d4f
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1757955225-0-0-e892e399d2a51722ecd728fa3981af59
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1757954866-0-0-abc48e411c0842df258382c6842f8109
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV MESSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1757955225-0-0-f623a977e939fc73e4171bbc4cf89187
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1757954866-0-0-dd26c008844418152a8e1dc0d01db7b4
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1757955225-0-0-41caf4a9c195abcf4cc84da5fb54a347
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1757954866-0-0-75c925eedaf1688e8600be2de39ddb34
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV TOMMY] (Socolive) flv
+https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1757955225-0-0-6d80edca9cf05d092953a0d659e8fc32
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=80b148cae18562562a02c35c71dba189&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=ecec58d3f31896f3c0297388532f26e5&txTime=68c88ae9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=5cf6d26a22d351943e3e6e6d146ecddc&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=5e4c734ef931b50c35780c60cf8932ca&txTime=68c88ae9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=80b148cae18562562a02c35c71dba189&txTime=68c88982
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ACL Elite: Al-Sharjah vs Al-Gharafa [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=ecec58d3f31896f3c0297388532f26e5&txTime=68c88ae9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",ITA D1: Hellas Verona vs Cremonese [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5cf6d26a22d351943e3e6e6d146ecddc&txTime=68c88982
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=5e4c734ef931b50c35780c60cf8932ca&txTime=68c88ae9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",RUS D2: Chernomorets Novorossijsk vs Chaika Peschanokopskoe [BLV MASON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lsd.flv?auth_key=1757955226-0-0-dc9db245594a169541b8f6df12f8f527
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",RUS D2: Chernomorets Novorossijsk vs Chaika Peschanokopskoe [BLV MASON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-524300_lhd.flv?auth_key=1757955226-0-0-467c1cebdca9d83349874300a1ef546b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",RUS D2: Chernomorets Novorossijsk vs Chaika Peschanokopskoe [BLV MASON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lsd.m3u8?auth_key=1757955226-0-0-116c891e86ac417dfe6a1874af9c4e6a
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",RUS D2: Chernomorets Novorossijsk vs Chaika Peschanokopskoe [BLV MASON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-524300_lhd.m3u8?auth_key=1757955226-0-0-f3e29a9dae271a7c507c0e9a994b8a67
