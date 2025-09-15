@@ -27,6 +27,10 @@ https://2893254555.global.cdnfastest.com/live/68c800742f366_4439/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68c800742f366_4439.flv?expire=1758542580&sign=c7e060fddcc5e50c33c0cdbaba1d4e62
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/c471de7682d1c900df7981bb2cf6536c.png",20h45 Al-Sharjah vs Al-Gharafa 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/livehd/deb404a5231410cad7a261fa4b063fbe/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png",00h00 AIK vs Brommapojkarna [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -909,3 +913,39 @@ https://pull.niur.live/live/stream-500606_lsd.m3u8?txSecret=efdc4a764ad456823f0f
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/301473717cd9538b8cd79c80ad2ac37b.png",20h00 ngày 15/09 Penang FC vs Melaka FC [HÀN TÍN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-500606_lhd.m3u8?txSecret=b46b32b84a61b9bb2d83971b35a3491c&txTime=68c859b1
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV FANTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1757943705-0-0-95f2422e342fda65126fd86404c50788
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV FANTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1757943705-0-0-fcd5c42c81042cac566c8a38ec0aae9c
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV FANTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1757943705-0-0-e58879d1f66e6b049ab1a26d581809aa
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV FANTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1757943705-0-0-1ed8dae4886bbceee0120df7fdbc086b
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=7dc6af174f3172b19ffa9d48633ff2af&txTime=68c85de9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=c75fb3abc773370068043d3f8f82c325&txTime=68c85de9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=7dc6af174f3172b19ffa9d48633ff2af&txTime=68c85de9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c75fb3abc773370068043d3f8f82c325&txTime=68c85de9
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV QUAN VŨ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1757943705-0-0-c3e0c63554862faea6f5cf0d81e810be
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV QUAN VŨ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1757943705-0-0-3574ec06726eb65d07666b739b0546af
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV QUAN VŨ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1757943705-0-0-1b5fe3c94e2f6c8f4439c5c7ed3406e5
+#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250912/c769a44898cba5d06f935552322d3887.png",20h00 ngày 15/09 Verona U20 vs Cesena U20 [BLV QUAN VŨ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1757943705-0-0-c91d9367bea87f5eebaa273583476689
