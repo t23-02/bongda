@@ -385,14 +385,6 @@ https://live.alilicloud.com/live/83d9ae64786bc9b5e85ee5a42a9f41c2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/53eb10f8b4e357343be03f77c733df23/playlist.m3u8
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164714350712.png?win007=sell",08h30 Alianza FC (PAN) vs San Francisco FC (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANVOI/index.m3u8?expire=1892616120&sign=e1a63bd0d6c0ae487212cdaf5617d073
-#EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164714350712.png?win007=sell",08h30 Alianza FC (PAN) vs San Francisco FC (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANVOI.flv?expire=1892616120&sign=e1a63bd0d6c0ae487212cdaf5617d073
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1757584785-0-0-b00451300a5506d7b49b2a3c44ca19db
@@ -405,90 +397,6 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1757584785-0-0-6ef3
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1757584785-0-0-e360f953a70a882d52154c7845e2ccd7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c5548cd65f390dec19e0ad427c558050&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=5186be2aec754ff443469f2c56a4bb4e&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c5548cd65f390dec19e0ad427c558050&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=5186be2aec754ff443469f2c56a4bb4e&txTime=68c906aa
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=024f6428a455a1f22a47f6573a20a023&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=5a438ac2a737a8650db6b8aecef15331&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=024f6428a455a1f22a47f6573a20a023&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5a438ac2a737a8650db6b8aecef15331&txTime=68c906af
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1757987266-0-0-420527d73653fa3a9f666294d827f64b
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1757987266-0-0-657259d29d9e4d026d449319527a53bd
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1757987266-0-0-a7f74ad460e9d17282c09bc4e9522604
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1757987266-0-0-df8bdae69080b09644d834c41cda7c83
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1757988346-0-0-44bae4221dcd53742b837714284f0fe9
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1757988346-0-0-3dfb875794289ce24020e2823070e065
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1757988346-0-0-ce8878b43c464b9c82a417e550df1e82
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/file/common/20250913/15e63991b6653229a4845c7941eb9be1.png",08h10 ngày 16/09 Patriotas FC vs Real Cartagena [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1757988346-0-0-1981c87f273a6b1287a5a476be4a04a1
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1757995546-0-0-622b3be6764309d7b4ec0d3872769b0e
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1757995546-0-0-bee3e4516afc68c4d80595e1a6bebe4c
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1757995546-0-0-b17ee1f30dc27ef82a6a84624ae324ed
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1757995546-0-0-d0d2196f0c990cb5723015de0be008da
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1757995546-0-0-41e3da2bdbe54c1486e82d3fe04b632d
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1757995546-0-0-f70a94a9c5158c5f8e575295d89026e7
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1757995546-0-0-1bca06eddda3de027e798a401ddebdc5
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1757995546-0-0-e9b2fc88f806f946dbd9a35c247542e6
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=8d89f78cc43b63bd02ed20385d62433c&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=8673e410d7c1289b18c662f16e948eff&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=8d89f78cc43b63bd02ed20385d62433c&txTime=68c9286a
-#EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",MEX WD1: Santos Laguna Women vs Atlas Women [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8673e410d7c1289b18c662f16e948eff&txTime=68c9286a
 #EXTINF:0 group-title="SOCOLIVE" tvg-logo="No logo",Tường thuật: ITA D1 - AC Milan vs Bologna [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1757995546-0-0-2c2ac2e04467ddbc13e06678610665ac
