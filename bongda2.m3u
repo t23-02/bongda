@@ -3,14 +3,6 @@
 https://hello
 #EXTINF:0 group-title="__THÔNG BÁO__",2. !!! Link DỰ PHÒNG: byvn.net/webbongda2
 https://hello
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/3926045d53d007bdc009916c552d32a6.jpg",11h20 CHANG Ching Hui vs JEONG Na Eun [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68c8b7c15baba_19013/index.m3u8?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/3926045d53d007bdc009916c552d32a6.jpg",11h20 CHANG Ching Hui vs JEONG Na Eun [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68c8b7c15baba_19013.flv?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/719cb2376eb230542656331d88782e3e.jpg",12h00 KIM Hye Jeong vs Hina OSAWA [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -27,6 +19,14 @@ https://2893254555.global.cdnfastest.com/live/68c8b2695baba_18754/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68c8b2695baba_18754.flv?expire=1758588137&sign=cc8f05c3e8362ee645d01a677a417d61
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/ecd0004403ae2a749547880501a72328.jpg",12h20 Line Højmark KJAERSFELDT vs Mia BLICHFELDT [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68c8b7c15baba_19013/index.m3u8?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/ecd0004403ae2a749547880501a72328.jpg",12h20 Line Højmark KJAERSFELDT vs Mia BLICHFELDT [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68c8b7c15baba_19013.flv?expire=1758589505&sign=4e4d9722e5fb47e29650afd31d620bc4
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",14h45 Melbourne City vs Sanfrecce Hiroshima 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -157,6 +157,14 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/20250914_222448_743f1901.png",13h00 ngày 16 Ukraine vs Algeria (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/20250914_222448_743f1901.png",13h00 ngày 16 Ukraine vs Algeria (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130441_83c08c1b.png",14h45 ngày 16 Melbourne City vs Sanfrecce Hiroshima (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
