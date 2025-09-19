@@ -35,18 +35,18 @@ https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758260233.jpg",12h45 ngày 19/09 MC vs MU (Lương Sơn) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758260233.jpg",12h45 ngày 19/09 MC vs MU (Lương Sơn) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758267995.png",14h30 ngày 19/09 Real Madrid vs Real Sociedad (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758267995.png",14h30 ngày 19/09 Real Madrid vs Real Sociedad (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/TEST2.flv?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758260233.jpg",12h45 ngày 19/09 MC vs MU (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1758260233.jpg",12h45 ngày 19/09 MC vs MU (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/CjiQ6oil-YDF8PndO.png",16h00 ngày 19/09 Yangon Royals FC (W) vs Myawady FC (w) (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -539,138 +539,78 @@ https://hls.cdnvankhanh.com/live/TO1C/index.m3u8?expire=1875681300&sign=298f5a6e
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/TO1C.flv?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=cd92770be5200b5ef9c67d934dd01854&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=10a4eee0187b74f2f22df39df0fb69f9&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=cd92770be5200b5ef9c67d934dd01854&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=10a4eee0187b74f2f22df39df0fb69f9&txTime=68cd61b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1758270915-0-0-1147d0f261c9835efc0ffdb9ceb6f2f6
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1758272355-0-0-9ac592151cb73f4faf4b2a2ee1081068
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1758270915-0-0-cf1cb6a00c8ce1b1a0cec5ca6bbf75c4
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1758272355-0-0-ce53ad63a7a6af8ed16fcba749decc8b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1758270915-0-0-eea77a143fbf20b44c43d591cbcb2846
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1758272355-0-0-f0c362d6c24d371bc1f370edf9e8d7d1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1758270915-0-0-2edcc0ff3520cdf95da9a44ef4c5d426
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1758270915-0-0-48eb09a643aa7ee2e5b525f7d81aa7e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1758270915-0-0-62659d7a42acb84a20a855d41bcd3de3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1758270915-0-0-fedf2eb20dfa7140e67eb5ba19374015
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1758270915-0-0-d642ccef79ee84d88b3995905a0468a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1758270915-0-0-4befa61bd2b8ead89746d071dcf01a55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1758270915-0-0-635b8a83999fcf63ca812d0eb32e6a36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1758270915-0-0-37bfb436df07e0cbc7ae1aceb1304f9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1758270915-0-0-f5191862847f950be881d68b2c063432
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1758272355-0-0-dabd5c0efd332573a58f3ec3fcc9c92b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=61d1cd0c37cc638761985926349e6fc0&txTime=68cd5c13
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=93cdce895b428adf10cdae417e58c97f&txTime=68cd61b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=5a7edb25954e2c4906f0d0fa59779661&txTime=68cd5c13
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=6b69d77d1f85cc6359391e779b027eee&txTime=68cd61b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=61d1cd0c37cc638761985926349e6fc0&txTime=68cd5c13
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=93cdce895b428adf10cdae417e58c97f&txTime=68cd61b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=5a7edb25954e2c4906f0d0fa59779661&txTime=68cd5c13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=6b69d77d1f85cc6359391e779b027eee&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1758270915-0-0-dbfd74a08db908980ece535457d9a496
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1758272355-0-0-7436c5ce94c11a079b1375ed71e4c800
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1758270915-0-0-fee42390cbc8b8fa9217f386786e1fa9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1758272355-0-0-4bb8b216bce4443988f1e321ab5bc2db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1758270915-0-0-63f00edeffdbb402eca1e238ce5470f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1758272355-0-0-90d65955f796410cca877b958fb6012b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250917/a338d043626cf7b5c38fb121ff3468cb.png",14h30 ngày 19/09 New Zealand Breakers vs Brisbane Bullets [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1758270915-0-0-803936aeb221c2c0713fc59ce3cec1ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1758272355-0-0-64a52e276e725b6a1046551d9deb8f4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1758270915-0-0-dc60cf19940f0da03df6458025b12b74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=e0be33af0c3027e5e822bb7c028bb83d&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1758270915-0-0-b764d9037428157e4c44b642c742227e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=007f6300119b29f2773df211b280352e&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1758270915-0-0-a1a78d1b5d7a495ba7d4e2616ec60030
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=e0be33af0c3027e5e822bb7c028bb83d&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/55882dd34d856e0fc289a6551b903c33.png",15h30 ngày 19/09 Bhayangkara Presisi Indonesia FC vs Persik Kediri [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1758270915-0-0-f4f232ad75d76e6ab8c3984b15165c8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=007f6300119b29f2773df211b280352e&txTime=68cd61b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1758270915-0-0-d6bf3b7c0e9ca88d8a0da00b15ca9e20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1758272355-0-0-8be8efad257aa1b6079a334304a61234
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1758270915-0-0-242f81688ea32375c45b5f907dc0276a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1758272355-0-0-4c5d0c7f112ce47cc76d42cb3a25c31f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1758270915-0-0-dd72d9305e74d5248d6900afdff7fc73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1758272355-0-0-c2aab84a6a22fb161f10e5586a3308f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV GẤU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1758270915-0-0-ead89b014ba96793b53a2f4e457a514e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1758270915-0-0-13312f8da2dde09f82d75aba32aba850
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1758270915-0-0-6f9369b3039e152d19958337bb9a137e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1758270915-0-0-c181472fa09dd3c2bd1340677e3753d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1758270915-0-0-9e1698a6e9747d3e37a587f4fd40068b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1758270915-0-0-65c771a1a4ce60f56e23cc83b7ca4f8e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1758270915-0-0-644bce221228a0f729794d8836af9967
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1758270915-0-0-578191c20b565d36b3854276bbab1c90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1758270915-0-0-cb1803ead1ad31fc80fc87f7fcff0162
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1758270915-0-0-d1c3b7045f1ea4c1746b73c6e0428927
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1758270915-0-0-5ad521081944be3acf6d62de06613b86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1758270915-0-0-af42c502a0f5d92af8c04e5994e31e46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1758270915-0-0-c7161638870a28fe468799ec5d72a52c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1758270915-0-0-657c32529fbd01d2c5dcc0590d7ffe58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1758270915-0-0-977f640cc1d3a133393ca9c4ef650b2a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1758270915-0-0-7a92d8653d73276015a2582347cbe58d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1758270915-0-0-2344311457f1b0f250f7efcb9201c974
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1758272355-0-0-62d2c766641ed68cd5aa1e2cb4af1559
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV BEAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
@@ -683,22 +623,90 @@ https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250918/83f5d64a4100c4dad1b44edb4979b229.png",15h00 ngày 19/09 Paranaque Patriots vs Nueva Ecija Vanguards [BLV BEAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] HD Nhanh
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758288246/651a39f67104ad785553d95dae74b25a/383319162/live/trauHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] HD
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1758272355-0-0-a41b8c994f924e5409d90d5f45a855a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758288246/8733dec3bc3487c80697a17c5760cce6/710284788/live/trauHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] SD
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1758272355-0-0-f90a8c0097f59afe4e8a889d8bad19a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/uoB0NNVTjMJQMVTCb5ftGg/Fv2lucGIbhPi2caWYvF5Lg/1758288246355/live/trauSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] FullHD
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1758272355-0-0-3131d9ad8aea569b55d34be3dc382619
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/eOyxWNADRRFLCwAEaQ4_8Q/847878fb5be3ca4c0539d0883bc5274a/1758288246/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1758272355-0-0-2b43caaa527f38cbfb55efb84aeddfcf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1758272355-0-0-4d9fd61dd6faeba4172110b7a70d449c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1758272355-0-0-c799304a03bf76ff4fae229c85a5fb54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1758272355-0-0-c6df66756dfc4fdd497bbe002249acee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Newcastle United vs FC Barcelona [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1758272355-0-0-c96d819aa8049cb5a3313c553c17108e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1758272355-0-0-ee1d98625c6bdb62c25fe929d56ca229
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1758272355-0-0-aca1d9c39fa02045b82b581f89bfabe4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1758272355-0-0-4b1b4a42140ae55bdf4aec49cede47b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Manchester City vs Napoli [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1758272355-0-0-3166b6832fbb296787f3f2fa68c3e4e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1758272355-0-0-c66ad8e2c837c8054e20b1b2c4aa3fa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1758272355-0-0-67b32b5c7a2dc7170fde3b95b27d5422
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1758272355-0-0-f8b45931a89d6a981bbc495a5abaa101
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - FC Copenhagen vs Bayer 04 Leverkusen [Sóc phụ hồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1758272355-0-0-64f5a15249d97f052924147b396a9945
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1758272355-0-0-88db5797a0fa29cbbf6febb3c7adf4b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1758272355-0-0-f549cb09ccfd477f1852962e4d0b52d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1758272355-0-0-7a9861cfd34331028145531da29fd017
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: ACL2 - Beijing Guoan FC vs Cong An Ha Noi FC [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1758272355-0-0-4f871feaf0e4ecda70b0168ffd509795
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1758272355-0-0-f709aa9cfe8e6520b60c4900c0280020
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1758272355-0-0-a50fe9c62f2829e0e78a53864111ed91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1758272355-0-0-52e34b6674b3bfee9bc4e2517b1d8910
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Club Brugge vs AS Monaco [Sóc chó điên] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1758272355-0-0-89f0887f36bcf07b15b3f1d3245b6f74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1758272355-0-0-634a5cf99e01ea977b9d775e2fa2ac02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1758272355-0-0-57ba1c1f399128c158b706dcf9972870
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1758272355-0-0-220786a245d0cc738d7794415232e196
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250916/a298604e72fd8eb0d16b6282b574121b.png",Tường thuật: UEFA CL - Eintracht Frankfurt vs Galatasaray [Sóc xào sả ớt] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1758272355-0-0-e011152d14d7dc053ef3b3b57931e066
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/fyvauNkD-dfN8z746.png",09:00 ngày 19/09 China Masters 2025 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -843,6 +851,22 @@ https://hotlivezz179602324.akainu.xyz/2LCmkuHuGuZuvcC7X-ADkQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/jUSz9t05RMbBMiIKUHeckw/9f4a66eaa9212d11b576a17aa8c29a66/1758290050/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758290409/534ec81d67c061a6f3db3c16392ef334/824897509/live/trauHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758290409/c0edd310cf210d4710c5027706cf8624/948778145/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/7DZSJduM8ve7DLhlVnMkkg/Fv2lucGIbhPi2caWYvF5Lg/1758290409186/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9dfa15d55fc0809ef15f25da965e0f2b.png",15:00 ngày 19/09 G2 vs The Mongolz (1) [Trâu Gác Bếp] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/0E8VFtXSXkfty1ZWzNU88g/847878fb5be3ca4c0539d0883bc5274a/1758290409/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://aobidathietke.com/wp-content/uploads/2023/04/Mau-Logo-Bida-Thiet-Ke-Dep-Danh-Cho-doi-Cau-Lac-Bo-Club-Quan-Billiards-31-400x400.png",14h00 ngày 19.09 Trực Tiếp Bi-a (Hội Quán) Cáo
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://hoiquan.live/
@@ -851,6 +875,18 @@ https://bglive.edgemaxcdn.org/live/blv_nhadai/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://hoiquan.live/
 https://bglive.edgemaxcdn.org/live/blv_phancao/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 09/19 Bhayangkara Presisi Indonesia FC và Persik (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x2y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 09/19 Bhayangkara Presisi Indonesia FC và Persik (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x2y3-4601/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 09/19 Bhayangkara Presisi Indonesia FC và Persik (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",16:00 ngày 09/19 TRỰC TIẾP CẦU LÔNG vs China Masters (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
