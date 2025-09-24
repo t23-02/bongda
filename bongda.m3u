@@ -697,14 +697,6 @@ https://live.alilicloud.com/live/5bc93dcd7a076efeb1bcd3898b25339a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e3ac18910b05c57b2ccc9e77cff65067/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758689777.png",12h00 ngày 24/09 AC Milan  vs U.S. Lecce (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/TO1C/index.m3u8?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758689777.png",12h00 ngày 24/09 AC Milan  vs U.S. Lecce (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/TO1C.flv?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758690894.png",12h00 ngày 24/09 Arsenal vs Manchester City (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -721,6 +713,14 @@ https://hls.cdnvankhanh.com/live/TO2C/index.m3u8?expire=1875681300&sign=1dcca78f
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
  https://flv.cdnvankhanh.com/live/TO2C.flv?expire=1875681300&sign=1dcca78f9f8c3621610c69bef6818ba8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758689777.png",12h00 ngày 24/09 AC Milan  vs U.S. Lecce (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/TO1C/index.m3u8?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1758689777.png",12h00 ngày 24/09 AC Milan  vs U.S. Lecce (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/TO1C.flv?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250922/03ef2b8a538c82931de747325c44902b.png",15h00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns [BLV BEAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
@@ -829,6 +829,54 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1758703275-0-0-5c3a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250920/2af260585f1d50a03aeebe7eabe8855a.png",Tường thuật: SPA D1 - RCD Espanyol vs Valencia CF [Sóc chó điên] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1758703275-0-0-5e96f81c1cd3fb6331d31818eaabc889
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721326/29ca5f7ecc857b52804aef75feebdfcc/703225496/live/luaHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721326/ffeb70b799baa9d473a6fef09ea939b4/457024005/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/XLpv58EsB87W24RYY43hLQ/Fv2lucGIbhPi2caWYvF5Lg/1758721326267/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/7zXpi40hz3hFWxorVQwh7w/74b8773ecaa9df430432c2bf2b6bd9e0/1758721326/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721329/fcbfa9ee12f96d188dd2084f0080102f/962036450/live/satHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721329/7e7b22570e65e6d355d4e6f933ac251c/470238746/live/satHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/jKOV3GjB74_diS7e7aF8Wg/Fv2lucGIbhPi2caWYvF5Lg/1758721329387/live/satSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/iDbic0MPxIa0pcpyfqpWjQ/6b78b4ff262c15bca3bdb372d5d5d695/1758721329/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721689/83bf843f3d7aaeeb7d54a2e85cfc5a9b/896913901/live/cunHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1758721689/2f8dc30cbb5d144458c3507445125463/160733554/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/VZlPqdNT1tUNYlutl2lUqQ/Fv2lucGIbhPi2caWYvF5Lg/1758721689252/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/o4N55bA7vL8dYpM4MWYr1g/317070d9a306b71c37e6ea9e37f2842f/1758721689/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/e86b245802ba9c44ea457f20fcf50eaf.png",12:05 ngày 24/09 Ashlyn Krueger vs Maria Sakkari (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -921,70 +969,22 @@ https://hotlivezz179026907.akainu.xyz/rPlwe-qjTX8BxyxG-7npjw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Ax0jp-_SXbSD5PDoyFByXg/Fv2lucGIbhPi2caWYvF5Lg/1758720981148/live/may20/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:40 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] HD Nhanh
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:50 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758720983/e5872a1a32c421967c803ac32d84b24a/432700068/live/daoHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:40 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] HD
+https://9ceg0825.edgemaxcdn.org/1758722057/681fbaae84fa8c7a2b4e8fc1e5a9c138/380885435/live/daoHD.flv
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:50 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758720983/0031f65a952c020c4f1da7a893ef118a/391652413/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:40 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] SD
+https://9ceg0825.edgemaxcdn.org/1758722057/9d4b9bff1fecb801b3d48d8750638a2a/255466150/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:50 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6xvNMXgW-DzBSJiJ7z_cww/Fv2lucGIbhPi2caWYvF5Lg/1758720983011/live/daoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:40 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] FullHD
+https://hotlivezz179602324.akainu.xyz/Sw8KIYKpDqOYl9inyUHIoQ/Fv2lucGIbhPi2caWYvF5Lg/1758722057157/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ec9e98a0467937eb5ce208c0d39dafc7.png",14:50 ngày 24/09 Barbora Krejcikova vs Anna Blinkova (1) [Lơ Đao] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/xjjM2FiZXcCb2KPZG4o45A/67544df98adad7c165ac45843eec88d6/1758720983/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721326/29ca5f7ecc857b52804aef75feebdfcc/703225496/live/luaHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721326/ffeb70b799baa9d473a6fef09ea939b4/457024005/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/XLpv58EsB87W24RYY43hLQ/Fv2lucGIbhPi2caWYvF5Lg/1758721326267/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png",15:00 ngày 24/09 Bulacan Kuyas vs Pampanga Giant Lanterns (1) [Người Lửa] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/7zXpi40hz3hFWxorVQwh7w/74b8773ecaa9df430432c2bf2b6bd9e0/1758721326/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721329/fcbfa9ee12f96d188dd2084f0080102f/962036450/live/satHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721329/7e7b22570e65e6d355d4e6f933ac251c/470238746/live/satHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/jKOV3GjB74_diS7e7aF8Wg/Fv2lucGIbhPi2caWYvF5Lg/1758721329387/live/satSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/d240edd9cf86ee83abac51ee6942c8f9.png",14:40 ngày 24/09 Katie Boulter vs Hailey Baptiste (1) [Người Sắt] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/iDbic0MPxIa0pcpyfqpWjQ/6b78b4ff262c15bca3bdb372d5d5d695/1758721329/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721689/83bf843f3d7aaeeb7d54a2e85cfc5a9b/896913901/live/cunHD.flv
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1758721689/2f8dc30cbb5d144458c3507445125463/160733554/live/cunHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/VZlPqdNT1tUNYlutl2lUqQ/Fv2lucGIbhPi2caWYvF5Lg/1758721689252/live/cunSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",15:00 ngày 24/09 Polina Kudermetova vs Maddison Inglis (1) [Người Cún] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/o4N55bA7vL8dYpM4MWYr1g/317070d9a306b71c37e6ea9e37f2842f/1758721689/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/n9sTqxCZGoyfHJxpjCjf2Q/67544df98adad7c165ac45843eec88d6/1758722057/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png",14h30 ngày 24.09 ý (Hội Quán) BÔ
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://hoiquan.live/
