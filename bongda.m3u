@@ -397,6 +397,14 @@ https://live.alilicloud.com/live/9c5e75387fd9f5d5dd9cae8df574aa0c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/217b6a122d8ee93ab76dff26d9877a86/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 ngày 01/10 Pafos vs Bayern Munich (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 ngày 01/10 Pafos vs Bayern Munich (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297472.png",12h45 ngày 01/10 Atletico Madrid vs Eintracht Frankfurt (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -413,98 +421,90 @@ https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855a
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 ngày 01/10 Pafos vs Bayern Munich (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 ngày 01/10 Pafos vs Bayern Munich (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atalanta vs Club Brugge [Sóc xào sả ớt] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759301600-0-0-cb6db8a305fb5feb59ce894b5dcdf7aa
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759303040-0-0-ef1c621fc1d8a284fce9ccc6a01ecce0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atalanta vs Club Brugge [Sóc xào sả ớt] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759301600-0-0-790dc9f117d77cc9fcb3556c3694067b
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759303040-0-0-c2e7e1f37d9d67095e70aa0dc08b6c67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atalanta vs Club Brugge [Sóc xào sả ớt] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759301600-0-0-bc2d3465e83bf4e4b9930b2461003975
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759303040-0-0-a78843190246b0b7c8b019ce88bbf0de
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atalanta vs Club Brugge [Sóc xào sả ớt] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759301600-0-0-f8dfa9df5487737f7efd204236165652
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759301600-0-0-07020bb9a6f5ee8d5560fc013a41d29c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759301600-0-0-e06855f64626792669e5f9781d44f3d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759301600-0-0-4703fac6633c6cde62f2e3f0f11f8ed5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759301600-0-0-fb0448c16b3d522905b469559b79ae41
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759303040-0-0-5936a1d7540fe3c853eab73c30faa821
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759301600-0-0-c3ddfc7666116fa7f165f4efb286fee5
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759303040-0-0-0ada2fff350072664e196e88efdc4efc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759301600-0-0-2a2a2e7f6ecaf1f52b39af22d32672e0
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759303040-0-0-8edcdda12ba6dce377709921a0d02e21
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759301600-0-0-494fdd670b58ade4e2720a0b2bd6218d
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759303040-0-0-872da4de78eddd714d4bd7d0d885972e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759301600-0-0-22701f92473d859f4b3d8586858f0acd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759303040-0-0-59c219b7a5763e6c26a910600d518ba6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759301600-0-0-4be8b55155472d22dee09bac394481c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759303040-0-0-1ca17cbe8a6c7fa28e658f73d51b939b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759301600-0-0-0d9942118dce088293fae47db9920e81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759303040-0-0-6c46059aa0893194a9473f2a90f0f021
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759301600-0-0-03170451e404f5e662dfb8c3c492ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759303040-0-0-7bafd9a50e5a7994012dea5057a46ce7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - FC Kairat Almaty vs Real Madrid [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759301600-0-0-e1102ac82ec36fa687169de4f0d60b15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759301600-0-0-b1b24ee18ee5afe81e8a57c73e1baa86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759301600-0-0-51ee7b2213c11dc4af5f1ef580c4f32e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759301600-0-0-4b22c3e52fb8579292e52c9afee08584
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759301600-0-0-f51f2208a754c0211de6a8456ac49e34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759301600-0-0-901128a14fdb74bd780fa17542d56c22
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759301600-0-0-8b9411d668b7e1046f3534f0847fe716
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759301600-0-0-9f5279d7823b74bcf20e798cd0594bc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759301600-0-0-92699092b6acc8234661c1c2fcdd5fd6
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759303040-0-0-c91f07165b4b11c415f944f8960ef375
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atletico Madrid vs Eintracht Frankfurt [Sóc chó điên] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759301600-0-0-476107183cd789e846ffd4888fb9a5ca
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759303040-0-0-5f6b5079a31d4316ed02d278d3e70640
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atletico Madrid vs Eintracht Frankfurt [Sóc chó điên] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759301600-0-0-97530bb702690d7bb81ba39d3640ad1b
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759303040-0-0-1d7dab30f1d5e1fa5e0030cf9ef5c4be
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atletico Madrid vs Eintracht Frankfurt [Sóc chó điên] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759301600-0-0-15f2d22573618b2fd38393836f1878a4
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759303040-0-0-f09b16c04fbe8dbaa0558e830ed17a10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Atletico Madrid vs Eintracht Frankfurt [Sóc chó điên] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759301600-0-0-864c6938b6ae979a08e6a43201c13073
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759303040-0-0-d020a03fcf0f54ae9a40b9f4a31c1e36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759303040-0-0-22b8c994ec51ff450217cb0cd921a16c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759303040-0-0-4e1ada897e5c789f06033c91062f01e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759303040-0-0-0ca2927102373d46007dc4ed2c68cd90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Chelsea vs Benfica [Sóc phụ hồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759303040-0-0-f77fdec49d8a9bb7e557ba1fc89437fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759303040-0-0-cf147daae1b48c0063e082a74e74f1e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759303040-0-0-77d8c40a14e7d4091b2d37f82cf64d29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759303040-0-0-dfaedeb563e2e3b4e1398ee7c7e62692
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Galatasaray vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759303040-0-0-b83a77cd23219a9fad90681c3badcb57
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759303040-0-0-5018c4026573bd1b206e31f8f169628f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759303040-0-0-63a6cea42f6dcc19c7c0f326c844927b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759303040-0-0-53a0ee98a516b4ddb5b19f5ba52a1bc9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường thuật: UEFA CL - Pafos FC vs FC Bayern Munich [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759303040-0-0-1c73ece15e63248e6c2eb5287d0cd0c8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 ngày 01/10 China Smash 2025 (1) [Nhà Đài] Bàn Infinity ∞ Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
