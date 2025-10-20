@@ -51,10 +51,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/v2/team/26bb98536c76b677423b6c85d6fd1d40.png",14h20 ngày 20/10 Francesca Jones vs Wang Xiyu (Lấy kinh) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/bb147e444750f5927d74381db3438fdb.png",14h30 ngày 20/10 Liaoning Shengjing Xinxing FC vs Changchun Storm FC (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -63,6 +59,10 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m201nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/v2/team/26bb98536c76b677423b6c85d6fd1d40.png",14h20 ngày 20/10 Francesca Jones vs Wang Xiyu (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1760936461.jpg",12h00 ngày 20/10 Tottenham Hotspur vs Paris Saint Germain (PSG) (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -411,128 +411,88 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760946082-0-0-e0efceb03d26dcca08750bbe580ff2dd
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760947162-0-0-661257baee659bfb3a89a1c7861ce98e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760946082-0-0-e8d17819ba979cbd2a7257424451d067
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760947162-0-0-89493c539914f9c893587b8e410bf763
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760946082-0-0-0ce9fb3692acf7f405b6031ce248e1e9
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760947162-0-0-60e60da098edb43adf8b802b5262099c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760946082-0-0-0986578a2f16f7a44ee37a05f11343a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1760946082-0-0-423b9012409b0bb57f4292b86e3d4a6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1760946082-0-0-96adc4e9d77d49d9bbbb4a64ac5773dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1760946082-0-0-c6aac26297ecab327ecce1ef49231fd9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1760946082-0-0-ee1e47ffca7514cfdbeac4c8b9075ad5
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760947162-0-0-62ed9d5f4ea9bcd553b2f57c0b23c1de
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Liverpool vs Manchester United [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1760946082-0-0-7117f8ee21c3f6dc8af1f19ba7318e0d
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1760947162-0-0-2ad3037265204e2fa1894ce0d78ec469
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Liverpool vs Manchester United [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1760946082-0-0-3c63cad19d0dc526e1add4056e6048ab
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1760947162-0-0-8be83546789a67e759b897014a34faf6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Liverpool vs Manchester United [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1760946082-0-0-334b9efd2350fea9f927ae7de7be6f5d
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1760947162-0-0-3b06a0a2fabec04409d30d527adec1f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Liverpool vs Manchester United [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1760946082-0-0-e4e4dd4cac1b22cac1e2bea26760e2ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) flv
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1760947162-0-0-055c043d1c3c461ac6e5143c506ae8b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1760946082-0-0-665364579133d5e09823fa21b9eea514
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1760947162-0-0-ea85fbc4fa1c4f1da08c963e8d1da277
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1760946082-0-0-ffcfd3547dbc9f5135d5fddbf3689a14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1760947162-0-0-b3a1b4427b9d38888d25ecf47109e9db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1760946082-0-0-187cf85c9d981f752d0baa23a747f023
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1760947162-0-0-862e0eb619d229bd599e9a1562cbd954
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: GER D1	FC Bayern Munich vs Borussia Dortmund [Sóc chó điên] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1760946082-0-0-862e198c5ecdf033db90ce910f1a8ee8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1760947162-0-0-79cec006e65ef2827829d0592b319e8b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Fulham vs Arsenal [Sóc phụ hồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1760946082-0-0-d1e7ac26b97d4fbf861e4d262c2efd9f
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1760947162-0-0-902179a9c975226ef4934a6ad4b4956d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Fulham vs Arsenal [Sóc phụ hồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1760946082-0-0-f2796e52ee91e7d6f49cb8718cd3af8b
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1760947162-0-0-bfae16a6a87f6c01062236b469b19731
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Fulham vs Arsenal [Sóc phụ hồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1760946082-0-0-37e13829d3b31452f4d903b55d28e543
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1760947162-0-0-7715a4956eda8d54921ac19c7deabcb3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Fulham vs Arsenal [Sóc phụ hồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1760946082-0-0-b16e37c024ab7cf0242f1f5fed21cf03
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1760947162-0-0-5ba191fb55f2a4f51e28ceaa49c2453e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1760947162-0-0-d3909e4bf9fb0c2f7713698c3773b9e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1760947162-0-0-5b7f92f3205dc1e310d7485ec106533d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1760947162-0-0-f6eafba54b8500bedbdeb7ef81358155
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	FC Barcelona vs Girona FC [Sóc xào sả ớt] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1760947162-0-0-3d2c62ee9553c47c4d07be44b7a59c0f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Manchester City vs Everton [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1760946082-0-0-b00d43b5a78a599b833f5eff56f85dc6
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1760947162-0-0-34ea210da4c8da2e8366a39b7712176d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Manchester City vs Everton [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1760946082-0-0-78128bb513908d7ec4c253bb908d2c64
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1760947162-0-0-eb450ccec4bc23e573d32ee5c7406be6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Manchester City vs Everton [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1760946082-0-0-ab5392f5739a35a06f5db5446158723c
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1760947162-0-0-ec2db4b7bca5f10f0a307ee64d0811bc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: ENG PR	Manchester City vs Everton [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1760946082-0-0-9e3af3684b9993f4257447b47fd4d77a
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1760947162-0-0-75eb10366711d898418b77510f73c416
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	Getafe vs Real Madrid [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1760946082-0-0-441ec96de394cb21fc79311e94ae9830
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1760947162-0-0-3d0a810aecf03d4642dcebba4c734508
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	Getafe vs Real Madrid [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1760946082-0-0-905eebddd148a85b088b623ca43d2af5
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1760947162-0-0-ff209b4320d41df31b16acb81ef03358
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	Getafe vs Real Madrid [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1760946082-0-0-d2210630c32e0d643072ff2e6501eb7c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1760947162-0-0-231783c1b07346e6a241bd7fc6b3b13d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251015/53a994902b36c0c4f7515043ed4ac859.png",Tường thuật: SPA D1	Getafe vs Real Madrid [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1760946082-0-0-8e7fae7f1925020d00f702b91d933f2b
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b7182e655b50b461242c660a14079b9a.png",11:40 ngày 20/10 Viktorija Golubic vs Maya Joint (1) [Người Cồn] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1760957289&sign=be6d92558939fc85fa96c06869748f34
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b7182e655b50b461242c660a14079b9a.png",11:40 ngày 20/10 Viktorija Golubic vs Maya Joint (1) [Người Cồn] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/B1_1iuyZEoAXZJImfi5vww/Fv2lucGIbhPi2caWYvF5Lg/1760957289995/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b7182e655b50b461242c660a14079b9a.png",11:40 ngày 20/10 Viktorija Golubic vs Maya Joint (1) [Người Cồn] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/MxmBRx-wL4k0XEgTHRYMnA/2506a4c9a49d6a20c02208f6ddb30434/1760957289/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b7182e655b50b461242c660a14079b9a.png",11:40 ngày 20/10 Viktorija Golubic vs Maya Joint (1) [Người Cồn] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/wFDZL_uc_wisZYKdoTKhZA/Fv2lucGIbhPi2caWYvF5Lg/1760957289995/live/conSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b7182e655b50b461242c660a14079b9a.png",11:40 ngày 20/10 Viktorija Golubic vs Maya Joint (1) [Người Cồn] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/4VCtU5tmoiH77a5ABmrkOg/7135f49323c9408d9b4f4a596ce26852/1760957289/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",12:40 ngày 20/10 Suzan Lamens vs Anna Kalinskaya (1) [Mỳ Tôm] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/may3HD.flv?expire=1760960531&sign=a782a4ffb44b2ffce99fa07cbb1adea2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",12:40 ngày 20/10 Suzan Lamens vs Anna Kalinskaya (1) [Mỳ Tôm] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/p3ZYlPVdiWRaXyzOdRNE2Q/Fv2lucGIbhPi2caWYvF5Lg/1760960531119/live/may3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",12:40 ngày 20/10 Suzan Lamens vs Anna Kalinskaya (1) [Mỳ Tôm] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/6m3FRH4xoVa8CUCUhTL3xg/e2a777bf46a328bbf6d4faa777932bd8/1760960531/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",12:40 ngày 20/10 Suzan Lamens vs Anna Kalinskaya (1) [Mỳ Tôm] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/1wlyYhozQnOU9YFii5L9Ig/Fv2lucGIbhPi2caWYvF5Lg/1760960531119/live/may3SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/80a22815bd9c41c56b2aa57553046d81.png",12:40 ngày 20/10 Suzan Lamens vs Anna Kalinskaya (1) [Mỳ Tôm] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/4KpgbdOss3oOcI8eYLMBcg/134f6a1c41770169e638f6127af8a455/1760960531/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1760947162-0-0-02c77e4f88d9538b4355608f67ff8972
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/UThha4jD-ChjtKFNb.png",08:30 ngày 20/10 WTA500 Tokyo Open (1) [Nhà Đài] Sân Trung Tâm
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
