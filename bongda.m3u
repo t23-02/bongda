@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/3750efe3676286a266f7f1f815174576/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/e601f1d42be36fee6451d6b74326b3d1.png",13h00 ngày 06/11 Gangwon UniversityWomen vs Chungnam Dankook University (Women) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/491c158d1fec83aa79077339faa9a69c/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/dacf5d3f49d19699e9d2613eb2dbdd99.png",14h45 ngày 06/11 FC Macarthur vs Cong An Ha Noi FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -609,6 +605,14 @@ https://live.alilicloud.com/live/491c158d1fec83aa79077339faa9a69c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/3750efe3676286a266f7f1f815174576/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/51511/1gq6jzjepr13.png?win007=sell",14h45 ngày 06/11 FC Macarthur vs Cong An Ha Noi (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/51511/1gq6jzjepr13.png?win007=sell",14h45 ngày 06/11 FC Macarthur vs Cong An Ha Noi (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+ https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762407811.png",12h00 ngày 06/11 Club Brugge vs FC Barcelona (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -617,30 +621,90 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=918d589801f4a7e7cf6ed3445b9fdf58&txTime=690ca854
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=128130cdccedf12d00c6a9fdab2ab63b&txTime=690ca854
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=918d589801f4a7e7cf6ed3445b9fdf58&txTime=690ca854
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=128130cdccedf12d00c6a9fdab2ab63b&txTime=690ca854
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=b37a8f5be00fc6660bf5fbf12bc43dbc&txTime=690ca41c
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=31ee79a8b053cee193fb0adcd30c7795&txTime=690ca854
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=324cf07d6c3201d249827033e2faca3b&txTime=690ca41c
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=77deb11fd3044e029fc0fe506811cd78&txTime=690ca854
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=b37a8f5be00fc6660bf5fbf12bc43dbc&txTime=690ca41c
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=31ee79a8b053cee193fb0adcd30c7795&txTime=690ca854
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=324cf07d6c3201d249827033e2faca3b&txTime=690ca41c
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=77deb11fd3044e029fc0fe506811cd78&txTime=690ca854
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1762419204-0-0-1e23732db8c8e7f52d186195a41506a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1762419204-0-0-3a4e286916445ce0748beea40a5403bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1762419204-0-0-fd9489a042bb5c2ccb420eec6cedca0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1762419204-0-0-e93af7eec94211071db8db37e60a6cf7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1762419204-0-0-eb072a2250743a762a0e4bd034df29e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1762419204-0-0-e61a27ac5bb8c0bfd020fe9f300dc899
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1762419204-0-0-b9f2128735ddca24bd2867672d41ac80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1762419204-0-0-d3ebe4cb153d640e6826d603e3614983
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1762418124-0-0-f6d8a3374cee39dea249b3ae4ea400ec
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1762419204-0-0-c44717d2b80e1bacfb6d58a07e7cec88
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1762418124-0-0-f68b6d078288960811f6998304990257
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1762419204-0-0-961bbba091d93fa201473f9b4ec8fae0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1762418124-0-0-b7c8b67143aa1436b4ec018f04ed1e3a
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1762419204-0-0-c3536608facd54348fab98b6103667e0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1762418124-0-0-32345b7422dfd2b66b554e670daa3a03
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1762419204-0-0-1dc4ca0e75feff39b9ba80c0935d7d3e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762419204-0-0-8b5205fdc93b5acb6290d112b334dbfd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762419204-0-0-2ddc9ac97b791f3bb93bc59b551e3e95
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762419204-0-0-cae129eb60da5503e62da93c290e9cc5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762419204-0-0-1425e654bde8224ba6038ffa4e98ae4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1762419204-0-0-6030915f28560c17251cc5b5b7be8ba5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1762419204-0-0-c5d83d6a78db2e11437229b432f39f93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762419204-0-0-5f16563e79e4a1eebc92017d602d1cd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762419204-0-0-8e00caae1deddbf3fb9c0366199f8c06
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV BEAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
@@ -653,114 +717,54 @@ https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV BEAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1762418124-0-0-43477f3ab9a9cc95732ada9941cb7e06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1762418124-0-0-2f43a67f7fcf23ba5cea466983ae1418
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762418124-0-0-db0960735f5f729e84387d8877a35160
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762418124-0-0-c00aa5f3e197d7fbd264d9bf23604fcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=dbaed5b5b5aba6bc52502a5531617a3c&txTime=690ca41c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=f45890d1cf60247fbe63f4a991cc178a&txTime=690ca41c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=dbaed5b5b5aba6bc52502a5531617a3c&txTime=690ca41c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV CRIS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=f45890d1cf60247fbe63f4a991cc178a&txTime=690ca41c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762418124-0-0-52e39698a942f1b8c8cb1b1e5ee7b1ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762418124-0-0-f2eacd5f7ecdaa5d33ca2ef4395fd6e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762418124-0-0-29698021f6d89337bec54fb1920f3c9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762418124-0-0-1c2db88b2ec65b8ad16cee2ee386d53e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762418124-0-0-e28f17afc894121c45f365905d3ff7ac
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762419204-0-0-b497dc8543fada2b10f5efa89ad160fa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762418124-0-0-1146bf61188d48325ee3dfe21c0d8dcc
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762419204-0-0-225b0a75046113da144b96400c352943
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762418124-0-0-4206c8884e42bc76a825d4f8ff04fefb
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762419204-0-0-b1c6f5356cc2bd58a5ef1d781c03f43a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762418124-0-0-0fd3d44a2f46bda9f464846eab5ed81a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1762418124-0-0-89bf870ef436004802a5ad9ec129edc1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1762418124-0-0-5b51d9a4a4be265c9c9618e4b7a1a8ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1762418124-0-0-5460d2d04826d94432d18ecbe9dfc084
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1762418124-0-0-04308c0ef420f0f5f85f4a38b3dd2204
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1762418124-0-0-d1c502aab08ba843cb2549fce36da6d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1762418124-0-0-029327f1cbedebcefba93b339bc7c85a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762418124-0-0-18ec59638bf24eac6457e2f439dd0777
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762418124-0-0-1fb508fd4fac406c58f9155e5fbeb026
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1762418124-0-0-7938dd8547195136b52d93728acf3601
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1762418124-0-0-0e5f649d89b8e055b4a7a3d54713a866
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1762418124-0-0-b02ed72a338ab8d444eef1777fdd20bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1762418124-0-0-68dec01185501b999c2970ef83eb1855
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762419204-0-0-a63dabd436927b73531402def4f182a3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1762418124-0-0-81444a291472417fdd3c6841c34c2ebd
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1762419204-0-0-b9111f2581d10fd66029dee8b280ff90
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1762418124-0-0-7eb1fe84c4027e92d04ce1f49ebc07c1
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1762419204-0-0-9b6e2255b0e235a73611a47b1d138021
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762418124-0-0-f9f81a8acd3a043759d43762d8d2dad7
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762419204-0-0-a3e069a40833de452f9544efc0b3a3a7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251105/2ebd87650fc603d58aaa05be13191ebb.png",13h30 ngày 06/11 New Zealand Breakers vs Adelaide [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762418124-0-0-9d3680513554fba5426dc0e1fa9c945b
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762419204-0-0-6be88fb26e0e0aeb332333aa203c12de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1762419204-0-0-7e9a7134b462464b151cbcb7e00da517
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1762419204-0-0-0ccce7618ac2ce044974c2db3c851571
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762419204-0-0-7ab459d1c08bbe41e221c12c7a053a2d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/6ff43c6557736d19db99f37b8365ef77.png",14h45 ngày 06/11 Macarthur FC vs Cong An Ha Noi FC [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762419204-0-0-25d90937a21a31c939235edc023791fd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251102/4b950cd5e51319211d0e12f970287f7e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762418124-0-0-e605e0c75afaaeca00cb71d077b6bbc8
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762419204-0-0-37cf602ef41652cda1586bf093dcfdbb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251102/4b950cd5e51319211d0e12f970287f7e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762418124-0-0-b717460a71b0c1a01766314e736fbe16
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762419204-0-0-2c12c6abf35f360509f7e96929e5f71b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251102/4b950cd5e51319211d0e12f970287f7e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762418124-0-0-a8c88c44c62683a1e234def63e160b32
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762419204-0-0-ad9cb94ece728e5a6e7ea072052a8bf1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251102/4b950cd5e51319211d0e12f970287f7e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762418124-0-0-d119aa848b61aae51242ab4c2115f10b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762419204-0-0-16d3778edc14c1d3fe59ed2241dba40a
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",09:00 ngày 06/11 Korea Masters 2025 (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -837,6 +841,26 @@ https://hotlivezz179602324.akainu.xyz/uoF7ZaPno3gkdv6JnmAKEw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/Ki4HNEYMI9pXe7G5k-_vAg/2754eb814558eb7917263671678490d6/1762435824/live/_definst_/stream_1_1bda7@nenFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",15:00 ngày 06/11 Laguna Krah Asia vs Batangas City (1) [Người Cast] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1762458861&sign=9b665384d898bdc76ce7207eb0680f81
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",15:00 ngày 06/11 Laguna Krah Asia vs Batangas City (1) [Người Cast] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/7zCjNX2KyBImIVrM6Ipubw/Fv2lucGIbhPi2caWYvF5Lg/1762458861781/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",15:00 ngày 06/11 Laguna Krah Asia vs Batangas City (1) [Người Cast] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/4r4CCbYzKrR2KkE3YWpUKQ/5e80ef9f7927d7fe3e2715feff063a1a/1762458861/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",15:00 ngày 06/11 Laguna Krah Asia vs Batangas City (1) [Người Cast] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/U5vD3lUV-0ZgoITepvCxDg/Fv2lucGIbhPi2caWYvF5Lg/1762458861781/live/Z3SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",15:00 ngày 06/11 Laguna Krah Asia vs Batangas City (1) [Người Cast] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/bcIxKLrQPkTnJGpOhMZPbA/fc724b392eb664de8f0b54609b1e66f5/1762458861/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Macarthur_FC_logo.svg",14h45 ngày 06.11 Macarthur vs Công An Hà Nội (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
