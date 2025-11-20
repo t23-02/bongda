@@ -2,7 +2,7 @@
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/f4bd932b7d276a93696f4491f334c932.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/livehd/ec9c3452d2bea4454a318bce2f4cf6bc/playlist.m3u8
+https://live.alilicloud.com/live/ec9c3452d2bea4454a318bce2f4cf6bc/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -149,14 +149,6 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1763624539.png",14h40 ngày 20/11 Portugal vs ARMENIA (Lương Sơn) BLV THỜI THIÊN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/nu7D5QZA-GSwuEtYe.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",15h00 ngày 20/11 Rebels FC vs FC Agniputhra (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -185,6 +177,14 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/nu7D5QZA-GSwuEtYe.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165184_small.png",14:00 ngày 11/20 SC East Bengal vs Wuhan Jiangda (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -709,114 +709,126 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/d9dab2df4022a12bb451322207e36e19.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir [BLV THỎ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1763633125-0-0-de1845fb68f0827a8f0d85461be71136
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-548260_lsd.flv?auth_key=1763634205-0-0-3006a1d8290f1817812e80fc747f9c4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/d9dab2df4022a12bb451322207e36e19.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir [BLV THỎ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1763633125-0-0-8f827a54358254f15319d182a5f71f3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-548260_lhd.flv?auth_key=1763634205-0-0-a793d6496c7493385e3de6de6f072406
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/d9dab2df4022a12bb451322207e36e19.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir [BLV THỎ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1763633125-0-0-4d917b839cbfe18280648d9442efba83
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1763634205-0-0-765754505c13ca16843bcc5a7057bdb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/d9dab2df4022a12bb451322207e36e19.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir [BLV THỎ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1763633125-0-0-de705e58f73a5223586487713fbcf660
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1763633125-0-0-8a2fa98f610ef91993529048f953705b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1763633125-0-0-788e8b34db0c54b38690629278adac5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763633125-0-0-a2c8e02362c567857f504d7ae6615e6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763633125-0-0-620ff2425e23b64d2151e2960f2867b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=fc2054213aa9fb61dbc1dd30ab1db3dc&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=b9b7d044aed207108675530591196253&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=fc2054213aa9fb61dbc1dd30ab1db3dc&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=b9b7d044aed207108675530591196253&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1763633125-0-0-2ed1fe129c72ae3aa206c43a0e323cb1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1763633125-0-0-ae0a6ad6bceb2ecac01a4d4561588dea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1763633125-0-0-1f8d0abc48dc7f8f0152f8e7f2f44bc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1763633125-0-0-cea329b0c025a0f4e9d487a40e47625b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1763633125-0-0-e44f17bd20b751a04aed7974d54db22f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1763633125-0-0-1d45518a901e26c3a1d56ad913e49f48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763633125-0-0-5ee324f6acc23af13223670724bf1673
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763633125-0-0-475b12cfb087a432a40005caf0e2465b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=0e8d66b46482a0944c48bbcdc33ee4cd&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=2c4502fbd8d231ef8dbf8ab8cb54af54&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=0e8d66b46482a0944c48bbcdc33ee4cd&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=2c4502fbd8d231ef8dbf8ab8cb54af54&txTime=691f2e35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1763633125-0-0-538229e33171a22a318880c3ec365ebc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1763633125-0-0-daec9442d22ddeac12bad5b05858f53f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763633125-0-0-9dc93ccdc2ebd001ec6c908038b33dc1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763633125-0-0-120c2e23349dfab6e38aaddc5e36e798
+https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1763634205-0-0-4d938c7d1ae672af87589f251c21bf20
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV FANTA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1763633125-0-0-dfdf7f80ed456e7c4930673613c988e4
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1763634205-0-0-f94860184a8027e16975f10182ad1fb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV FANTA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1763633125-0-0-a19bbacba66b2d3974152bcbc617a33e
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1763634205-0-0-73cd420c5e66927e1f74549fc1e97956
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV FANTA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1763633125-0-0-de01226855ebe60b2e6681a44d4feafe
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1763634205-0-0-84239914f2623ad7614413877f66ce04
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV FANTA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1763633125-0-0-4361a1770e611fbbf7f29d40cd5d0c7b
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1763634205-0-0-0d52b0397ff37a5a59ecf559f2b263ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1763634205-0-0-1712ff460f1c76a16a66858bb8b08ecf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1763634205-0-0-7f37aefa303a287ab639022b92ef9c24
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1763634205-0-0-2b99d16bd387cbbc26e02e218ec3a346
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1763634205-0-0-d452586c2c16eca1d23780c10cc851d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=7f828d245dfa213c1314898f05e0f2a4&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=519395099cea41f08c4812019beb74c2&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=7f828d245dfa213c1314898f05e0f2a4&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=519395099cea41f08c4812019beb74c2&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1763634205-0-0-48c1783f8b2a08dfc529d39624368e70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1763634205-0-0-fb22323665462d70c938596603df7165
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763634205-0-0-942d21f31dcfd886ec7aa58308c07260
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763634205-0-0-2c2c863eeeb2892cd8ed495a0832f595
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1763634205-0-0-faa66a8e78a55b61277279010702bb66
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1763634205-0-0-68954306ee4f51f972e5972d579f6612
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763634205-0-0-8e639a41f6f60ff7ce62936a77bb39dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763634205-0-0-489382c0bf953c595aab8ef75d99a90d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1763634205-0-0-0e43e89eed63f6e3a276bce6a2d6bc5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1763634205-0-0-198c29858027decf583cbbe523cd8d85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1763634205-0-0-0914a6596f3306acea59c0e1fcae7e84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1763634205-0-0-1ab358db7f79813d86dfb2e170eeb1a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1763634205-0-0-2fa2dff43ff59dcb49c1b37b3541a8cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1763634205-0-0-8c1b994a2276160f46cf8df9ee010cdf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763634205-0-0-18a91950c0379a275dd7501c44b1e4b6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251118/659b4e24726467a7814d5ad05baa164c.png",15h30 ngày 20/11 Brisbane Bullets vs South East Melbourne [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763634205-0-0-6a2d22f42096cf35d8fa836db9d8d80c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=13d8a9f4a1be6eb52bceefd8e3cad11f&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=c98d0d4b4ff1783d41221cc062dc5762&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=13d8a9f4a1be6eb52bceefd8e3cad11f&txTime=691f326d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/7de6f69bdc342e12dba07dfeb64107f4.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=c98d0d4b4ff1783d41221cc062dc5762&txTime=691f326d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251116/323ef91540b76be47e5719b09868f5c2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1763633125-0-0-daa8a76649a86bcd240540dec2759899
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1763634205-0-0-530e14c5fd332b663e4a0c24e431920f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251116/323ef91540b76be47e5719b09868f5c2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1763633125-0-0-f0c5646a268dc9eac2299f637dcbf13e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1763634205-0-0-88ac2bb09c450a020351c02ca5de8fce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251116/323ef91540b76be47e5719b09868f5c2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1763633125-0-0-39c73ab2a29f37342cea268b97765dc5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1763634205-0-0-b84039035b8c6f960e0e0224a32c3390
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251116/323ef91540b76be47e5719b09868f5c2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1763633125-0-0-d45080e34c854278275040db054288aa
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1763634205-0-0-c1318c89a53c69c8a536c7c96e3327aa
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Persijap.png/180px-Persijap.png",15h30 ngày 20.11 Persijap Jepara vs Semen Padang (Hội Quán) BLV PHAN SON FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
