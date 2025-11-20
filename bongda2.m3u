@@ -23,6 +23,10 @@ https://live.alilicloud.com/live/cda81c651ce4ca3d24ede84cbc93466d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/17ed801134e636f469ef166f3e170bcb/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/eb2ec2a178c9c75696459e5a9c6779d7.png",18h00 ngày 20/11 Termez Surkhon vs FC OKMK Olmaliq (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/3e3e0571d7d1ac1b289bb2644e4e19ca/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -31,10 +35,6 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/f10b27b256ab3ea44e48ff8d138fa29a.png",18h00 ngày 20/11 Be'sat Kermanshah FC vs Naft Gachsaran (Cà Khịa) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2eeda0b3da227d87273edcbb6470a1f8.png",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -223,12 +223,42 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64066_1jahebsg176.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64066_1jahebsg176.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Lương Sơn) BLV ODIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Lương Sơn) BLV ODIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7455_1hj4yt73kt2r.png",17h00 ngày 20/11 FK MOIK Baku vs E Nel G Tick (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7455_1hj4yt73kt2r.png",17h00 ngày 20/11 FK MOIK Baku vs E Nel G Tick (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15044_1hr3m54vz51x.png",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Lương Sơn) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15044_1hr3m54vz51x.png",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Lương Sơn) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15044_1hr3m54vz51x.png",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Lương Sơn) BLV ZORO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15044_1hr3m54vz51x.png",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Lương Sơn) BLV ZORO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/63825_1hertt08ekf.png",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/63825_1hertt08ekf.png",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65027_1hswy6yrrv1q.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
@@ -259,66 +289,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuQ8zyx4Es5p157VN/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/70112_1k21548e1j4.png",17h00 ngày 20/11 SC Poltava U21 vs LNZ Cherkasy U21 (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64066_1jahebsg176.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64066_1jahebsg176.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Lương Sơn) BLV ODIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Lương Sơn) BLV ODIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/nu7D5QZA-GSwuEtYe.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0766cf9f4c9fd76a414101c65e1962f5.png",17h30 ngày 20/11 Kickstart FC vs FC Bengaluru United (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/ltCxCBZA-YRrqwgf6.png",17h30 ngày 20/11 Sadarakpat vs Wankaren Shawan (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/ObQ5Hgf5-8zvXSnhO.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f10b27b256ab3ea44e48ff8d138fa29a.png",18h00 ngày 20/11 Be'sat Kermanshah FC vs Naft Gachsaran (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2eeda0b3da227d87273edcbb6470a1f8.png",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -367,6 +337,50 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/nu7D5QZA-GSwuEtYe.png",17h00 ngày 20/11 Zaqatala FK vs Shahdagh Qusar (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/v192ukcM-OvMLJ256.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0766cf9f4c9fd76a414101c65e1962f5.png",17h30 ngày 20/11 Kickstart FC vs FC Bengaluru United (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/ObQ5Hgf5-8zvXSnhO.png",17h30 ngày 20/11 Cəbrayıl FK vs Simal FK (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/ltCxCBZA-YRrqwgf6.png",17h40 ngày 20/11 Sadarakpat vs Wankaren Shawan (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m505nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phuhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",17h00 ngày 20/11 Dinamo-2 Minsk vs Lokomotiv Gomel (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1RK.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/football/team/0cf592b401f347755712729a9001f154.png!w60",17:00 ngày 11/20 MOIK vs Mingachevir (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -403,10 +417,22 @@ https://live.alilicloud.com/live/cda81c651ce4ca3d24ede84cbc93466d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/234a844658647f90d645c0b29d69c32d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e9626addec90806fa6d8b291155f8d1e.png",18h00 ngày 19/11 Dinamovs2 Minsk vs Lokomotiv Gomel (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c1966be94670e7564ffd0064a6a7a9e0/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/d702858ad38e8cb57a795e863ee923bf.png",17h00 ngày 19/11 SC Poltava U21 vs LNZ Cherkasy U21 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/80238cf499d8fd3146afeb879b36b735/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7c125325ea334416e9274666b17df6fb.png",17h00 ngày 19/11 Incheon Heungkuk Pink Spiders Women vs GS Caltex Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8440370a8afec4851d243671204ea325/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/eb2ec2a178c9c75696459e5a9c6779d7.png",18h00 ngày 19/11 Termez Surkhon vs FC OKMK Olmaliq (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3e3e0571d7d1ac1b289bb2644e4e19ca/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/f003c38ad5943469051c0232ccc32479.png",14h00 ngày 19/11 East Bengal FC Women vs Wuhan Jianghan Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -423,6 +449,10 @@ https://live3.fastestcdn-global.com/live3/41993982fbde4a7e8ef30661a6407973_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/41993982fbde4a7e8ef30661a6407973_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1d37409465ed5c746dd36aab68e528be.png",17h00 ngày 19/11 Cheonan Hyundai Capital Skywalkers vs Suwon KEPCO Vixtorm (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/14553db42550646b0b6a79383bd3419f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1d37409465ed5c746dd36aab68e528be.png",17h00 ngày 19/11 Cheonan Hyundai Capital Skywalkers vs Suwon KEPCO Vixtorm (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -435,18 +465,14 @@ https://live3.fastestcdn-global.com/live3/340e26b22b0142a1a404b577dbece08f_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/340e26b22b0142a1a404b577dbece08f_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/0e50881771c0b75b7792b460e1e6852f.png",12h00 ngày 19/11 Almaty Women vs Aktobe Women (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/2eeda0b3da227d87273edcbb6470a1f8.png",18h00 ngày 19/11 Nasaf Qarshi Women vs Bam Khatoon Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a19354ce7069e04487c551b1228e960/playlist.m3u8
+https://live.alilicloud.com/live/17ed801134e636f469ef166f3e170bcb/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/b58c70ebb44d09e0d54bb1af1b7744c8.png",17h00 ngày 19/11 Zaqatala FK vs Shahdagh Qusar (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/02f6a3ccd1a3f8ea7e01860b159197b1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7c125325ea334416e9274666b17df6fb.png",17h00 ngày 19/11 Incheon Heungkuk Pink Spiders Women vs GS Caltex Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8440370a8afec4851d243671204ea325/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f4bd932b7d276a93696f4491f334c932.png",15h30 ngày 20/11 Persijap Jepara vs Semen Padang (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -959,6 +985,22 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/16988/1hr3m54vz51x.png?win007=sell",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/16988/1hr3m54vz51x.png?win007=sell",18h00 ngày 20/11 Termez Surkhon vs OTMK Olmaliq (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/68372/1hertt08ekf.png?win007=sell",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/68372/1hertt08ekf.png?win007=sell",18h00 ngày 20/11 Nasaf Qarshi (W) vs Bam Khatoon (W) (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251117/d9dab2df4022a12bb451322207e36e19.png",17h00 ngày 20/11 FK MOIK Baku vs Mingachevir [BLV NOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1763639606-0-0-126d53022c9071de5812d877a4dc2cce
