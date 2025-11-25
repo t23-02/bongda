@@ -1101,14 +1101,6 @@ https://live.alilicloud.com/live/5a83629976114fb4f6a4783ec57d9daa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1b15241aeaa3af76f83eedb7afeafa96/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760681693.png",19h15 ngày 25/11 Chengdu Rongcheng FC vs Hiroshima Sanfrecce (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760681693.png",19h15 ngày 25/11 Chengdu Rongcheng FC vs Hiroshima Sanfrecce (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20200323145018.gif?win007=sell",18h00 ngày 25/11 Leixoes U23 vs Academico Viseu U23 (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1149,6 +1141,14 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760681693.png",19h15 ngày 25/11 Chengdu Rongcheng FC vs Hiroshima Sanfrecce (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760681693.png",19h15 ngày 25/11 Chengdu Rongcheng FC vs Hiroshima Sanfrecce (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251121/b3529f0857ceb5513561cc3fd907d4ff.png",ARAB Cup: Mauritania vs Kuwait [BLV THỎ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-548260_lsd.flv?auth_key=1764077006-0-0-96cf929ad76b648b35b66956030298b6
@@ -1317,6 +1317,42 @@ https://pull.niues.live/live/stream-252852_lsd.m3u8?auth_key=1764077366-0-0-b64a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/bd309a1da98910d02de50c4133105294.png",19h15 ngày 25/11 Chengdu Rongcheng FC vs Sanfrecce Hiroshima [Casting 06] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-252852_lhd.m3u8?auth_key=1764077366-0-0-f802b97aef39822b22bc845f8d630ac4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1764077726-0-0-ce0a51c6c0496135121a4212aea51754
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1764077726-0-0-88f8460e6de311e2ff7e5762c40077e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1764077726-0-0-df467c1c4322700ff242b291d2da831c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1764077726-0-0-40adc6720b11227fc115d8914206e55d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1764077726-0-0-9c539f4c4ca221e78d294998dd9372d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1764077726-0-0-d01aa86ca7f90d281cc2f357be978fbb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1764077726-0-0-cde76add243c2957fffa1ad7b03f1749
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251122/3428e1b63581d8a13b0f5486f7ff0d1a.png",20h00 ngày 25/11 Chelsea FC U19 vs Barcelona U19 [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1764077726-0-0-26bdf93b61bb38dd30c48e3a8232fa8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251121/b3529f0857ceb5513561cc3fd907d4ff.png",ARAB Cup: Mauritania vs Kuwait [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1764077726-0-0-818d31fc3e54fcced67fff1a2e2cc211
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251121/b3529f0857ceb5513561cc3fd907d4ff.png",ARAB Cup: Mauritania vs Kuwait [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1764077726-0-0-c5651eb52cacc74f3acc427066f23476
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251121/b3529f0857ceb5513561cc3fd907d4ff.png",ARAB Cup: Mauritania vs Kuwait [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1764077726-0-0-6937fc37c2184b5c8a8893b7d550e44e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251121/b3529f0857ceb5513561cc3fd907d4ff.png",ARAB Cup: Mauritania vs Kuwait [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1764077726-0-0-e554489799cd41427cee6cea94db1a78
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Y5RSoSfU-Q1VwJZMp.png",10:30 ngày 25/11 Syed Modi International 2025 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1393,6 +1429,26 @@ https://hotlivezz179602324.akainu.xyz/EWggeLzu__Y2gM4Z5KYfNw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/ZpyF6dCt_o2kTL-XrYXGVA/aa2414c41b563aa2e0f4a276a0f50172/1764093970/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/81241ac7229de9e5518a6569f271e190.png",20:00 ngày 25/11 Chelsea U19 vs Barcelona U19 (1) [Thịt Xiên] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1764095765&sign=6bc5197d128cf53cde93702697aeef09
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/81241ac7229de9e5518a6569f271e190.png",20:00 ngày 25/11 Chelsea U19 vs Barcelona U19 (1) [Thịt Xiên] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/6ZdcyZ3F0Co_71Ygc0T50Q/Fv2lucGIbhPi2caWYvF5Lg/1764095765759/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/81241ac7229de9e5518a6569f271e190.png",20:00 ngày 25/11 Chelsea U19 vs Barcelona U19 (1) [Thịt Xiên] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/_RT1aQ7ZBk-18C6tVn1TEg/0aafe7a6d19bfafd5e27cf7084b37d51/1764095765/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/81241ac7229de9e5518a6569f271e190.png",20:00 ngày 25/11 Chelsea U19 vs Barcelona U19 (1) [Thịt Xiên] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/s51y_c8E0i1pz_auE5SvqQ/Fv2lucGIbhPi2caWYvF5Lg/1764095765759/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/81241ac7229de9e5518a6569f271e190.png",20:00 ngày 25/11 Chelsea U19 vs Barcelona U19 (1) [Thịt Xiên] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/B65-hnthieT8Be2x6aq3OA/cac03b136a8c356be180b4618c6bfeb5/1764095765/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Chengdu_Rongcheng_F.C.svg/1200px-Chengdu_Rongcheng_F.C.svg.png",19h15 ngày 25.11 Chengdu Rongcheng vs Sanfrecce Hiroshima (Hội Quán) BLV PHAN BÁO FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1405,6 +1461,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1200px-Chelsea_crest.svg.png",20h00 ngày 25.11  Chelsea U19 vs Barcelona U19  (Hội Quán) BLV PHAN HẢI FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1200px-Chelsea_crest.svg.png",20h00 ngày 25.11  Chelsea U19 vs Barcelona U19  (Hội Quán) BLV PHAN HẢI HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1200px-Chelsea_crest.svg.png",20h00 ngày 25.11  Chelsea U19 vs Barcelona U19  (Hội Quán) BLV PHAN HẢI SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",ACL Elite Chengdu Rongcheng vs Sanfrecce Hiroshima BLV ÔLONG (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/97312754.flv
