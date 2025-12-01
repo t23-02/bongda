@@ -55,12 +55,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1RK.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764565999.png",12h00 ngày 01/12 Manchester City vs Leeds United (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764565999.png",12h00 ngày 01/12 Manchester City vs Leeds United (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764566560.webp",12h25 ngày 01/12 Crystal Palace vs MU (Lương Sơn) BLV KAKA REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -79,6 +73,12 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764565475.png",12h00 ngày 01/12 Chelsea vs Arsenal (Lương Sơn) BLV HOA VINH REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764565999.png",12h00 ngày 01/12 Manchester City vs Leeds United (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764565999.png",12h00 ngày 01/12 Manchester City vs Leeds United (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",09h30 ngày 01/12 Los Angeles Lakers vs New Orleans Pelicans (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -619,6 +619,38 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1764571287-0-0-f4a5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/a48b1c62027801f59a5c8f2a25ebf7c8.jpg",13h00 ngày 01/12 New Zealand vs Australia [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1764571287-0-0-df22b230b0a18012b57fe6dfaf888f38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/a48b1c62027801f59a5c8f2a25ebf7c8.jpg",13h00 ngày 01/12 New Zealand vs Australia [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=29371d83fb6321c06611dfd3fd575603&txTime=692d804f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/a48b1c62027801f59a5c8f2a25ebf7c8.jpg",13h00 ngày 01/12 New Zealand vs Australia [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=fa3dff515f1e7ca4ddfc6fbddf07b137&txTime=692d804f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/a48b1c62027801f59a5c8f2a25ebf7c8.jpg",13h00 ngày 01/12 New Zealand vs Australia [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=29371d83fb6321c06611dfd3fd575603&txTime=692d804f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/a48b1c62027801f59a5c8f2a25ebf7c8.jpg",13h00 ngày 01/12 New Zealand vs Australia [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=fa3dff515f1e7ca4ddfc6fbddf07b137&txTime=692d804f
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Zealand.png",13:00 ngày 01/12 New Zealand vs Australia (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1764611285&sign=1ceaa665e2d15cbe91fee3133d2060c8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Zealand.png",13:00 ngày 01/12 New Zealand vs Australia (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/X4WA7aCH01u5vxVG0q9mCw/Fv2lucGIbhPi2caWYvF5Lg/1764611285365/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Zealand.png",13:00 ngày 01/12 New Zealand vs Australia (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/_u05WTVQSCXgUHn6VD0bWg/44aad5dfa01c79ab75667d799c2e06c1/1764611285/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Zealand.png",13:00 ngày 01/12 New Zealand vs Australia (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Zea5kUl8bBJSlkRAbJv6-A/Fv2lucGIbhPi2caWYvF5Lg/1764611285366/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Zealand.png",13:00 ngày 01/12 New Zealand vs Australia (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/t0NnWm3jXSCh5N2A9sE8WQ/bb30dc1883f5f92057cd67eec640c4d0/1764611285/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",09:00 ngày 01/12 ITTF Mixed Team World Cup (1) [Nhà Đài] Bàn 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
