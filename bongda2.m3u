@@ -47,10 +47,6 @@ https://live.alilicloud.com/live/3fe9b5eafbae6fdfda04161f7bebaf9d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/326175fb0c8285b757fdf426af8865d6/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/b6a81ed7453842790bcc3a726515b4a4.png",21h05 ngày 05/12 Majd FC vs Dubai United (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/0c80b1a2dd59ae55c46ba34bd250c014/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -509,6 +505,10 @@ https://wtyi0525.edgemaxcdn.org/live/x16y3-0400/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1791633_small.png",21:30 ngày 12/05 Al-Bidda SC và Al-Wakrah (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5824_small.png",21:30 ngày 12/05 Oman và Morocco (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -909,14 +909,6 @@ https://stream.chuoichien.tv/neymar/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/neymar.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130841_4ec1da59.png",21h30 ngày 05/12 Al Bidda SC vs Al Wakrah (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130841_4ec1da59.png",21h30 ngày 05/12 Al Bidda SC vs Al Wakrah (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142724_34a14d54.png",22h00 ngày 05/12 Benfica U23 vs Portimonense U23 (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1433,90 +1425,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6BAj2EXKKzfepk/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1764947487-0-0-31306e030d0178a35a765aaadb12a970
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1764947487-0-0-2924cb2e74aadfa20fdc105d2d1a971e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1764947487-0-0-72fd16875f8caa780aff4dee6e553390
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1764947487-0-0-95ef5ea6fada6f82b4b77ef030a363d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1764947487-0-0-c3eb5cdbc8bb4d95bf2827b8267993bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1764947487-0-0-59cf4ef515a35ebb65e80cbb3f12870a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1764947487-0-0-c2a1a4fca29528b2e324e5673259bbc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1764947487-0-0-8e8bd8fb10f267ba32588df0fde565e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1764947487-0-0-4daee4e8aeec3c8d8b4816641b9d7f57
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1764947487-0-0-e74360feff95d262db4fdcb0175498f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1764947487-0-0-bb914ca9b5b5f133b0783be7512edce5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1764947487-0-0-6d0c9a911d710fff5fcdc3854102ed1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1764947487-0-0-454587b258033720418a6de66826eda2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1764947487-0-0-58c8da121c6772bf5ae64efcebc7a514
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1764947487-0-0-5d8ee4a1ec5e04d06626649033e51895
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1764947487-0-0-9a89c53fec38b82804a3cf16748c594c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1764947487-0-0-5a8f7cb155976da0a917e170db077044
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1764947487-0-0-5000fc6a3f15bea3b4b1366265c1b744
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1764947487-0-0-cabd65180ff46cb7d3a705a1d42f26e6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1764947487-0-0-cc1f095c44d1270153c62956783877b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=559e0623b2e9c29b40aa61ba80495538&txTime=69333c6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=76fe188d528307685c4aa9005eb73643&txTime=69333c6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=559e0623b2e9c29b40aa61ba80495538&txTime=69333c6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=76fe188d528307685c4aa9005eb73643&txTime=69333c6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1764947487-0-0-567cd00afbc38800a81ef20ef2aac44f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1764947487-0-0-30456497c9b5b9bba928cd0859de514b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1764947487-0-0-861eea27a9db2f5eecf9fd68c0020c61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1764947487-0-0-71c86891256d67e49321cc9a260596f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1764948207-0-0-2aa9ab4e95d9ad0c93b9f616518f6be2
@@ -1721,18 +1629,6 @@ https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=343ae41799874c81fc19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/6e67c75cb143801f82e28b827659a586.png",20h00 ngày 05/12 Terengganu FC vs Kuching City FC [BLV Sao Đỏ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=79d028d5335709c22b80cd57a5f239a5&txTime=69333f3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/44252a8f28744edc6ae1f964a49ee8d4.png",19h00 ngày 05/12 Saudi Arabia U23 vs Bahrain U23 [NEYMAR] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557150_lsd.flv?auth_key=1764948208-0-0-ae2daa6df2c86e42e9c33c322af4352a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/44252a8f28744edc6ae1f964a49ee8d4.png",19h00 ngày 05/12 Saudi Arabia U23 vs Bahrain U23 [NEYMAR] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557150_lhd.flv?auth_key=1764948208-0-0-27b1db1a8995c66941e949d05e69ed4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/44252a8f28744edc6ae1f964a49ee8d4.png",19h00 ngày 05/12 Saudi Arabia U23 vs Bahrain U23 [NEYMAR] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557150_lsd.m3u8?auth_key=1764948208-0-0-0dd6b4a52cdbfa4670d494c6c38c7332
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/44252a8f28744edc6ae1f964a49ee8d4.png",19h00 ngày 05/12 Saudi Arabia U23 vs Bahrain U23 [NEYMAR] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557150_lhd.m3u8?auth_key=1764948208-0-0-032ad56c61c7e9fc241c6398dbfbe884
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251201/f93c6f6d416c34d8402ac07e49d356fe.png",QAT Cup: Al Bidda SC vs Al-Wakrah SC [BLV EDRIC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1764948207-0-0-25d334208f434a48788a9458f7b748d1
@@ -1793,6 +1689,102 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1764948207-0-0-fb53
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251201/f93c6f6d416c34d8402ac07e49d356fe.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1764948207-0-0-503d8dc4ecde0925e678ad268bd85219
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1764948567-0-0-5e377fce981ccac6cc9afa0cc01f169b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1764948567-0-0-3964fdfe08b2e510ace3b847f8d235d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1764948567-0-0-cbcaf3662cd5461ab8cd12d2df6aba8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1764948567-0-0-a3e9987219a28b9f012ad1ea6086c654
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1764948567-0-0-83fd8862385397f959ac70fd96ef986f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1764948567-0-0-a70c732f48dd829dd3c7d6e8287daae8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1764948567-0-0-ba262b87ece20069194d6ab1e3760564
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/3840114bb73a77c54671f7674d6a4fc2.png",19h50 ngày 05/12 Al-Nasr Dubai vs Al Ain FC [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1764948567-0-0-4525cec035573ecaa70dc170b0039d03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1764948567-0-0-3a0a56adb393c948a2249272a0623ff3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1764948567-0-0-cbceba8643469662f0c37ad326fd5910
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1764948567-0-0-f62ec49dc25f7debdf18ebbae9df06f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1764948567-0-0-5d7db96246b3eba6dd0b1ec01bc82c7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=bc1ec9ae0659cc6b0767add47beaec6c&txTime=693340a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=aa6392eb5f5225e5102dc942bed31a1c&txTime=693340a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=bc1ec9ae0659cc6b0767add47beaec6c&txTime=693340a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=aa6392eb5f5225e5102dc942bed31a1c&txTime=693340a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1764948567-0-0-bcb3e794893daa73cfd3d53a661b4bb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1764948567-0-0-984cf34bbbc81fce0e4d94596fcfd109
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1764948567-0-0-b3faa7376d74f1b403ecf30180adaf7a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1764948567-0-0-87859e00dc2933a80d8541bfbfd71064
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1764948567-0-0-55041364da712382e254eb0351236b89
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1764948567-0-0-0688771226bb52044d802e95f11ac874
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1764948567-0-0-b68dbf6f5b0403e989260247ef702f9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1764948567-0-0-f5e2b1edb4fd7752f8ec1ed5d991f494
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1764948567-0-0-51d063893de1e31083d757a8b64ce926
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1764948567-0-0-5ebd6c880f8582f095058314870cecd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1764948567-0-0-d6416a7c353862a9920d75101fce9688
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/9e8e90fb6193729f0906021f1a49fbff.png",21h30 ngày 05/12 Oman vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1764948567-0-0-892ae25dab7107bfe95fe42288690ca4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/325b7df10d10fc845c49b258cc581835.png",22h00 ngày 05/12 Benfica U23 vs Portimonense U23 [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1764948567-0-0-ed95fd11f0ac0051af4d821e7dd83d7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/325b7df10d10fc845c49b258cc581835.png",22h00 ngày 05/12 Benfica U23 vs Portimonense U23 [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1764948567-0-0-eed77c9261808d1e3f3cc9764e8102d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/325b7df10d10fc845c49b258cc581835.png",22h00 ngày 05/12 Benfica U23 vs Portimonense U23 [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1764948567-0-0-397ba3384b6f94390668ebf727ff1c08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/325b7df10d10fc845c49b258cc581835.png",22h00 ngày 05/12 Benfica U23 vs Portimonense U23 [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1764948567-0-0-e499be5f668d2ecc0572c431ed34f407
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/fiKmP7WI-xjpRcAHN.png",21:00 ngày 05/12 StarLadder Budapest Major 2025 (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1877,6 +1869,12 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARAB Cup Oman vs Morocco BLV RỒNG ĐỎ (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/88508431.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARAB Cup Oman vs Morocco BLV RỒNG ĐỎ (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/88508431.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjAzZDdkYjA3ZDUtOWE2ZA/MGNmYWFlMDMxM2QtN2EwZg.png",UAE EC Al-Nasr Dubai vs Al Ain FC BLV REDBULL (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/68848594.flv
@@ -1889,12 +1887,6 @@ https://live5.msrktz.app/live/75915087.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODM1NmFiZjkyNzMtODM1OA/OWIxYmY1NzcyOTktMjgwNQ.png",MAS SL Terengganu vs Kuching City BLV MONSTER (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARAB Cup Oman vs Morocco BLV RỒNG ĐỎ (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/88508431.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARAB Cup Oman vs Morocco BLV RỒNG ĐỎ (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/88508431.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",ARAB Cup Oman vs Morocco BLV CASTING (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/84753337.flv
