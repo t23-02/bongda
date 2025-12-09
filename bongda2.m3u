@@ -79,6 +79,12 @@ https://mrkw1025.edgemaxcdn.org/live/m201qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m202qt/playlist.m3u8 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV PEP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV PEP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -91,12 +97,6 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV GIÁO SƯ XOAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV PEP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27421_1j83wz5mj9x.png",14h00 ngày 09/12 Kairat Almaty U19 vs Olympiakos Piraeus U19 (Lương Sơn) BLV PEP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765256783.png",12h10 ngày 09/12 Manchester City vs Leeds United (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -669,102 +669,114 @@ https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1765270408-0-0-1b573ce5e5d688e7648a274d9f7aadce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1765270408-0-0-4c8f9dffa1273c220a7ee16312d4d049
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1765270408-0-0-53722337b193af60928f7284812ce4a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1765270408-0-0-e226ac947164a4c52819d86a142a53c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1765270408-0-0-cd29e959821e8b35abf303bf5b6b46f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1765270408-0-0-c819123960b41e0eba2be40defbab05f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1765270408-0-0-b1d06914dceded0662400328a8a9f6c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1765270408-0-0-803f50acd700190f3cff36800bf56276
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1765270408-0-0-40b7bc2301a4dea759eed30e35a61cb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1765270408-0-0-264b18c97c0adff3a9fb748fd71dede1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1765270408-0-0-1889713466ae273773428b76ae6a7478
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1765270408-0-0-5eb687bd3c5c7be569a7874080a640be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=9be4ff2c874c9ec6137eb2bedb6053f8&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=5da72804fa56d70f38a139a131ae4a60&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=9be4ff2c874c9ec6137eb2bedb6053f8&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=5da72804fa56d70f38a139a131ae4a60&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=27a8d8d413e2aaa89d84e09c69989b29&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d722a780bc990e9cce16999e26c73739&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=27a8d8d413e2aaa89d84e09c69989b29&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d722a780bc990e9cce16999e26c73739&txTime=693829d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1765270408-0-0-021fb1bf2deef5cded26531785908691
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1765270408-0-0-444d2d983962514047a625820986c56d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1765270408-0-0-c19b895e5f18b721e140568580735a51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1765270408-0-0-83c6b258200f65d4fb4e57d7a7a28f58
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765270408-0-0-36cf4b6fb3db99ce88fa2004e533d991
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765271488-0-0-3659ce63e5c037b0b7ec1f3448505f8e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765270408-0-0-bbb6fe367a00b51f55c28e89cbeb8842
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765271488-0-0-621f5e5d4a3f14147ade832e47a94c34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765270408-0-0-cbabc7c5ab328cd111bde73f246c56ee
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765271488-0-0-da38317c34f07e9dd09b733f42688ca7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765270408-0-0-a3cf474bd4f213742515460b44873aac
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765271488-0-0-361c3cf34b20b1d4eb467fa976712dd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1765271488-0-0-fb169ec78640df2a3553587fae4c2cc0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1765271488-0-0-5856938dbf26d7b21b7e1795c2d23b53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1765271488-0-0-d11bab10e00fcaddcfbc21c171dee1fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1765271488-0-0-4f597ee92dbea0b257a6f8b6481d1498
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1765271488-0-0-3a4d25c200a220e430957ba8789dd579
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1765271488-0-0-bff79ba0ae6f23b837a8ba14dd24479b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1765271488-0-0-d1189640dcd458e20613b632405de0ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1765271488-0-0-2da28fe46fc16d0f5de40071bf9efc6f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1765271488-0-0-4365477d5fefe2e8a94cad80ebb6d308
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1765271488-0-0-a5527347a2516652c916a3d8c9d65ed9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1765271488-0-0-b297f1cbacf448dd90e26aa209d0966d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1765271488-0-0-db31d6852bd7870061d89ce5516359c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=0e3320dc0bb0528ab3ab7103c3066bd0&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=317b1d432b2128fdf611e317eaf54f80&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=0e3320dc0bb0528ab3ab7103c3066bd0&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251207/7c0fc9e6dc552f73ebac80d8995eb9bf.png",15h00 ngày 09/12 Canberra Capitals W vs Adelaide Lightning W [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=317b1d432b2128fdf611e317eaf54f80&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=1742cb5794f11e0ebff78ed5992a5881&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=cc1849719a222666a54c1e37b9e7cfae&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=1742cb5794f11e0ebff78ed5992a5881&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=cc1849719a222666a54c1e37b9e7cfae&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1765271488-0-0-8aa7719472241edc821ef15c144a7a41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1765271488-0-0-627ae3723d268841461e604be575593b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1765271488-0-0-0ba1ff4279c41830f1ec1797d66939b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1765271488-0-0-cf6458dcd02683e8a56fe5fa8f6363df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5a92eb9de57d1aaaeabde3f238ecfc78&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2d378d9f84689de9d66ca95e72b1d9a3&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5a92eb9de57d1aaaeabde3f238ecfc78&txTime=69382e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",UEFA YL: Kairat Almaty U19 vs Olympiakos Piraeus U19 [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2d378d9f84689de9d66ca95e72b1d9a3&txTime=69382e10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765270408-0-0-0fcdb4f250a2fc5ec7688bca96a1e5b5
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765271488-0-0-01af7ca850c69c4d8f9463c3e7e8d98f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765270408-0-0-e0431059ece1ed3d26b457334d44d450
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765271488-0-0-bde4ae86615a9f0719e2f9ae2082827c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765270408-0-0-ea44bb0dc6e02dd0425e48256de298cd
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765271488-0-0-fbe8d93dd44847b8bfb0af2ffb6a30ab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251205/2c66f66e804ab8e5581c478457bdab0c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765270408-0-0-f9e3b67252c933c14a070ee70f13d90f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765271488-0-0-d6da49ee6f13a24a66c553539eee3801
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/SbXhP3Br-OCFwBAKf.png",13:00 ngày 09/12 Cloud9 vs NS RedForce (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -817,15 +829,15 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cloud9_logo_c._2023.svg/2052px-Cloud9_logo_c._2023.svg.png",13h00 ngày 09.12 Cloud9 vs NS (Hội Quán) BLV PHAN CA FULL HD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://storage.ensigame.com/logos/teams/e0e6c95c0c63511f3d7ed702ecb53763.png",15h15 ngày 09.12 DN Freecs vs Cloud9 (Hội Quán) BLV PHAN CA FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cloud9_logo_c._2023.svg/2052px-Cloud9_logo_c._2023.svg.png",13h00 ngày 09.12 Cloud9 vs NS (Hội Quán) BLV PHAN CA HD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://storage.ensigame.com/logos/teams/e0e6c95c0c63511f3d7ed702ecb53763.png",15h15 ngày 09.12 DN Freecs vs Cloud9 (Hội Quán) BLV PHAN CA HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cloud9_logo_c._2023.svg/2052px-Cloud9_logo_c._2023.svg.png",13h00 ngày 09.12 Cloud9 vs NS (Hội Quán) BLV PHAN CA SD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://storage.ensigame.com/logos/teams/e0e6c95c0c63511f3d7ed702ecb53763.png",15h15 ngày 09.12 DN Freecs vs Cloud9 (Hội Quán) BLV PHAN CA SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
