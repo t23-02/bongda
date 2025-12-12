@@ -1245,6 +1245,14 @@ https://live.alilicloud.com/live/82bbe4920c2014469db594dd3a18def7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b7efe4eb039b22e16700aa5fc2dc5973/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/12619/1j8v302rms10.png?win007=sell",17h20 ngày 12/12 Kryvbas U21 vs Kolos Kovalivka U21 (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1301,146 +1309,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuSryzuuCxr2nX2QC/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-479849_lsd.flv?auth_key=1765541488-0-0-c43fdc29ff015b7e05fdadc0839c1d09
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-479849_lhd.flv?auth_key=1765541488-0-0-b1353c3ac4fabeb3f0c769ab289df19d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1765541488-0-0-0c7e4f2e3c617db31290d69af1f753c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1765541488-0-0-391889acffda85d9086be6330e22a09a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=4821c6d172c5fb80e6884b605508f841&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=780779c12bb4db454f7fa377ead308a4&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4821c6d172c5fb80e6884b605508f841&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=780779c12bb4db454f7fa377ead308a4&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=7fab76a24110a11bcb1cb3a73cf81cf4&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=0ae8311d16429b1998f75409ce2d52a6&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=7fab76a24110a11bcb1cb3a73cf81cf4&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=0ae8311d16429b1998f75409ce2d52a6&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1765541488-0-0-0da2117f28baf0d2557c192c598b8e67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1765541488-0-0-cc1963eec4243aa87d2c0474d9ce16f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1765541488-0-0-7898fd3a9ce32fbc7ee42c836d48dff3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1765541488-0-0-779290a2863b4e900e5e0a29b54e47c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=0c6a657323d35bdb840d3646b7f68b82&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=26d46d953d077a346cc7e089e3638b57&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=0c6a657323d35bdb840d3646b7f68b82&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=26d46d953d077a346cc7e089e3638b57&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=9cfe283e320cfd8e8e1475c1e08d7446&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=bb04eaa61449b15c6b15623a9c14be3e&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=9cfe283e320cfd8e8e1475c1e08d7446&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=bb04eaa61449b15c6b15623a9c14be3e&txTime=693c4cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1765541488-0-0-fb2dae8cc179ceee9f9342acacc664b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1765541488-0-0-d1b37ff0b771e9468c855d32aea48d62
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1765541488-0-0-66684617f957003dda51cbb4959fbf92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1765541488-0-0-ba3e77ebb40dfc077db25b11b6ff718b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1765541488-0-0-5f7fa3ee64a33b4a59a0dd1896d4fb38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1765541488-0-0-b1ebf0bf1f987e237fea5c7c79e1938c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1765541488-0-0-a11e3f862906caf43fdaeb831d55c304
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1765541488-0-0-5a212de68162d65723fd27f77b7ec7a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1765541488-0-0-736c77c6b34df3cc92fa7a33246d7476
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1765541488-0-0-4c525239fca683ad68950a6f80be8006
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765541488-0-0-a57f20603b5bf81ada15b37799a46140
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765541488-0-0-0feaff81f7c6fc331644ad81c2e91023
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1765541488-0-0-28263e20a79002d6b20396b25337f12a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1765541488-0-0-66761353364e52091ec7dc831a3289a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1765541488-0-0-237613659d4f0edf374b3e3b8c82fc30
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1765541488-0-0-62d1c4093818f814f9dcd7f6d5e1b6cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1765541488-0-0-9982b442197d98514dfc9de8ded26b4d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1765541488-0-0-c548a9b3416b3e0590db00dd484eb80b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1765541488-0-0-17739797963f356f098c2fb2791d62cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1765541488-0-0-e0b3d73b34544f26ae9d9ee04479fc3d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/5c1204e3a8611d7f16cfa297e44c49d6.png",17h30 ngày 12/12 Perth vs Sydney [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1765542208-0-0-eef429a8c96ea435212a48f06549c7bc
@@ -1549,6 +1417,186 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765542208-0-0-f1c4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8e1f148e8bdd70ec0eb933456f10c241.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765542208-0-0-c444e181f5b4540fc413226332ff8e0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1765542568-0-0-e47286066971df4d07d8009905638030
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1765542568-0-0-fab97e391f4eaa705b81627e93f12ed6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1765542568-0-0-0a9ac1f9ed09f5da549927bae24e23e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1765542568-0-0-c20653524a2c7551e1b2c23775147904
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=4ca9bae1d4617bdd08a698c87b08d587&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=84781f60f80426222f094376b6d05492&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=4ca9bae1d4617bdd08a698c87b08d587&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=84781f60f80426222f094376b6d05492&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=ec56d33fc15df065e5b4d35ac88cc219&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=8dae3d4d8c5b22611a7b09aae921147a&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=ec56d33fc15df065e5b4d35ac88cc219&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=8dae3d4d8c5b22611a7b09aae921147a&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1765542568-0-0-3cfd24288b8c322ae597efc6c5a56181
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1765542568-0-0-ef3001d7dbc306df9f6d97278d0e7ec9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765542568-0-0-bdedd6b09e53753693fc64173e32c406
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765542568-0-0-fc9fa6d75a9d1ff2b725d484443ea149
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1765542568-0-0-60ea3a18c49abf17ae26232889aeabc5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1765542568-0-0-ed8ba055106e3cfb409554afc68829fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1765542568-0-0-7344c5bae9ead98c0c089e10f0020d58
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8264ae5aed601d9c238917718b15baa4.png",19h00 ngày 12/12 Chonburi FC vs Kanchanaburi Power FC [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1765542568-0-0-c86f07cb954c74058f02fc950fc6b805
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=42ea35374f00e1913c13a6c8713b3921&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=4d8523299ebe576f641fddc5248cd077&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=42ea35374f00e1913c13a6c8713b3921&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/86b52146493e84bf8a853197b30461f2.png",18h00 ngày 12/12 Indonesia U22 vs Myanmar U22 [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=4d8523299ebe576f641fddc5248cd077&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-479849_lsd.flv?auth_key=1765542568-0-0-17811f664ccb4d589cbcc6e95d5c3341
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-479849_lhd.flv?auth_key=1765542568-0-0-c6da78d520dbf337579e2018d570ff94
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1765542568-0-0-9ca19efd836ea77c4a5e3174b6286dc6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV TÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1765542568-0-0-496f53461591e43b76f4288b99d20bb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1765542568-0-0-baff0863149c048621255387edb4ec52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1765542568-0-0-43a323545c8ee90ff3c2c42c4658e0a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1765542568-0-0-179eb027a24fa78a57102a372d42efee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV KAI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1765542568-0-0-3f054ca57a64ab4b5bbeaa6b54a18019
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=f2cdd99e091673bf58b9b7a64435c483&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=725a621d4378ad5bd8b3209a37a8b009&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f2cdd99e091673bf58b9b7a64435c483&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b349d39b1daf680b7a73d0d0cb5798fb.png",18h00 ngày 12/12 Perth Glory Women vs Wellington Phoenix Women [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=725a621d4378ad5bd8b3209a37a8b009&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=d468102d9ce2c234fd450f4ae846006b&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=48f5105d45ac39f03438c118a716c08c&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=d468102d9ce2c234fd450f4ae846006b&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251210/9b8b72424234fdace15707ec21c3db54.png",17h00 ngày 12/12 Suwon KT vs Anyang JungKwanJang [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=48f5105d45ac39f03438c118a716c08c&txTime=693c50f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1765542568-0-0-c47aaed1ca48aaf34ae0c565775f4799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1765542568-0-0-8b67275d270ef6397747ceeca30e57f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1765542568-0-0-3ee6ad5214b729ea4af9bbcea8210ca7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1765542568-0-0-3246a0061c1519a02f2edaa3daae31e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1765542568-0-0-4232f9c5d67cca94a0a8db581e2757f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1765542568-0-0-ee7012ae27c812e6d05903a563352ab2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1765542568-0-0-6d8ea38deb5d9e26cb851effc6d02a5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/b7bf43cb7cf369eec3cf6cd800f6f29d.png",18h00 ngày 12/12 Parma U20 vs Monza U20 [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1765542568-0-0-d716b35552e6108b0349d48615fd1cd9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1765542568-0-0-1b76a2bb4ec6c8fba5fd35d47fc49b3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1765542568-0-0-4e0a384764bed28308e285f4ffc70fad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765542568-0-0-e815b46cde3ea331294e323cd6d71f5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [NGOẠ LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765542568-0-0-f7b175026934761d027751183f56faef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1765542568-0-0-70d42b50d3f84a8da1be1727642b3ecf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1765542568-0-0-41accfdc5158155b01b71681c0b37988
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1765542568-0-0-6b6c38cddf5fb9f76380092dfc63c607
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV QUAN VŨ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1765542568-0-0-9db06331db7f6779af7c5c3f52f3fe97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1765542568-0-0-3fc8b02fd7e7e354706d2b08e59552ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1765542568-0-0-1af77f29e47c7fddb7c881bf5efa9007
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1765542568-0-0-73d21ba7f7547515b6554957d8c85cde
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/8b499472ce5b68a72c03e0a62af65005.png",18h30 ngày 12/12 Adana Demirspor vs Boluspor [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1765542568-0-0-62c0fce45686c8103ac67630cbb02631
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/pKkqJ4Wg-bB59SVBr.png",15:00 ngày 12/12 Hanwha Life Esports vs Dplus KIA (1) [fan 2/5 hle] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1652,23 +1700,43 @@ https://9ceg0825.edgemaxcdn.org/1765577171/7fe78607f916cab4a8c0f9a524fcb72b/1479
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1765575729&sign=56510cd32757edf775d9e6b8d08cf4e6
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1765582210&sign=34541b04e14f7700ac1ccba806ee9b05
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [A Núi] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/c-4F8nvVdnjDehzipzNRfg/Fv2lucGIbhPi2caWYvF5Lg/1765575729573/live/nuiHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/YrTRcJjovlp97cnfXcATEg/Fv2lucGIbhPi2caWYvF5Lg/1765582210846/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [A Núi] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765575729/e0a7cc6f072e19413f36eaff37894690/712974913/live/nuiHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765582210/c535391c42a817ea2ef8d497eccd3afd/259243932/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [A Núi] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/zTZ3rWsXYqBpRcYI_ny18w/Fv2lucGIbhPi2caWYvF5Lg/1765575729573/live/nuiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gs1aVCeaUjUD0JQ-CEXJ8Q/Fv2lucGIbhPi2caWYvF5Lg/1765582210846/live/nuiSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [A Núi] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765575729/36d4a6e4597515cf7573597895b0d067/218044515/live/nuiFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765582210/373e8cddc94688a763c3509d7579a6da/554236278/live/nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [Cá Cờ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1765582210&sign=4b5587172b334cdba68f1059980896f6
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [Cá Cờ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/KpYp1tWXCsm4XsMRiCBJTA/Fv2lucGIbhPi2caWYvF5Lg/1765582210846/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [Cá Cờ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765582210/4e871b6147b8989e476753cae872d2d9/491476856/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [Cá Cờ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/2f2Te2AwswH5U-zjstZQqA/Fv2lucGIbhPi2caWYvF5Lg/1765582210846/live/coSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",17:00 ngày 12/12 WTT Finals Hong Kong 2025 (1) [Cá Cờ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765582210/69fcdcc649c97ba01a256c42bd7449bd/240593756/live/coFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",17:30 ngày 12/12 Vietnam (w) vs Indonesia (w) (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1709,6 +1777,26 @@ https://hotlivezz179602324.akainu.xyz/2oKXomq4hGC8_Ab4tqOLsA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1765578255/094c32a574d73e7017634d9514d9acd7/469574568/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 ngày 12/12 Abu Dhabi GP 2021: Race (1) [Mèo Ú + Hói] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1765582214&sign=95da06c78895fd092a53b666220e0761
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 ngày 12/12 Abu Dhabi GP 2021: Race (1) [Mèo Ú + Hói] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/kvG8eruRWfg9v0lEAApBng/Fv2lucGIbhPi2caWYvF5Lg/1765582214619/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 ngày 12/12 Abu Dhabi GP 2021: Race (1) [Mèo Ú + Hói] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765582214/6639ffb35febdcea1a6d3e481eff4c5a/857778343/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 ngày 12/12 Abu Dhabi GP 2021: Race (1) [Mèo Ú + Hói] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Sz4dqNu3f26Uxb7d4mF1PA/Fv2lucGIbhPi2caWYvF5Lg/1765582214619/live/Z2SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 ngày 12/12 Abu Dhabi GP 2021: Race (1) [Mèo Ú + Hói] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765582214/5f2c31f391d267f6df8973b97c433ed6/588612909/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",18:00 ngày 12/12 Perth Glory (w) vs Wellington Phoenix (W) (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1781,6 +1869,18 @@ https://hotlivezz179026907.akainu.xyz/dI73iVxvzRYxtHgRVZzxCw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/n5Ap0rnHygU-fSUDUIFwdg/Fv2lucGIbhPi2caWYvF5Lg/1765564930668/live/may25/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Zhejiang_Lions.png",18h35 ngày 12.12 Zhejiang Guangsha vs Shanxi Zhongyu (Hội Quán) BLV PHAN CÁO FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Zhejiang_Lions.png",18h35 ngày 12.12 Zhejiang Guangsha vs Shanxi Zhongyu (Hội Quán) BLV PHAN CÁO HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Zhejiang_Lions.png",18h35 ngày 12.12 Zhejiang Guangsha vs Shanxi Zhongyu (Hội Quán) BLV PHAN CÁO SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",17h30 ngày 12.12 Nữ Việt Nam Vs Nữ Indonesia (Hội Quán) BLV PHAN CẬU CẢ FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
