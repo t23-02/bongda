@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/f8d314746ae8b1af74db6fb6ae9f074b.png",13h00 ngày 15/12 DYES vs Sri Gajanana (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/004d94bca875b304c0251ab4629e7930/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/a04526f9769772565f6d3603198705e9.png",13h00 ngày 15/12 Persebo Muda Bondowoso vs Baruna Nusantara (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -35,10 +31,6 @@ https://live.alilicloud.com/live/2538c7779afd227d4f8021ab3937c63e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/63bf72e974d9fd9747e40f91986e699a/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/c3820deeadb83e0ef691d3355d9bb4c7.png",13h00 ngày 15/12 Suryanaga Connection vs Assyabaab Bangil (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/7da7ed028eb89c533802fb97e678e7ba/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -741,11 +733,35 @@ https://live.alilicloud.com/live/63bf72e974d9fd9747e40f91986e699a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/621ce7ef92b6b047a01cd07d8274407b/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/19146/1hh3mm48xa23.png?win007=sell",13h00 ngày 15/12 PSBK Blitar vs Sinar Mas (Văn Khánh) M3U
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvdbYUd5rxuS/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/19146/1hh3mm48xa23.png?win007=sell",13h00 ngày 15/12 PSBK Blitar vs Sinar Mas (Văn Khánh) FLV
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/44284/1hh112j7m33.png?win007=sell",12h55 ngày 15/12 PS Hizbul Wathan vs Surabaya Muda (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvdUx31ePDSk/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/44284/1hh112j7m33.png?win007=sell",12h55 ngày 15/12 PS Hizbul Wathan vs Surabaya Muda (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/45274/1hgz4jv2x529.png?win007=sell",13h00 ngày 15/12 Persebo Muda Bondowoso vs Baruna Nusantara (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvJ3QXXXa5kp/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/45274/1hgz4jv2x529.png?win007=sell",13h00 ngày 15/12 Persebo Muda Bondowoso vs Baruna Nusantara (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/31891/1hkcg2vqem30.png?win007=sell",13h00 ngày 15/12 DYES vs Sri Gajanana (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvy35z7Cg6bN/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/31891/1hkcg2vqem30.png?win007=sell",13h00 ngày 15/12 DYES vs Sri Gajanana (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
@@ -757,11 +773,11 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6QEuo1nSr2k6G4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/31891/1hkcg2vqem30.png?win007=sell",13h00 ngày 15/12 DYES vs Sri Gajanana (Văn Khánh) M3U
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/19146/1hh3mm48xa23.png?win007=sell",13h00 ngày 15/12 PSBK Blitar vs Sinar Mas (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvy35z7Cg6bN/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/31891/1hkcg2vqem30.png?win007=sell",13h00 ngày 15/12 DYES vs Sri Gajanana (Văn Khánh) FLV
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvdbYUd5rxuS/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/19146/1hh3mm48xa23.png?win007=sell",13h00 ngày 15/12 PSBK Blitar vs Sinar Mas (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
@@ -821,114 +837,90 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvdBNC3omtDa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/44284/1hh112j7m33.png?win007=sell",12h55 ngày 15/12 PS Hizbul Wathan vs Surabaya Muda (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvdUx31ePDSk/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/44284/1hh112j7m33.png?win007=sell",12h55 ngày 15/12 PS Hizbul Wathan vs Surabaya Muda (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/45274/1hgz4jv2x529.png?win007=sell",13h00 ngày 15/12 Persebo Muda Bondowoso vs Baruna Nusantara (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvJ3QXXXa5kp/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/45274/1hgz4jv2x529.png?win007=sell",13h00 ngày 15/12 Persebo Muda Bondowoso vs Baruna Nusantara (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765786648-0-0-742e4df263ac09624986082d76eaa669
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765788088-0-0-5887b03750a23433fb4fcff53ac307f1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765786648-0-0-72943c0bb1bd5cc4919d196b290da229
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765788088-0-0-5404d0af9dd8445a916b9231d101314e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765786648-0-0-1d255e5a09da428655f3a9c3ae3efc47
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765788088-0-0-58594ffeae31a461a5141df347baf793
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765786648-0-0-6c74e31be3e0f24b2d8520ec0c4dc303
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765788088-0-0-d4d0c6fe6c7109d86f117cbbbc5f0e85
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765786648-0-0-502736ab3528ec1653df83d66b37025b
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765788088-0-0-b040935083cb88bb604de9bb38983b9c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765786648-0-0-c6b9769cfe94bddb58983b94e9e8ab43
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765788088-0-0-93de593cf9217079c4476f8bb02e7556
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765786648-0-0-0cfdebe3761878845575d8756fe715af
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765788088-0-0-c4138673baec50d96ec3dc61d84b7ba4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765786648-0-0-7dac6a81797fedc5a5510065e73ee303
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765788088-0-0-8397cc86495d56c7b803a5926596f80e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1765786648-0-0-dd440ada991b8bf331ab3516939c6377
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1765788088-0-0-9fd848d2a0d522d8bbf0b388804a05a9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1765786648-0-0-3012bce04c5f394b52501f50829760b5
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1765788088-0-0-8fdf77867edca9b91b9d8a0eb1c17429
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765786648-0-0-434b1f1d06d8bfa86044b288974cc6dd
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765788088-0-0-92903208ecf0e1d268aa9ceeaf6bdc2a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Indonesia vs Singapore [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765786648-0-0-7d19a732f8733e2100326d3b07aedf81
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765788088-0-0-4f2fa6c4ec9a35f491a3beb566e732ca
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765786648-0-0-8a7de264c8da674ab4f23b03259653ef
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765788088-0-0-4ebb972ce6021532ad9c752a31e28630
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765786648-0-0-93970663c83c9ebf6cbe6b38ccfc0008
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765788088-0-0-d5baa1b357078f9450bad117e5cd434e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765786648-0-0-de12be8bb8f4fad6591849e9c63f7453
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765788088-0-0-2ccd6960bf3e81449f0501ce94b860d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765786648-0-0-6d40f3b74bf7ebdf02a64cfc83d373dc
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765788088-0-0-fdb674413da30ea714fcbb1b92cb6371
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Sunderland vs Newcastle United [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765786648-0-0-d66ee2f4d1f388b1357d00dc52075dcd
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765788088-0-0-6ad18008245b162b9cdc11c046051318
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Sunderland vs Newcastle United [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765786648-0-0-11377d65192c36b2b017dc8386c2f266
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765788088-0-0-55f3e88f3e9253e4f08220b0d939e20a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Sunderland vs Newcastle United [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765786648-0-0-1d99743b474636ca15ec5767c2d03d7d
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765788088-0-0-5dbea3fd3e615b936502b6460067fa10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Sunderland vs Newcastle United [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765786648-0-0-7bd44000627f5d6f71fb11a4af0db61f
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765788088-0-0-b88ab89a92c15057b13d1ce297879c46
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: SPA D1 - Deportivo Alavés vs Real Madrid [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765786648-0-0-15e8b018c54ab877b2cd2e7e2e06dea1
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765788088-0-0-72877b6c6574f024aeeaf5dbea1d218b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: SPA D1 - Deportivo Alavés vs Real Madrid [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765786648-0-0-8e28c5ed9888fbebc819d44371d2420e
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765788088-0-0-cf671266196b9285163563f27af9a762
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: SPA D1 - Deportivo Alavés vs Real Madrid [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765786648-0-0-8630a2ff0d376a498beb2aa2d2b6f939
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765788088-0-0-0ce2abc83987e5f986c00738668c34a2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: SPA D1 - Deportivo Alavés vs Real Madrid [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765786648-0-0-599f1edf1139e6ffb5b041f540ef72a3
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765788088-0-0-3d8ba08e895a939e182d1334bfd2b7ac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Brentford vs Leeds United [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765786648-0-0-a07b61be735fbd456e2dda920d0946a8
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765788088-0-0-97292c0e0453a45e2fc6c07ae55cdc10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Brentford vs Leeds United [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765786648-0-0-6ac2c3be8311b4ee9bdb8be7e6bd04f1
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765788088-0-0-71d433bf63f53659dd3aa43e5b1f9d0e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Brentford vs Leeds United [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765786648-0-0-707237ce3ecb4145aa5780862bfcae6c
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765788088-0-0-10c4c167d54299efd4623dabc4fd4bf0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",Tường thuật: ENG PR - Brentford vs Leeds United [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765786648-0-0-47709c2ddbfe978d95df20ee37e79449
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765788088-0-0-662a5acbf33c67ff9a65afb888135ddd
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.gosugamers.net/61/55/38/8ce5123db8d3284f70fb74c94b28270df3ba1b8eebde19b34fbcc94518.webp?w=128",14:00 ngày 15/12 ZSM vs LGD Gaming (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
