@@ -629,14 +629,6 @@ https://live.alilicloud.com/live/14198b45eff1262c89687c7f55483cf1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/05185ac9e168cbf9a52de82dbfaff920/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="Văn khánh" tvg-logo="",10h00 ngày 19/12 Matsumoto University vs Niigata University (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -653,18 +645,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6Hgig2hHxkh7vU/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1766121449-0-0-0b879f07aab00e3b41c27062e82fba81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1766121449-0-0-8f0a7fa24484d7f1b3b6092f98f06aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1766121449-0-0-57a51f2e49dedd9553c5ca3c3f1d6530
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1766121449-0-0-659b7225a1164dc667519882e58d2d9c
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/648c1a9ada810d451272ea8d3096d455.png",10h00 ngày 19/12 Portland Trail Blazers vs Sacramento Kings [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1766122169-0-0-bef8402a32c39ee31c1693723250f375
@@ -737,6 +725,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766122169-0-0-6c56
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766122169-0-0-956cd1282de325d914e7c5bc18beed39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1766122529-0-0-904403ed5429388fe6e5a61bd5543056
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1766122529-0-0-fdcf207e21a9e4809e462727f372caf5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1766122529-0-0-13a9e294fc6107a17a7d48a80ac152b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251214/e8f84e83640b44c27f328152ee351405.png",Tường thuật: ITA SC - Napoli vs AC Milan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1766122529-0-0-d2983f156a3e3160ade154570da1f307
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/r3Fomsf5-ER5jeflb.png",08:15 ngày 19/12 Seattle Seahawks vs Los Angeles Rams (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -757,26 +757,6 @@ https://hotlivezz179602324.akainu.xyz/xAfKu9gtQ8iwR1JDhmjUFg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766150289/f3d709bbefaf7add2343529a4fc95c47/803950070/live/luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vB6XdCBr-vXFf6tnR.png",08:30 ngày 19/12 Mavericks vs Pistons (1) [Người Hói] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1766150291&sign=8c77ffd62d6488d6998f13c330808787
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vB6XdCBr-vXFf6tnR.png",08:30 ngày 19/12 Mavericks vs Pistons (1) [Người Hói] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Tb56gqfCpD4iHqPQlyitrQ/Fv2lucGIbhPi2caWYvF5Lg/1766150291203/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vB6XdCBr-vXFf6tnR.png",08:30 ngày 19/12 Mavericks vs Pistons (1) [Người Hói] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766150291/94ebe462d579e75276877fca46c8b912/983650620/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vB6XdCBr-vXFf6tnR.png",08:30 ngày 19/12 Mavericks vs Pistons (1) [Người Hói] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Gl0CtsPBs5FedRDa6V8X6A/Fv2lucGIbhPi2caWYvF5Lg/1766150291203/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vB6XdCBr-vXFf6tnR.png",08:30 ngày 19/12 Mavericks vs Pistons (1) [Người Hói] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766150291/a6276a5bfd6a51ed946a0bba46dde9d3/502817521/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 19/12 World Tour Finals (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -825,26 +805,6 @@ https://hotlivezz179026907.akainu.xyz/D-48-x29LhJEeJhjJfRVvQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/FZLbHRDDMqcEQsAEex0mPA/Fv2lucGIbhPi2caWYvF5Lg/1766160727783/live/may28/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 19/12 Nuggets vs Magic (1) [Người Gầy] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1766152085&sign=cfce1d5d3f0225216e91b614a0b5f929
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 19/12 Nuggets vs Magic (1) [Người Gầy] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/DMVkgJE9jAXbFL3loiy2vw/Fv2lucGIbhPi2caWYvF5Lg/1766152085639/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 19/12 Nuggets vs Magic (1) [Người Gầy] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766152085/5278e08fc6981af20f7ec33aef7d933e/283069150/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 19/12 Nuggets vs Magic (1) [Người Gầy] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/pddzJlwgO-oigcYfI-FtYw/Fv2lucGIbhPi2caWYvF5Lg/1766152085640/live/gaySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 19/12 Nuggets vs Magic (1) [Người Gầy] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766152085/0c68ff739edff32942887f987758a5b5/793256309/live/gayFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 19/12 Jazz vs Lakers (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
