@@ -817,6 +817,12 @@ https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21380_1hf0k1j0cn22.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain (PSG) (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 21/12 Juventus vs AS Roma (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 21/12 Juventus vs AS Roma (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6961986fd0e44c330328195328a39be4.png",03h00 ngày 21/12 NAC Breda vs SC Telstar (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2269,22 +2275,6 @@ https://live.alilicloud.com/live/28ed08d8553c697bf3c4f115ae561bab/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a72b0618a48c5787897d2b52e97be98b/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23978/1hf0k1j0cn22.png?win007=sell",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain (PSG) (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvYMRRnxxyj1XnGk4/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23978/1hf0k1j0cn22.png?win007=sell",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain (PSG) (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36906/1gyk775rc927.png?win007=sell",03h00 ngày 21/12 Conaree United vs Circle Newtown United (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6HiBz3jCMAWPuE/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36906/1gyk775rc927.png?win007=sell",03h00 ngày 21/12 Conaree United vs Circle Newtown United (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2485,318 +2475,22 @@ https://auto.cdnvankhanh.com/live/sd-6MvYM2bLmTyqc2JXLg/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36906/1gyk775rc927.png?win007=sell",03h00 ngày 21/12 Conaree United vs Circle Newtown United (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=8c0692004da21b0f1a4e3688602dcf87&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6HiBz3jCMAWPuE/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36906/1gyk775rc927.png?win007=sell",03h00 ngày 21/12 Conaree United vs Circle Newtown United (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=97beda5d5fbbd92d88443f9c15563e1a&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23978/1hf0k1j0cn22.png?win007=sell",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain (PSG) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=8c0692004da21b0f1a4e3688602dcf87&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvYMRRnxxyj1XnGk4/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/23978/1hf0k1j0cn22.png?win007=sell",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain (PSG) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=97beda5d5fbbd92d88443f9c15563e1a&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1766266169-0-0-5021eb8b880c6f2b184745a6732ebaab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1766266169-0-0-53196132b1a6b59d5216269c2b9fae61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766266169-0-0-69c7758772c8799a09de6555f7c5362c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766266169-0-0-842b30ea4e86c82e71b4eeb6286851df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=4fda60c812fee48ca415cb3bd30aadcf&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=6ff6c0522816a6c451f8beaa3ed3d5d2&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=4fda60c812fee48ca415cb3bd30aadcf&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=6ff6c0522816a6c451f8beaa3ed3d5d2&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=e15a92f3e447aba8783b17662f44862c&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=6356d34b67e4b24e3887998781d2a6e6&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e15a92f3e447aba8783b17662f44862c&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6356d34b67e4b24e3887998781d2a6e6&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1766266169-0-0-cbad8ab633a830741f42d55d4dd2fed4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1766266169-0-0-ef3d3dd078464599154913b16ccc8fdb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1766266169-0-0-4687f646254f195adeb582fa841e4d4a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1766266169-0-0-d0e3a846162e6062f39d7baada43f1d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=481710069ca6b908a003ded2ee6f1b5f&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=a006d0f7b0636b479c535235fa831ea1&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=481710069ca6b908a003ded2ee6f1b5f&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=a006d0f7b0636b479c535235fa831ea1&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1766266169-0-0-755ecff666a9812a994f17369789e257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1766266169-0-0-fe323d1f76521d665716869a4920a46b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1766266169-0-0-c640fbab0de03cd57ffdba0e434f94da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766266169-0-0-245c8ac0e34e30f6be92fb273d385971
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1766266169-0-0-8b60cea947754a1863ddb039bb444afb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1766266169-0-0-614991a7d4645724f9829afbf8e7d05e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1766266169-0-0-5be5c5540c508dfed583841f317309b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1766266169-0-0-88991abd04d363f727fbd998232885a7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1766266169-0-0-13c7603db474923123b6a99bbc79c2e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1766266169-0-0-c8bb99996e83cf03077af81c498b02de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1766266169-0-0-b2bf20437d4bd2e87c99c31b160a6b46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1766266169-0-0-b1dd206fe700fef4b42c8769e4860b1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1766266169-0-0-b9dc916a3453862115740b982b8a7564
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1766266169-0-0-c31e7b581040e5b69462612c31368bd9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1766266169-0-0-e14852482917ce10cb16be42ec7c0582
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766266169-0-0-9a9cba8844133e591eba86a48f57ec43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=30251aec68545521bb5592dbf90cb97d&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=d0bf7a5c8599054e625a22e02eeec2ab&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=30251aec68545521bb5592dbf90cb97d&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=d0bf7a5c8599054e625a22e02eeec2ab&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1766266169-0-0-436b1b73e5acff2611a3a24f21826d37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1766266169-0-0-67ff0925ea22c86136540cadcda300cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1766266169-0-0-b2327fce8c60bd41ac4d4c8e7696cbd8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766266169-0-0-9968ca141e0dbb1beb11fdc55e2cc80c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1766266169-0-0-79d68d9d89ed7b6a0b62d34ed9dcd365
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1766266169-0-0-f0a45be95d4273c0657908cc688dfc2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1766266169-0-0-36fb4a99dc0e319afd322d782392e5b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1766266169-0-0-ca9a5c104b0a54f6feaba1e504276126
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-479849_lsd.flv?auth_key=1766266169-0-0-72cd2f0586c3949fa83f6bc70a5c4d3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-479849_lhd.flv?auth_key=1766266169-0-0-70ceb65fd8660d24c8f6c44f17e0f797
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1766266169-0-0-882f0cdea7215f44efae83519ce95f9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1766266169-0-0-bb1bede4abefd603223eb52ae8f8c6ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1766266169-0-0-04bc42699bb7a5dfddd4ffa3beeeff19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1766266169-0-0-cadb6842d31782af717716983d5a7f5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1766266169-0-0-57b1a638df89dc85fe044c2a24428d75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766266169-0-0-002627cb7b4bc31d963df7455a347126
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1766266169-0-0-963f8934d8cf5bff1f67bbb5bb8ca347
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1766266169-0-0-b3f09d07522503a154df0d717a8c4b4a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1766266169-0-0-2a9f714a0c08f4dff34eb868d1715613
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1766266169-0-0-2e9addb130ae140a4b0985ce3eb31fe6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=a1232c496bf535a6d9c258feb6d4181d&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=43983a8981794b25ad241302494a39bb&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=a1232c496bf535a6d9c258feb6d4181d&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=43983a8981794b25ad241302494a39bb&txTime=69475b89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-563268_lsd.flv?auth_key=1766266169-0-0-e8afc1c9b3d8926a9a7ab294d1370711
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-563268_lhd.flv?auth_key=1766266169-0-0-d311ca7b85813b5024f6c029e5bb0ba7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1766266169-0-0-5dbf0502dbed0f36e20d802a0b732f96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1766266169-0-0-b9d59e700f4971e7d42a2d3d980132fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1766266169-0-0-78000e51d1303ff5e6f71f4694d73ef8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1766266169-0-0-f984587a5a0047564f589ba80a6b883f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1766266169-0-0-3026e82f7024233017c17a8d5a47be95
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1766266169-0-0-e2acf7066d0b98874ba5710e8adfc60c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1766266169-0-0-aa9234c99dac0bb0fd8f43d998ff344c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1766266169-0-0-3e806d20bfb465ac6553ff574ae23654
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1766266169-0-0-f5abc4924ff527b834361b972f48b719
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1766266169-0-0-1445db3c8478a124382fca7a45f33435
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1766266169-0-0-b3e081c4d51d895e54648a2d5e0e9cb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1766266169-0-0-df6f805b81d985f41735b041661e4320
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1766266169-0-0-4292457e56c2e7e43afde935a7b62a13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1766266169-0-0-3c741f17f4d226cc4d6138d1ec981c65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766266169-0-0-4e6d46a7ede4dd1e55853938866989fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766266169-0-0-17132aa644d01cb5ad1fa561e63c4152
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766266169-0-0-4c7c0d81f2bb0b7ecff1bd81e45d0a12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766266169-0-0-85803b895e6cfb26d2fc548f273449e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766266169-0-0-5e9f520aff57845e1b6fa6183a2a997a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766266169-0-0-c83334dedc20f475824318b6d983efba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766266169-0-0-335a2223268bb1746d3ae28efacf885a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766266169-0-0-048f9feadd333d0bea36d116657e239e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1766266169-0-0-c7c5478d2fed896152cd629845224b18
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1766266169-0-0-259b468510eac951ccb25b2a8fe25c0a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1766266169-0-0-500e6499de0dfcea93be12371a0e77de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1766266169-0-0-2fd9ec9401bcc3910bc52d2b75e4a794
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1766266169-0-0-05de3b7183d3e5068139371dcb954f24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1766266169-0-0-c639867f11a35341c76f399cf0624193
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1766266169-0-0-05bf852cba88f600a3dc34449a1a889a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1766266169-0-0-5221c206a629c7564c1350c524996126
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766266169-0-0-811573f5822d536aa6c7facbee856c38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766266169-0-0-cba8ecb93c127b4ecd166281c7196f60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766266169-0-0-daea884d8f2165370203aaf0b66c5d36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766266169-0-0-a04c682d35bcfa24fd3530510272e089
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1766266529-0-0-000319faf43d7abf2da03e35d0582e7f
@@ -2833,6 +2527,246 @@ https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=433b5f6843efe6ddef52
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=45bd309252a30877947a2904d761f5de&txTime=69475cf1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=51c599ccdfe5e92d5f709c4387107261&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8b206c831c771dc84b6c7973a4acb315&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=51c599ccdfe5e92d5f709c4387107261&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8b206c831c771dc84b6c7973a4acb315&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1766267249-0-0-72f8557d22bfc6e0df07aaf574c2921d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1766267249-0-0-e8845507c0d3d610df9a65173f5f2003
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1766267249-0-0-d4161a858fb2ce5bc7aed82a6b955358
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766267249-0-0-23e652eda6329304a6876cdfc2fb5a0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1766267249-0-0-f3c9aaf2174e0ddcb29c3e21a330d8b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1766267249-0-0-24932585e30001cffc29e7cc318d6e4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1766267249-0-0-fdb755b18801eb4a093b2f6a675dde3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c3adb941fc069a2c1d2f55caee4119a5.png",03h00 ngày 21/12 Everton vs Arsenal [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766267249-0-0-a0b758a742c24db4c97bb64b8a084416
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=4a92ed1c0367573b88c8ccd6466b19f3&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=898033531baba5d93adb0d86196d2ff0&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=4a92ed1c0367573b88c8ccd6466b19f3&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/b14d508706c59f7138b41dc82e5cf955.png",03h00 ngày 21/12 Real Madrid vs Sevilla FC [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=898033531baba5d93adb0d86196d2ff0&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=b726e60b54a3fe0b2b4c9099765a89a6&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=655c02ea8f9ed80adcaaee0a43aa2574&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=b726e60b54a3fe0b2b4c9099765a89a6&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=655c02ea8f9ed80adcaaee0a43aa2574&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1766267249-0-0-149741fbd634a071dd2064bf191af186
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1766267249-0-0-b8689a40c9ef696d8f715be329d4d29f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1766267249-0-0-ec24f06577aef0270532acce572ca1cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766267249-0-0-771100cd6b5b889f66d5dbb887b17eea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-479849_lsd.flv?auth_key=1766267249-0-0-cdf4bbfbcc325dcad254cd4de0ba14d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-479849_lhd.flv?auth_key=1766267249-0-0-0f7c9c43917a28d7dda941bd5749057d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1766267249-0-0-5610f1018c45ae5ca3627cb33885d02a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV TÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1766267249-0-0-49d95f3dff0083369eb7db8eae857645
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=61ebcd9e970930cba4649cf3478d6f61&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=5e62cd55243f9084577ca5039a1be763&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=61ebcd9e970930cba4649cf3478d6f61&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=5e62cd55243f9084577ca5039a1be763&txTime=69475fc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1766267249-0-0-baf6e179c77a20e65d357b066b31f747
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1766267249-0-0-21e8ccaf95b23c2b82a0a7d76c698e86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1766267249-0-0-d343e3865fa1bc33ac2397aef3dcb8bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1766267249-0-0-85f236edd4ea3b3ca758ae55aa104ad1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1766267249-0-0-004e2cf851af0776876ff96f1e688e22
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1766267249-0-0-beea80856e15fc8540a3aefa25e73748
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1766267249-0-0-5cf486f088b7722b20b44fbec8eee681
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/c8dbfc8e9fa08a2f4003afdedf4880f0.png",03h00 ngày 21/12 Leeds United vs Crystal Palace [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1766267249-0-0-db2170dea809e5c628422d0afbd730db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766267249-0-0-bc59636d050bd2f792f84fd4ba6bed59
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766267249-0-0-507b29072512f1b18e959c2fe875c844
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766267249-0-0-beaf392c83c0310a7ef3f93ba8c9be39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766267249-0-0-47cf75aa946f48f13f40695529e92336
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766267249-0-0-0b9ed3822d56478829d9abda3a5d8033
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766267249-0-0-ec6d5dcf05eb5c3157b576c984c7a26c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766267249-0-0-aa25101bc893a83601b2fdafe24cea36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/d52b6973c49ba6c52c842261756124b7.png",02h00 ngày 21/12 NEC Nijmegen vs AFC Ajax [BLV TORRES] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766267249-0-0-2832a93f3aa124201784e3626ea44be1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1766267249-0-0-e8e55e06d4e60bf974086fddb9763d80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1766267249-0-0-9371520802f526d4b570b001becf80ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1766267249-0-0-dda63bc3f30f0184cb95226e5a2e4bb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766267249-0-0-3e67b04335e22036f8fee53616fd0b33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1766267249-0-0-f3e8c51fb44c9d7754842861662558d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1766267249-0-0-151abdeac3f6710382801606cab4254c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1766267249-0-0-e6745d0b56c4edcb075b75bdf1ae2c0c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1766267249-0-0-bb07c260dea33e7c7eda76a2e2d5e069
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1766267249-0-0-38f8565b380bb787b74247056c8e9e12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1766267249-0-0-23a85d226d41b93e2d586d3ee9759cc6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1766267249-0-0-46782a0e16bd16d80bef40d91e86384e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1766267249-0-0-81d51a8843170d7179485447e3663d5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1766267249-0-0-670e4e8316cd03975fcbeea55c57b186
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1766267249-0-0-5980820b31d44de9c817a745c1d0a23d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1766267249-0-0-110b9285094cc794741cca5021b72930
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/1ed1b9a80584449b0c6b6586cb8883be.png",03h00 ngày 21/12 FONTENAY VENDEE FOOT vs Paris Saint Germain [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1766267249-0-0-be6bd69deed39605532be9d6c6fe48cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1766267249-0-0-35edf090400b1b78be21bb06ba007eb3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1766267249-0-0-56aab79803f8ed2d4054999978da3d57
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1766267249-0-0-5fbf63ed56f11f607544231bac80ac09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1766267249-0-0-a2c153b6d12a72c31fc1cc1d6eeba76b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-563268_lsd.flv?auth_key=1766267249-0-0-3a2db94cb91c013892318fe633ade091
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-563268_lhd.flv?auth_key=1766267249-0-0-8c6db1ab41d57a9551b8b62c14e92818
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1766267249-0-0-b2a4178d72a0d8ef4e62bbc3cccef782
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [RÙA VÀNG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1766267249-0-0-7352068ef229171985de2a8260ca6d1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1766267249-0-0-191bc7dc96f8b63af6eefb2632a6518d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1766267249-0-0-8329f77e417481ec5faf6172d1f92bd9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1766267249-0-0-66460f5ca5b9ef34360e37d8448003c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/72cbf5306e6361dda66fdf43a7277266.png",02h45 ngày 21/12 Juventus vs AS Roma [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1766267249-0-0-bc98dde9645a63707ce07c5100eb168b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766267249-0-0-f5f0e48eb7eddc0131649b5aff2d6459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766267249-0-0-119bbb6902f3772e9bc356da129606c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766267249-0-0-b190d0312d55117373417b8d36744b4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/a1718764a1d88e02203718ff233aa822.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766267249-0-0-69fe9e8a827a84a0b9ebaff7b9b0b745
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/SzuZHjT1-0bMD7Bbn.png",23:00 ngày 20/12 PFL (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
