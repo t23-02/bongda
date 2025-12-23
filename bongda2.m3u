@@ -697,14 +697,6 @@ https://live.alilicloud.com/live/d7a8f14a801362ef82b3693f741a3689/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/60b6f971dae0c46d9c5ff70a1509e224/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/31571/1hc6f275cb0.png?win007=sell",11h00 ngày 23/12 Bihar vs Delhi SA (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -713,6 +705,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkJXvs6nsayr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/2498f07955864fcc7c6d09f6929db166.png",10h00 ngày 23/12 Golden State Warriors vs Orlando Magic [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1766468489-0-0-4f2149c4d6b7a38e010677b4442a0520
