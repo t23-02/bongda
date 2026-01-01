@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/80e44a97384b61801716ab030c10bfd1.png",22h30 ngày 01/01 Al-Kahrbaa Club vs Al Zawraa (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/9def99f3ec16a54c4eae0cce9fdaab6e/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/baa69c24b21e2b92c680f62e409dce9e.png",23h00 ngày 01/01 Al Hidd vs Al-Ahli(Manama) (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -15,6 +11,10 @@ https://live.alilicloud.com/live/08d3b08e91a55fbd5bd219cd455a22c1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/60c4c23e32cc9ba946a4c9d686c8b40c/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/008437c93501963e6ca1b2450994007a.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/60f3a8ed4dcd293fc3052d35762f24fc/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/60f1c7788be3148a370dbf59f914abfe.png",03h00 ngày 02/01 Brentford vs Tottenham Hotspur (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -521,30 +521,96 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767281046.png",22h30 ngày 01/01 Chelsea vs Bournemouth (Lương Sơn) BLV THỜI THIÊN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) SD 1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV PEP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV PEP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/43_164869103617.png",00h30 ngày 02/01 Sheffield United vs Leicester City (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV CHU ĐỒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV CHU ĐỒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",00h30 ngày 02/01 Liverpool vs Leeds United (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV GIÁO SƯ XOAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV GIÁO SƯ XOAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplussd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) HD 1
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) SD 2
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) A Đỏ SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) HD 2
+https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) A Đỏ HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/262691204102d2200797f0ac34efb316.png",22h00 ngày 01/01 Hull City vs Stoke City (Ra Khơi) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/baa69c24b21e2b92c680f62e409dce9e.png",23h00 ngày 01/01 Al Hidd vs Al-Ahli(BHR) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -617,34 +683,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) A Đỏ SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) A Đỏ HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png",00h30 ngày 02/01 Liverpool vs Leeds United (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101662_small.png",22:30 ngày 01/01 Al Kahrabaa và Al Zawraa (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x6/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",00:30 ngày 01/02 Liverpool và Leeds (Sao kê) Daniel SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -693,6 +731,10 @@ https://wtyi0525.edgemaxcdn.org/live/x0y3-3582/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101746_small.png",01:00 ngày 01/02 Ismaily SC và Modern Sport FC (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb9a696f52ce70ea466be08d2dcc75cb/image/small",22h00 ngày 31/12 Port Vale vs Blackpool (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1185,118 +1227,6 @@ https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125550_3a5b60eb.png",00h30 ngày 02/01 Crystal Palace vs Fulham (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manzehd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",00h30 ngày 02/01 Liverpool vs Leeds (Chuối Chiên) FULL HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manzehd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130850_9b44244e.png",00h30 ngày 02/01 Sheffield Utd vs Leicester (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130850_9b44244e.png",00h30 ngày 02/01 Sheffield Utd vs Leicester (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125551_69278a74.png",03h00 ngày 02/01 Brentford vs Tottenham (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",03h00 ngày 02/01 Sunderland vs Manchester City (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cb9a696f52ce70ea466be08d2dcc75cb/image/small",22h00 ngày 31/12 Port Vale vs Blackpool (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
