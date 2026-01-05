@@ -27,10 +27,6 @@ https://live.alilicloud.com/live/ef0838067ef14d643fc004adf2277bd0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/2c1a8320e131266600bd339931991fde/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/6aec2c9679d8ba409c81594bbb3739fe.png",23h00 ngày 05/01 Fortune FC vs Bombada FC (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/d242294d49f2439b3aeb4b6f8883693c/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/cd910c7d6263ab937042436e16a2fb6f.png",23h00 ngày 05/01 Nouakchott Academie vs AS Pompiers (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -183,12 +179,18 @@ https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1703_1heh22as0j1c.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Lương Sơn) BLV LỮ BỐ m3u
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b69c7365b0b7db70e9e42a798b7a71d5.png",00h00 ngày 06/01 Hapoel Kfar Shalem vs Bnei Yehuda Tel Aviv (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1703_1heh22as0j1c.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/bdf69c486a1262693c151f73ff9f4a3d.png",00h00 ngày 06/01 Ironi Modiin vs Hapoel Hadera (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/8d99563d07b7e2d33d005e36deb7ce8f.png",00h00 ngày 06/01 Kiryat Yam SC vs Hapoel Nof HaGalil (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m103nd/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64475_1hnsf3njh31e.png",22h30 ngày 05/01 Al Karma SC vs AL Najaf (Lương Sơn) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
@@ -309,6 +311,16 @@ rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqdCs2QgKCn8ct4/playlist.m3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64387_1ht9p7wf26w.png",23h00 ngày 05/01 Nouakchott Academie vs AS Pompier (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1703_1heh22as0j1c.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1703_1heh22as0j1c.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/17e3cb55af2ada9d234099c573f8a81e.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d91fb359652b5c9d9842b11d1c6fada5.jpg",23h00 ngày 05/01 Al-Ittifaq vs Al-Hala (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -325,6 +337,18 @@ https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b69c7365b0b7db70e9e42a798b7a71d5.png",00h00 ngày 06/01 Hapoel Kfar Shalem vs Bnei Yehuda Tel Aviv (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/bdf69c486a1262693c151f73ff9f4a3d.png",00h00 ngày 06/01 Ironi Modiin vs Hapoel Hadera (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/8d99563d07b7e2d33d005e36deb7ce8f.png",00h00 ngày 06/01 Kiryat Yam SC vs Hapoel Nof HaGalil (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m103nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png!w100",23h00 ngày 05/01 Ai Cập vs Benin (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -445,10 +469,6 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/17e3cb55af2ada9d234099c573f8a81e.png",22h30 ngày 05/01 Al Zawraa vs Al Gharraf (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",21:30 ngày 01/05 Köln và Lugano (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1381,38 +1401,42 @@ https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=77c34cd062e597c45fc5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/8d89297fbeba5eb2b65ecb1f8904b200.png",CAF NC: Egypt vs Benin [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d079b189e08432e25f23e80d8e016386&txTime=695c32da
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/egypt.png",23:00 ngày 05/01 Egypt vs Benin (1) [A Núi] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ltkanInGSypBMuznMwL1MQ/Fv2lucGIbhPi2caWYvF5Lg/1767651486768/live/sd-6MvZ6ZzSPikPme89hu/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 ngày 05/01 United Cup (1) [Nhà Đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/1njh2xJ-0E3tRZTb93N5Ww/Fv2lucGIbhPi2caWYvF5Lg/1767651130707/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/ErUnTyFxmHAEo0fS7Cy6zg/Fv2lucGIbhPi2caWYvF5Lg/1767673087915/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 ngày 05/01 United Cup (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/5JOPDTuJFuxAy4zYLlcjrw/Fv2lucGIbhPi2caWYvF5Lg/1767651130707/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Hw41Cp6GAnzajlG_xJUI6w/Fv2lucGIbhPi2caWYvF5Lg/1767673087915/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 ngày 05/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/l9hQdd2MCesz78rp5WPd_w/Fv2lucGIbhPi2caWYvF5Lg/1767671646779/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/UOveUqKdNHLKPPTOpu2Tyw/Fv2lucGIbhPi2caWYvF5Lg/1767673089033/live/may27/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 ngày 05/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Show Court
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/UzMQ-JHEwVgOxE9Az2t5fg/Fv2lucGIbhPi2caWYvF5Lg/1767671646779/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gb9TgDbAEDuKV2GhXdOGyA/Fv2lucGIbhPi2caWYvF5Lg/1767673089033/live/may271/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 ngày 05/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/bJOzQrXT4WItQOk8SRfq0Q/Fv2lucGIbhPi2caWYvF5Lg/1767670208147/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/vtLJ0wvMeM_Dn11mvSL2Zw/Fv2lucGIbhPi2caWYvF5Lg/1767673090162/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 ngày 05/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/CJNgFiXa08QT4WYlWDnhPg/Fv2lucGIbhPi2caWYvF5Lg/1767670208147/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Vz0KFfm9zwO4XYu6Rv0s0w/Fv2lucGIbhPi2caWYvF5Lg/1767673090162/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 ngày 05/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/zukWo6D23BAIPSAIQd4UmA/Fv2lucGIbhPi2caWYvF5Lg/1767670208147/live/may252/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/1ovsjIWWAcvdH4GtrtcWAA/Fv2lucGIbhPi2caWYvF5Lg/1767673090162/live/may252/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 ngày 05/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/t71UwekrVRy1Zj9A9TKGtQ/Fv2lucGIbhPi2caWYvF5Lg/1767671649449/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/kqBOWqAE8KKCNbG0x3THIA/Fv2lucGIbhPi2caWYvF5Lg/1767673091598/live/may24/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",23h00 ngày 05.01 Egypt - Benin (Hội Quán) BLV PHAN HẢI FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
