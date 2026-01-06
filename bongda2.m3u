@@ -7,10 +7,6 @@ https://live.alilicloud.com/live/48a69707ab86dfd2fd8840b2bc5fa481/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/99d0739b2154c0401b18850e01bfa85c/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/4d15f8d9d3cdbbe522ac63ff1dff3b3b.png",01h00 ngày 07/01 PAOK Saloniki vs Atromitos Athens (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/7127a3084d093b3a19efdc01b82ce806/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/dcd1198a80026d2fb00b9abed7bf92ec.png",01h00 ngày 07/01 Rio Branco ES Youth vs Vitoria Salvador (Youth) (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -39,6 +35,10 @@ https://live.alilicloud.com/live/d4f8f50e3ccdc8f5a0e83456c74a1a4e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/26867f46802466a215e02e64b53b3108/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/d71ebda5c7fbca9093a1c2978c46f619.png",03h00 ngày 07/01 West Ham United vs Nottingham Forest (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/5d98009839323062bee87ca99fdcca72/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -243,42 +243,48 @@ https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/621_1j8xmssc4d2k.png",01h00 ngày 07/01 PAOK Saloniki vs Atromitos Athens (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/621_1j8xmssc4d2k.png",01h00 ngày 07/01 PAOK Saloniki vs Atromitos Athens (Lương Sơn) BLV THỜI THIÊN flv
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV CHU ĐỒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV CHU ĐỒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV KENCHU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VĂN VỸ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VĂN VỸ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VĂN VỸ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VĂN VỸ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",02h00 ngày 07/01 Ivory Coast vs Burkina Faso (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2963_1gq6k69vz71m.png",01h00 ngày 07/01 Al-Ittihad Alexandria vs ZED FC (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -291,12 +297,24 @@ https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2963_1gq6k69vz71m.png",01h00 ngày 07/01 Al-Ittihad Alexandria vs ZED FC (Lương Sơn) BLV PEP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV CHU ĐỒNG m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV PHONG VÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png",01h00 ngày 07/01 Granada CF vs Rayo Vallecano (Lương Sơn) BLV CHU ĐỒNG flv
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV PHONG VÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2472_164869078921.png",02h45 ngày 07/01 Sassuolo vs Juventus (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/56484f26eac26f8e279ea2172c48632d.png",01h00 ngày 07/01 Ittihad Alexandria SC vs ZED FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -469,6 +487,30 @@ https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03h00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cohd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",01:00 ngày 01/07 Granada và Rayo Vallecano (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1789,78 +1831,78 @@ https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1767732451-0-0-75ff
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260103/d5a1364594ad906f55e500a7d0e46e4c.png",POR LRU23: Vizela U23 vs Rio Ave U23 [BLV TORRES] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1767732451-0-0-3b4fbe996e910dd7d5d775858ef6e3c0
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1767748685&sign=27a33f2c1425e68dedeb00a70054f308
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/4cSZq79EOeMVPvQAqOqf3Q/Fv2lucGIbhPi2caWYvF5Lg/1767748685525/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767748685/c1485902a332af53e7e16a65a94abc40/981677796/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/kcZ1ANLK3tDXxrcelBayTg/Fv2lucGIbhPi2caWYvF5Lg/1767748685525/live/khiaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767748685/6d3c36df7a561187a79b60ad0f2e8f8a/392893628/live/khiaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/datHD.flv?expire=1767770645&sign=25ea852f83b1385e114d062e259d2683
+https://hotlivezz179536519.akainu.xyz/live/datHD.flv?expire=1767772444&sign=951e7c67fe37b1c8357aae9a6e0d5481
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9OpLho4T1IVYcYN4AhlIcA/Fv2lucGIbhPi2caWYvF5Lg/1767770645032/live/datHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/zZiFFqT1GRXkSUHQHP5wjw/Fv2lucGIbhPi2caWYvF5Lg/1767772444980/live/datHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767770645/2fda9f2ccdd8c008c00e5ccdda770220/419785891/live/datHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767772444/c611979a7552d29920d69e4fd801c53c/604137410/live/datHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/gNo_9Hh73DUoSx2WJ3Q9jQ/Fv2lucGIbhPi2caWYvF5Lg/1767770645032/live/datSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yZUPwT5sqCxB7iL9moJWYQ/Fv2lucGIbhPi2caWYvF5Lg/1767772444981/live/datSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767770645/695b2b7f82a06abb4cb9f5146a864f1a/492933569/live/datFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767772444/16bb28ea9865827f90a7d4ff0fb09819/113248846/live/datFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/CrB1-sK3ScvSz83fZGap_w/Fv2lucGIbhPi2caWYvF5Lg/1767770645032/live/may17/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/daxA756nfhfInUk6IiC9xQ/Fv2lucGIbhPi2caWYvF5Lg/1767772444981/live/may17/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QPgmz-QhWQJVsl5-jvk_NA/Fv2lucGIbhPi2caWYvF5Lg/1767770645032/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/m5PBxt2kgtce3hN86RIq2Q/Fv2lucGIbhPi2caWYvF5Lg/1767772444981/live/may24/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 ngày 06/01 Malaysia Open 2026 (1) [Người Đất] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/9qFk7xUEfzaBYiWBBa8pHA/Fv2lucGIbhPi2caWYvF5Lg/1767770645033/live/may241/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/yB0JjlFCb74GZJ0u5rfuuw/Fv2lucGIbhPi2caWYvF5Lg/1767772444981/live/may241/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/39e483976b4aa06ac9ea6923c654c0e0.png",02:00 ngày 07/01 Tours vs Trentino (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1767769566&sign=4b11a2b27e00a1977c1e0725270ecfd2
+https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1767772446&sign=b914b309956603ce4eb2e23ae3c0582b
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/39e483976b4aa06ac9ea6923c654c0e0.png",02:00 ngày 07/01 Tours vs Trentino (1) [Lơ Đao] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/itUcnAUoqxTzCMfFIHaShQ/Fv2lucGIbhPi2caWYvF5Lg/1767769566408/live/daoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/WKT5YTx2Cth4tpwj7LFbZw/Fv2lucGIbhPi2caWYvF5Lg/1767772446199/live/daoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/39e483976b4aa06ac9ea6923c654c0e0.png",02:00 ngày 07/01 Tours vs Trentino (1) [Lơ Đao] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767769566/fafd6ccad4e75d683bdb6b104127b633/821956208/live/daoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767772446/3512e987403c1d175505507c0d104b0c/553222030/live/daoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/39e483976b4aa06ac9ea6923c654c0e0.png",02:00 ngày 07/01 Tours vs Trentino (1) [Lơ Đao] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4XdL_CX68-zTR_sCqSKCLQ/Fv2lucGIbhPi2caWYvF5Lg/1767769566409/live/daoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/YMqtfsOupXTqboQ1H4Pf2A/Fv2lucGIbhPi2caWYvF5Lg/1767772446199/live/daoSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/39e483976b4aa06ac9ea6923c654c0e0.png",02:00 ngày 07/01 Tours vs Trentino (1) [Lơ Đao] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767769566/32b6066999564df2ee6aefffd1eeda04/873557817/live/daoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767772446/c20a40c6d7f8c82c9f6ccda1c5017b67/213657775/live/daoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767772447&sign=a767db0c42996799dd08caceaf2f5ba7
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/CAoeWkFzN_PQyaLX51fo7g/Fv2lucGIbhPi2caWYvF5Lg/1767772447364/live/bangHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767772447/0b9221bcd87b4565da33912409ec054d/457594831/live/bangHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/hdrihgKkkXyzUC2ayXvyrw/Fv2lucGIbhPi2caWYvF5Lg/1767772447365/live/bangSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767772447/fb2aeb88b1342256b5d2a282ac6d4166/627593713/live/bangFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f8ac17559f204d139563929dc7eeedeb.png",01:00 ngày 07/01 Granada vs Rayo Vallecano (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1905,46 +1947,86 @@ https://hotlivezz179602324.akainu.xyz/AAvZdNkDXkDyPnuOOyxh0Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767746538/41363647d2093472a370ee62a7156308/191947085/live/lungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1767748685&sign=27a33f2c1425e68dedeb00a70054f308
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/4cSZq79EOeMVPvQAqOqf3Q/Fv2lucGIbhPi2caWYvF5Lg/1767748685525/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767748685/c1485902a332af53e7e16a65a94abc40/981677796/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kcZ1ANLK3tDXxrcelBayTg/Fv2lucGIbhPi2caWYvF5Lg/1767748685525/live/khiaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/616bf242a532f72e970648f2ead423cf.png",02:45 ngày 07/01 Sassuolo vs Juventus (1) [Ba Khía] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767748685/6d3c36df7a561187a79b60ad0f2e8f8a/392893628/live/khiaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 ngày 06/01 United Cup (1) [Nhà Đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/XHmZqeH_T3s1qjrchq5d9A/Fv2lucGIbhPi2caWYvF5Lg/1767770654577/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/v076ji8M7L3YhTPFam9hHw/Fv2lucGIbhPi2caWYvF5Lg/1767772452979/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 ngày 06/01 United Cup (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/uiTvwyat9rAWWrJVG5dOyw/Fv2lucGIbhPi2caWYvF5Lg/1767770654577/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/CMiF9KngrmqNj3SeSm62uA/Fv2lucGIbhPi2caWYvF5Lg/1767772452979/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 ngày 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Rgs9keUxerXEw8dWTZPSVw/Fv2lucGIbhPi2caWYvF5Lg/1767770655711/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/UqX-ncabQHMQVqo1OfDsQA/Fv2lucGIbhPi2caWYvF5Lg/1767772454134/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 ngày 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/1xrbBe4gnQ8wUrJKWRUJlg/Fv2lucGIbhPi2caWYvF5Lg/1767770655712/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Kz8JaLG8beN-u7dhEzUu4A/Fv2lucGIbhPi2caWYvF5Lg/1767772454134/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 ngày 06/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Znkv8kgpKvsFqnAunf88Mw/Fv2lucGIbhPi2caWYvF5Lg/1767770656849/live/may281/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD Nhanh
+https://hotlivezz179026907.akainu.xyz/pwoIzDiHiTQdg9-CWJEbbg/Fv2lucGIbhPi2caWYvF5Lg/1767772455385/live/may281/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Qo3RdMjl-ARW4wdCc.png",03:00 ngày 07/01 West Ham vs Nottingham Forest (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767770658&sign=a2dab23d00ab8aa9bf81918f256268df
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD1
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1767750896&sign=ca2ccc46bbffae7524380b62888481fa
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Qo3RdMjl-ARW4wdCc.png",03:00 ngày 07/01 West Ham vs Nottingham Forest (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/1Xcz5LBWym1WLd1IeHifaQ/Fv2lucGIbhPi2caWYvF5Lg/1767770658047/live/bangHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] HD2
+https://hotlivezz179266008.akainu.xyz/9XkfM31XVpVcqBiS8KSEcQ/Fv2lucGIbhPi2caWYvF5Lg/1767750896683/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Qo3RdMjl-ARW4wdCc.png",03:00 ngày 07/01 West Ham vs Nottingham Forest (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767770658/c4b53d767eb0313bdb94693d45ca0221/246954598/live/bangHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] SD
+https://9ceg0825.edgemaxcdn.org/1767750896/fcfc6228eee5e1cde6a578072abc9f4f/358296698/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Qo3RdMjl-ARW4wdCc.png",03:00 ngày 07/01 West Ham vs Nottingham Forest (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/gFi2Vd28DCdE1tMaMDfMcw/Fv2lucGIbhPi2caWYvF5Lg/1767770658047/live/bangSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/36ce3b858fdb8f1677a97e6a2c025f8a.png",02:30 ngày 07/01 Sporting CP vs Zawiercie (1) [Người Băng] FullHD
+https://hotlivezz179602324.akainu.xyz/mLyDm6ua00FFk4k6kIuJJQ/Fv2lucGIbhPi2caWYvF5Lg/1767750896683/live/conSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Qo3RdMjl-ARW4wdCc.png",03:00 ngày 07/01 West Ham vs Nottingham Forest (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767770658/db693e811a9ee8ac1a2d24baebac8f03/935715445/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767750896/6f35f663a33dd6bed200e3f1d2cfb617/686751654/live/conFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (1) [Thịt Xiên] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767750897&sign=8465bd8aed722bf24008d05961d2c8e6
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (1) [Thịt Xiên] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/jK8I9NkFoG2KB2xkMHX_5w/Fv2lucGIbhPi2caWYvF5Lg/1767750897915/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (1) [Thịt Xiên] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767750897/15371f5a768788e5ba42d1d891d945bf/407302159/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (1) [Thịt Xiên] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vIBwKi3Wjrs-ts8tdIp_cw/Fv2lucGIbhPi2caWYvF5Lg/1767750897916/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:00 ngày 07/01 Sporting CP vs Vitoria Guimaraes (1) [Thịt Xiên] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767750897/9c61948815258d972b504cb505bfafd5/152503114/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",02h30 ngày 07.01 Sporting CP LISBOA vs Aluron CMC Warta ZAWIERCIE (Hội Quán) BLV PHAN CA FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
