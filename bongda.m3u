@@ -315,6 +315,10 @@ https://wtyi0525.edgemaxcdn.org/live/x8y3-9745/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/d1aefc76917bc4005e9962c7aa18a7de/image/small",12h00 ngày 09/01 Samsung Blue Fangs vs Suwon KEPCO Vixtorm (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1a4e783bc9bae3d7d6594929527bfca5/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/407c049a78e72f5af99dc87dd2d8d882/image/small",07h00 ngày 09/01 Aracatuba SP Youth vs Atletico Paranaense Youth (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -387,10 +391,6 @@ https://live.alilicloud.com/live/7a509c52e5d018befdb12c349a0726c1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6d100b54507f745229ff0111d2b4e3a6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/d1aefc76917bc4005e9962c7aa18a7de/image/small",12h00 ngày 09/01 Samsung Blue Fangs vs Suwon KEPCO Vixtorm (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1a4e783bc9bae3d7d6594929527bfca5/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1087,102 +1087,114 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768025491-0-0-ddc6ee3e1a712bda14d705ccb42495b8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768025491-0-0-5a0e46e3af246f1376ebc38fbfce43ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768025491-0-0-a73b4523304e75b4b56380aca97a3bcf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768025491-0-0-d5b2e4f3cb3676bd5a810d6b717c2c4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/5ff9b2e78f2a151e82782097fa8708da.png",10h30 ngày 10/01 Los Angeles Lakers vs Milwaukee Bucks [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768026211-0-0-53e5e1eae2c151cd766df5da9e47dd07
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768027651-0-0-08484b30c9a779bb7544082b529676e8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/5ff9b2e78f2a151e82782097fa8708da.png",10h30 ngày 10/01 Los Angeles Lakers vs Milwaukee Bucks [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768026211-0-0-ddd7521c37a09e90f81fbe363df1fc8c
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768027651-0-0-bdfb645663729852cc049965daa9b551
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/5ff9b2e78f2a151e82782097fa8708da.png",10h30 ngày 10/01 Los Angeles Lakers vs Milwaukee Bucks [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768026211-0-0-1b14ae82ab43d67e652e3cd508b2ef59
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768027651-0-0-bba5043ad891e1bf1dd94ac0a60aa260
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/5ff9b2e78f2a151e82782097fa8708da.png",10h30 ngày 10/01 Los Angeles Lakers vs Milwaukee Bucks [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768026211-0-0-0d550746871ad0733ff75c1b2659ce27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768027651-0-0-ea52c4d89a825ce08307ea153f13c1e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PIRLO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1768026211-0-0-f6a6866922cf3e760f139ba800fba18f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=e2dd3ae7e2f8ee6be985575d829b5d9b&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PIRLO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1768026211-0-0-07eb46d7c7f8a0094c97b5c3882b71ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=c7acb863eb3e4b2ac191a97597427bce&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PIRLO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768026211-0-0-71b3778c635fc4a7eda956e964522afd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=e2dd3ae7e2f8ee6be985575d829b5d9b&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PIRLO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768026211-0-0-2cb8b69e798fd543adcccd4938618745
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c7acb863eb3e4b2ac191a97597427bce&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768027651-0-0-7c02ddcb893ca56499623c35e037a10f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768027651-0-0-462ffa418a29400cdbdb8f64643fe1eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768027651-0-0-38e900090d5edfcd1bbe38801a07dbf1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768027651-0-0-bf2b9a782a1605493618ccb7e89c1c8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=f6860e82fa470ad9a32acb444b384ef2&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=1be4dc545b054e493f85ba1ecac48694&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=f6860e82fa470ad9a32acb444b384ef2&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=1be4dc545b054e493f85ba1ecac48694&txTime=69623c53
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768026211-0-0-7d71458202b1e24beec25213885e5904
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768027651-0-0-e33e0bc60651d75494c9e940739a476a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768026211-0-0-53a777312ab26578cfd1c26bcf8b2f14
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768027651-0-0-68e9925622961a16cca9ea0e0d686a88
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768026211-0-0-515987bbf6d712fa2783693042936e15
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768027651-0-0-a380275f626bb752b0f48e4f3dcbe115
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768026211-0-0-facee83cc4297382922f3c5d66dd72e5
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768027651-0-0-5b2a3f5e311bca8c39c3fd61c48fa3e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/ce9db9e963f7be0594a1aeb921e6f726.png",11h00 ngày 10/01 Sydney W vs Canberra Capitals W [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768026211-0-0-57d123cd7c4e317678813b6fb6ebd581
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768027651-0-0-f60b74e8576153b91ffe5ecd5e12dbeb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/ce9db9e963f7be0594a1aeb921e6f726.png",11h00 ngày 10/01 Sydney W vs Canberra Capitals W [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768026211-0-0-18c89f12681bba154c014bfc5ec0e10a
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768027651-0-0-13877161028bd1e37a0718e78329e525
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/ce9db9e963f7be0594a1aeb921e6f726.png",11h00 ngày 10/01 Sydney W vs Canberra Capitals W [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768026211-0-0-0f542f5014ccbea6a9108d95afe08be8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768027651-0-0-fabe9720e9934c9731363d99e1ba83db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/ce9db9e963f7be0594a1aeb921e6f726.png",11h00 ngày 10/01 Sydney W vs Canberra Capitals W [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768026211-0-0-c718cded552498017e51007b25bcb641
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/8cb570d7999026528ee1e8adf6079eea.png",10h00 ngày 10/01 Golden State Warriors vs Sacramento Kings [BLV HENRY] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768027651-0-0-1a96b1d150f8b065cbdc2f4d89d4f882
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768026211-0-0-ba09866095f4ab03dc67be6e0e2b2bc7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/8cb570d7999026528ee1e8adf6079eea.png",10h00 ngày 10/01 Golden State Warriors vs Sacramento Kings [BLV HENRY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=66b43ffb4b3154c784885dac35e3449e&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768026211-0-0-d616d67b9c4d009fc788a16dffef41f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/8cb570d7999026528ee1e8adf6079eea.png",10h00 ngày 10/01 Golden State Warriors vs Sacramento Kings [BLV HENRY] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=75c46b5528316f6472282ca33230c67a&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768026211-0-0-eb866798986867c4cc87d428d6407841
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/8cb570d7999026528ee1e8adf6079eea.png",10h00 ngày 10/01 Golden State Warriors vs Sacramento Kings [BLV HENRY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=66b43ffb4b3154c784885dac35e3449e&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768026211-0-0-89c904ed0ca549301496ceff8f979951
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/9ba2ad976752887939759bded64b47f5.png",10h00 ngày 10/01 Portland Trail Blazers vs Houston Rockets [CHAN SENA] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=75c46b5528316f6472282ca33230c67a&txTime=69623c53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768026211-0-0-feabdb9e194c5a4ba013a6d0123c56e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/9ba2ad976752887939759bded64b47f5.png",10h00 ngày 10/01 Portland Trail Blazers vs Houston Rockets [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1768027651-0-0-aeeed3009a3f98d981b133533d17941a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768026211-0-0-23e18a787cfa5c0025083cbcd84144c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/9ba2ad976752887939759bded64b47f5.png",10h00 ngày 10/01 Portland Trail Blazers vs Houston Rockets [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1768027651-0-0-911244576fe2f62278dba2e5e037ba46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768026211-0-0-92ee066dd4c386dac754499f875352b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260108/9ba2ad976752887939759bded64b47f5.png",10h00 ngày 10/01 Portland Trail Blazers vs Houston Rockets [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768027651-0-0-2fedff2d2ff7a7965527daab05023d54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260107/5dc1dddfeb76528f164ee28c7dd9f844.png",13h00 ngày 10/01 Melbourne Victory vs Western Sydney [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768026211-0-0-d72206f0e2e8327dab3457bcec30897d
+https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768027651-0-0-2ddd298ae2ba8da6a8ff5b97b730ac17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260106/1d08c3d957d6202876035e859e4cf00a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768026211-0-0-8673185ea4293cf9a8b588060a28eb1f
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768027651-0-0-e301682f4936f57b296fb0c1df1899cf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260106/1d08c3d957d6202876035e859e4cf00a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768026211-0-0-38f68e4b287ea3fa3b44db5e559a4d71
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768027651-0-0-e85afc1d98628fe9184fae2bac09104c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260106/1d08c3d957d6202876035e859e4cf00a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768026211-0-0-74cb82c1d2b26efd1941d1bcab4e98f2
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768027651-0-0-a471d630da5f0ee9581a8ac2213d0338
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260106/1d08c3d957d6202876035e859e4cf00a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768026211-0-0-8bf39ca4d78d002757746d839ae26024
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768027651-0-0-00c379f1dbb1d54208cd630761fb87af
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",09:00 ngày 10/01 Malaysia Open 2026 (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1255,26 +1267,6 @@ https://hotlivezz179602324.akainu.xyz/WgdwcHMay-VugdmS_JRlLg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768060100/19a8a427bb33fbf84f3017648eda1edd/956074528/live/may2FHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png",11:05 ngày 10/01 Gunma Bank Green Wings W vs Body Queenseis W (1) [Người Già] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768060104&sign=bd0c7630b13c94041885d0426c08c8af
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png",11:05 ngày 10/01 Gunma Bank Green Wings W vs Body Queenseis W (1) [Người Già] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/wIjsJqU-RSK5rk5LvXfPTQ/Fv2lucGIbhPi2caWYvF5Lg/1768060104654/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png",11:05 ngày 10/01 Gunma Bank Green Wings W vs Body Queenseis W (1) [Người Già] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768060104/dcfc84a583a1683e3b957e7e8d24e2a9/441303977/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png",11:05 ngày 10/01 Gunma Bank Green Wings W vs Body Queenseis W (1) [Người Già] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/-sV2MkQzvCknXQWv19Oq-w/Fv2lucGIbhPi2caWYvF5Lg/1768060104654/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png",11:05 ngày 10/01 Gunma Bank Green Wings W vs Body Queenseis W (1) [Người Già] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768060104/663b1a2f686cb93b2b2342593d7f7673/489988856/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",12:00 ngày 10/01 Seoul SK Knights vs Suwon KT (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1395,6 +1387,10 @@ https://hotlivezz179602324.akainu.xyz/HDsv-5QlDWmCvpW10XlcjQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768064781/5504c019c184fcb1a2c0bedd7761f902/278157870/live/xienFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/15d0d5d336ce1ce416beed1f2f8b4829.png",11:30 ngày 10/01 Alexandra Eala vs Wang Xinyu (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/mz59bRohXu2uScQkCH2CIw/Fv2lucGIbhPi2caWYvF5Lg/1768063339385/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13:00 ngày 10/01 Melbourne Victory vs Western Sydney (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1415,14 +1411,10 @@ https://hotlivezz179602324.akainu.xyz/sVtO5QA_GCaQ8aA0oD_X5A/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768044617/2a8ec9662cf9ec60f8fd37ef14ac23d2/170545265/live/meoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/15d0d5d336ce1ce416beed1f2f8b4829.png",11:30 ngày 10/01 Alexandra Eala vs Wang Xinyu (1) [Nhà Đài] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/mz59bRohXu2uScQkCH2CIw/Fv2lucGIbhPi2caWYvF5Lg/1768063339385/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:40 ngày 10/01 Elina Svitolina vs Iva Jovic (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/sLxakvCXq_9Mu0jHMitFZw/Fv2lucGIbhPi2caWYvF5Lg/1768066219995/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/28gTJc0r-AaFUsXN503mgA/Fv2lucGIbhPi2caWYvF5Lg/1768067298296/live/may26/playlist.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 Boca Juniors vs Racing Club de Avel BLV RỒNG ĐỎ (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.flv
