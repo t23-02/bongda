@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",07h00 ngày 14/01 America de Cali vs Deportiva Once Caldas (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/c3a622f1133ad1b4ac976eb757dc0f1d/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/6802a76ba3065e7176cea9995127de4c.png",07h30 ngày 14/01 Desportiva Ferroviaria ES vs Rio Branco VN (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -19,6 +15,10 @@ https://live.alilicloud.com/live/17c43a4f0ac17ccc5948a54dd34fa925/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/9d9f49c182f05d684f38fbb480eba34b.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/edf5f2bedf104dbd9615276a3e85a2e5/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -544,14 +544,6 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png",07h00 ngày 14/01 Millonarios vs CA Independiente (Lấy kinh) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",07h00 ngày 14/01 America de Cali vs Deportiva Once Caldas (Lấy kinh) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8 
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/9c429d5fd686410f3c92a5731eda8985.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -564,18 +556,30 @@ https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1151_1gv1ymnzhj3.png",08h00 ngày 14/01 Pachuca vs Club Leon (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1151_1gv1ymnzhj3.png",08h00 ngày 14/01 Pachuca vs Club Leon (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cosd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/33459548b7295ae2f29af221fc05cba0.png",10h10 ngày 14/01 FC Juarez vs Chivas Guadalajara (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cohd1Rk.flv
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -600,6 +604,30 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324296.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2917_1h6wfek67y2h.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Lương Sơn) BLV HOA VINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2917_1h6wfek67y2h.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Lương Sơn) BLV HOA VINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2917_1h6wfek67y2h.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Lương Sơn) BLV GIÁO SƯ XOAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2917_1h6wfek67y2h.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Lương Sơn) BLV GIÁO SƯ XOAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1151_1gv1ymnzhj3.png",08h00 ngày 14/01 Pachuca vs Club Leon (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1151_1gv1ymnzhj3.png",08h00 ngày 14/01 Pachuca vs Club Leon (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9d9f49c182f05d684f38fbb480eba34b.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -728,18 +756,6 @@ https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10078_small.png",07:00 ngày 01/14 Independiente vs Everton (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x17y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10078_small.png",07:00 ngày 01/14 Independiente vs Everton (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x17y3-0378/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10078_small.png",07:00 ngày 01/14 Independiente vs Everton (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581830_small.png",07:30 ngày 01/14 Capivariano và Portuguesa (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -768,6 +784,18 @@ https://wtyi0525.edgemaxcdn.org/live/x0y3-3615/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",09:00 ngày 01/14 Deportivo Saprissa và Puntarenas FC (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",09:00 ngày 01/14 Deportivo Saprissa và Puntarenas FC (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x6y3-0048/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",09:00 ngày 01/14 Deportivo Saprissa và Puntarenas FC (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a9c422ef64950be471c46802a37cd80d/image/small?v=1768352400",08h00 ngày 13/01 Necaxa vs Monterrey (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -784,18 +812,14 @@ https://live4.fastestcdn-global.com/live4/0305bd705b77427b9bba7ae3c61f285e_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ca1a1c379bf2cee99b5ba15ff15925e/image/small?v=1768334400",03h00 ngày 13/01 Cultural Leonesa vs Athletic Club (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768348800",07h00 ngày 13/01 America de Cali vs Deportiva Once Caldas (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/529c1eb2ec2cf6ff72333c548266ea6b/playlist.m3u8
+https://live.alilicloud.com/live/c3a622f1133ad1b4ac976eb757dc0f1d/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b872a5731892cf24ea268a084b787ac8/image/small?v=1768339800",04h30 ngày 13/01 Fluminense RJ Youth vs Referencia SP Youth (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f151018a26b8c4a8ca1a5ba910d51f1f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768334400",03h00 ngày 13/01 AS Roma vs Torino (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bed7142f8cabb11c185594e809be9882/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f3466d514c5291900052d65e65eda254/image/small?v=1768345200",06h00 ngày 13/01 Municipal Pérez Zeledón vs AD San Carlos (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -816,14 +840,6 @@ https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5bbd1f486173611afd27602c0d671f66/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bb65630770d78650353b67b7f43752d7/image/small?v=1768334400",03h00 ngày 13/01 FC Utrecht vs FC Twente Enschede (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/db12b9b4bddc4fbf0a9740cf5e136735/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19a601fec78700106d11024a37c97f16/image/small?v=1768334400",03h00 ngày 13/01 Real Sociedad vs CA Osasuna (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5b28c99cc6ffa962fc16c7f166f4cb3c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2373ca52c2f456678644f8381e5c18c6/image/small?v=1768351500",04h00 ngày 13/01 Botafogo RJ Youth vs Sao Jose AP (Youth) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -844,14 +860,10 @@ https://live.alilicloud.com/live/f9c81be3667e36612a4f161c376dda24/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/edeec39f3947e579ee914ca4fc731428/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/573836507387bff2402d6566b13b0200/image/small?v=1768334400",03h00 ngày 13/01 FC Bayeux vs Marseille (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8b842a8c4d073f9bd68bec786d13c5b6/image/small?v=1768350600",07h30 ngày 13/01 Desportiva Ferroviaria ES vs Rio Branco VN (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f5010ca85b2aaae9a510014f53e3bfcd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8de561f444bbf785cfd36e62595e0964/image/small?v=1768333500",02h45 ngày 13/01 Partick Thistle FC vs Inverness (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3ab428fe232f3337ab506359ff4d9843/playlist.m3u8
+https://live.alilicloud.com/live/0a11f0afe6e11beab94e11fc3654bb90/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1204,294 +1216,294 @@ https://live.alilicloud.com/live/f9c81be3667e36612a4f161c376dda24/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0a11f0afe6e11beab94e11fc3654bb90/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768358491-0-0-cb3dc2248b1e811f54c973f148561934
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768358491-0-0-0aab15629cef711082c47c3dac3f76ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768358491-0-0-48c187bc111b1fee3548d23629fc5720
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768358491-0-0-a97d9b817d9f8127b0ee56e4ef30458c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768358491-0-0-dd35146187dd406d03bcc873f67b6eeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768358491-0-0-74549b6fed97180372ef75fc220411bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768358491-0-0-d67900d0d55d80e8b5414926200426e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768358491-0-0-b32d6807d11511fb994759aed2d54d62
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1768358491-0-0-2cb3d6e23b873f3bb5b78965044e28c9
+https://pull06.scstream.net/live/stream-9912101_lsd.flv?auth_key=1768359931-0-0-d6060c791fe56c24aefc18d43165cc6c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1768358491-0-0-e20806bc97578671b20664532d66b6f4
+https://pull06.scstream.net/live/stream-9912101_lhd.flv?auth_key=1768359931-0-0-0b345458874c946b734bb7f49d4f00b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768358491-0-0-5f2f40fed4c70609ead004fc47fac31e
+https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768359931-0-0-cbef4896de09efc325d4b785d0d4e0f8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768358491-0-0-5d5072eb2c81393ad7eb3d1b59da394e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1768358491-0-0-a64c62931cdd1f047ed065053d4e8365
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1768358491-0-0-00492f003271e6a7015dc970ecfd8280
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1768358491-0-0-c79c58257b5c3794a86ac521249ac0ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1768358491-0-0-f261c1f1e671a4ceb1663f95242c9d02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=a40c31ceab0a316a2cd887c9b8a26cf7&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=135bbca00343278da5961ad2585cdcd7&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=a40c31ceab0a316a2cd887c9b8a26cf7&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=135bbca00343278da5961ad2585cdcd7&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1768358491-0-0-b619e18b6e23c348792ef9d105feb0e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1768358491-0-0-ad15a17ffe4a3f47b17f5049646284cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1768358491-0-0-16d7905c2544b39d4a0c59ef76c7dbec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1768358491-0-0-14434aa95129088dedc95fd501dd57f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=d2242d5af25737d4c2c093d6855c771c&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d1f426de4f09bd5f5286f98b2375c1ff&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d2242d5af25737d4c2c093d6855c771c&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d1f426de4f09bd5f5286f98b2375c1ff&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1768358491-0-0-1ec268fec6911761f6b2114e2a95be2a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1768358491-0-0-46fc9fb0864b8200131b56245f9251ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1768358491-0-0-80d54ed723591033895a5527a4ac2f68
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1768358491-0-0-595e65ee3637c053e3cf3ec0a3b3d3dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1768358491-0-0-9f5182fb568b560bdd7b93cf1c485797
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1768358491-0-0-acfe6df53eafebce990e8e58b0933725
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1768358491-0-0-2d6a28db8d247519dfba934f4a3eda6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1768358491-0-0-f8d315bd278f08e5f728065e16566070
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1768358491-0-0-b47e0bf5deff4c98ac0d2c73d810cc2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1768358491-0-0-6bfd898c84582091ac745e9073d8101b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1768358491-0-0-99f97e69ae6e3d474e9a464527fdbd73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1768358491-0-0-44779823ad80f9be66eb514b08f2a56d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768358501-0-0-16700d1decdf8b67d017cfa2a2cafdf8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768358501-0-0-223ce61cdcff27352281826336385b48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768358501-0-0-6ca7a01ed5adf86e98cd6b7cd078d90e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768358501-0-0-0d54d263a49217ce0f5ddb3a7842fd1d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768358491-0-0-086947e5a1e30b8d2742e170da31cee5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768358491-0-0-4504a03b6959a1ae6f5c4a7e7a01fa45
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768358491-0-0-c0fee2333a484dd34167c06dc8a7299b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768358491-0-0-f46f7c70303e8d280a267111d9ea8add
+https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768359931-0-0-303187fde03080ac337b094069032bfe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1768358491-0-0-db3ea85e2c5ea5cf133f193c9d1f852e
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1768359931-0-0-bdbce1811612c0b05c0fcf972e6c1c8c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1768358491-0-0-b2cbc7b5edc8af605503b8ef9b48ff01
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1768359931-0-0-e0e7c92ac6308c80252734178a121b7d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1768358491-0-0-b3b379a4af33b3a4cd5c24321c6c1d8d
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1768359931-0-0-b575253e4c755fbac15563980bb611aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1768358491-0-0-3c7e9ab95256757c7315455338adbd3b
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1768359931-0-0-5501b0957fc8ef1390a1abfc82dddd91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1768359931-0-0-d5f91df9d44071baae04667911e27f2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1768359931-0-0-a5e29e34ccd8b11932bf4caaa360f6a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1768359931-0-0-1a7e69c773cc63931218a2d599dc6988
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1768359931-0-0-96f96387316488d2d8fba41cac806d8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1768359931-0-0-bd39694b5a9a171a8b9dc7547fb0f9ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1768359931-0-0-f590003980926e532f6fbf13c4563d1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1768359931-0-0-1672af4c700ad14e2bc2c209dc1c8354
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1768359931-0-0-b461cd308a082f61dc7260b3cb5ce72c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=568d1f626bfbddea7ab93665e254f4fd&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=ddbd234d2ac93fd1f61382a68010670b&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=568d1f626bfbddea7ab93665e254f4fd&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=ddbd234d2ac93fd1f61382a68010670b&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768359931-0-0-5ce926498001e72d7b2196757f80c522
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768359931-0-0-9a1122e9a9d278895f8ce4176fe22b02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768359931-0-0-e4f05b2c2a3e05edd9e0f6e2eb57dbc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768359931-0-0-260cb8fb15b28b053c83475600bcc22d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768359931-0-0-cf5ed002f7f03cfc4ee28eed9c4701bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768359931-0-0-baf73b1d76a5326faabf8f036aac709e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768359931-0-0-41dd193cefde7aa22ca325a4299f8a33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768359931-0-0-9a43646bc9dd3bafe1cfb66ff3cfc164
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1768359931-0-0-07b745b3b988e02007455e22e05ef7fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1768359931-0-0-63786eb929849b228fa92b7bb40f9da6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1768359931-0-0-b6799597d52c063f216446df500c17de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1768359931-0-0-633b9bab12456afd2dea922d904ad2e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768359931-0-0-7409adcedb686a940d28741c3cbbe8e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768359931-0-0-da7dd9642e1a56a75a7ba9c6ff973717
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768359931-0-0-7eae8ee1ee93a52cb0bc4c041d0ab9bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768359931-0-0-eaf127b6e874392e2db0b9c5308d9d6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1768359931-0-0-1ddff3e53a0c49e364be5e0661d4c59d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1768359931-0-0-91807943911e3feaed96781293ff0d66
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1768359931-0-0-e754ef77c4e267ccfa04b07f3672c61a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1768359931-0-0-c12ecc86fd5b231628f8fe954b0efbd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1768359931-0-0-84da3c3655ba0500ab1ad62453f08a6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1768359931-0-0-a71359fe29495ddbbacde9f739ce5fac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1768359931-0-0-3005de74a25802efe440151e50c6d85b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1768359931-0-0-986b10f02aef920718efefbfffefcc6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=6a115300b92c0df4a56916708dae68c6&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2ab39413c3e3cbab05b0fdb2e4802b6b&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=6a115300b92c0df4a56916708dae68c6&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/f0bfc3c8ca6bb0435f551b01ebf4361b.png",08h00 ngày 14/01 Necaxa vs Monterrey [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2ab39413c3e3cbab05b0fdb2e4802b6b&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768359931-0-0-c8a6a3963a5ee7918dcc725c25d2e39d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768359931-0-0-d24a9c6346d2852596bd6cdf45c063cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768359931-0-0-e2a4e6591bbefb9cc92321fa898a3b86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768359931-0-0-0bd4d0b5ba878e068bbdbb9e83bdf6bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV VODKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1768358491-0-0-9f5b7eaa57f2d703c635b42d404e1da4
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1768359931-0-0-2c622f761152c6dc6a4dc916dfb68b93
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV VODKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1768358491-0-0-2b74501791ac50d169b3509892bcce50
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1768359931-0-0-06a503a469d8fc0328b58785c075c893
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV VODKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1768358491-0-0-ca28c5239bdacd7d8607b1f2de460d5d
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1768359931-0-0-062ebb2098f4fcd675172fefa88d9079
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/5af2fb7e22945332c0c8aa742719ed94.png",08h06 ngày 14/01 Pachuca vs Club Leon [BLV VODKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1768358491-0-0-506dadec63cb1dd454e0b8ef7db4b642
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768358491-0-0-f7eb5f0e1f672874e2a04b5f1faeecdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768358491-0-0-a259ad04e9c85f61641448ceb63487e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768358491-0-0-b1e823c66e83ce0bdbe19343a8b95180
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768358491-0-0-75f618667655d58138bccc98f19f3156
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768358491-0-0-addb685d77561c24c203771eb208d6ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768358491-0-0-5bdc85b1a4e453b99b9459cbfd665a39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768358491-0-0-606f4ef53bc2cf103ac9e51b77420bb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768358491-0-0-fe077f3c9f1ff2f4ab70e3658161c270
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1768359931-0-0-9ae4f766ce7c9cfa2c102619d5932f0f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768358491-0-0-42851eb9560a99a39a089c514f4def5c
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768359931-0-0-ff32fa2ee8e388f13257b0eda2da7618
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768358491-0-0-b1a6c7870121fb049f018b4ab1ab8c86
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768359931-0-0-a1d78cdb719918b5b3d9d006437cfbf8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768358491-0-0-f4abb226106b5347e5409685113c64f0
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768359931-0-0-3a06ae3b3320052b7d1404d23940abc9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768358491-0-0-ca8f0c2c6c45159ddcbad0f7abdad7c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768359931-0-0-05750cca7c7759c2b6be337628e66b5b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=b29a4a120a62f4e27950b7dee4834a31&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768359931-0-0-d92e712e5f11bb1bf529e4ac4b00980d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=dec7b955484fd0e4d8a36db348e02b7d&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768359931-0-0-98683d29ab293fb9ef0246fa51b3470f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=b29a4a120a62f4e27950b7dee4834a31&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768359931-0-0-89989369f23cb577e19694c32ccb22dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/171ac4bc308bce4e3ba6b5fe394994ad.png",08h00 ngày 14/01 Milwaukee Bucks vs Minnesota Timberwolves [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=dec7b955484fd0e4d8a36db348e02b7d&txTime=696748ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1768358491-0-0-b849ad5c5da63127083be570c7477e92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1768358491-0-0-1002ef86c3d24023bd8191be0e782b1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768358491-0-0-6e63676b2755635e9100903071adc8a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768358491-0-0-9e8a33d91f91d9b082453a2bbb423dd9
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768359931-0-0-f351c8da4c8e9fb57c5d1f4e6d60d1d4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV SHIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=99aa8fe15d2e6dfb571c879701cd4c60&txTime=696748ab
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=9ac45e373d6c45c5a2ad53b1b69acf32&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV SHIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=da00808507c3b0ab3b6927da3cb522b3&txTime=696748ab
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=d3ce071e26f10c6f4d8b544d9e480990&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV SHIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=99aa8fe15d2e6dfb571c879701cd4c60&txTime=696748ab
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=9ac45e373d6c45c5a2ad53b1b69acf32&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV SHIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=da00808507c3b0ab3b6927da3cb522b3&txTime=696748ab
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=d3ce071e26f10c6f4d8b544d9e480990&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1768359931-0-0-df7f4603dd296fed05f034d4700a7e05
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1768359931-0-0-fedc8ff40eec0afb6843d68d7253cc1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768359931-0-0-d6a68756b2f4fc0dc2be6a2d4034fca8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/2ba0510cbea514efa9e4265a5710c4d9.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768359931-0-0-1c9068c0425afb50ad354c3f31adc9fb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/6a5a8d9de09a9d91037d278f32ee179a.png",08h00 ngày 14/01 Houston Rockets vs Chicago Bulls [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768358491-0-0-670c349514f0079811980d05c41711d3
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768359931-0-0-49ccf5e072ad8a71fe26bc63c992969d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/6a5a8d9de09a9d91037d278f32ee179a.png",08h00 ngày 14/01 Houston Rockets vs Chicago Bulls [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768358491-0-0-5d91880fdbc59e62cd72a146a2876d03
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768359931-0-0-6269e1c0294a223fe1d97a6a76945d58
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/6a5a8d9de09a9d91037d278f32ee179a.png",08h00 ngày 14/01 Houston Rockets vs Chicago Bulls [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768358491-0-0-ee50d9ed4a4d4512fd8bcbcee67bcdb9
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768359931-0-0-f47a15f467e68a67d5b56c31fcffaeca
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/6a5a8d9de09a9d91037d278f32ee179a.png",08h00 ngày 14/01 Houston Rockets vs Chicago Bulls [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768358491-0-0-0fa7ebee7165df0159b7a4973b53dba2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768359931-0-0-7fe759c50d1638d081cc63477eaf0969
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768358491-0-0-b7effea2c7932e226b713d100cd4c5de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768359931-0-0-f89d2a455e137003367912c874c792b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768358491-0-0-23c612ed536a0509e450a5603fcadb82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768359931-0-0-6cec819d2f7e00b49b374521b498c6db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768358491-0-0-0bb054919bbe637a9cfca97153d286c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768359931-0-0-987cbb5ac83d2532866da9117001d2c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768358491-0-0-ab329a1f754655d75c90a4ecf64a8b3c
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768359931-0-0-30ad7f95286ef13892e116df62d56416
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV RAMBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=06ef15d26952ef158b2122c4a9c0891d&txTime=696748ab
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=11ede7317dc5b1c09af12d7c33524b06&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV RAMBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=4a198200669242be83afc86b83336607&txTime=696748ab
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=e5276086aa757d5e2ff14d9e228fb779&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV RAMBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=06ef15d26952ef158b2122c4a9c0891d&txTime=696748ab
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=11ede7317dc5b1c09af12d7c33524b06&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/6064fc1b9d8103aa9f4e73573cbea1cd.png",09h00 ngày 14/01 Deportivo Saprissa vs Puntarenas FC [BLV RAMBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4a198200669242be83afc86b83336607&txTime=696748ab
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e5276086aa757d5e2ff14d9e228fb779&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768359931-0-0-313bf2d04aef2de4ed21d7d03488d139
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768359931-0-0-ddacf2f4f0bf4219ef7a0ec258cb80f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768359931-0-0-a186fe070e043cc35f590d88438a78c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/4aeb2aea19a4ae689a21457231474784.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768359931-0-0-78c4241073e76e28d25a75da32e5a0ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=bd1c179c9877aa2295933c0d010b5792&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=0e9c57387183c03b42e7b040523f8308&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=bd1c179c9877aa2295933c0d010b5792&txTime=69674e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260112/125857b35f128064a219af177032cd50.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=0e9c57387183c03b42e7b040523f8308&txTime=69674e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260110/06f7c182086162654386f7dd641472f9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768358491-0-0-53def3de1087127290f12f7a67085477
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768359931-0-0-257888ca90ea8eda07f9e48076324d02
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260110/06f7c182086162654386f7dd641472f9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768358491-0-0-19eb528a2b845c61b937eb3274fa81ce
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768359931-0-0-469e756390a82b1cfda8adb94db19c3e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260110/06f7c182086162654386f7dd641472f9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768358491-0-0-e381be9f4d8816982fd1c699b4b43d48
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768359931-0-0-92b96288b316668faf157cd8bfa409eb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260110/06f7c182086162654386f7dd641472f9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768358491-0-0-edfaebe419f32bc9706953aec7977076
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768359931-0-0-149242af4e6b4d56cca0af13be1b946e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 ngày 14/01 Heat vs Suns (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
