@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/e8d089f0d29477125a0393f01a260848.png",06h00 ngày 14/01 Perez Zeledon vs AD San Carlos (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/096c9355b5589d9785db200d451396b4/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/0d47118e5ec162002c4655cf74b0b586.png",06h30 ngày 14/01 Sao Paulo (Youth) vs Portuguesa (Youth) (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -11,6 +7,10 @@ https://live.alilicloud.com/live/f9c81be3667e36612a4f161c376dda24/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/a1c1fda78f4cf0f210aac28640d5827e/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/05321a8272ff8e7ff2eb7eae2e0b72a6.png",08h00 ngày 14/01 Necaxa vs Monterrey (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/17c43a4f0ac17ccc5948a54dd34fa925/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -592,10 +592,28 @@ https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1157_1j3s2155mk16.png",06h00 ngày 14/01 Puebla vs Mazatlan FC (Lương Sơn) BLV NHỊ KA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324437.png",08h00 ngày 14/01 Oklahoma City Thunder vs San Antonio Spurs (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1157_1j3s2155mk16.png",06h00 ngày 14/01 Puebla vs Mazatlan FC (Lương Sơn) BLV NHỊ KA flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13433_1jr56w3w2hk.png",08h00 ngày 14/01 Necaxa vs Monterrey (Lương Sơn) BLV NHỊ KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324296.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns (Lương Sơn) BLV YẾN THANH m3u
@@ -604,64 +622,14 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768324296.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19953_1gtqpsq9efm.png",06h00 ngày 14/01 Maringa FC vs Coritiba PR (Lương Sơn) NHÀ ÐÀI m3u
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9c429d5fd686410f3c92a5731eda8985.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYM5psNpdroKNuaL/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19953_1gtqpsq9efm.png",06h00 ngày 14/01 Maringa FC vs Coritiba PR (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8426_1gy3wnd0am2y.png",06h30 ngày 14/01 Sao Paulo Youth vs Portuguesa (Youth) (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYquTd8encg1LNMr/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8426_1gy3wnd0am2y.png",06h30 ngày 14/01 Sao Paulo Youth vs Portuguesa (Youth) (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16597_1gtn1kgvtgw.png",07h45 ngày 14/01 Botafogo RJ (Youth) vs Sao Jose AP (Youth) (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYquTdJEsBsPMEAg/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16597_1gtn1kgvtgw.png",07h45 ngày 14/01 Botafogo RJ (Youth) vs Sao Jose AP (Youth) (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5235_1j5243487v1q.png",06h00 ngày 14/01 Perez Zeledon vs AD San Carlos (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvZ64cXjp9WjFuVHv/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5235_1j5243487v1q.png",06h00 ngày 14/01 Perez Zeledon vs AD San Carlos (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20104_1gq9031zgh1x.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYMRSXcbWsVwRkCU/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20104_1gq9031zgh1x.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/25e1218483a53ab1730908e753f94907.png",07h45 ngày 14/01 Botafogo RJ (Youth) vs Sao Jose AP (Youth) (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f59c9de782ae7e0edd0869e460c5c354.png",06h00 ngày 14/01 Perez Zeledon vs AD San Carlos (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -710,34 +678,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9c429d5fd686410f3c92a5731eda8985.png",07h30 ngày 14/01 Capie Warrero vs Portuguesa Desportos (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png",07h30 ngày 14/01 Miami Heat vs Phoenix Suns (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -762,6 +702,78 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",08h00 ngày 14/01 New Orleans Pelicans vs Denver Nuggets (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 ngày 14/01 Necaxa vs Monterrey (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/960ad220adce74ac09cd5bfa641370a8.png",08h06 ngày 14/01 Pachuca vs Club Leon (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49730_small.png",06:00 ngày 01/14 Municipal Pérez Zeledón và Deportiva San Carlos (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1862,6 +1874,22 @@ https://hotlivezz179602324.akainu.xyz/u41DSKDIsjjuz8pGc1DHdA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768374010/80cc83cf93d889bf69105c65ac594cd8/971029361/live/nenFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/0CqibOhU-OEjREsSc.png",07:00 ngày 14/01 WTA250 Hobart Open (1) [Nhà Đài] Centre Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/XLvq-sZM4S5CiEeM8q2HXA/Fv2lucGIbhPi2caWYvF5Lg/1768395965786/live/may261playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/0CqibOhU-OEjREsSc.png",07:00 ngày 14/01 WTA250 Hobart Open (1) [Nhà Đài] West Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/Cv6ae37wr6wGB52GLmB1eg/Fv2lucGIbhPi2caWYvF5Lg/1768395965786/live/may261/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/d2LMu6V1-U7De0rFJ.png",07:30 ngày 14/01 ATP250 Adelaide Open (1) [Nhà Đài] Center Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/nuzjpIaMoLqkrXj5bjOKiA/Fv2lucGIbhPi2caWYvF5Lg/1768395967225/live/may251/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/rXW6ThXI-6ZXn0xCr.png",07:30 ngày 14/01 WTA500 Adelaide Open (1) [Nhà Đài] Centre Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/8IzESocy-Upaju9P6zC9kg/Fv2lucGIbhPi2caWYvF5Lg/1768395968370/live/may27/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2780.png",18h00 14/01 Buriram United vs Pattani (blvtoptop) CHAIEN
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
