@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/5f7059f40965e5a2cc00987e6bac2f32.png",02h45 ngày 16/01 Como vs AC Milan (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/57bebf8c806bc7645137447ae64530c5/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/1e888ca542d892600d3b2818d1c40e22.png",03h00 ngày 16/01 Burgos CF vs Valencia CF (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -27,6 +23,10 @@ https://live.alilicloud.com/live/387dbdf4a5459bdb68a91c9dfe0d442f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/1470a0b222e8435b214ac0847832a451/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/346875d32c0aa811a98bbaed60569508.png",04h30 ngày 16/01 Uniao Inhumas vs Abecat Ouvirdorense (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/2f782c9e01345a85396721fea20bbd87/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -588,36 +588,12 @@ https://mrkw1025.edgemaxcdn.org/live/m104nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2339_1j50e1skc129.png",03h15 ngày 16/01 Vizela vs Pacos de Ferreira (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2339_1j50e1skc129.png",03h15 ngày 16/01 Vizela vs Pacos de Ferreira (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -636,6 +612,18 @@ https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac425
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV THỜI THIÊN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/95_1h5bja72dp23.png",03h15 ngày 16/01 Racing Santander vs FC Barcelona (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/248_165095702458.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/843_1h5bja72d22q.png",03h00 ngày 16/01 Burgos CF vs Valencia (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -648,24 +636,30 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/843_1h5bja72d22q.png",03h00 ngày 16/01 Burgos CF vs Valencia (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2339_1j50e1skc129.png",03h15 ngày 16/01 Vizela vs Pacos de Ferreira (Lương Sơn) BLV NGŨ CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV DƯƠNG QUÁ flv
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2339_1j50e1skc129.png",03h15 ngày 16/01 Vizela vs Pacos de Ferreira (Lương Sơn) BLV NGŨ CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV LỮ BỐ m3u
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11365_1gtn1kgvt92p.png",03h00 ngày 16/01 Fluminense RJ (Youth) vs Ituano (Youth) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV LỮ BỐ flv
+https://auto.cdnok9.com/live/sd-6MvYqrHnH7oaQQMvWG/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11365_1gtn1kgvt92p.png",03h00 ngày 16/01 Fluminense RJ (Youth) vs Ituano (Youth) (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV KHỔNG MINH m3u
+
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3337_1hdb1q4df22p.png",03h00 ngày 16/01 Portmore United vs Spanish Town Police (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1209_1gq91tkggc2h.png",02h45 ngày 16/01 Como vs AC Milan (Lương Sơn) BLV KHỔNG MINH flv
+https://auto.cdnok9.com/live/sd-6MvYqgQvAYCfX5e2s6/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3337_1hdb1q4df22p.png",03h00 ngày 16/01 Portmore United vs Spanish Town Police (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/42380_16737676962.png",04h30 ngày 16/01 Uniao Inhumas vs Abecat Ouvirdorense (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvYMUhXC9gUtjF7Bz/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/42380_16737676962.png",04h30 ngày 16/01 Uniao Inhumas vs Abecat Ouvirdorense (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3b8d8fb57b227a2eeef4b3941bab7cd0.png",02h30 ngày 16/01 West Bromwich WFC (w) vs Everton FC (w) (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -822,18 +816,6 @@ https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",02:45 ngày 01/16 Como và Milan (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",02:45 ngày 01/16 Como và Milan (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x6y3-0052/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",02:45 ngày 01/16 Como và Milan (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8614_small.png",03:00 ngày 01/16 Sparta Rotterdam và FC Volendam (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -2074,294 +2056,6 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/235cd24df504499cba4c4b339c5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/235cd24df504499cba4c4b339c5e2527_720/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1768516172-0-0-9eb769e218cf496f23633aed4eb4b398
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1768516172-0-0-506d8db305609e1c55763cc1e95d4397
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1768516172-0-0-bea0c837e854f7c3e155330322db5077
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1768516172-0-0-a1ac515a078b36098a126b57ae99e61a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=c085bdc19eb70a17317ddcb0bad79c06&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=e5f2e303c6cea700115bc878442e97b4&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=c085bdc19eb70a17317ddcb0bad79c06&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=e5f2e303c6cea700115bc878442e97b4&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1768516172-0-0-98a7e187e6aa2d5966853a2d0c05ee82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1768516172-0-0-77fb9c87718dda55bf5154cebf87470f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1768516172-0-0-fd2efa4b36fb9ce53233335289ec2401
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1768516172-0-0-7fd01dd30b9946aadd554e41726189e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1768516172-0-0-45ff67047c9e832316b2fec1da0a1b06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1768516172-0-0-e5b958d0fb53392df98fa19ccbc27b50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1768516172-0-0-56f2dbda510967aa47ea45e2a1bcbf4f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1768516172-0-0-32c093c1a07564962bf67ada00af4bc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1768516172-0-0-d7d63581f10fa3351b07fe0c44528f16
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1768516172-0-0-6b52e53280398063e6cf6d6f73dc9501
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1768516172-0-0-4c7384b95eddfdbe114b32a5249d47ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1768516172-0-0-5ef811cbfc4eaf58a2e87ab53b2b609b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1768516172-0-0-36e767e3d8ffd07f0ec823277083dce9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1768516172-0-0-d8b99f36cc4f1cdf317bf0f24f6c3edf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1768516172-0-0-a381443d8388caee0dbc905bd440eed1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1768516172-0-0-d1e0d87d16d02fef1db49a5c29441df6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1768516172-0-0-6cdf8ad0a3b6233ae8b4b4d28e5d13f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1768516172-0-0-28a1e1f4dc5cc4737249d4437dc9d0d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1768516172-0-0-2d45724a7384d96fafb9c07892730455
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1768516172-0-0-dba1a9be38d69c3f3bda644c1a29d7ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1768516172-0-0-8af2ef22e4c2e70763149706f3dce4dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1768516172-0-0-af4f02f758fd64d1aa934b89b518fc4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1768516172-0-0-fe44f77ad1d6bd7f17ddd7e38a920cd0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1768516172-0-0-b9d4928a6b87015a1455bc994059cdeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1768516172-0-0-5713b656893bb40c8fc210b082a53488
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1768516172-0-0-3b7e5531901db395b1873d697a393af6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1768516172-0-0-1301f97f94f84b7d85ce651529f86540
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1768516172-0-0-5c2005cfe18c047a3c7cba80e7b908a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1768516172-0-0-4b002904f990501328422789fc528f7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1768516172-0-0-264ee5de7205f0c7ba58e6545aab26a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1768516172-0-0-37d7aae31ae26251c60e2ddca22b3f73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1768516172-0-0-7ef6b5d103385edfc0ced3a77f4d4ed3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=2fe38d06f803ce6e8381fb55d0725e84&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=1af780759196059c7cf930d52403ac45&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=2fe38d06f803ce6e8381fb55d0725e84&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=1af780759196059c7cf930d52403ac45&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1768516172-0-0-120abb1803dbd7ffaf7627267d33afcf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1768516172-0-0-58898e3ad3302eb23cae20740ad9b928
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768516172-0-0-46ed4abdad12bd1d9e866ab2bc8a70d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768516172-0-0-e55998c517516ee270a1df9e82852871
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1768516172-0-0-9e2f5b401c91fe61577d59f68b56b375
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1768516172-0-0-cb412b8fda70c624f4cd380437fd31d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1768516172-0-0-767f8020389045928755eab2f7056149
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1768516172-0-0-b339dadbff57d9d0b039a0218f334d60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1768516172-0-0-792489ba8896b65f91f117f0d525292e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1768516172-0-0-50c93422edfe8fa2ed516fa1f9278246
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1768516172-0-0-bea5e1387b1c72c4c28ac73c2512af13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1768516172-0-0-d2d77f343ac99b09d21be918ce3a1269
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1768516172-0-0-086231e666b9332263d2c6a099cda7bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1768516172-0-0-ee563d6e4ae2ac8ee76ecc5b78b2aacb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1768516172-0-0-c28293e07767703d683d736cbd1fc827
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1768516172-0-0-0969bb1c95c2ea9d11eb8e29aedc3a27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1768516172-0-0-9a06adf33f5cf9649c1ef48f7b61ebdc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1768516172-0-0-fa570997665305d6d2768113282eeca9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768516172-0-0-98d77f1002ff8a7e69df2f8b51562d22
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768516172-0-0-6fcc27d033fd5a19224665750e80779e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1768516172-0-0-d363c66ba5373675b22e9983a534c750
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1768516172-0-0-f3dffb27e3f055b50637f83607f3a825
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1768516172-0-0-647a8836d26ed96d1758d1cc1e6439da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1768516172-0-0-f1e6d7423b10244b40ea5106ad317df5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1768516172-0-0-fff102db0e67449b647419fa79352346
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1768516172-0-0-f0dc5790c0d04bb7dfc76090633e4035
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1768516172-0-0-a2f4b2f2c2fa55e28e60e0c6e97908cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1768516172-0-0-ca41acfa962ea0ae4d8e599812299600
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1768516172-0-0-f6838efe097d07e36446ab36873c0f72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1768516172-0-0-f9c6ad562d4e497e84df7aaf7bd84f41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1768516172-0-0-2ad67dab4dc11cc5a2e907916e295108
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1768516172-0-0-20549c2526fe0d4818f019d9cd05dbcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1768516172-0-0-0c42d0e93026f4b27845e663bd62d917
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1768516172-0-0-b36ae733ff3ca0dc9ce0f4f29eaa8b3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1768516172-0-0-d9dcb50ab646c8554c2ba43da4088957
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1768516172-0-0-71782d6273387735714c257f2662715e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912114-480p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912114-720p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=7edd3ea61308ea617f46e60a6c0c9f2d&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=45a3779ccdb2307e1fc44c8eda0deed1&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=7edd3ea61308ea617f46e60a6c0c9f2d&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=45a3779ccdb2307e1fc44c8eda0deed1&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=365ed4cac385f06aaed682fcfb07865f&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=ae2b6332ae5c3395cc7d6eea97d99f35&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=365ed4cac385f06aaed682fcfb07865f&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=ae2b6332ae5c3395cc7d6eea97d99f35&txTime=6969b09c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768516172-0-0-2c4882fa1673ee0a751b7ecf405ff8d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768516172-0-0-a68d2af9046f9b7aafba5570ac8513d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768516172-0-0-7e6840f50badf542ca44f0b463f34c65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768516172-0-0-6bbd9508bd0cb718b7fbf487d7568405
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1768516532-0-0-9accfa69fb4e4ff53f3dd75d6f255c11
@@ -2374,74 +2068,246 @@ https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1768516532-0-0-f622
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1768516532-0-0-c4ffe190f3f986083d2b5a5e08034d8a
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",02:00 ngày 16/01 Magic vs Grizzlies (1) [Người Gầy] HD Nhanh
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768546808&sign=5132d9910e66bf320264a1d80cfee765
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",02:00 ngày 16/01 Magic vs Grizzlies (1) [Người Gầy] HD1
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1768517252-0-0-146c6acbb65d50c30cedc5ca26ed4f79
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/MdM5zpa5DQzpmr2LW5VqGQ/Fv2lucGIbhPi2caWYvF5Lg/1768546808661/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",02:00 ngày 16/01 Magic vs Grizzlies (1) [Người Gầy] HD2
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1768517252-0-0-b7172afc8352afd674ef3ac743b6f991
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768546808/a00c109ea68e744dc493ce00e13b223b/524896285/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",02:00 ngày 16/01 Magic vs Grizzlies (1) [Người Gầy] SD
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1768517252-0-0-9ded69d9f2ec052e78aa13cdb90fcf1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/kaR7ZxC59JmYpJixrSdQLg/Fv2lucGIbhPi2caWYvF5Lg/1768546808662/live/gaySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",02:00 ngày 16/01 Magic vs Grizzlies (1) [Người Gầy] FullHD
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1768517252-0-0-d655756716a04b97b5f3ddecb4bbe7dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768546808/d629e9091faaa1725d69d615cd18a1d4/836742350/live/gayFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] HD Nhanh
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1768517168-0-0-775e61414933a61130701f2113d1494f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768527370&sign=db61dbefe98d14c3442d77c8d410e717
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] HD1
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1768517168-0-0-c6b8e1eaa1bf51be88b1505b8ef81c2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/WHqL-GVWCtkNkrcJfYuViw/Fv2lucGIbhPi2caWYvF5Lg/1768527370499/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] HD2
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1768517168-0-0-fb05d3bbd9c31b4f3fc94d33e6b44ea2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9cbb43d6ace2c2ebcf57572f38aed34d.png",02h45 ngày 16/01 Como vs AC Milan [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768527370/26adb29e6844116ee4d959544748d21d/489709077/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] SD
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1768517168-0-0-ba4c5c5e0a9d02c1b77aa6f2006ce947
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/F1D4FZHF0SvgtJml4mXuXA/Fv2lucGIbhPi2caWYvF5Lg/1768527370499/live/conSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] FullHD
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1768517252-0-0-73a0b890a3268a3c3190ece7b1e170ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768527370/83c76593c007982f39f7b2a06f37410a/492118970/live/conFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Cồn] Nhà Đài
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1768517252-0-0-8c44c0d6fdb5f30361d7ab0a8da82428
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/541XRcOOZDORjHo_UrcysA/Fv2lucGIbhPi2caWYvF5Lg/1768527370500/live/may25/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] HD Nhanh
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1768517252-0-0-1887feab60c81634f2ac2b21ec43fb62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768527370&sign=1b3c0aefa1b17d3eb18a546775037833
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] HD1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1768517252-0-0-e296c03a6b3d5e8c477f6f8cdeff6b67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/n2rSxZqWrlyqAME3G4tTMQ/Fv2lucGIbhPi2caWYvF5Lg/1768527370500/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] HD2
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1768517282-0-0-5ba877b3a8f22c0e9c417c9372807408
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768527370/91a936c318b8e5ed0058025e5c1853cb/235083894/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] SD
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1768517282-0-0-2e2fc4627a9768677614c7bb8ef93c18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PBuSZ0c9UG30me9dA5MFBw/Fv2lucGIbhPi2caWYvF5Lg/1768527370500/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] FullHD
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1768517282-0-0-aa9bb71fe52f099fa82cb910e283fb1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",Trực tiếp :  ITA D1: Como vs AC Milan [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768527370/d5d1959a5ee56029b9a0a5d97163fd31/320626332/live/oldFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",02:45 ngày 16/01 Como vs AC Milan (1) [Người Già] Nhà đài
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1768517282-0-0-a3b00f313213157c6ce87c732a2497b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/541XRcOOZDORjHo_UrcysA/Fv2lucGIbhPi2caWYvF5Lg/1768527370500/live/may25/playlist.m3u8
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1768517252-0-0-22510e39e88badb3c98560f91f96bf2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1768517252-0-0-21bbe4a66518073efeb94daabdcd00f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1768517252-0-0-6f5b5c4de093fc8d664f843aa4186379
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1768517252-0-0-d57455e8c1f945d23bdf16fcfd284729
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1768517252-0-0-637e9e212b2b99e6debf3a5ce56c1269
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1768517252-0-0-412dad9d13c79422d4d041a24e09c89c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1768517252-0-0-8c319ed57790be7780d54f7141875833
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1768517252-0-0-3afc218beb5146dee687e20af2a6b567
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1768517252-0-0-79221941e9bf6473606a9e49f01e2d8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1768517252-0-0-05af2b0ba07bcc3ccc05729afcfbef42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768517252-0-0-11798abc91fa8043bbc716732f5cfe61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768517252-0-0-9fe8b753554c8d16fbe8e8a03346a42f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1768517252-0-0-258d7a220059d3dd7dcfe22fe01d70a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1768517252-0-0-e9973abd3fddb82e3f2376f0bd848f49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768517252-0-0-2a7b281423bc0fbef6be1b3b67e0f309
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768517252-0-0-c99dfc1c384b07c40cd33ab9dab2c977
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1768517252-0-0-1f5278d9013f1644047719bd57ffcbb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1768517252-0-0-49462f192791997e115aaf1a13797763
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1768517252-0-0-b0ad40f08efdb5e70e8ff8cd48b95558
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1768517252-0-0-fac5a9d6d8dd833cb6c8703c95d0450b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1768517252-0-0-286c1cc0e6fc9ea94ec8e50766f2e870
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1768517252-0-0-a3a21e723d52cbc18465c926aa5c31cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1768517252-0-0-985ad63c710659bbfc75ee5ef4eca4ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1768517252-0-0-a7cdba55d8435fa85962f32c8b38cd05
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1768517252-0-0-dd974fb25ab6f93526902feb6be0adbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1768517252-0-0-03598cc3e9e823af49ec8e8a19f752a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1768517252-0-0-c5a961142127176e04a5f6afe3633d1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV EDRIC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1768517252-0-0-2d69017b35ed78fa54e18ec7460f31f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=f0aaac198d3015680da05441bd6bd145&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=2c323b7836ce2b282f217dcab6b0c419&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=f0aaac198d3015680da05441bd6bd145&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/b8c8ba94306f9b6ac8b06a126f4f62d3.png",03h00 ngày 16/01 Racing Santander vs FC Barcelona [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=2c323b7836ce2b282f217dcab6b0c419&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1768517252-0-0-2b9ad60ef5d3605adef0a2036e83c73b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1768517252-0-0-9cbc86131b71b22f5c0e55b02a6a20b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1768517252-0-0-50b0bf4f61a8e23e4a9c13b4a7ff437f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/4023f15c550a88c495a5ac5afbe94f00.png",03h00 ngày 16/01 Sparta Rotterdam vs Volendam [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1768517252-0-0-8b73f662fbaa46850144352ba8675f13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1768517252-0-0-8c0292189132ab29f3382a59f2d10f4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1768517252-0-0-73ac62cecec4f7bc3702e66a24d7bf2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1768517252-0-0-daa9cd0e4258369d277ad5d08ae0e0d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1768517252-0-0-801c91a478e1981d3bb69a41905b18c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1768517252-0-0-910578149e935f754447436f706b683c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1768517252-0-0-c3e1d561a86ef9a51e9829d456f9cb15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1768517252-0-0-9b67abf2e139a1fab168e33dbc511910
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/1d0fcc3b7e9e99cb9874693a2915398b.png",03h00 ngày 16/01 Burgos CF vs Valencia CF [BLV TORRES] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1768517252-0-0-6df55affeef77fa16cbbb9d245dd0ad3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1768517252-0-0-5c089286d1502528bf910c0e10e3168c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1768517252-0-0-19059da1b9240011c50275fcf5c15bf5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1768517252-0-0-73f3b389c272292885e3b47eecea7bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/53419ab70221fb5d03e25e998643e525.png",02h30 ngày 16/01 FC Augsburg vs 1. FC Union Berlin [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1768517252-0-0-c8e2e4af902b5507e2144bad783cb35e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=0ba05322d4ac86f6b547b4268f00962a&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=271dfc61209dc05b9537397426250142&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=0ba05322d4ac86f6b547b4268f00962a&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/46c16c36e860c4c51d3af7cda5d57ce3.png",05h00 ngày 16/01 Portuguesa RJ vs Botafogo RJ [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=271dfc61209dc05b9537397426250142&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=de3b3aeaaaa62fe1ebd895f9ab9f63fa&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=edd75e5ee0655a51451dabc4bba224c2&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=de3b3aeaaaa62fe1ebd895f9ab9f63fa&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/9878743a57b367513590f31b1862ba54.png",05h00 ngày 16/01 Botafogo SP vs Noroeste [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=edd75e5ee0655a51451dabc4bba224c2&txTime=6969b4d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260113/90c24ea7fe0085639ae21b3da20ff31a.png",05h00 ngày 16/01 Independente Sao Joseense PR vs Cianorte PR [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768517252-0-0-68dbd530a4445715fa978e76773a87ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768517252-0-0-156e264b8bb46b08d25b5d70a917383c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768517252-0-0-fd75e8f6e8fcfc46ced38ab2bcd1aac8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/622e1e79327b70df073248ac14f62138.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768517252-0-0-9f4004d8ef9d116372c5de52b5b70965
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73a60eae399442123eeb6f90b70cee8e.png",03:00 ngày 16/01 Sparta Rotterdam vs Volendam (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
