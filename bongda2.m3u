@@ -19,10 +19,6 @@ https://live.alilicloud.com/live/b27f7af1bce338572c68db09c672a073/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/f7933c374ed5a4cf5f8f7287dad9c18e/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/17e74af2c23befcdca69d903b9fc0fb9.png",01h50 ngày 20/01 Norwich City U18 vs Burnley U18 (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/2eaf112a6c0eecfc5a6e7576ddedcf17/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/3f151b671e1559dc89ea63ddc89b3e40.png",02h00 ngày 20/01 West Ham U21 vs Chelsea U21 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -47,6 +43,10 @@ https://live.alilicloud.com/live/0a10a7d52823fd34e4bd7a0361776da7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/257d7d81dacc5504ddea5796a1437095/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/bc6a3878c6c35a50764da297004493e1.png",02h45 ngày 20/01 Nancy vs Guingamp (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/708698f5ab041d72899ef8f78efda573/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -732,46 +732,30 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836779.png",22h33 ngày 19/01 RB Leipzig vs Bayern Munich (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/be84edd17fd580398436358e297c60e7.png",01h00 ngày 20/01 Feirense vs Porto B (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a0a0e2223545001959dbfd7bb178e717.png",01h30 ngày 20/01 KS Dinamo Tirana vs Vllaznia Shkoder (Ra Khơi) Nhà đài
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3f151b671e1559dc89ea63ddc89b3e40.png",02h00 ngày 20/01 West Ham U21 vs Chelsea U21 (Ra Khơi) Nhà đài
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a8f69739e6cf36d9f2fbfa1622a718be.png",02h00 ngày 20/01 Jong Ajax II vs Roda JC (Ra Khơi) Nhà đài
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD 1
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD 1
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/169_164869050583.png",02h45 ngày 20/01 Lazio vs Como (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD 2
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/272_20181012141312.png",02h45 ngày 20/01 Nancy vs Guingamp (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD 2
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/272_20181012141312.png",02h45 ngày 20/01 Nancy vs Guingamp (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03h00 ngày 20/01 Elche vs Sevilla (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -920,18 +904,70 @@ https://mrkw1025.edgemaxcdn.org/live/cosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/cohd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",00:30 ngày 01/20 Cremonese và Hellas Verona (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",00:30 ngày 01/20 Cremonese và Hellas Verona (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-3036/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",00:30 ngày 01/20 Cremonese và Hellas Verona (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/be84edd17fd580398436358e297c60e7.png",01h00 ngày 20/01 Feirense vs Porto B (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a0a0e2223545001959dbfd7bb178e717.png",01h30 ngày 20/01 KS Dinamo Tirana vs Vllaznia Shkoder (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3f151b671e1559dc89ea63ddc89b3e40.png",02h00 ngày 20/01 West Ham U21 vs Chelsea U21 (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m304nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a8f69739e6cf36d9f2fbfa1622a718be.png",02h00 ngày 20/01 Jong Ajax II vs Roda JC (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) A Lử SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) A Lử HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0019264819f39359ff8233af6a1c3609.png",01h00 ngày 20/01 Volos NFC vs Atromitos Athens (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",01:00 ngày 01/20 Petrolul Ploiesti và Universitatea Craiova (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -980,46 +1016,18 @@ https://wtyi0525.edgemaxcdn.org/live/x17y3-0394/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/855f45fe6952d77c40eccb96dc4ac075/image/small",01h45 ngày 19/01 Flisvos vs AO Kalamata (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7f5242a176aaecf9a88ce2463ddc56ba/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5a734f0f9fceab379144c496a8d4451b/image/small?v=1768601124",02h00 ngày 19/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dd1e88795176d8deda037035a4814377/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/27abba8d146c162e5d757efe51679dbc/image/small",02h00 ngày 19/01 Herrsching vs Duren (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/03019f983dbd2ea788529cacae264593/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124",02h00 ngày 19/01 Jong Ajax Youth vs Roda JC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e59bcdd64cf1caf3ed179846896cdb95/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/65bccb7738e2021ce16c78882a53b615/image/small?v=1768601124",02h30 ngày 19/01 Granada CF vs Eibar (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5d5c361d24540c50cd231955e9cb03c6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/257d7d81dacc5504ddea5796a1437095/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4ca9ab88368559942da11cfaac3c8b69/image/small?v=1768601124",02h30 ngày 19/01 Cosenza Calcio 1914 vs Crotone (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0a10a7d52823fd34e4bd7a0361776da7/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",03:00 ngày 01/20 Elche vs Sevilla (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",03:00 ngày 01/20 Elche vs Sevilla (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x6y3-0063/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",03:00 ngày 01/20 Elche vs Sevilla (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4f688c293c03a41673436552c999d861/image/small?v=1768601124",00h30 ngày 19/01 Hapoel Kiryat Shmona vs Hapoel Haifa (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1152,6 +1160,62 @@ https://live.alilicloud.com/live/17cdfff010742881e7a072c453632c0b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/86646a88cb7abd14c591dd5c057e177a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/855f45fe6952d77c40eccb96dc4ac075/image/small",01h45 ngày 19/01 Flisvos vs AO Kalamata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7f5242a176aaecf9a88ce2463ddc56ba/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5a734f0f9fceab379144c496a8d4451b/image/small?v=1768601124",02h00 ngày 19/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dd1e88795176d8deda037035a4814377/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/27abba8d146c162e5d757efe51679dbc/image/small",02h00 ngày 19/01 Herrsching vs Duren (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/03019f983dbd2ea788529cacae264593/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124",02h00 ngày 19/01 Jong Ajax Youth vs Roda JC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e59bcdd64cf1caf3ed179846896cdb95/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/65bccb7738e2021ce16c78882a53b615/image/small?v=1768601124",02h30 ngày 19/01 Granada CF vs Eibar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5d5c361d24540c50cd231955e9cb03c6/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/257d7d81dacc5504ddea5796a1437095/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/034e790ea96a556fe3b89568347a5c2d/image/small?v=1768601124",02h45 ngày 19/01 Lazio vs Como (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/6c5090490ddc42878485613ececc23f8_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4ca9ab88368559942da11cfaac3c8b69/image/small?v=1768601124",02h30 ngày 19/01 Cosenza Calcio 1914 vs Crotone (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0a10a7d52823fd34e4bd7a0361776da7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1996d25edd8b8017f54a0c46b867b876/image/small?v=1768601124",03h00 ngày 19/01 Brighton Hove Albion vs Bournemouth AFC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1cdc78216cb039a2a014a0f28b43b4ea/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1996d25edd8b8017f54a0c46b867b876/image/small?v=1768601124",03h00 ngày 19/01 Brighton Hove Albion vs Bournemouth AFC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/da4a90a491194957b107c484f7a0a9e4_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1996d25edd8b8017f54a0c46b867b876/image/small?v=1768601124",03h00 ngày 19/01 Brighton Hove Albion vs Bournemouth AFC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/da4a90a491194957b107c484f7a0a9e4_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1996d25edd8b8017f54a0c46b867b876/image/small?v=1768601124",03h00 ngày 19/01 Brighton Hove Albion vs Bournemouth AFC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/da4a90a491194957b107c484f7a0a9e4_720/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png",21h00 ngày 19/01 Konyaspor vs Eyupspor (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1760,90 +1824,282 @@ https://stm02bc38017100.stream.hdplaylink.com/live8/a87b1f1af2a24f80b7438e6aaa86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/708698f5ab041d72899ef8f78efda573/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1768854212-0-0-5f4bfe1b755d856f69a869a8aa532d4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1768854212-0-0-cbe41a2d4efaa6a95c03c4b5d9c070f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1768854212-0-0-63714be227caea373d27882c9139eeb2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1768854212-0-0-cccd124d39e11aece0ef350a8b8415e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1768854212-0-0-7c945d44a9d1356e986668667bcd0c71
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1768854212-0-0-d52f2ef9eb1c4a581c484eb8f6048fdc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1768854212-0-0-35eba479dd8970d543822b6015791ff0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1768854212-0-0-249efb5e4a3e616786af44654ee30c03
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=cad7ad8db8e0a6fdd2ca5ac885f5c37c&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=5c4c07b9aab3fb3be258bc94497030ab&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=cad7ad8db8e0a6fdd2ca5ac885f5c37c&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5c4c07b9aab3fb3be258bc94497030ab&txTime=696ed914
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV RAMBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=884601f95198020b9ce536d3cfb8e6b3&txTime=696ed914
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=0be4d2e7252eec83b32924abf2030b02&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV RAMBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=5c7c437bdc4d8340b6cd7c69eb55bda4&txTime=696ed914
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=6382024760b176ace8a30a38db029786&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV RAMBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=884601f95198020b9ce536d3cfb8e6b3&txTime=696ed914
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0be4d2e7252eec83b32924abf2030b02&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV RAMBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5c7c437bdc4d8340b6cd7c69eb55bda4&txTime=696ed914
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6382024760b176ace8a30a38db029786&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=38e37ff27b57a51e134b7d455c8bf02e&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=4b4ef4c566f34d8e6536129d57a2f89e&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=38e37ff27b57a51e134b7d455c8bf02e&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4b4ef4c566f34d8e6536129d57a2f89e&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1768855652-0-0-eb309eea670c18474712d2b35516a11d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1768855652-0-0-3f26b0e5009d63edf74c70baff5aac42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1768855652-0-0-b7e9f568d868219348a16a9c7ef06f70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1768855652-0-0-2bdaa4ea5b440e896b0c40522628f269
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1768855652-0-0-d4214328af0916353d979483f38a759c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1768855652-0-0-d4740f2ed44ba20e762a28d3d4b101a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1768855652-0-0-fb8a3d3e15b1b9ffa732c97f98eb961c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1768855652-0-0-b2e22dc8916f6400f8510cb37a526c4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1768855652-0-0-60ae4cf04ae6fe2b1f7f94c2d1f5363b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1768855652-0-0-ff23364722ba754f8d374a69ea004cb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1768855652-0-0-f4a53a7086349781dac46ff700bae352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1768855652-0-0-b88fa4a308aeaa67ed8f70a76ffa45c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1768855652-0-0-e27332f944c282b812a543cf811fd125
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1768855652-0-0-d83a70526538fb3fe44662fe58d62e9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1768855652-0-0-d3c47d0c3960948d93958d3f951b3cea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1768855652-0-0-97c274562c2b9bd29c71f663c54883b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768855652-0-0-34034652b6237c2126f7547fb4c3b7cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768855652-0-0-5fc9944a83b7da364ccb5de0bd64e46b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768855652-0-0-a68f5f6a1f7924f87c2c4690f5fc84fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768855652-0-0-c70cde56979a60826e803d220eb98cf9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1768854212-0-0-4045acb754a928cf411981397498eae9
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1768855652-0-0-fc6dea6b911c8c3fd3f6b0d314325ca4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1768854212-0-0-1c3a826e619865ddad9411e71bff7bb7
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1768855652-0-0-101da165acbbbb57882ff3455cfce6bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1768854212-0-0-57623441e7b99de2805920e64e60e170
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1768855652-0-0-effa4b598dcd971c9876d68b9237414c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1768854212-0-0-2c8f2cefceb5ef893ced889b34b4f026
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1768855652-0-0-b316ec5f3d0c7b0c26f080e8b3df8e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1768855653-0-0-c1069babc390bd5a1eb49754b23b559b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1768855653-0-0-1c596fe41842b269c92037311435e6db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1768855653-0-0-85f35be2026477b0893621a50c0a5112
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV TÔM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1768855653-0-0-6aa39a7dcb4412d587f739703f5a5119
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1768855652-0-0-7bfc9dda541128b83d6fb4cb376f9930
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1768855652-0-0-b63e6b3445fce7abf6f73dc76f76b73f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1768855652-0-0-007ddbab7dfe680d123ed9bf13742b8f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1768855652-0-0-95e49c95bc526bfde175934fe63347e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1768855652-0-0-65ff0a3c056c53c858ec0f7e4b435530
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1768855652-0-0-e603105e8e57f38d874c7bf72d7d0a36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1768855652-0-0-c6c64cdac17cab0df09c1ba33c840a68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1768855652-0-0-30303ba236258a0a013905c85dce7b20
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1768855652-0-0-85f78670ef4bc12bcbe215c85eec30bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1768855652-0-0-3e4f659868c6f5311d9ed2f5850a61b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1768855652-0-0-3b46384e0f6ea1912eea462ae876101c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1768855652-0-0-781c496c55dda8f19474220d30036fc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1768855652-0-0-88037d8de43edddbd2a75e0fc6acf98f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1768855652-0-0-665fccd6d2894e77b8a599f77b4df8b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1768855652-0-0-b8c19aaddcbbe50f45b9710ebfbc6045
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1768855652-0-0-654709a80fe14cd2018d24e66ade8e92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1768855652-0-0-a340436511db1978db3c41ff4cfc5c6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1768855652-0-0-f1a692386ea0e7144d8448239fc0b55b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768855652-0-0-bdbdade091be6480d634c84259a09cf1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768855652-0-0-6cc1c086ac99faaca40a5b576a9bb0b6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1768855652-0-0-0b23fcca68040ce1f4413d36a52384bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1768855652-0-0-6682445ddfa8200b72e9cd17599ea8c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1768855652-0-0-c58c2e02dab0e513de4c1d6cb1ed48d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1768855652-0-0-da4fed35520d331c3a8d79118c20a471
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=a129352c72a5e5c97ae6f609e6ebe2d5&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=398a48ce0ebd20de6758138294041d5d&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=a129352c72a5e5c97ae6f609e6ebe2d5&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=398a48ce0ebd20de6758138294041d5d&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=6b2066a5bd6ffb037aa00dbb5c767174&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=16b534b12b1403a2a9b7559fae89d4e1&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=6b2066a5bd6ffb037aa00dbb5c767174&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=16b534b12b1403a2a9b7559fae89d4e1&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lsd.flv?auth_key=1768855653-0-0-f2a5f4e9466d9769a5bd7ba51a63e9b2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lhd.flv?auth_key=1768855653-0-0-74e02fca53952a41499f7566dd3d413b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768855653-0-0-1dbb998551d9b26ba3f5ecdca4af864e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768855653-0-0-956c8ce04e91b75a6184cd95b7f6876a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1768854212-0-0-0900b1985fd2d5ceec295d899c5d8093
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1768855652-0-0-a432d1e2dfa0fb81e7ca7fa6b8ee2233
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1768854212-0-0-a6c64010119bfea4de4e2e5e47fffac1
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1768855652-0-0-7cda14922b446d1505ffdac6978dedb5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1768854212-0-0-ac54588a15de5df7331bd047648bf8e8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1768855652-0-0-420d0abbf719bef1e0f5ba69147d4bc7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1768854212-0-0-020b732d33d2acbb8a3f1272addc1b20
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1768855652-0-0-069c832c6247c3f3171651989bc0e16a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=553dd4c0e2a30e0a771f29ee02da0696&txTime=696ed914
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=9132a6edaa551a3de5af0c3ba3c4df64&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV KAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=19f8169006aec94ddfdcb1a4a9219147&txTime=696ed914
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=91ed1348b1a91eaaa8cc9a29863cd03e&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV KAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=553dd4c0e2a30e0a771f29ee02da0696&txTime=696ed914
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9132a6edaa551a3de5af0c3ba3c4df64&txTime=696edeb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cc158e0ef807018aea08e74fe2ecddef.png",01h00 ngày 20/01 Volos NPS vs Atromitos Athens [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=19f8169006aec94ddfdcb1a4a9219147&txTime=696ed914
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=91ed1348b1a91eaaa8cc9a29863cd03e&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1768855653-0-0-01e4a025da5c7cfc4a1a53eacec1b843
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1768855653-0-0-3dfc3bfb22eaae605260b3ee64622ca0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768855653-0-0-d2fde54d8404287729e05cbcad287c90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768855653-0-0-cd104fbaa03b31047ec4f6367b739f43
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1768855653-0-0-edaad0f495169e64e1dde1786a430024
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1768855653-0-0-e788d7395d2093222a4f6c041fe591c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1768855653-0-0-d4725dbb1a5b86404975001da5f32c73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1768855653-0-0-56b5a3f192f527ef7fda823cf42962ab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/406865-480p.flv
@@ -1856,342 +2112,150 @@ https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1768854212-0-0-e88b2c60223f3c2e935b73b6e7484b3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1768854212-0-0-635237e0005e89d11d5130057dba1367
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1768854212-0-0-31115e02ebbb02ce400650b9ac67944b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/727cebf88fbea598970209ec86e2bade.png",01h00 ngày 20/01 Petrolul Ploiesti vs CS Universitatea Craiova [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1768854212-0-0-78b93616b0bf66defd512ffa9bbc53bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=ad8f808dd58a5b727eed04455c4c06b2&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=e3bc59aab7f4ec306cc330b121d456ae&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ad8f808dd58a5b727eed04455c4c06b2&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e3bc59aab7f4ec306cc330b121d456ae&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1768854212-0-0-1317b574d58613156f74c47adce1d62c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1768854212-0-0-ae33d68545a20f2f385e0c2e9d598179
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1768854212-0-0-ef0504b2bea0b3129f01df1c82aaedf8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/8a29c88aa50a8f7338ba512680570bf8.png",00h30 ngày 20/01 Hapoel Kiryat Shmona vs Hapoel Haifa [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1768854212-0-0-b50ff8fb0fd1d3df5fb1a90ce9a60b17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1768854212-0-0-ec003f21e537a19eba5ffd77f6dfff57
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1768855652-0-0-19839016c3b5ea37a1ff7a60716889af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1768854212-0-0-b4844ac8adfc3b7abd900ab80c687f9e
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1768855652-0-0-796125ecf065253b942c7e7a96a02681
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1768854212-0-0-85e79febab0c52fedc998fc1d4b98bcf
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1768855652-0-0-9c87b95a0dfd07e6dcb58b413a899755
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1768854212-0-0-e180acd4d1bf3983906273a074f3654a
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1768855652-0-0-e11a7d5c66bdbafea305a3810632bdd0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1768854212-0-0-275a4bb31a7f4ff8624bfb9882242134
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1768855652-0-0-8fd9601e0bd796fe84b1e71e4b98abc9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1768854212-0-0-ba22f043ba22cccd5a6629757477e88f
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1768855652-0-0-cb7562f4e374571431c039c739db063d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1768854212-0-0-2ae2cedc11d79c1983ea1d06d92d171c
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1768855652-0-0-61453946855498eb82876a679bc6b39e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ea0c7d664860ee26e72869662db5247a.png",01h00 ngày 20/01 Hapoel Tel Aviv vs Hapoel Beer Sheva [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1768854212-0-0-2e1414e8761fec4ec8b45bae44082cb5
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1768855652-0-0-82e20c8deea376f3b85861c269f1ec34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9e1de7bfb9dbecbd734804f4fb9506c2.png",02h30 ngày 20/01 Cleveland Cavaliers vs Oklahoma City Thunder [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768854212-0-0-6777238603be48dbdd74df8812594afc
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768855653-0-0-a63f2a75f3e23757a514e45f6e957415
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9e1de7bfb9dbecbd734804f4fb9506c2.png",02h30 ngày 20/01 Cleveland Cavaliers vs Oklahoma City Thunder [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768854212-0-0-6fb9ce9ef232ad1a35438cb102169360
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768855653-0-0-3dfad09882facfe34905b90ec0af497c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9e1de7bfb9dbecbd734804f4fb9506c2.png",02h30 ngày 20/01 Cleveland Cavaliers vs Oklahoma City Thunder [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768854212-0-0-59abde310daac2f11731ea97ed2fb0e0
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768855653-0-0-edc7575c66a52330a65037b3da2d954a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9e1de7bfb9dbecbd734804f4fb9506c2.png",02h30 ngày 20/01 Cleveland Cavaliers vs Oklahoma City Thunder [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768854212-0-0-fd51781d342abc61dfcd86d6a820b046
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1768854212-0-0-ad84b1ee9396f52f39f6b2454df5d6bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1768854212-0-0-fbca590fd71d9fc10a1393d68c0f9ded
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1768854212-0-0-4478b9801a11d87c334e94edf16d2979
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/3058968082f979bb76cdbb60871224ea.png",02h30 ngày 20/01 Granada CF vs Eibar [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1768854212-0-0-f02650f840d99b96b50fb5a341f87fef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=0c56b24a42bde497d66e708baa2db6b4&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=28bf227f402889228b82111720355d52&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=0c56b24a42bde497d66e708baa2db6b4&txTime=696ed914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=28bf227f402889228b82111720355d52&txTime=696ed914
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768855653-0-0-dc81e38e01bd6314a899933cb09298f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1768854212-0-0-0b43358d47f019d6f83f3ad4f4efe78d
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1768855652-0-0-e848a6714cd62708cfc24453231bd519
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1768854212-0-0-cd7995e8fe04953e63447bab63493f64
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1768855652-0-0-a81125265f81bcefedfa2731cd7ea1e0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768854212-0-0-35662e5a4cde46443da744e753d620b6
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768855652-0-0-1016157fbc6da6231dd3b2f4e54a2a8e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768854212-0-0-94dba0f0b12720ad613bcac5e1180a4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768854212-0-0-f03b6b80d925cf6b19168fc001727a21
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768854212-0-0-bcc0c274a74765d4117730dd9e196072
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768854212-0-0-0125273e5db6211a772b88c8d1f00b95
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768854212-0-0-2bff2ac05ab2a6ccca8908b8ca91cb00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1768854572-0-0-e7b379e2d7dd96a44cbc37cf612c3333
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1768854572-0-0-94001b620093c7bbe6cf43c087449a15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1768854572-0-0-4f5951cdaaf63be6ea88f25e092cb8d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1768854572-0-0-96193939ddab89f3c401ebef91301a97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1768854572-0-0-e7027d19dc32e25040c0b8770d1800a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1768854572-0-0-916ff6877f3ccd104a5edd3f8b500ebc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1768854572-0-0-f7d5184c1f3ac89a98e50adee8a6390b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1768854572-0-0-53694e7469bbaf909acf51acd329d2f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1768854575-0-0-a742589db217bb9e2c28694782d2dd34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1768854575-0-0-e76e14a42dd32115fd02e62baea5d275
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1768854575-0-0-f3845b3f4d2c4994802359caab0f5cf7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1768854575-0-0-1253b8d57c9dec4ce4821d9c35b9df15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1768854572-0-0-ebc753f3eee29637e665ac4b5a21106e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1768854572-0-0-e69a6e6796e0fe6e99a174e7914f9d64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1768854572-0-0-1d3163f90f9a519115838adb4608aefc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1768854572-0-0-b8dfc8f8741b6f27cffa2ad9f30e5c92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1768854572-0-0-1fccb77eacafa5fc26294f7baf08469a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1768854572-0-0-6c4c402fc0bd5f2a2c8b37a2cff845c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1768854572-0-0-5ff0738af153384dd6b14540cc0e109a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1768854572-0-0-107c4a8309d444f92bb49bace230c24d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1768854572-0-0-e2a566f06c752373c11a3e12c2d5f66d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1768854572-0-0-a4d5f87fb1f320f67449f8fee9be7916
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1768854572-0-0-b30c767dfde03b3e0bbb578585079a40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1768854572-0-0-2d7f2443544478b81dbc601c7ea9c722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1768854572-0-0-a7641350c6287014b3fd11c987d3322c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1768854572-0-0-6d491f85b8b323200dceb0433c573a42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1768854572-0-0-40d846b4030cc42637940e8a1c6b5db1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/4598f09cb3d6ebe162be9a434cc24cf5.png",03h00 ngày 20/01 Brighton Hove Albion vs Bournemouth AFC [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1768854572-0-0-a8c257fa117a26a187eca1ab244c586c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=e245877ee81e637971f12d18f8268fa3&txTime=696eda7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=8f7521e854596017dc92df627c6924ad&txTime=696eda7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=e245877ee81e637971f12d18f8268fa3&txTime=696eda7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=8f7521e854596017dc92df627c6924ad&txTime=696eda7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1768854572-0-0-ac564a74c562e091d0ae154fe0c11cde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1768854572-0-0-ac40c93464a57f76d59625ab17df8287
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1768854572-0-0-e5ea97d2b682ed7660f495e36a73b874
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1768854572-0-0-52421a586e7cbd003674538b3d114a18
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564597_lsd.flv?auth_key=1768854572-0-0-a4087dba6343cf6786cc325a9cbefa56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564597_lhd.flv?auth_key=1768854572-0-0-2d18c11379b62f4dce174a2388c9ad3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768854572-0-0-e5d35e91ebcdb0bdf302006e0115abc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/60f263cc9ad437a9fce26e179efaf371.png",02h00 ngày 20/01 Jong Ajax Youth vs Roda JC [BLV FAKER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768854572-0-0-1062d184bfeb018ef0e024cd5d81cc23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1768854572-0-0-348488eb18a67019f0e0d40c28ef7953
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1768854572-0-0-738e03931e9fda03c3092a1fe55c3de1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768854572-0-0-e1f851dacb1086c7d6a1e8487d2ce5e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/cbbbca858870d754fc6c4b37dbfc19f2.png",02h00 ngày 20/01 FC Utrecht Youth vs Jong PSV Eindhoven Youth [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768854572-0-0-d32666363af45589dd5c475ee05bb26e
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768855652-0-0-ef019aba1f19314b9b7d0680b36bcfed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1768854572-0-0-3cf1ac921cd571c2801f33a461ad79f9
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1768855652-0-0-03f5700cdeb83244e767dafa1881d9b7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1768854572-0-0-95d7a857b0f7e973d67fc2970c07097f
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1768855652-0-0-1683eb66403ef71b0b266e41eaef9d90
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768854572-0-0-169970f491270fc51356579afefaf582
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768855652-0-0-e33671b3142606cc48478c3fa685b20a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/b9f042967096f5ee4a7615b2cef1caeb.png",02h45 ngày 20/01 Nancy vs Guingamp [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768854572-0-0-0f7345daf3e8eaf06c88b73f81be4150
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) flv
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768855652-0-0-2a2d8051d9649638ad3d85cc9987d741
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1768854572-0-0-24701232f10db82b8a8f581422964b55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=c8edb80791d6b1bf80a5dd200216fd80&txTime=696edeb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1768854572-0-0-22ad230b96ccbafa86e6cbf802fd7c8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) m3u8
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=9ae17748d77d9168c0e91c813aa5bb83&txTime=696edeb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768854572-0-0-a88b6f1a082700abe6e4af8771c3b367
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/296886f20073a974a8764974d6f081ae.png",02h45 ngày 20/01 Lazio vs Como [BLV LIO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=c8edb80791d6b1bf80a5dd200216fd80&txTime=696edeb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768854572-0-0-1bd39a71339bd8162981df7abc5b429e
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD Nhanh
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=9ae17748d77d9168c0e91c813aa5bb83&txTime=696edeb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1768872606&sign=963f9308e9a56f7b7b42baf0cc3b6131
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD1
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1768855652-0-0-7a5674fdb742a21dc31236233bd96384
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768872606/41e431c54c77888e2948fcd7bbc4b19c/458800581/live/soiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD2
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1768855652-0-0-abfa0dfe06f4a58b81b208593b2ac03a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/tpmKcuUlmdFWyGd3uwElCw/Fv2lucGIbhPi2caWYvF5Lg/1768872606016/live/soiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] SD
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1768855652-0-0-1d4f25accc261a4231213fa99d1aaf73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/kh6S5_XTq4R5EyuuaGgrpg/Fv2lucGIbhPi2caWYvF5Lg/1768872606016/live/soiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] FullHD
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1768855652-0-0-0756895839281d2f3e519752020c2a79
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768872606/7e68b5d26edc2f6d3998c7fa2199f210/659383830/live/soiFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD Nhanh
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=ab93e6c7fdead450f281626c00c43570&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1768872607&sign=0c8c6d80affeb9b0a06df99420e66b9e
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD1
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=5d95395d46e6405fe398ec350fdb839d&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768872607/1ccab0895963c32b804214bafd13c6b4/883564629/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD2
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=ab93e6c7fdead450f281626c00c43570&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/L8MwckDQ0c_-BAB5Q1pUvg/Fv2lucGIbhPi2caWYvF5Lg/1768872607065/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] SD
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=5d95395d46e6405fe398ec350fdb839d&txTime=696edeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV TORRES] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/pSFFq48ktWkP_DFSJLKKkg/Fv2lucGIbhPi2caWYvF5Lg/1768872607065/live/khiaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] FullHD
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1768855653-0-0-c579b6e9a6cc3d0e28ad14bfc01c04dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV TORRES] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768872607/fc77bc375c8fc82c95f59847276954b6/126205779/live/khiaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD Nhanh
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1768855653-0-0-cf1d385c5861336b3955063ff3c32f9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV TORRES] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1768894208&sign=75c7c96b53384bfc5201d3c43a8d6998
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD1
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1768855653-0-0-7a8364f820537e6a706fb84168c23290
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/195cb6d8dd11dbe18b3601fd77960e46.png",03h00 ngày 20/01 Elche vs Sevilla FC [BLV TORRES] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768894208/0b36229633a8ec4cac49aef7ee7d6cab/580336591/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD2
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1768855653-0-0-010423ab0e627be808d31b7275a5725b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yrh4-RW8XXiTUjzw8FLu7g/Fv2lucGIbhPi2caWYvF5Lg/1768894208154/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] SD
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1768855652-0-0-7cdd2a09ccd84a9007bb7423402fb5b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/d2pwC8JdrWty8ihErP8yrg/Fv2lucGIbhPi2caWYvF5Lg/1768894208154/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] FullHD
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1768855652-0-0-30e5f21cae42503a223d160bcb5f4ca7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768894208/af5339c9af6047277e27dae1e7d12b1f/661492611/live/luaFHD/playlist.m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1768855652-0-0-c7fb7efff2f48f7c771a5216c16730bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1768855652-0-0-ecd543cfb16d6eb436b1633f549754f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1768855653-0-0-c3fb854521354c26e02235d60407d4ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1768855653-0-0-e9bb3bc532a31fa28d4039749d95017c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1768855653-0-0-9ec7edabb9bff963ce5efe31903ae11a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/de2f1edac7f6e53645c9a4053be9fcdd.png",03h15 ngày 20/01 CF Estrela Amadora SAD vs Estoril [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1768855653-0-0-6fae17aca330bbf837dd5651d4a69d91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768855652-0-0-49c8ada69070d1dd94dd0cf8fb02c513
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768855652-0-0-dd20db4cdcb67c2e99a9c72464295300
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768855652-0-0-c102de1056468067ac1166a932a84ffa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768855652-0-0-86501181f905790fbdadf42a29f7c621
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/1200px-WWE_RAW_Logo_2025_svg.png",03:00 ngày 20/01 Raw (1) [Người Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2296,6 +2360,86 @@ https://hotlivezz179602324.akainu.xyz/MagZA7uiFt78O0C1SWma-w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768893846/44da7213ac7886674ad2d2cf74e334f4/585486726/live/catFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1768895286&sign=4c09e45bc7b0fdfe899c6d8f6f54221c
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768895286/10b7e864f9b474d2d05026f2dcbc4a0f/751152238/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/B4G3pcYjgStIC47sssfV3A/Fv2lucGIbhPi2caWYvF5Lg/1768895286356/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/WjbgsiMhDA3MsFYgb8nwpA/Fv2lucGIbhPi2caWYvF5Lg/1768895286356/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",03:00 ngày 20/01 Wizards vs Clippers (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768895286/090de31000fd96495b465945d4eef865/955614502/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1768872606&sign=963f9308e9a56f7b7b42baf0cc3b6131
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768872606/41e431c54c77888e2948fcd7bbc4b19c/458800581/live/soiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/tpmKcuUlmdFWyGd3uwElCw/Fv2lucGIbhPi2caWYvF5Lg/1768872606016/live/soiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kh6S5_XTq4R5EyuuaGgrpg/Fv2lucGIbhPi2caWYvF5Lg/1768872606016/live/soiSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",03:00 ngày 20/01 Brighton & Hove Albion vs AFC Bournemouth (1) [Người Sói] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768872606/7e68b5d26edc2f6d3998c7fa2199f210/659383830/live/soiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1768873688&sign=ed06aca6cb150a7105f44cfc080d296d
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768873688/b760f72ed482360bee279d0c9e99ff7f/768097914/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/kjOS5ha4gM__1erRqAp_GQ/Fv2lucGIbhPi2caWYvF5Lg/1768873688557/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vKGTrvey6AGF9BWSTmxN4A/Fv2lucGIbhPi2caWYvF5Lg/1768873688557/live/khiaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e5ecd0553885f1a3af731758dddce2ec.png",03:00 ngày 20/01 Elche vs Sevilla (1) [Ba Khía] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768873688/464534ebdf0c0eb9d34a25b6eb439dcf/747687107/live/khiaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",03:15 ngày 20/01 Estrela da Amadora vs Estoril (1) [Cá Cờ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1768873690&sign=7faa79e55ac59a6b5d191ee2667b20de
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",03:15 ngày 20/01 Estrela da Amadora vs Estoril (1) [Cá Cờ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768873690/1be5caefb48d0cabbb77afd3e01ee597/778600256/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",03:15 ngày 20/01 Estrela da Amadora vs Estoril (1) [Cá Cờ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/ci9mibaAl7DBDx9vT3ld2Q/Fv2lucGIbhPi2caWYvF5Lg/1768873690619/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",03:15 ngày 20/01 Estrela da Amadora vs Estoril (1) [Cá Cờ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Ro2TuqAOOTfSmMWWJOpHvg/Fv2lucGIbhPi2caWYvF5Lg/1768873690619/live/coSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",03:15 ngày 20/01 Estrela da Amadora vs Estoril (1) [Cá Cờ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768873690/61916c8f71ccc262c6edb6280a03e799/419736320/live/coFHD/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/520.png",00h30 20/01 Cremonese vs Verona (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://cdn.xembanh.live/live/pyd441q2l5/playlist.m3u8
