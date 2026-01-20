@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/fef1e4383fc71a87e4940a4fef38cf6a/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/b5ff99432df36b5f50aab41f1fef1d66.png",10h30 ngày 20/01 Guangdong Wuchuan Youth vs Hainan Shuangyu (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/d107a6688baf093ae1241c0ab1ba6a7e/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/7ba608941c57b394b4d37e673c1679f1.png",10h30 ngày 20/01 Zhoushan Jiayu vs Fujian Quanzhou Qinggong (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -27,6 +23,10 @@ https://live.alilicloud.com/live/7352f606423b82a8430b6119503fec48/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/19d3cc88b9adff6124622c82feee17b2/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/d04d1659f00b5ad9c7d2ef402147bde8.png",12h00 ngày 20/01 Heilongjiang Harbin Football Team vs Yongzhou Football Team (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/b5c782cb9a17b3e535ca487fb786998e/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -432,6 +432,24 @@ https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m505nd/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836779.png",22h33 ngày 19/01 RB Leipzig vs Bayern Munich (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836779.png",22h33 ngày 19/01 RB Leipzig vs Bayern Munich (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836924.jfif",22h35 ngày 19/01 Atletico Madrrid vs Deportivo Alaves (Lương Sơn) BLV LỮ BỐ REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836924.jfif",22h35 ngày 19/01 Atletico Madrrid vs Deportivo Alaves (Lương Sơn) BLV LỮ BỐ REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",10h30 ngày 20/01 Shenzhen Xingjun vs Shandong Qiutan (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVcpVReRjdjo46m2/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",10h30 ngày 20/01 Shenzhen Xingjun vs Shandong Qiutan (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768842907.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -478,24 +496,6 @@ https://auto.cdnok9.com/live/sd-6MvVcpVRequvK59BSt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVcpZsQb4orMhxBe/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",10h30 ngày 20/01 Dankuk University vs Chunan University (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836779.png",22h33 ngày 19/01 RB Leipzig vs Bayern Munich (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836779.png",22h33 ngày 19/01 RB Leipzig vs Bayern Munich (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836924.jfif",22h35 ngày 19/01 Atletico Madrrid vs Deportivo Alaves (Lương Sơn) BLV LỮ BỐ REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768836924.jfif",22h35 ngày 19/01 Atletico Madrrid vs Deportivo Alaves (Lương Sơn) BLV LỮ BỐ REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",10h30 ngày 20/01 Shenzhen Xingjun vs Shandong Qiutan (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVcpVReRjdjo46m2/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",10h30 ngày 20/01 Shenzhen Xingjun vs Shandong Qiutan (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat (Ra Khơi) SD 1
@@ -578,6 +578,10 @@ https://live.alilicloud.com/live/1a5a1b0cecc64bb226abc5fa82663542/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ab851a00382b20e89ac93b5cf3cf3510/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/af731ed17ad5cf16928a9dd170eeb3c5/image/small?v=1768601124",12h00 ngày 20/01 Heilongjiang Harbin Football Team vs Yongzhou Football Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b5c782cb9a17b3e535ca487fb786998e/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133804_7b530b93.png",16h00 ngày 20/01 Brisbane Roar FC W vs Melbourne City W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1090,398 +1094,398 @@ https://live.alilicloud.com/live/b8487f3823b8c3246ef51bfc5ef279d9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0e1aff9007dd1cee5d485710ff9c2902/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768888772-0-0-1a3ea8a2928573d7a721d170d9a33634
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768888772-0-0-5962b409dfe64be0c03f68a6c8089123
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768888772-0-0-a46fc68eaf98c5a4d9371fa3fdacf143
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768888772-0-0-ac5c46a495aebd68a774483096bc717f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768888772-0-0-cb39e484489924a9e739518236e0d553
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768889852-0-0-b97613c75890a3db869a73a5e961204c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768888772-0-0-28bfe4d34516bf97cee065aeed9e8baa
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768889852-0-0-9af7ed6c5f3ea23f732c57d6487df61c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768888772-0-0-28b0dbb9bc600ec9b2166beb84a6741d
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768889852-0-0-468374e03f14d67d3539318d6888cda9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768888772-0-0-29e384671ef7fc55b8f0e9d3e3d3e0bc
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768889852-0-0-cc756f634c3473c4a7be73d2f4dc6438
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768888772-0-0-13451464b63579f40f46b795491ca5ae
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768889852-0-0-1088ce55f5f5f5d8ef09e0edd110152c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768888772-0-0-9177a5cf55dbb3d8ddb6060d44782909
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768889852-0-0-9c641495074d00dc2a6125e2076b7f66
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768888772-0-0-990104350f5c969c83f68efbf5476024
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768889852-0-0-2afd73a22b7ee0151e0050601816ad5e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768888772-0-0-16671404ea76ecb00e2d7e4254badeb8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768889852-0-0-c6f8bcd67566dd7eefad5cd8bd476dad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768889852-0-0-b1765ce15e26f143cee162e61510ade4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768889852-0-0-276fd0cf8d0f0b89eb3037433bae8281
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768889852-0-0-87b1049acd614f917f69fc603dfa9919
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",10h00 ngày 20/01 Golden State Warriors vs Miami Heat [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768889852-0-0-06b47a5dd5596b16d9504b9077cecee4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768888772-0-0-814e43afe17a9a4301721cbdc7005441
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768889852-0-0-5f73548a5f23a39c625bdbbfbeebfc55
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768888772-0-0-71b6cb244b7c6fb4ae00689e6bccc9b5
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768889852-0-0-557905bf03b9a5216ae2dfdf479ba68b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768888772-0-0-048ca6562a30af7ac7e4dd886d09ca0c
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768889852-0-0-28c1bc2cbbee74509737e59a7e9260f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768888772-0-0-f62d80d9ac44e247573df890f5fa42f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1768888772-0-0-deaddeaf7fc53254f83ab4efde0f86b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1768888772-0-0-0b2762e29510cd8a9193afc1e3e379f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1768888772-0-0-730b8aa03280dd34f04bffc1dbd6a0a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1768888772-0-0-ccc733662184f978f04f1099848c94a7
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768889852-0-0-154bad14dc3e6ad0f8e631e7c2831eac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Cremonese vs Hellas Verona [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1768888772-0-0-0c3a78eb1bd393eb070ca122e10bed05
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1768889852-0-0-d31184ebbdca75e281390b2180f0c72e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Cremonese vs Hellas Verona [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1768888772-0-0-338768d77519c3106ed331f0e4df1f17
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1768889852-0-0-df79c651549b56fef26ab95b0ce2f44c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Cremonese vs Hellas Verona [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1768888772-0-0-3ae7c353e1676cd85caf00f451da770f
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1768889852-0-0-ce0befaece02eea95b6d5c0fe177379f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Cremonese vs Hellas Verona [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1768888772-0-0-3b46bcb9ecd93edf6fb4ef7db7545bfa
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1768889852-0-0-33564cfe5edea9247e885b5c3f5b6600
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1768889852-0-0-74aa8329247258d5d67f26de3b89688c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1768889852-0-0-eb571923a88bebca6dc91a82bf6c37ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1768889852-0-0-85721f97b170b1ce3c841c8be163f45e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ENG PR - Brighton Hove Albion vs Bournemouth AFC [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1768889852-0-0-4260ee7d3879ef6ba5029d8101c66f1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: CAF NC - Senegal vs Morocco [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1768888772-0-0-010b60e5bbc099998ddcfd7c156e4315
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1768889852-0-0-ee3da4412ff9e4863ecf03b4f0f46a6b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: CAF NC - Senegal vs Morocco [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1768888772-0-0-34db3e8d8cccba1af21915471bf691f8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1768889852-0-0-12929c33a1ee0cf39f288c1d46a7ade5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: CAF NC - Senegal vs Morocco [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1768888772-0-0-11fc6dd515893871de2702c536efeaa3
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1768889852-0-0-8ae1be4006958f5ee4e975b43fa95954
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: CAF NC - Senegal vs Morocco [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1768888772-0-0-8a3eb0e80acd5fdace4bd8146adb64ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1768888772-0-0-cfc96d6878738e26b012ecd843fdc458
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1768888772-0-0-3eb6cc720b9d25a475ce94681b29a414
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1768888772-0-0-fda3833e3a68b44b40874ff45ec0ffe0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1768888772-0-0-50d0520cf4c638b8f23941c7fa3a4b48
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1768889852-0-0-306d424269d9a44b7a62a76d80b72709
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Lazio vs Como [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1768888772-0-0-a5e07f1c93390462d076409abce2faba
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1768889852-0-0-6b9d9e9d87ae0b3b856318ee73e5477e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Lazio vs Como [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1768888772-0-0-1465390a361203e177d1b9ecc2e05a83
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1768889852-0-0-9e7f883273ad1e0ae12cd9e7647c8a1f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Lazio vs Como [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1768888772-0-0-cf1afdedbe57c0242c797f059d9fa1ba
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1768889852-0-0-00f53c5e2cff4256b5dca3f45608e195
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: ITA D1 - Lazio vs Como [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1768888772-0-0-1ded645db306b6bad4adfb628e3b1f9f
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1768889852-0-0-3ca1cd959347ceb4c94604a28b352856
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Elche vs Sevilla FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1768888772-0-0-674b67bceeaf14df66b91104a4807201
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1768889852-0-0-09ecf3404436d0594dd1502ba8c15ca1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Elche vs Sevilla FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1768888772-0-0-f0aea25ab939a2cd01cb76cd38b1d921
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1768889852-0-0-5626ff0a7ba0accaea894279db56f890
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Elche vs Sevilla FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1768888772-0-0-0ccc85554cede1947db367d55d35fcd8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1768889852-0-0-3cac891e6e8382c37442061f7aa5dc26
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Elche vs Sevilla FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1768888772-0-0-c9142a2c00118eefaf9f34dd53d46383
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1768889852-0-0-2624a6d23c6c08a0bf54987ff1200383
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1768889852-0-0-ac04f922fb02c71846aba9b821a65fd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1768889852-0-0-10e975632427cb25adfe5f03785647fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1768889852-0-0-1291336fa515e40e75558748424d1ee6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260116/defc0180d40d6f2f265e60f24eec6992.png",Tường thuật: SPA D1 - Real Sociedad vs FC Barcelona [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1768889852-0-0-5e44be3a8997cab6ec0993189493643f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8bf38e477d945555872642f32648300b.png",09:05 ngày 20/01 Karen Khachanov vs Alex Michelsen (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1768928044&sign=24de29ffcac35c5cb396ebd1bb278148
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1768929486&sign=0efe0c897f740a586bc628164db462a6
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8bf38e477d945555872642f32648300b.png",09:05 ngày 20/01 Karen Khachanov vs Alex Michelsen (1) [Thịt Xiên] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928044/5128e7f1d2f2a6dc751454940226681c/271379686/live/xienHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929486/217e1a1cb48c5cd79bc50a4cee7a1764/327883723/live/xienHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8bf38e477d945555872642f32648300b.png",09:05 ngày 20/01 Karen Khachanov vs Alex Michelsen (1) [Thịt Xiên] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/b8D7Sk5uipt09Zfbzqg52g/Fv2lucGIbhPi2caWYvF5Lg/1768928044561/live/xienHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/oiUmY9IQ6IZOlmBSZ3vaGQ/Fv2lucGIbhPi2caWYvF5Lg/1768929486301/live/xienHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8bf38e477d945555872642f32648300b.png",09:05 ngày 20/01 Karen Khachanov vs Alex Michelsen (1) [Thịt Xiên] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ykEe-OaNPlV9kZd-vpZwsQ/Fv2lucGIbhPi2caWYvF5Lg/1768928044561/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/701WSAMhu_xYc7doLWTiCg/Fv2lucGIbhPi2caWYvF5Lg/1768929486301/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/8bf38e477d945555872642f32648300b.png",09:05 ngày 20/01 Karen Khachanov vs Alex Michelsen (1) [Thịt Xiên] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928044/aec2ebdda10c089a05f366fb0f402e42/250918586/live/xienFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929486/2c82eea6fd2bce9bfa96e0bf1b3695dc/942794758/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",09:10 ngày 20/01 Jakub Mensik vs Pablo Carreño Busta (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1768928045&sign=c1fc0be74fed489a15d111bc1ea7461c
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1768929487&sign=bb9f5546a3b50092ec8b292a025838c4
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",09:10 ngày 20/01 Jakub Mensik vs Pablo Carreño Busta (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928045/c3e333c596bfb5c0d17391dea3ee2857/306656145/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929487/f7eec4b191945e373d5b5405ccf70b15/863185808/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",09:10 ngày 20/01 Jakub Mensik vs Pablo Carreño Busta (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/z0SGN-IvYjU4iiUMT80EHw/Fv2lucGIbhPi2caWYvF5Lg/1768928045699/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/7JvV7bQVxwXbZCiun1vnUQ/Fv2lucGIbhPi2caWYvF5Lg/1768929487591/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",09:10 ngày 20/01 Jakub Mensik vs Pablo Carreño Busta (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Zi3M_heZgBK07b3u-ERwJA/Fv2lucGIbhPi2caWYvF5Lg/1768928045699/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/omOTN6eO-0-gVWTHNvReng/Fv2lucGIbhPi2caWYvF5Lg/1768929487591/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",09:10 ngày 20/01 Jakub Mensik vs Pablo Carreño Busta (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928045/0053875c22605608be2ff87058e4a375/333075904/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929487/4bef50c392d0c72627b2f7d7cdd3c8d3/236411725/live/meoFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png",09:45 ngày 20/01 Ben Shelton vs Ugo Humbert (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768928046&sign=8b56a3f46ed84bde13b0de423e31fe71
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768929488&sign=dfffb188dca573ebeadc0e85ee7aa317
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png",09:45 ngày 20/01 Ben Shelton vs Ugo Humbert (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928046/22b2211ccb99c35df8ddbdde2d49a6d5/160333037/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929488/d0e9be859ebb8a9573e25aa69879e609/960340883/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png",09:45 ngày 20/01 Ben Shelton vs Ugo Humbert (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/20IjWkqfsmAI9KrfDUs3Hg/Fv2lucGIbhPi2caWYvF5Lg/1768928046859/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ZMz33Qt3GUWqohjqn7cObw/Fv2lucGIbhPi2caWYvF5Lg/1768929488694/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png",09:45 ngày 20/01 Ben Shelton vs Ugo Humbert (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/xcNOMFztoVorrq8xKQvEwg/Fv2lucGIbhPi2caWYvF5Lg/1768928046859/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/FQehg_AEt8-WzfqjGsgM1g/Fv2lucGIbhPi2caWYvF5Lg/1768929488694/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png",09:45 ngày 20/01 Ben Shelton vs Ugo Humbert (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928046/868855f8b34dc8c6b021b0c2b37881e4/653171415/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929488/99dbcf7b0762437673f93be80b04d6ca/669602705/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768902847&sign=fc5e2e1de0465c8dfd3f3a32addf6484
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768904290&sign=b7afaf05cb5bedf16349e6cd05f36bd7
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768902847/78a687aff996face7396286e1bce53c0/107811851/live/thuongHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768904290/d9a1430b0f0f408b25d535512aa9b3d9/201829606/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/5Cc2-Wj7aD5lAQT_0V_Q9A/Fv2lucGIbhPi2caWYvF5Lg/1768902847981/live/thuongHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/mX2jk6PWA5BpeYu0JslVOA/Fv2lucGIbhPi2caWYvF5Lg/1768904290029/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ez_t01UeIH5IIBR7j77z9A/Fv2lucGIbhPi2caWYvF5Lg/1768902847981/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/40rfCwn72nc8z1ewTLCELw/Fv2lucGIbhPi2caWYvF5Lg/1768904290029/live/thuongSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768902847/19315a31a2e9e09ea3277bcca333bb40/685919789/live/thuongFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768904290/860b47f6a2a48ca6b89806b974df4b45/355170696/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 20/01 Warriors vs Heat (1) [Bánh Cuốn + Thương] Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/bG_zen6V_XTVLstXOjrpMQ/Fv2lucGIbhPi2caWYvF5Lg/1768902847981/live/may171/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/0nz9tUqdVI2RgVK8xgGbTQ/Fv2lucGIbhPi2caWYvF5Lg/1768904290030/live/may171/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/817bb3e0f0a60a3e04e82bcf0324d51c.png",10:20 ngày 20/01 Joao Fonseca vs Eliot Spizzirri (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1768928049&sign=c7eabd5f8229b6b979d090fb34041716
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1768929491&sign=eddee063432c41be2262c98553631b1f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/817bb3e0f0a60a3e04e82bcf0324d51c.png",10:20 ngày 20/01 Joao Fonseca vs Eliot Spizzirri (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928049/3635df207e7f71c6e333cecf57279b33/727144336/live/myHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929491/5d12393fb72c1d15b54956e93bf1cb42/917012988/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/817bb3e0f0a60a3e04e82bcf0324d51c.png",10:20 ngày 20/01 Joao Fonseca vs Eliot Spizzirri (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/6-2yp_AHZIWtP9vsJ0RK2A/Fv2lucGIbhPi2caWYvF5Lg/1768928049164/live/myHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/u83_7gSvJwH6mG0fIDhL2A/Fv2lucGIbhPi2caWYvF5Lg/1768929491179/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/817bb3e0f0a60a3e04e82bcf0324d51c.png",10:20 ngày 20/01 Joao Fonseca vs Eliot Spizzirri (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/B2N1WVPrVIKe2G0DfLSmYQ/Fv2lucGIbhPi2caWYvF5Lg/1768928049164/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/V62ZvaJ8bOlbEB-d7SPCYQ/Fv2lucGIbhPi2caWYvF5Lg/1768929491179/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/817bb3e0f0a60a3e04e82bcf0324d51c.png",10:20 ngày 20/01 Joao Fonseca vs Eliot Spizzirri (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928049/e2c974022cd337c9e92a57286325a222/956434841/live/myFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929491/ea92c77c711807fa7433e3fd118ec99f/952820196/live/myFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7bfe492a261aee76b206dd947d6de932.png",11:05 ngày 20/01 Dane Sweeny vs Gael Monfils (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1768928050&sign=d994124cd91b444ab5f9c8e412888ffb
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1768929492&sign=e8e4a450ff9c6557700242080feb491f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7bfe492a261aee76b206dd947d6de932.png",11:05 ngày 20/01 Dane Sweeny vs Gael Monfils (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928050/5af0adf2988a8a7e271145d3ebdbe31f/139375496/live/socHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929492/c3542dd893e28ebf25ad5a3505fa6f21/164140671/live/socHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7bfe492a261aee76b206dd947d6de932.png",11:05 ngày 20/01 Dane Sweeny vs Gael Monfils (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/on7FafWdxa8lFqN8kDVN-w/Fv2lucGIbhPi2caWYvF5Lg/1768928050288/live/socHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/sPQQgmSGP0kJCPxkWxOWDw/Fv2lucGIbhPi2caWYvF5Lg/1768929492305/live/socHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7bfe492a261aee76b206dd947d6de932.png",11:05 ngày 20/01 Dane Sweeny vs Gael Monfils (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/5CHrmh4RnvxxUw-GgWBmoA/Fv2lucGIbhPi2caWYvF5Lg/1768928050288/live/socSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/prZ1BQCGElmyuYGvsJCPmw/Fv2lucGIbhPi2caWYvF5Lg/1768929492305/live/socSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/7bfe492a261aee76b206dd947d6de932.png",11:05 ngày 20/01 Dane Sweeny vs Gael Monfils (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928050/1f036f36af757826135e124289232e1d/765480498/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929492/be9afc10fef410317229d5a0e721bee6/596677695/live/socFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",11:15 ngày 20/01 Elena Rybakina vs Kaja Juvan (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768928051&sign=0f79fa0602f4d033bc52d2054ca79d44
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768929493&sign=1629be7884dd50fc1ea532aa325a822d
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",11:15 ngày 20/01 Elena Rybakina vs Kaja Juvan (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928051/ad35a5ce4173ead588713483f555a0dd/560041400/live/conHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929493/959efb2c1f8a0f43b98e3934d9d5a6a8/913622395/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",11:15 ngày 20/01 Elena Rybakina vs Kaja Juvan (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/pl76TQmifha_ScICCzFCBw/Fv2lucGIbhPi2caWYvF5Lg/1768928051421/live/conHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/5rnB1aln7-DeVHTSDwm7kg/Fv2lucGIbhPi2caWYvF5Lg/1768929493398/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",11:15 ngày 20/01 Elena Rybakina vs Kaja Juvan (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/c_Qe1tVWcSvGb08sxECM0A/Fv2lucGIbhPi2caWYvF5Lg/1768928051422/live/conSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/85-7MXuO1amkcepAoBSyUg/Fv2lucGIbhPi2caWYvF5Lg/1768929493398/live/conSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",11:15 ngày 20/01 Elena Rybakina vs Kaja Juvan (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928051/7a2eca5c7b6df9fe020ff0572ff41636/232834625/live/conFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929493/6b857f967b644e449284f1f8bcd84ca5/274868583/live/conFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/UVE5vxMv8VCiMLhrxIlhZQ/Fv2lucGIbhPi2caWYvF5Lg/1768928052695/live/may28/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/TodUUaRjo0XxQ6qDeFuC6Q/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may28/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/6poY5AMibCOF3EZAEBKApA/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may6/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gikkl2K5v_kdoY7Nqo8Q-A/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may6/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] John Cain Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/MKmLsbR1L9RGIFKTlY3JnQ/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/T2V8mmv-DS7_nhlqs8w9Ag/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may281/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] 1573 Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/KC1EEn4WaKwKmce-a8Uv0g/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may241/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/XOT4JqKpCzs9Hgqvne1bwA/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may241/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] ANZ Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/_RI2xGqXMt-w1LeJsWP2Fw/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/MROpXjh2w_7J7TFemTnK8g/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Kia Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/8oetrnL8FhzUQ6-gddev3Q/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may12/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/45ItQZ26MX0H5bnTrZfGhw/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may12/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/31zYbAz5jn2M6dls2OyMaA/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/1u2nGKQ8-IPjYDwpCMH6Tg/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 6
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/_8ZGJOjm9dGym4e6LgCEqA/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/FDknDE914TKSmbimgZySMQ/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 7
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ouxqqJT_A1hJ3HrAg0CrEQ/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/EtxE-Tix10E4Fiq0Im0tTQ/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/kUo7aaVBY8pZt-XeGy1vPg/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/U6MuClMw03Hds38GHN9-aw/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may271/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 12
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/o8giomxEn5iGfKmc6kpiUw/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/tiFPEronEEi6tm5XunfyQA/Fv2lucGIbhPi2caWYvF5Lg/1768929494625/live/may24/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 13
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/M_MDzrDj9-pEjgvlaCvISQ/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/nQ-h86zGZ5lL_yGll2Y-5A/Fv2lucGIbhPi2caWYvF5Lg/1768929494626/live/may11/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 14
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/prvhH8RGd6VPoYogYfE3ug/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may121/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/18Ba8GuASss2Ce2u8unZ_A/Fv2lucGIbhPi2caWYvF5Lg/1768929494626/live/may121/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 20/01 Australian Open (1) [Nhà Đài] Court 15
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/fElpVEDKb92FQuH8jKCe3g/Fv2lucGIbhPi2caWYvF5Lg/1768928052696/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/AZYoiSFiFezYQmBDR-40OQ/Fv2lucGIbhPi2caWYvF5Lg/1768929494626/live/may27/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 20/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/TM90tCrsJaFW_H7RHghaJA/Fv2lucGIbhPi2caWYvF5Lg/1768928053841/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/F0zXG4M1GYVPtlSqnQErgA/Fv2lucGIbhPi2caWYvF5Lg/1768929496155/live/may21/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 20/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/NjRVRiy_oe5xCw-MvUDUBQ/Fv2lucGIbhPi2caWYvF5Lg/1768928053841/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/yQjyjVW8xg2jfoiKM4icUA/Fv2lucGIbhPi2caWYvF5Lg/1768929496155/live/may211/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 20/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/fJw5ZikjjK6Wxn1Ju4FPJA/Fv2lucGIbhPi2caWYvF5Lg/1768928053841/live/may17/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:20 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD Nhanh
+https://hotlivezz179026907.akainu.xyz/dR-ik2XyM4yEHbIN7voUxw/Fv2lucGIbhPi2caWYvF5Lg/1768929496155/live/may17/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:20 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1768928054&sign=ac53bd3d7f61390b791501a25891e9bd
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:20 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD1
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768929497&sign=4d909e12f0214de1239eaa744ccb4e5e
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:20 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928054/c879da58f1e7213d889e4af466570013/408582159/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:20 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD2
+https://9ceg0825.edgemaxcdn.org/1768929497/9abc06218c16e0a2cdc18509f5e9782b/364799177/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:20 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/xhyGk2Z-hJi9UxBIq2iP0w/Fv2lucGIbhPi2caWYvF5Lg/1768928054917/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:20 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] SD
+https://hotlivezz179266008.akainu.xyz/v9bWjOP_C_7vKdIpPQYTzg/Fv2lucGIbhPi2caWYvF5Lg/1768929497419/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:20 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/w46VhF-qEUjhBgd_Gx8X6A/Fv2lucGIbhPi2caWYvF5Lg/1768928054917/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:20 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] FullHD
+https://hotlivezz179602324.akainu.xyz/gI-CIvv3Jok_qrzBNT6jLA/Fv2lucGIbhPi2caWYvF5Lg/1768929497419/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:20 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928054/5ead384fe3203f92fa54492c3a294f54/422683963/live/myFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:10 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1768929497/0cc840d2ca9e34d1dfc4e5c30cb69626/842773471/live/oldFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:30 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768928410&sign=43beab6614ec52e07abe29153e7e3a54
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:10 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD1
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1768929498&sign=43bb82def2fdf793d513b82940eae116
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:30 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928410/835c64796e19d0d5194a12e52ecbe5ea/600557538/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:10 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] HD2
+https://9ceg0825.edgemaxcdn.org/1768929498/71aa407c9b2a73eb5912de0a8950db41/385230255/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:30 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yKY8-LZRQ05hdmJdG-qC4w/Fv2lucGIbhPi2caWYvF5Lg/1768928410479/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:10 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] SD
+https://hotlivezz179266008.akainu.xyz/zqQCoApEkGBfyc7gY9vh7A/Fv2lucGIbhPi2caWYvF5Lg/1768929498618/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:30 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/UmGXjwIj1pdhck9LkBP4Jg/Fv2lucGIbhPi2caWYvF5Lg/1768928410479/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/13a8a8371635efb726be117d6c809299.png",12:10 ngày 20/01 Sorana Cirstea vs Eva Lys (1) [Người Già] FullHD
+https://hotlivezz179602324.akainu.xyz/uvUG_9OhFUYun4cWF6qKCw/Fv2lucGIbhPi2caWYvF5Lg/1768929498618/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/f87e04ec6cbee185d4bba4e673fafdc1.png",12:30 ngày 20/01 Rebecca Sramkova vs Jeļena Ostapenko (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928410/9945f655e16a581572999eb7eeef9069/245196243/live/oldFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:25 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1768929498/e9c4f35e3be0399b0d3752779e460d2f/588059130/live/myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:45 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1768928411&sign=9bc79705ccea27f756a6668bad3cfab5
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:25 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD1
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1768929500&sign=4699b4da429d0f4fc5a725e165663704
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:45 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928411/619cc16c6d0fc5922ad5f56a11d7ea13/388844193/live/socHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:25 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD2
+https://9ceg0825.edgemaxcdn.org/1768929500/2189ca91a59c7fe0118bf5999c86e6ee/978793848/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:45 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/HJy-qphGyXlnwcMkMiLIrw/Fv2lucGIbhPi2caWYvF5Lg/1768928411708/live/socHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:25 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] SD
+https://hotlivezz179266008.akainu.xyz/P5-z00nyPU-SRlaOSJjghA/Fv2lucGIbhPi2caWYvF5Lg/1768929500774/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:45 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ML53Q99dwJzqOtUTnAitKQ/Fv2lucGIbhPi2caWYvF5Lg/1768928411708/live/socSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:25 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] FullHD
+https://hotlivezz179602324.akainu.xyz/jhTnBcZ8itXol8HSX47DiA/Fv2lucGIbhPi2caWYvF5Lg/1768929500774/live/socSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",12:45 ngày 20/01 Grigor Dimitrov vs Tomas Machac (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768928411/57b7416669271b0b1893b2372ffde56c/324572466/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768929500/c64d8adadb66d0a0a91e7e6d7512fb84/324181860/live/socFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",10h00 20/01 Golden State Warriors vs Miami Heat (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1506,6 +1510,9 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.domainapi.space/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",10h00 20/01 Golden State Warriors vs Miami Heat
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/10176.png",18h30 20/01 Japan U23 vs Korea Republic U23 (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://cdn.xembanh.live/live/0dq4pt7si9/playlist.m3u8
