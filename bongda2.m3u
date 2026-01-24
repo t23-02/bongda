@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/68b51269c5f1ef714b30f4a28c752a76/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/2901588b27808922610ec82a26631f01.png",04h00 ngày 25/01 Gremio Prudente vs Juventus SP (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/71f97c17857c5c3ac45ae1f7fc00bacf/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/c5b2a38cfaae2e8ed263a6af965bc117.png",04h00 ngày 25/01 XV de Piracicaba vs Oeste FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -39,6 +35,10 @@ https://live.alilicloud.com/live/89ddeba5ee3ba5510eebf355a67b858c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/8ed44ce56b6c8876ba830b63fa39fb51/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/d99224d8141858b8e278d3d4b6c43c63.png",05h00 ngày 25/01 Esporte Clube Sao Jose SP vs Monte Azul SP (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/16b22475bd4fb2b608f1abb73f8674fa/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/da03dcea1ad3e99b92a5d48dd5e11a47.png",05h00 ngày 25/01 Bandeirante vs AA Portuguesa Santista (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -548,42 +548,18 @@ https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV NHỊ KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD 1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD 1
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1636_1gzsy5a3y3r.png",05h10 ngày 25/01 Alianza Lima vs Inter Miami CF (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/8941e026a8debbd82633b019552e1515.png",05h00 ngày 25/01 Alianza Lima vs Inter Miami CF (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -632,6 +608,30 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png",03h30 ngày 25/01 Estoril vs Vitoria Guimaraes (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/94948fc766f16a1c165a92d2123b1e75/image/small?v=1768601124",00h30 ngày 25/01 Kelty Hearts vs Stenhousemuir (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1596,18 +1596,6 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/52819c4b269cb246ec46c9de2a397c1d/image/small?v=1768601124",04h30 ngày 25/01 Palmeiras vs Sao Paulo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8ed44ce56b6c8876ba830b63fa39fb51/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bdc4c83f053aaf395a9e5003ecaea857/image/small?v=1768601124",02h00 ngày 25/01 PSV Eindhoven vs NAC Breda (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/034003e49a74eee4d331ade5d86c9ba6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b0f8d1ce516d306e1b36b635a94b03a9/image/small?v=1768601124",02h00 ngày 25/01 RWDM Brussels vs Patro Eisden (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/17a8ef0ddc21189ba8d277bfcd37aa56/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f0304da1e519bee3e443e2eb0c6c0c56/image/small?v=1768601124",02h00 ngày 25/01 Renaissance de Berkane vs Pyramids FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1800,66 +1788,18 @@ https://live.alilicloud.com/live/878b3e5d4811fd0988bb7d6f05b3c6df/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b98a5c0c0f44b6003a54b6a5bd36f8cb/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1769297013-0-0-8db2a37e43f421f12e44844762066638
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1769297013-0-0-92599b40f9afc6366e92d84ac6394744
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769297013-0-0-57ed59687fd4c1c64a2e2292e09a77d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769297013-0-0-4b93c1f5fd17a20618e7e7a997c2ab54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1769297013-0-0-a959a79f1ccafe8780ee10017383b52d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1769297013-0-0-d5d1382965108fe463d7ce83f2163321
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1769297013-0-0-8414da13aec85940198ddd22886759f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1769297013-0-0-a068b7b8b3fe57b929dc9a9665c364b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=bac430c7824cccf50fe49ce661a1418f&txTime=69759ac5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=6fac4fc8e8f3206f50bfc00fd7120243&txTime=69759ac5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=bac430c7824cccf50fe49ce661a1418f&txTime=69759ac5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=6fac4fc8e8f3206f50bfc00fd7120243&txTime=69759ac5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769297013-0-0-4963857bd27c6aeb013337f122f22863
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769297013-0-0-33cf2e4f3cfe4037405e51e0c93aeea3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769297013-0-0-d7ceb8a1f357c7537c67d7d89ac17c96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769297013-0-0-9f4af9c68ae0e806f0748bfdeea91d6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769297013-0-0-8fe0c169a689f9d754faf5a66ab8f8c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769297013-0-0-062c12455d670a57d6eccd9b60288d6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769297013-0-0-d05fcab67e9276960475833feec86c5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769297013-0-0-1b6543b022b32dd67fd64ff29c7c7940
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/52819c4b269cb246ec46c9de2a397c1d/image/small?v=1768601124",04h30 ngày 25/01 Palmeiras vs Sao Paulo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8ed44ce56b6c8876ba830b63fa39fb51/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bdc4c83f053aaf395a9e5003ecaea857/image/small?v=1768601124",02h00 ngày 25/01 PSV Eindhoven vs NAC Breda (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/034003e49a74eee4d331ade5d86c9ba6/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b0f8d1ce516d306e1b36b635a94b03a9/image/small?v=1768601124",02h00 ngày 25/01 RWDM Brussels vs Patro Eisden (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/17a8ef0ddc21189ba8d277bfcd37aa56/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1769297733-0-0-3fa06fb73b92c7f9f6ea54fe473b153c
@@ -1944,6 +1884,78 @@ https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1769297733-0-0-2d66
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/b090d27c5658c2d98a2176b615e5103a.png",06h00 ngày 25/01 Atlante FC vs Club Jaiba Brava [NGOẠ LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1769297733-0-0-6870b414b61611b25562b3b18fca6e31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=86fc71d239e7d53f57c138c330aa7282&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=bb6984f6737d9010c9ae688c5ce40ff8&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=86fc71d239e7d53f57c138c330aa7282&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/e2e8d0db1e8b5e5b935643eb886b008f.png",05h30 ngày 25/01 Saint Louis Athletica Women vs Tijuana Women [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=bb6984f6737d9010c9ae688c5ce40ff8&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1769298093-0-0-c821ec118e64f0b05c865f531cabd990
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1769298093-0-0-70d86f15de4a067505b6d86fe8eb11bc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769298093-0-0-d6370d7461d98299aeb2777f2dfa64f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769298093-0-0-28a29618af4f92fed55b61067914eef6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/b090d27c5658c2d98a2176b615e5103a.png",06h00 ngày 25/01 Atlante FC vs Club Jaiba Brava [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=83278630d99c522d7405c28788e0a3aa&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/b090d27c5658c2d98a2176b615e5103a.png",06h00 ngày 25/01 Atlante FC vs Club Jaiba Brava [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=3f191e8fd71dd8e5f20d6eb0a5b65df8&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/b090d27c5658c2d98a2176b615e5103a.png",06h00 ngày 25/01 Atlante FC vs Club Jaiba Brava [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=83278630d99c522d7405c28788e0a3aa&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/b090d27c5658c2d98a2176b615e5103a.png",06h00 ngày 25/01 Atlante FC vs Club Jaiba Brava [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3f191e8fd71dd8e5f20d6eb0a5b65df8&txTime=69759efd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769298093-0-0-89a90c3807a38c87077f97f36f083c20
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769298093-0-0-944cac5bf11af11738d640505a151c69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769298093-0-0-4f5693633f8a612593568a3da61a60f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/0e7e7e9fc892592a02f5586d165379a4.png",05h30 ngày 25/01 Gimnasia La Plata vs Racing Club de Avellaneda [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769298093-0-0-86954b35b5e20db9d0596707cd288cfa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1769298093-0-0-0c910711f816f494246e0ac6650407a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1769298093-0-0-46242c2928e0b1373d38fa948acd1868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1769298093-0-0-d097f603fc484f5f6f131bb718d733d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/1f1b293110b14e4c4ef69cc57f101dce.png",04h30 ngày 25/01 Palmeiras vs Sao Paulo [BLV KAI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1769298093-0-0-5947f0252f4877566ffb435ce6cf1f70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769298093-0-0-3724d56db8a6600da3722e044dbd6a59
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769298093-0-0-373cbd1e1111c70c9cbc4b69b7b0fd67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769298093-0-0-bbc68ff4fa3137ff59a1490396e5df03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260122/393766f6e32d091ff8adc685c0380ea5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769298093-0-0-60781c732a1bede97b159dcb48994769
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-gz8vnmy67taa.jpg",01:40 ngày 25/01 24 Hours of Daytona : Race (1) [Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2013,6 +2025,18 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",05h30 25/01 Minnesota Timberwolves vs Golden State Warriors (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1153px-Dallas_Mavericks_logo.svg.png",08h30 25/01 Dallas Mavericks vs Los Angeles Lakers (Hội Quán) Full HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1153px-Dallas_Mavericks_logo.svg.png",08h30 25/01 Dallas Mavericks vs Los Angeles Lakers (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1153px-Dallas_Mavericks_logo.svg.png",08h30 25/01 Dallas Mavericks vs Los Angeles Lakers (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
