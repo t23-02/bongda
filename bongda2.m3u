@@ -1101,6 +1101,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769556213-0-0-1fdc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769556213-0-0-296a15fe97d4ec7e84464813f622dcf9
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",06h00 28/01 Huracan vs Independ. Rivadavia (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",06h00 28/01 Huracan vs Independ. Rivadavia (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",06h00 28/01 Huracan vs Independ. Rivadavia (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",03h45 28/01 Velez Sarsfield vs Talleres Cordoba
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
