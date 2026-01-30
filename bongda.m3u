@@ -419,14 +419,6 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130846_bd5e96a7.png",23h30 ngày 30/01 Al-Duhail SC vs Al-Rayyan SC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130846_bd5e96a7.png",23h30 ngày 30/01 Al-Duhail SC vs Al-Rayyan SC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251225_174245_7b5ab6f6.png",00h30 ngày 31/01 Al Neom vs Damac (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1088,6 +1080,18 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5916md7o/image/small",22h00 30/01 Pharco vs Masr (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 31/01 Antalyaspor vs Trabzonspor (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 31/01 Antalyaspor vs Trabzonspor (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 31/01 Antalyaspor vs Trabzonspor (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
