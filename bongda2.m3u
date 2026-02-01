@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/eb20b43a3e12a15bb8e10d8deb15fd0d.png",02h00 ngày 02/02 MC Alger vs Saint Eloi Lupopo (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/d892a784f717b5bab1f1489cbb893639/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png",02h00 ngày 02/02 CR Flamengo vs Corinthians Paulista (SP) (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -47,6 +43,10 @@ https://live.alilicloud.com/live/f605d9f0e3f6be4b7f08e1b30567ce5b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/949feb0517c95a4ad7efb0cf8f85450f/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/4217fbd9136652e934cb9e88cc462eef.png",04h00 ngày 02/02 Deportes La Serena vs Univ Catolica (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/5aa36100562cd7334c71eb3cb9845532/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/d6e78ecc939ce8a547c948fb894d7a32.png",04h00 ngày 02/02 Olimpia Asuncion vs Club Sportivo Trinidense (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -183,12 +183,6 @@ https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m405nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17342_165095615051.png",03h30 ngày 02/02 CD Tondela vs Benfica (Lương Sơn) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
@@ -279,66 +273,12 @@ https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac425
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (Lương Sơn) BLV THỜI THIÊN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f8ac17559f204d139563929dc7eeedeb.png",03h00 ngày 02/02 Granada CF vs Racing Santander (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png",03h00 ngày 02/02 Barracas Central vs Deportivo Riestra (Ra Khơi) Nhà đài
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204qt/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 02/02 Alianza Atletico Sullana vs Cusco FC (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m205qt/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) Dương Tiễn SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) Dương Tiễn HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) A Ngao SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) A Ngao HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6eaa9b83973c9befbf920823a42ba94c.png",02h00 ngày 02/02 Volendam vs Go Ahead Eagles (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -447,30 +387,66 @@ https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9a898de69155c05a6f8a171092f05945/image/small?v=1768601124",02h30 ngày 02/02 Salernitana vs Giugliano (Khán Đài A) source
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f8ac17559f204d139563929dc7eeedeb.png",03h00 ngày 02/02 Granada CF vs Racing Santander (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a07d35237d07eed492f2ef2b92be2672/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7646d75ba14441b0a6bfb5c88dd5064a/image/small?v=1768601124",02h00 ngày 02/02 Volendam vs Go Ahead Eagles (Khán Đài A) source
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203qt/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png",03h00 ngày 02/02 Barracas Central vs Deportivo Riestra (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/adf213c3fba6b91c664111f6fb528abb/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ba71d72ec79ce350fb10ca91df5cd99/image/small?v=1768601124",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista (Khán Đài A) source
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m204qt/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 02/02 Alianza Atletico Sullana vs Cusco FC (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b09a95506a1e6879181d863fd4ffb00b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",23h30 ngày 01/02 AZ Picerno ASD vs Potenza (Khán Đài A) source
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m205qt/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3ee53923d6c2521ea50e8a5d5d748201/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124",01h00 ngày 02/02 Deportivo Garcilaso vs Sporting Cristal (Khán Đài A) source
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d77b9192ca21c39bdd788944e573ea78/image/small?v=1768601124",02h30 ngày 02/02 Foggia vs Audace Cerignola (Khán Đài A) source
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) Dương Tiễn SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bde8df9ff5dc69db2e89d853fcadf99f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) Dương Tiễn HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02h45 ngày 02/02 Parma vs Juventus (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) A Ngao SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaosd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) A Ngao HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaohd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",03h00 ngày 02/02 Athletic Bilbao vs Real Sociedad (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f038921a753c48174c1fd70ff7cd5d26/image/small?v=1768601124",23h15 ngày 01/02 OGC Nice vs Stade Brestois 29 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -679,10 +655,34 @@ https://live3.fastestcdn-global.com/live3/39b905509e314388a44c5c096334a10d_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/25219768d60506b17f884eb3d70eac42/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f34276227ad6c36e9cfd1a9adcfc71b4/image/small?v=1768601124",22h30 ngày 01/02 Gil Vicente vs FC Famalicao (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9a898de69155c05a6f8a171092f05945/image/small?v=1768601124",02h30 ngày 02/02 Salernitana vs Giugliano (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/83e37022037bf56b5f00e075aed477be/playlist.m3u8
+https://live.alilicloud.com/live/a07d35237d07eed492f2ef2b92be2672/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/96e22dbef0f55e9a7e234ed66a27f11c/image/small?v=1768601124",04h00 ngày 02/02 Deportes La Serena vs Univ Catolica (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5aa36100562cd7334c71eb3cb9845532/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7646d75ba14441b0a6bfb5c88dd5064a/image/small?v=1768601124",02h00 ngày 02/02 Volendam vs Go Ahead Eagles (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/adf213c3fba6b91c664111f6fb528abb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ba71d72ec79ce350fb10ca91df5cd99/image/small?v=1768601124",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b09a95506a1e6879181d863fd4ffb00b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",23h30 ngày 01/02 AZ Picerno ASD vs Potenza (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3ee53923d6c2521ea50e8a5d5d748201/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124",01h00 ngày 02/02 Deportivo Garcilaso vs Sporting Cristal (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d77b9192ca21c39bdd788944e573ea78/image/small?v=1768601124",02h30 ngày 02/02 Foggia vs Audace Cerignola (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bde8df9ff5dc69db2e89d853fcadf99f/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125606_8a506f33.png",02h45 ngày 02/02 Parma vs Juventus (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1155,134 +1155,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ed8f3d0d4f35ef25c6ef5706795f48ae/image/small?v=1768601124",02h00 ngày 02/02 AEK Athens vs Olympiakos Piraeus (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8c421f5dc469266d6d2a37c784b73cf3/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9a898de69155c05a6f8a171092f05945/image/small?v=1768601124",02h30 ngày 02/02 Salernitana vs Giugliano (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a07d35237d07eed492f2ef2b92be2672/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b3c64d7b8fb24b1c3e5fad34fd20a7e0/image/small?v=1768601124",00h30 ngày 02/02 Pardubice vs Slavia Praha (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cfe9e9a0917edeb5d3e9297aca3eb2d1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d19434f3730fd04c41e2a1fc8fe0058d/image/small?v=1768601124",00h00 ngày 02/02 Cremonese vs Inter Milan (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2901307270b3b164024f984905d578c9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/77bdad221110a1cfe0254fd6210c6ec8/image/small?v=1768601124",00h30 ngày 02/02 Union SaintvsGilloise vs Club Brugge (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/362ce417fdebbedf785b4de627a2ed27/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/971e453f03abbecf714bc798148cc805/image/small?v=1768601124",00h30 ngày 02/02 SD Huesca vs Cadiz (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b6f016611da4f265621093d5f6712e84/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7646d75ba14441b0a6bfb5c88dd5064a/image/small?v=1768601124",02h00 ngày 02/02 Volendam vs Go Ahead Eagles (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/adf213c3fba6b91c664111f6fb528abb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d1d5fc4ca97ed98a0a6c6b1806938870/image/small?v=1768601124",00h30 ngày 02/02 Castellon vs Andorra CF (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/02c69cfb43957b1b1a78881561367ec3/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small?v=1768601124",01h00 ngày 02/02 Club America Women vs Unam Pumas Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/440cea7338fcf4a0087a9b6605e72658/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/077f5014f8ee19914fc2f7622918924d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small?v=1768601124",02h00 ngày 02/02 Atletico Bucaramanga vs Alianza Fútbol Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/06868067d9c18c60354bddda1fb2a8e8/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124",00h00 ngày 02/02 Galatasaray vs Kayserispor (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/25d6838aa4283c28bfeb576d2deae9ac/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5b4a6e7276aa6905ab1514c5bb362454/image/small?v=1768601124",01h00 ngày 02/02 Hapoel Petah Tikva vs Ashdod MS (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/70327c55fff2c2b870bbebfd2073dca7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124",01h00 ngày 02/02 Deportivo Garcilaso vs Sporting Cristal (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d77b9192ca21c39bdd788944e573ea78/image/small?v=1768601124",02h30 ngày 02/02 Foggia vs Audace Cerignola (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/bde8df9ff5dc69db2e89d853fcadf99f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d7682ca79050d2d8bc90139131b0a600/image/small?v=1768601124",00h30 ngày 02/02 Getafe vs RC Celta (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d5674782601edf1bb05ad9ea03fce7fd/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6f35d153c5246a590f8fbee04c31b249/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/8f6c47690b6542ce894221c90a3c4639_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/8f6c47690b6542ce894221c90a3c4639_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0f1f774574b2f860912f3b7d9c8350a8/image/small?v=1768601124",00h00 ngày 02/02 Juventus Women vs Sassuolo Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0ca96af3a278e1a3e00f698f515b173f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/54c0a4f2e30c047e561f386e04e0760e/image/small?v=1768601124",00h30 ngày 02/02 Al Fateh SC vs Al Hazem (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/538b7956da446938dd924fdf04157f81/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a3cb2ad85503dfbb1a24b31e12f7a59f/image/small?v=1768601124",01h00 ngày 02/02 Sporting CP vs Nacional da Madeira (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/869bd6a31c23cb096a946d7afd2dc390/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/99ec5123159e538b47018b9320afc2a0/image/small?v=1768601124",03h30 ngày 02/02 CD Tondela vs Benfica (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1371,90 +1243,126 @@ https://live8.fastestcdn-global.com/live8/737f00aeb150486791ef6e880cb870b2_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/20e7941ebe6391928c52900554a32fa6/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=c2c85a6fc713ba8567658cbc71c92123&txTime=69801046
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=a39763c9a2919cf1e08f94c423dfe606&txTime=69801046
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c2c85a6fc713ba8567658cbc71c92123&txTime=69801046
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=a39763c9a2919cf1e08f94c423dfe606&txTime=69801046
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769982454-0-0-1802edf83042d1a64a345b625514169e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769982454-0-0-b27d7d13de8fae9f841205b0912c2a59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769982454-0-0-4786f2ca8fe3a46cb8c278467ab0423f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769982454-0-0-6a45744dcf8c800961d2e36200ebdb1c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1769982454-0-0-ed54e2d5c760827487d2009a240c6f58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1769982454-0-0-87543897f7cf5449312d0cd8ae7f4b4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1769982454-0-0-bccd4d9a5eab4cbec22be328b7722666
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1769982454-0-0-e94ee84634b933d318e9c9f31aed3f0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769982454-0-0-29a36ab99bfaea6a60dbb618a3bafcd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769982454-0-0-3bf48fd74cb4dadc5034ef0caa91f8c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769982454-0-0-6c5e058074d9b1d60451a3bc44bf2aa9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769982454-0-0-09b666f2941b8233695870f5930a1933
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1769982454-0-0-e19ab61ea3e9fa5ddd6a9a94bab5d111
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1769982454-0-0-3983482f1872b1dfe99696dc1475fe41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1769982454-0-0-1d6a8d0f944e71cbfca9a2e0dd4ccb7a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1769982454-0-0-51ccd832d41fef29a2e5c630d1ff212c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769982454-0-0-459e2581d255e65c0b11cfc80b620acb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769982454-0-0-f1e5061361fa23b9969a953aa95392b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769982454-0-0-dbefcdacaec03c0774ccb083dd803472
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769982454-0-0-f2d934ada8efa1c3061cc101e803b3a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-480p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-720p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ed8f3d0d4f35ef25c6ef5706795f48ae/image/small?v=1768601124",02h00 ngày 02/02 AEK Athens vs Olympiakos Piraeus (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8c421f5dc469266d6d2a37c784b73cf3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9a898de69155c05a6f8a171092f05945/image/small?v=1768601124",02h30 ngày 02/02 Salernitana vs Giugliano (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a07d35237d07eed492f2ef2b92be2672/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/96e22dbef0f55e9a7e234ed66a27f11c/image/small?v=1768601124",04h00 ngày 02/02 Deportes La Serena vs Univ Catolica (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5aa36100562cd7334c71eb3cb9845532/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b3c64d7b8fb24b1c3e5fad34fd20a7e0/image/small?v=1768601124",00h30 ngày 02/02 Pardubice vs Slavia Praha (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/cfe9e9a0917edeb5d3e9297aca3eb2d1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/77bdad221110a1cfe0254fd6210c6ec8/image/small?v=1768601124",00h30 ngày 02/02 Union SaintvsGilloise vs Club Brugge (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/362ce417fdebbedf785b4de627a2ed27/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/971e453f03abbecf714bc798148cc805/image/small?v=1768601124",00h30 ngày 02/02 SD Huesca vs Cadiz (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b6f016611da4f265621093d5f6712e84/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7646d75ba14441b0a6bfb5c88dd5064a/image/small?v=1768601124",02h00 ngày 02/02 Volendam vs Go Ahead Eagles (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/adf213c3fba6b91c664111f6fb528abb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d1d5fc4ca97ed98a0a6c6b1806938870/image/small?v=1768601124",00h30 ngày 02/02 Castellon vs Andorra CF (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/02c69cfb43957b1b1a78881561367ec3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small?v=1768601124",01h00 ngày 02/02 Club America Women vs Unam Pumas Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/440cea7338fcf4a0087a9b6605e72658/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/077f5014f8ee19914fc2f7622918924d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d67b6d1fdd8d713e79712f9a50761316/image/small?v=1768601124",03h00 ngày 02/02 Athletic Club vs Real Sociedad (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/da395a07d2b4436d8fd1272a65b7c746_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small?v=1768601124",02h00 ngày 02/02 Atletico Bucaramanga vs Alianza Fútbol Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/06868067d9c18c60354bddda1fb2a8e8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5b4a6e7276aa6905ab1514c5bb362454/image/small?v=1768601124",01h00 ngày 02/02 Hapoel Petah Tikva vs Ashdod MS (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/70327c55fff2c2b870bbebfd2073dca7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124",01h00 ngày 02/02 Deportivo Garcilaso vs Sporting Cristal (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4778ae3465fd1647ceaf7fbd98a656c1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d77b9192ca21c39bdd788944e573ea78/image/small?v=1768601124",02h30 ngày 02/02 Foggia vs Audace Cerignola (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bde8df9ff5dc69db2e89d853fcadf99f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d7682ca79050d2d8bc90139131b0a600/image/small?v=1768601124",00h30 ngày 02/02 Getafe vs RC Celta (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d5674782601edf1bb05ad9ea03fce7fd/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6f35d153c5246a590f8fbee04c31b249/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/8f6c47690b6542ce894221c90a3c4639_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/8f6c47690b6542ce894221c90a3c4639_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/053f331ec4e0f34d407cc00983a133db/image/small?v=1768601124",02h45 ngày 02/02 Parma vs Juventus (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/8f6c47690b6542ce894221c90a3c4639_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/54c0a4f2e30c047e561f386e04e0760e/image/small?v=1768601124",00h30 ngày 02/02 Al Fateh SC vs Al Hazem (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/538b7956da446938dd924fdf04157f81/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a3cb2ad85503dfbb1a24b31e12f7a59f/image/small?v=1768601124",01h00 ngày 02/02 Sporting CP vs Nacional da Madeira (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/869bd6a31c23cb096a946d7afd2dc390/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1afd34c4aa7ca8762ae385924916f503&txTime=698011ae
@@ -1659,62 +1567,114 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769983174-0-0-b1bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769983174-0-0-533b7710f7081b283cf6e1d081c34126
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD Nhanh
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1769996886&sign=2975a21bb181c7f09a3cfd4a041c3b1a
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD1
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=b8e75a42103cb219d90056a7e33fc7b2&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769996886/a3727365bda051d4ed642577c9e14f7e/425715877/live/phoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD2
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=292350113ab01d6714efb6c2638391b9&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/d76SHoK0BaiN06xYkjdLLQ/Fv2lucGIbhPi2caWYvF5Lg/1769996886116/live/phoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] SD
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=b8e75a42103cb219d90056a7e33fc7b2&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/91cb0d9eb13ed254471c91e765ff1035.png",02h45 ngày 02/02 RC Strasbourg Alsace vs Paris Saint Germain [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/owt6ICvuYgihJDYc5BLThw/Fv2lucGIbhPi2caWYvF5Lg/1769996886116/live/phoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] FullHD
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=292350113ab01d6714efb6c2638391b9&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769996886/a30f23c6d91127bbe40312df1a8cf9fa/571937666/live/phoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] Backup 1
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769983534-0-0-d1d657b759b4c9d333284541e82d375e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/GWkvdtu73-htSlLDae1xng/Fv2lucGIbhPi2caWYvF5Lg/1769996886114/live/sd-6MuSNj3GqvwziryQdy/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] Backup 2
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769983534-0-0-fedc1c28bf0c55b1703b128bfef03241
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/34_h0b8cujubV-sMwyRLyg/Fv2lucGIbhPi2caWYvF5Lg/1769996886114/live/hd-en-6MuSNj3GqvwziryQdy/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD Nhanh
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769983534-0-0-d5819d88e99d79d1dba87524f3b0e19f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/8cd256499a078db087da8597ff8c688b.png",02h45 ngày 02/02 Parma vs Juventus [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769996887&sign=21eea06e635f7bf89b07b21d935a9737
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD1
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769983534-0-0-038019dbd4f19a4c2ec502de54fa1af6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769996887/f530ac9ee9dd7af15d58f6a0692cec8e/468104762/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD2
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769983534-0-0-2fcec5ea43586244b7f9cc474ca9c4ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/WTkKs_a4lK8oe7_QPycBaw/Fv2lucGIbhPi2caWYvF5Lg/1769996887405/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] SD
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769983534-0-0-9b5814d88599b708e7da4d315b6e7805
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/O4mcw9FxtPhadKUz6OnwXw/Fv2lucGIbhPi2caWYvF5Lg/1769996887405/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] FullHD
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769983534-0-0-c8298952ef5d6b48a496f33e71190478
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/78a46b4c72e17268d734630c1f79a5d7.png",03h30 ngày 02/02 CD Tondela vs Benfica [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769996887/3b5b028afc01a11ba20bfa1373f5bcf4/451371462/live/myFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] Backup 1
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769983534-0-0-6fa3a5e58ba06a7a4494c6ad22b9189b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/u_2qQBxynSerC2K_WeWQhw/Fv2lucGIbhPi2caWYvF5Lg/1769996887403/live/sd-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] Backup 2
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1769983534-0-0-ac7ba2e791bf3ae9d33f814b48da87e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/gpueJryeFA9ls2AzmxTdFg/Fv2lucGIbhPi2caWYvF5Lg/1769996887404/live/hd-en-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1769983534-0-0-f1ed054332c477c684a1418a9b48a8a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1769983534-0-0-f50523efbe30a7ea6fc17258bb43060f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1769983534-0-0-7d3f417efa1d49653396281c132a502e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769983534-0-0-97cd7009220acd5f71791457c14bc971
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769983534-0-0-83260d79c7d9f5f9cd8e546b1c511d67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769983534-0-0-cd09a80b72b622c6aa8c6332a2342344
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769983534-0-0-f1c3489f8f04b0717b95bfe5f85a7312
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/5144e76f271a8f50de283f8b87a3a295.png",02h00 ngày 02/02 CR Flamengo vs Sport Club Corinthians Paulista [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1769983534-0-0-9b2db6d0306f42749f3ba01b43dce72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1769983534-0-0-836b5f9548d35f896e25af6ed06f94f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1769983534-0-0-e38c1f179fe412c5dfa45ad185ecc173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/c000db06ea81c34d90c08b0bf39a849a.png",03h00 ngày 02/02 Athletic Club vs Real Sociedad [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1769983534-0-0-8487930b5f62cc7175942d72772c5d97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769983534-0-0-620149d792761b6d6cf4a1b5f448f473
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769983534-0-0-53ac0eb60c6a0d2b354abacfdb85a6b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769983534-0-0-c2e1d51d76a4b69306f644a9b4c8b5c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769983534-0-0-c01552807142442e906bd83028ac52ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=37491a261d9fa9ec5307e3f84b8bd615&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=2ca0b6811d43f65f93f1dc7cbc3d758e&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=37491a261d9fa9ec5307e3f84b8bd615&txTime=6980147e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/0fbccd1aee43c18209973c3131f5e2c1.png",04h30 ngày 02/02 Mirassol vs Gremio Novorizontino [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=2ca0b6811d43f65f93f1dc7cbc3d758e&txTime=6980147e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png",02:00 ngày 02/02 Olsztyn vs Norwid Czestochowa (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1867,6 +1827,62 @@ https://9ceg0825.edgemaxcdn.org/1769997611/7b6fd9a6769a2b55cf320ec5072c5394/9513
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/_M0Qgj4tqSRceu2eqN0UlA/Fv2lucGIbhPi2caWYvF5Lg/1769997611827/live/sd-6MuSsYgmRMhGz8rNDh/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1769997966&sign=86e81eef8a3ea9b0427979aa9e262363
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769997966/dbf276c372f53e155a8e388bcfb703ce/178799128/live/phoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/4-1WAKDTgrcdQYnKUX1Idw/Fv2lucGIbhPi2caWYvF5Lg/1769997966043/live/phoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/u1iC2Au5jLez0K3VwyW7OQ/Fv2lucGIbhPi2caWYvF5Lg/1769997966043/live/phoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769997966/ecdd99fc42d1c75118b8e5355dcebed0/254994583/live/phoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/GCjvNxQqfP-1ZhJ3kt0TUA/Fv2lucGIbhPi2caWYvF5Lg/1769997966042/live/sd-6MuSNj3GqvwziryQdy/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",02:45 ngày 02/02 Parma vs Juventus (1) [Phở Bò] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/cBEq5njSzgwzfd4crDNsxw/Fv2lucGIbhPi2caWYvF5Lg/1769997966042/live/hd-en-6MuSNj3GqvwziryQdy/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769997967&sign=e10c7199b6a27b85c625513e7531ae37
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769997967/5a42fea2b9519b362e97c9f00b843b97/119282899/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/J9ExRgmnewBbCP5p02Fn1A/Fv2lucGIbhPi2caWYvF5Lg/1769997967257/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/8xtjn0kEvuSzYgTYS1__2w/Fv2lucGIbhPi2caWYvF5Lg/1769997967257/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769997967/f483a07e03314e56135337af74bc762c/909583870/live/myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Wfj1yekPJHtMCfTipejRsQ/Fv2lucGIbhPi2caWYvF5Lg/1769997967255/live/sd-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",02:45 ngày 02/02 Strasbourg vs Paris Saint Germain (PSG) (1) [Mỳ Tôm] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wHUw2LChGllGgaNC054LpQ/Fv2lucGIbhPi2caWYvF5Lg/1769997967256/live/hd-en-6MuT7Y4fwgD2MGdnjd/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",02h45 02/02 Strasbourg vs Paris Saint Germain (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
