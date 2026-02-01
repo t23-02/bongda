@@ -223,18 +223,6 @@ https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8930_1gtzd9vt342p.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8930_1gtzd9vt342p.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1094_1k0381772v21.png",08h00 ngày 01/02 Monterrey vs Club Tijuana (Lương Sơn) BLV GIÁO SƯ XOAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1094_1k0381772v21.png",08h00 ngày 01/02 Monterrey vs Club Tijuana (Lương Sơn) BLV GIÁO SƯ XOAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/67030_1j7n7br4pg2z.png",07h30 ngày 01/02 Fort Lauderdale (W) vs Lexington SC (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvYM2bLG8muxgsCck/playlist.m3u8
@@ -289,18 +277,78 @@ https://auto.cdnok9.com/live/sd-6MvYrF62BigJoNhNZ2/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",08h30 ngày 01/02 South Island United FC vs South Melbourne (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1094_1k0381772v21.png",08h00 ngày 01/02 Monterrey vs Club Tijuana (Lương Sơn) BLV GIÁO SƯ XOAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1094_1k0381772v21.png",08h00 ngày 01/02 Monterrey vs Club Tijuana (Lương Sơn) BLV GIÁO SƯ XOAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8930_1gtzd9vt342p.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8930_1gtzd9vt342p.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/CKIVcM5A-YZ45kxuU.png",07h30 ngày 01/02 Tampa Bay Sun (W) vs Spokane Zephyr (W) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/pGegEiWg-fNIb5Gmc.png",07h30 ngày 01/02 Fort Lauderdale Utd (W) vs Lexington SC (W) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png",08h00 ngày 01/02 Xelaju MC vs C.S.D. Comunicaciones (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/KrG8A0Ar-xGLGTwx0.png",08h00 ngày 01/02 Grenada U17(w) vs Costa Rica (w) U17 (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m405nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1cd995bdc2b652d31129d027afb27ed8.png",08h00 ngày 01/02 Monarcas Morelia vs Cancun FC (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",08h00 ngày 01/02 Mazatlan FC (w) vs Club Necaxa (w) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/2NhAqUzB-GvtGUwUs.png",07h00 ngày 01/02 Aruba U17(w) vs St. Vincent Grenadines (w)(17 (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/4519ae1d1e9015ef859c968090bbd9de.png",08h30 ngày 01/02 CD Olimpia vs Juticalpa (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2d87cf3b426597f02435e2c72e8def93.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -397,142 +445,6 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/CKIVcM5A-YZ45kxuU.png",07h30 ngày 01/02 Tampa Bay Sun (W) vs Spokane Zephyr (W) (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m403nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/pGegEiWg-fNIb5Gmc.png",07h30 ngày 01/02 Fort Lauderdale Utd (W) vs Lexington SC (W) (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png",08h00 ngày 01/02 Xelaju MC vs C.S.D. Comunicaciones (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/KrG8A0Ar-xGLGTwx0.png",08h00 ngày 01/02 Grenada U17(w) vs Costa Rica (w) U17 (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m405nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1cd995bdc2b652d31129d027afb27ed8.png",08h00 ngày 01/02 Monarcas Morelia vs Cancun FC (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",08h00 ngày 01/02 Mazatlan FC (w) vs Club Necaxa (w) (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/263926d4df7caf6a4ea747218f41bbab.png",08h10 ngày 01/02 Club Leon vs Tigres UANL (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",06h00 ngày 01/02 Atletico San Luis vs Chivas Guadalajara (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f73687e4af2f8a2c6b82ccecb0d89b36/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e457fd8164559727d60ef8828ece3b9e/image/small?v=1768601124",06h00 ngày 01/02 Atlas vs Mazatlan FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6f680d0961263e8ef63c8ca4e0cbb850/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2ed5e00e6bf229d2c575f1d8d7ab9ff7/image/small?v=1768601124",05h45 ngày 01/02 CA Independiente vs Velez Sarsfield (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c9ad36254616ab96f7d7914dc2e11ab0/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3d36ecc5a26df190a1c5488b3b16c2d7/image/small?v=1768601124",04h30 ngày 01/02 Athletic Club vs Uberlandia MG (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6f5b7aa26ff21a45743eb22daf7d7037/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8995f7c42d311e226c2ebfa3a2474878/image/small?v=1768601124",04h00 ngày 01/02 CA Votuporanguense SP vs Gremio Prudente (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/04e8d0f89dbe3c840fc0c04c0a9ff857/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6a7f82e76c3dcd06ebf9319fbed10082/image/small?v=1768601124",04h45 ngày 01/02 Cruz Azul Women vs Queretaro Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f7fe6e83210b907db75eae2424ba3b6e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e4ecee9f6f3dedd1e190c1f5455b92b3/image/small?v=1768601124",03h30 ngày 01/02 Vizela vs Portimonense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/83ea7afeb0220daa012c5b404111dc23/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f05dad7f0129ca9cc33635b8c927d167/image/small?v=1768601124",04h30 ngày 01/02 America MG vs URT MG (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/55a18d3a332cceb9a548c4afe6a10857/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e40c5b5d0261736dea34d0a745bc8963/image/small?v=1768601124",04h00 ngày 01/02 Catanduva FC vs Itapirense/SP (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/41b0bbf8712831e9527871fd82f8642d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/96cd978a42f9887190c6509bc185d1fb/image/small?v=1768601124",05h00 ngày 01/02 Circle Newtown United vs Sandy Point (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/831c1b7b00a70b6910722f194dd97ee3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ad18242c277a5f5efab2078cf3010b05/image/small?v=1768601124",03h30 ngày 01/02 San Lorenzo vs Central Cordoba SDE (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/451f9baeed1a9d38e1eb4333e6ab43b6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4cf4e00cfce887d205e304fb15bcb0bc/image/small?v=1768601124",06h15 ngày 01/02 Sportivo Ameliano vs Sportivo San Lorenzo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/22a914fd2f24e140c2c7a03cedef4df7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6cb478ef8695f44558c4256f6b18584e/image/small?v=1768601124",06h00 ngày 01/02 Real Madriz FC vs Matagalpa FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ba2f5e767c48e961f3aa8132dfc2dae9/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6605df8b217b2e78a18f84dc051a74fa/image/small?v=1768601124",03h15 ngày 01/02 Juan Pablo II vs FC Cajamarca (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a7e7035feea1e6d70dfad4c719e88aa6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b7113ba28a629f1fa1dfe395a795cc/image/small?v=1768601124",07h00 ngày 01/02 Aruba U17(w) vs St. Vincent Grenadines Women U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ecf2a18e2614642a0813859279fe5f06/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/44d7e26f27411d527c60698c3702cc55/image/small?v=1768601124",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/67f3406c4bcbe976747cbe022024667d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4858cbb6daebde2cba03fe5ce407b2f0/image/small?v=1768601124",04h00 ngày 01/02 FC Nacional Asuncion vs Club Sportivo 2 de Mayo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2b2cb9e7dfdab5b344f2e8c83f1eae96/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/910a6f65b98de5a46b848f6341da406f/image/small?v=1768601124",04h00 ngày 01/02 Rayo Zuliano vs Zamora Barinas (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f146657ce28b1b17af8ea1ead05fe74e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9e5cd6bd272a52847abd201ef240dc4f/image/small?v=1768601124",04h00 ngày 01/02 HYH Export Sebaco FC vs Walter Ferretti (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/18cb9efca47f0678e5d8c750772a0cf4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",05h00 ngày 01/02 Anguilla U17 Women vs British Virgin Islands (W) u17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aacfa67518a284f24447cb18d1de557f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e43544b1b33cbd0f3bf6c3648f603424/image/small?v=1768601124",04h00 ngày 01/02 Diriangen vs UNAN Managua (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5063d321befd09b5655d95354f5e8fe3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dabc68d1264125c30bc0b2379b62410c/image/small?v=1768601124",06h30 ngày 01/02 FBC Melgar vs Cienciano (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4155c73d4529666cb0915da05bf503ca/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/744135b034300ebccc47d9d23c00dfca/image/small?v=1768601124",04h00 ngày 01/02 Potyguar Seridoense vs ABC RN (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -637,26 +549,98 @@ https://live.alilicloud.com/live/a9a90d65bb83bb5e92c0a856b221c71e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5e52a4cd937b2c47d7a10f55b6b32db3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124",03h05 ngày 01/02 AS Monaco vs Stade Rennais FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/48085a5dfc6fd82a6d7797237faee615/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124",03h05 ngày 01/02 AS Monaco vs Stade Rennais FC (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/7c2824f839874fb5a0e1dc3f4bfb85ae_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124",03h05 ngày 01/02 AS Monaco vs Stade Rennais FC (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/7c2824f839874fb5a0e1dc3f4bfb85ae_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124",03h05 ngày 01/02 AS Monaco vs Stade Rennais FC (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/7c2824f839874fb5a0e1dc3f4bfb85ae_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/879825c73c59105c723b3c114d7bb370/image/small?v=1768601124",05h00 ngày 01/02 Sertaozinho vs Linense(BRA) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/641fdbb0e56da3a32028ff7aaae868af/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",06h00 ngày 01/02 Atletico San Luis vs Chivas Guadalajara (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f73687e4af2f8a2c6b82ccecb0d89b36/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e457fd8164559727d60ef8828ece3b9e/image/small?v=1768601124",06h00 ngày 01/02 Atlas vs Mazatlan FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6f680d0961263e8ef63c8ca4e0cbb850/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2ed5e00e6bf229d2c575f1d8d7ab9ff7/image/small?v=1768601124",05h45 ngày 01/02 CA Independiente vs Velez Sarsfield (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c9ad36254616ab96f7d7914dc2e11ab0/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3d36ecc5a26df190a1c5488b3b16c2d7/image/small?v=1768601124",04h30 ngày 01/02 Athletic Club vs Uberlandia MG (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6f5b7aa26ff21a45743eb22daf7d7037/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8995f7c42d311e226c2ebfa3a2474878/image/small?v=1768601124",04h00 ngày 01/02 CA Votuporanguense SP vs Gremio Prudente (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/04e8d0f89dbe3c840fc0c04c0a9ff857/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6a7f82e76c3dcd06ebf9319fbed10082/image/small?v=1768601124",04h45 ngày 01/02 Cruz Azul Women vs Queretaro Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f7fe6e83210b907db75eae2424ba3b6e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e4ecee9f6f3dedd1e190c1f5455b92b3/image/small?v=1768601124",03h30 ngày 01/02 Vizela vs Portimonense (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/83ea7afeb0220daa012c5b404111dc23/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f05dad7f0129ca9cc33635b8c927d167/image/small?v=1768601124",04h30 ngày 01/02 America MG vs URT MG (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/55a18d3a332cceb9a548c4afe6a10857/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e40c5b5d0261736dea34d0a745bc8963/image/small?v=1768601124",04h00 ngày 01/02 Catanduva FC vs Itapirense/SP (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/41b0bbf8712831e9527871fd82f8642d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/96cd978a42f9887190c6509bc185d1fb/image/small?v=1768601124",05h00 ngày 01/02 Circle Newtown United vs Sandy Point (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/831c1b7b00a70b6910722f194dd97ee3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ad18242c277a5f5efab2078cf3010b05/image/small?v=1768601124",03h30 ngày 01/02 San Lorenzo vs Central Cordoba SDE (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/451f9baeed1a9d38e1eb4333e6ab43b6/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4cf4e00cfce887d205e304fb15bcb0bc/image/small?v=1768601124",06h15 ngày 01/02 Sportivo Ameliano vs Sportivo San Lorenzo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/22a914fd2f24e140c2c7a03cedef4df7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6cb478ef8695f44558c4256f6b18584e/image/small?v=1768601124",06h00 ngày 01/02 Real Madriz FC vs Matagalpa FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ba2f5e767c48e961f3aa8132dfc2dae9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6605df8b217b2e78a18f84dc051a74fa/image/small?v=1768601124",03h15 ngày 01/02 Juan Pablo II vs FC Cajamarca (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a7e7035feea1e6d70dfad4c719e88aa6/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b7113ba28a629f1fa1dfe395a795cc/image/small?v=1768601124",07h00 ngày 01/02 Aruba U17(w) vs St. Vincent Grenadines Women U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ecf2a18e2614642a0813859279fe5f06/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/44d7e26f27411d527c60698c3702cc55/image/small?v=1768601124",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/67f3406c4bcbe976747cbe022024667d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4858cbb6daebde2cba03fe5ce407b2f0/image/small?v=1768601124",04h00 ngày 01/02 FC Nacional Asuncion vs Club Sportivo 2 de Mayo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2b2cb9e7dfdab5b344f2e8c83f1eae96/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/910a6f65b98de5a46b848f6341da406f/image/small?v=1768601124",04h00 ngày 01/02 Rayo Zuliano vs Zamora Barinas (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f146657ce28b1b17af8ea1ead05fe74e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9e5cd6bd272a52847abd201ef240dc4f/image/small?v=1768601124",04h00 ngày 01/02 HYH Export Sebaco FC vs Walter Ferretti (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/18cb9efca47f0678e5d8c750772a0cf4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",05h00 ngày 01/02 Anguilla U17 Women vs British Virgin Islands (W) u17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aacfa67518a284f24447cb18d1de557f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e43544b1b33cbd0f3bf6c3648f603424/image/small?v=1768601124",04h00 ngày 01/02 Diriangen vs UNAN Managua (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5063d321befd09b5655d95354f5e8fe3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dabc68d1264125c30bc0b2379b62410c/image/small?v=1768601124",06h30 ngày 01/02 FBC Melgar vs Cienciano (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4155c73d4529666cb0915da05bf503ca/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_cd09ca5d.png",08h00 ngày 01/02 Atletico Tucuman vs Huracan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1105,42 +1089,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",06h00 ngày 01/02 Atletico San Luis vs Chivas Guadalajara (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f73687e4af2f8a2c6b82ccecb0d89b36/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e457fd8164559727d60ef8828ece3b9e/image/small?v=1768601124",06h00 ngày 01/02 Atlas vs Mazatlan FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6f680d0961263e8ef63c8ca4e0cbb850/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2ed5e00e6bf229d2c575f1d8d7ab9ff7/image/small?v=1768601124",05h45 ngày 01/02 CA Independiente vs Velez Sarsfield (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c9ad36254616ab96f7d7914dc2e11ab0/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4cf4e00cfce887d205e304fb15bcb0bc/image/small?v=1768601124",06h15 ngày 01/02 Sportivo Ameliano vs Sportivo San Lorenzo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/22a914fd2f24e140c2c7a03cedef4df7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6cb478ef8695f44558c4256f6b18584e/image/small?v=1768601124",06h00 ngày 01/02 Real Madriz FC vs Matagalpa FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ba2f5e767c48e961f3aa8132dfc2dae9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/42b7113ba28a629f1fa1dfe395a795cc/image/small?v=1768601124",07h00 ngày 01/02 Aruba U17(w) vs St. Vincent Grenadines Women U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ecf2a18e2614642a0813859279fe5f06/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44d7e26f27411d527c60698c3702cc55/image/small?v=1768601124",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/67f3406c4bcbe976747cbe022024667d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/71ab7f4634f4f9b46be49e6f3ac8dc43/image/small?v=1768601124",05h00 ngày 01/02 Esporte Clube Sao Jose SP vs Inter de Limeira (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a23bcd0e99bd51eaf2d6d380fd634b67/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/226187bc71b508a45bf286720ff76745/image/small?v=1768601124",05h00 ngày 01/02 Dallas Trinity Women vs Brooklyn City Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d310adfd0313710785a2b66e028d025d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4de1e8dfa42333ad27b9bdfe237e1d80/image/small?v=1768601124",06h30 ngày 01/02 Primavera vs Portuguesa Desportos (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1185,10 +1133,6 @@ https://live.alilicloud.com/live/06cbf6093c580699ae2312c4f09947f4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ca2da6deafbf9fbeed28a27e6fabbf5e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/96cd978a42f9887190c6509bc185d1fb/image/small?v=1768601124",05h00 ngày 01/02 Circle Newtown United vs Sandy Point (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/831c1b7b00a70b6910722f194dd97ee3/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fd363c9466a7b4bb749a1106d6defe68/image/small?v=1768601124",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1197,126 +1141,38 @@ https://live.alilicloud.com/live/a9a90d65bb83bb5e92c0a856b221c71e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ddee8165785ed78dbbd08d1629c335cd/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",05h00 ngày 01/02 Anguilla U17 Women vs British Virgin Islands (W) u17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/aacfa67518a284f24447cb18d1de557f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dabc68d1264125c30bc0b2379b62410c/image/small?v=1768601124",06h30 ngày 01/02 FBC Melgar vs Cienciano (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4155c73d4529666cb0915da05bf503ca/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/879825c73c59105c723b3c114d7bb370/image/small?v=1768601124",05h00 ngày 01/02 Sertaozinho vs Linense(BRA) (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",06h00 ngày 01/02 Atletico San Luis vs Chivas Guadalajara (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/641fdbb0e56da3a32028ff7aaae868af/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=e1bfd18c889a53d14e82688b41877199&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=2353da00aaf63dd61d1b6ff8d8025edb&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=e1bfd18c889a53d14e82688b41877199&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=2353da00aaf63dd61d1b6ff8d8025edb&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769914053-0-0-773eea334913e54c9fb22146057868f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769914053-0-0-1469af0b81d88fa39069de3c149088ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769914053-0-0-117c7c4a416f1f169fe5a5c0a469712e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769914053-0-0-a125de57f525e72ca95435acb8efc872
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1769914053-0-0-922d80c0dcd80507e14f0d6dcfc541a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1769914053-0-0-48c3f47dcab37d38645c0605287ab618
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769914053-0-0-75b509f5d03e2961e31f9f2693445281
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1769914053-0-0-bbc0b4c85bb137f9e38787bf1adfc882
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=e29b77536dc267929c4774dd54cad1ec&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=163e24f0b70eb05a3cb5f2725e1175fe&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=e29b77536dc267929c4774dd54cad1ec&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=163e24f0b70eb05a3cb5f2725e1175fe&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=f9288e9da92ee490c95f3295e4d67c2d&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=7516b610d4b81b7142634a8b559ae538&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=f9288e9da92ee490c95f3295e4d67c2d&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=7516b610d4b81b7142634a8b559ae538&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769914053-0-0-51bc85d7e1a19daab4fc128b4143ed59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769914053-0-0-bf92885040ecaad166b838d52329fafb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769914053-0-0-022d67fd16da878f4d377e5909f24bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769914053-0-0-daa832677f5feae903e702dd8e4e4490
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=49e46335b26f848cd631dd4fa25765a9&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=0860f42dbec489bf46b2fb05603aca0e&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=49e46335b26f848cd631dd4fa25765a9&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0860f42dbec489bf46b2fb05603aca0e&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=c1ce8e3eb5ee96113598f6f6150b8a10&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=2dfdb94044593665f88777ccb3c44882&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=c1ce8e3eb5ee96113598f6f6150b8a10&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=2dfdb94044593665f88777ccb3c44882&txTime=697f0515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769914053-0-0-20ea58af97168b90d55deaa54b51508a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769914053-0-0-0f1be6a6af2f61d453fd2018c50dfdc2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769914053-0-0-729350d5861f16ded2257fada973adff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769914053-0-0-bc843760397d0823f69d04733c8d5935
+https://live.alilicloud.com/live/f73687e4af2f8a2c6b82ccecb0d89b36/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e457fd8164559727d60ef8828ece3b9e/image/small?v=1768601124",06h00 ngày 01/02 Atlas vs Mazatlan FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6f680d0961263e8ef63c8ca4e0cbb850/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2ed5e00e6bf229d2c575f1d8d7ab9ff7/image/small?v=1768601124",05h45 ngày 01/02 CA Independiente vs Velez Sarsfield (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c9ad36254616ab96f7d7914dc2e11ab0/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4cf4e00cfce887d205e304fb15bcb0bc/image/small?v=1768601124",06h15 ngày 01/02 Sportivo Ameliano vs Sportivo San Lorenzo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/22a914fd2f24e140c2c7a03cedef4df7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6cb478ef8695f44558c4256f6b18584e/image/small?v=1768601124",06h00 ngày 01/02 Real Madriz FC vs Matagalpa FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ba2f5e767c48e961f3aa8132dfc2dae9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/42b7113ba28a629f1fa1dfe395a795cc/image/small?v=1768601124",07h00 ngày 01/02 Aruba U17(w) vs St. Vincent Grenadines Women U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ecf2a18e2614642a0813859279fe5f06/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44d7e26f27411d527c60698c3702cc55/image/small?v=1768601124",08h30 ngày 01/02 Orsomarso vs Union Magdalena (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/67f3406c4bcbe976747cbe022024667d/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1769914413-0-0-f5d3b165ae04cecbfb427d8f68f66fe9
@@ -1557,106 +1413,114 @@ https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1769914773-0-0-a4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1769914773-0-0-938f9f74887e0a4e39724a641c9c0f22
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD Nhanh
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1769953684&sign=c2f7b3ad74220abd2a87ccb933aeab3b
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD1
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769915133-0-0-fbb3488593264199ee7210bb694b87be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769953684/56fe0cb74cc70b451e2ce024cce51921/212321711/live/nenHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD2
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769915133-0-0-1fc7a53ff2e59e7c67e9571a8fee7b0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/tGubBF0N0_DYNXeo6wfeDw/Fv2lucGIbhPi2caWYvF5Lg/1769953684804/live/nenHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] SD
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769915133-0-0-fae7a0dc10d4c12df3a3c00ccefcc5bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6iPNF5G55wgNbN8i9a0WAA/Fv2lucGIbhPi2caWYvF5Lg/1769953684804/live/nenSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] FullHD
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769915133-0-0-ae8a810581a1d930f4a6fba8b9b491a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769953684/aa95913cc45d96cb6ebea6f9f13bdcdc/520301336/live/nenFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] Nhà đài
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=3712f43a024f0b4bab7f2b15a77ee609&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/suhaj4oTv-DwJcDnyWs-VQ/Fv2lucGIbhPi2caWYvF5Lg/1769953684804/live/may17/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD Nhanh
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=ece26c7cca00c44ebb256cb115257b8b&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769928485&sign=e0fe1a043255de3217f3b68a43e82243
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD1
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=3712f43a024f0b4bab7f2b15a77ee609&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928485/61531b10825a7e4431cdaff146256d13/209986012/live/longHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD2
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=ece26c7cca00c44ebb256cb115257b8b&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/naL5bSdmb7GwQ6JTQovB3w/Fv2lucGIbhPi2caWYvF5Lg/1769928485988/live/longHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] SD
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=184363026b7fc3d38c604e57c7fedd88&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/7FyKYrmqhPFEaaTu12mvlA/Fv2lucGIbhPi2caWYvF5Lg/1769928485988/live/longSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] FullHD
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=7cb09c7f7a3e390fe45b3df1edd1973d&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928485/f4fcb1ae6be27bd3f4866793f25765fe/505251355/live/longFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] Backup 1
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=184363026b7fc3d38c604e57c7fedd88&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6bd8e2fa2cc9612c516c7fe294f4b72c.png",08h00 ngày 01/02 Monterrey vs Club Tijuana [BLV PIRLO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/i5fVNlo34pUTsF-Afv_6Hg/Fv2lucGIbhPi2caWYvF5Lg/1769928485985/live/sd-6MvZ6Lt1zmmKcqPo9u/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD Nhanh
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=7cb09c7f7a3e390fe45b3df1edd1973d&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1769928487&sign=2850886f5c2c9c25010a372a569f2c45
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD1
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1769915133-0-0-21126d50650a37b16da65eebad7cfa0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928487/b63a0d6d90af53cd72898a42fb7e6e13/674024425/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD2
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1769915133-0-0-9752a6819ce6221be4f06b95f456dbd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/0qRVTo97u6kEg1TgC5bFkg/Fv2lucGIbhPi2caWYvF5Lg/1769928487279/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] SD
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769915133-0-0-527db89988c42a3d89ad4d12f4d9f5b2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d36422670fb66dbc9f742855fbfb36f4.png",08h10 ngày 01/02 Club Leon vs Tigres UANL [BLV KINH TẾ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rIH87VYtKWctKt7MeRE5FA/Fv2lucGIbhPi2caWYvF5Lg/1769928487279/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] FullHD
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1769915133-0-0-34a09ba1190c303e1d22a5134dfbdfa7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928487/4a827c22ab8de098f0a687ff0f747256/341350364/live/dungFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] Backup 1
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=60508cbc426fefc89aa78d510c2131ce&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/RQVgnxoFNTCObSJukR-Y8w/Fv2lucGIbhPi2caWYvF5Lg/1769928487278/live/sd-6MvZ6LvxbyUZF6rBjh/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD Nhanh
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=4440a26422566b2bc724c3044fd15094&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769928488&sign=02ccefe37ab54096da63dbafc755c707
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD1
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=60508cbc426fefc89aa78d510c2131ce&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/d913ffbd9cd4ba475acb1173ae3cd91d.png",08h00 ngày 01/02 Atletico Tucuman vs CA Huracan [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928488/e617d5b9d1ab01ccc98bec42f06f1030/886763918/live/coHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD2
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=4440a26422566b2bc724c3044fd15094&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/CWkHTSCvXN7mhCmP5n4K1w/Fv2lucGIbhPi2caWYvF5Lg/1769928488483/live/coHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] SD
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769915133-0-0-3277e203275c1deac150bb4fce8a3d3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/9XYm0Lzl78VyLwTFgGKwHw/Fv2lucGIbhPi2caWYvF5Lg/1769928488483/live/coSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] FullHD
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769915133-0-0-7cd2362559bd0c29d9c065f3bd413474
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769928488/f0df181002c785197b27327d15cc6c4c/877780053/live/coFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] Backup 1
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769915133-0-0-a0a467f0fa787f8accf1537aa84fa9e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/3aa112ea7251c916fd46d244d863fba5.png",08h00 ngày 01/02 Talleres Cordoba vs CA Platense [BLV SÓI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Q4tFywy9OETw0hyHpd7MeA/Fv2lucGIbhPi2caWYvF5Lg/1769928488481/live/sd-6MvZ6LvyboXqPDYfoq/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WhcSFjYg-lIV66b0g.png",10:00 ngày 01/02 Teofimo Lopez vs Shakur Stevenson (1) [Nhà Đài] HD
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769915133-0-0-782a30c84e2488ae3912caec1336d8a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/VeSZswkor0DLzaqoQ3feyA/Fv2lucGIbhPi2caWYvF5Lg/1769953689636/live/may172/playlist.m3u8
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=07b3c3ed758445bb086d3c6776e0be19&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=42aff074e5af56ac6851d73a5db00e93&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=07b3c3ed758445bb086d3c6776e0be19&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=42aff074e5af56ac6851d73a5db00e93&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=d4a26d848d5caea6441865de243472eb&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=ea8a9aef0ad5697985d972aa70405257&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=d4a26d848d5caea6441865de243472eb&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/759f2d71fd255d4813e9ab2960625052.png",08h00 ngày 01/02 Mazatlan FC Women vs Club Necaxa Women [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ea8a9aef0ad5697985d972aa70405257&txTime=697f094d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769915133-0-0-9660f372fefd0c091da6a5a124042003
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769915133-0-0-da8d10df34ab9b0d3b8f2d17626be457
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769915133-0-0-65b9e2b5722935bec1bbe6dec4bc1c35
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/6440911082bbf26954078ca89dde9ac4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769915133-0-0-4f95829a2b998e239c845be104251ea9
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 01/02 Pacers vs Hawks (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1757,6 +1621,106 @@ https://hotlivezz179602324.akainu.xyz/rYa53ebvDFKr_HJe2hIqQg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1769929211/945e06f2f8709a232e17631bdac6fd75/284721475/live/Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1769954765&sign=c95a73d8acf805df5cc55de79daf9c89
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769954765/22dd3f266d746372f88bee3e61619e3a/266692677/live/nenHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/mGUPJQGx5RV_roJ8XG3tdw/Fv2lucGIbhPi2caWYvF5Lg/1769954765037/live/nenHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/O0Gt2B8Obe2na4QibEN9GQ/Fv2lucGIbhPi2caWYvF5Lg/1769954765038/live/nenSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769954765/a68d39927fa956c5e518b5684e83e91a/268394258/live/nenFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/OQbhPswS-v1PbvjFP.png",07:00 ngày 01/02 Alex Volkanovski vs Diego Lopes (1) [Người Nện] Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/hasCHrVUPHu2rDi5AWBujA/Fv2lucGIbhPi2caWYvF5Lg/1769954765038/live/may17/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769929566&sign=5101bf82ff69ba6135478914af129e65
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929566/0e85cf4c7eaa767afcf25403a990b3e9/731554080/live/longHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/0RYNSpPnZ51HQXFb-a9peA/Fv2lucGIbhPi2caWYvF5Lg/1769929566224/live/longHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/-0KWkl6goiqP_2AkXt1xxg/Fv2lucGIbhPi2caWYvF5Lg/1769929566225/live/longSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929566/8a4e55d320974653bd61b257a2498eb4/859079597/live/longFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/44cb6b8a76b2194e16849eace4743e54.png",08:00 ngày 01/02 Talleres Cordoba vs CA Platense (1) [Người Lông] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/28zhxfZKecHq0vlxuzLhww/Fv2lucGIbhPi2caWYvF5Lg/1769929566222/live/sd-6MvZ6Lt1zmmKcqPo9u/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1769929567&sign=d79bc4d013795a1f2d47ae65066bd063
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929567/f36efeedbc4591e7fa0971d7a8f535f9/641588301/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/cGKi4NwBmritPd_4-cY6Nw/Fv2lucGIbhPi2caWYvF5Lg/1769929567500/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/R-Ajorwkwi8kbEbIYeVMfQ/Fv2lucGIbhPi2caWYvF5Lg/1769929567500/live/dungSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929567/45977da4610761e3a46726a44d11402f/475744538/live/dungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7d42cf526aab9e54ce7c048a13d2f2e9.png",08:00 ngày 01/02 Monterrey vs Club Tijuana (1) [Người Dưng] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/hKwSaur6Z7LlN-6uF4yl0A/Fv2lucGIbhPi2caWYvF5Lg/1769929567499/live/sd-6MvZ6LvxbyUZF6rBjh/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769929568&sign=968cf54966057fa898c09f1f7cdb520b
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929568/b8233497422bee2c0982747097bb0b36/671156127/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/UnsoldYywPcZhba0uU7J9Q/Fv2lucGIbhPi2caWYvF5Lg/1769929568662/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/QV1niuigv5N1Om3jahzInA/Fv2lucGIbhPi2caWYvF5Lg/1769929568662/live/coSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769929568/f4140917d40f94cd7e8b722e0d7867fe/338145969/live/coFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6472f144a30f9026d0e6ff0a20f0ad81.png",08:10 ngày 01/02 Club Leon vs Tigres UANL (1) [Cá Cờ] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/kkOXsR9nOTmU9WS4gyj1tg/Fv2lucGIbhPi2caWYvF5Lg/1769929568660/live/sd-6MvZ6LvyboXqPDYfoq/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WhcSFjYg-lIV66b0g.png",10:00 ngày 01/02 Teofimo Lopez vs Shakur Stevenson (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/ZNRLAFSXV227JJ4_Ri484Q/Fv2lucGIbhPi2caWYvF5Lg/1769954769826/live/may172/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",08h00 01/02 Miami Heat vs Chicago Bulls (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
