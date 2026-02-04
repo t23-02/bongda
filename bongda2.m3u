@@ -25,12 +25,6 @@ https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad017
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",12h30 ngày 04/02 Bula FC vs South Melbourne (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -43,6 +37,12 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23260_1gq6k99f9c1m.png",13h30 ngày 04/02 Melbourne City (W) vs WS Wanderers (W) (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -497,6 +497,14 @@ https://stream.chuoichien.tv/chuoinuong/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124",12h00 ngày 04/02 Bula FC vs South Melbourne (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6d5649bb137e13ac37c89c51aef7ba1a/image/small?v=1768601124",11h00 ngày 04/02 Stride vs Blitz FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/964339b9006852556959c00392936e6a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8e4ee379c696e9fdc87bbc192766c199/image/small?v=1768601124",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -529,50 +537,6 @@ https://live8.fastestcdn-global.com/live8/3e18ab057ba0439db277f785df8c349c_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/734cb157c2dd2b2d25b07e02ff3d0510/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124",12h00 ngày 04/02 Bula FC vs South Melbourne (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8e0882baf76de1d349fd47c04bff7b9c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6d5649bb137e13ac37c89c51aef7ba1a/image/small?v=1768601124",11h00 ngày 04/02 Stride vs Blitz FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/964339b9006852556959c00392936e6a/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770190534-0-0-695bcb688d269bc17c1ec840269125bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770190534-0-0-d0a70456bad02cbc849a2a5fd13687cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770190534-0-0-e74b8ae9ee3127fa2d4e4f0c42519609
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770190534-0-0-0e05fc9b9277e7bd4f69d367a85108bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770190534-0-0-18c2474f02fca9ab3f9c1ba74810e4e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770190534-0-0-01d4d33c2f2303c8edd5c0122d5cc4bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770190534-0-0-2dddeddea01d610598fd8e57eb9eb112
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770190534-0-0-6e320a75ed0157c7dd8bba03cef12cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1770190534-0-0-c8b4f4b371cb7beec8f0215c6fb08d63
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1770190534-0-0-75ca272146e56aab49288a521b78c394
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1770190534-0-0-9c3751124c6a5a94342f6f8902f941ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1770190534-0-0-475f28c294dd5e4a2468dbbda0a2f9f3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770190894-0-0-52266cd6c5cf6275d9ca48172198a585
@@ -621,6 +585,42 @@ https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1770191254-0-0-ad91
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1770191254-0-0-7e37d3cbf60f36a226f049c306d96ff8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770191614-0-0-c52b1a70c5000c3a6d3c0f0b2d53bb80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770191614-0-0-40d4684def49625390c3cfb27535d749
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770191614-0-0-7122d7b3e091927634ef3ffed02c89b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770191614-0-0-041f20520bce932f3a961d31620f2161
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770191614-0-0-8be6ae80842041c2bb609ee61a5e3313
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770191614-0-0-c7b3c87b0fe8d1ee75fb938c275063c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770191614-0-0-6254634d1bf42c2664769784ba5736c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770191614-0-0-5103e620613640d1e5636b28dc26ad2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1770191614-0-0-fb1f25360a97006884e85bbef3aa15c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1770191614-0-0-84cebcb02d541536419a95eb15a82f5a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1770191614-0-0-041ef49fffe7dc0b897d89407b0242a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/ace0a107c9bf0b978884da6a89314c1f.png",13h30 ngày 04/02 Melbourne City Women vs WS Wanderers Women [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1770191614-0-0-ad6b98bef3a2749cb856b6b0e48a31c3
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1971.png",13h30 04/02 Melbourne City W vs Western Sydney Wanderers W (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
