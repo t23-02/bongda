@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/50db6adf2d9996f75d788b221778270f.png",13h30 ngày 05/02 Ajmal FC vs Delhi Young Boys (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/f9eb9e3a9392a1d2ee67f012740ae73a/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="601194115" group-title="NPL",13h30 05/02 New Zealand Breakers vs South East Melbourne [FLV]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893950149.global.cdnfastest.com/live/69842eb5fe242_42127.flv?expire=1770875189&sign=50671846a098e52b0161ca6decf36178
+#EXTINF:-1 tvg-id="601194115" group-title="NPL",13h30 05/02 New Zealand Breakers vs South East Melbourne [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/69842eb5fe242_42127/index.m3u8?expire=1770875189&sign=50671846a098e52b0161ca6decf36178
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770241310.png",13h00 ngày 05/02 New Zealand Breakers vs South East Melbourne (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -395,30 +401,6 @@ https://stream.chuoichien.tv/chuoihot.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f9eb9e3a9392a1d2ee67f012740ae73a/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770278734-0-0-65c3079902f4803423465d4f6b8c174a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770278734-0-0-60224a6ce520312d1e4179e9b499c85c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770278734-0-0-f7bfe7941c00729168cf531f4dc26cd7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770278734-0-0-5aaed881ed8f5b6794c31935652c3919
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1770278734-0-0-af84168adf2aadb541a0fbd1ec813deb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1770278734-0-0-e7d327ab34553330c0fdc1e90f52f63d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1770278734-0-0-a9ed5330c5e34c264773bde175b81a49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1770278734-0-0-2d0780fd98f44eb627959580316dc4c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1770279454-0-0-1ec51e70d3835173e242cb5deb636e71
@@ -527,6 +509,30 @@ https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1770279454-0-0-2d34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260201/7b5526e0492404bb6fcf3679333bd7b7.png",Tường thuật: CNCF CHL - CD Olimpia vs Club America [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1770279454-0-0-64aa136b8e207807ecec6ea3647678ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770279814-0-0-8549f3566cf33b87365a6d22cfbb7b78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770279814-0-0-7c957d3cfb0370eb166d8e87e3ddbf03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770279814-0-0-cd9aaa680855b2b75527664a9b0736a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770279814-0-0-4da01d77ef71fe3d569ba280dd48ff06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1770279814-0-0-15a034fa603aa347e0470a734ca6bf18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1770279814-0-0-9c30302c687521c1d6992d3288589d78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1770279814-0-0-1915c4ed485b5803e3b7c9a06f72b289
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260203/695c26f5e36d6db12eac7441e96587f1.png",13h30 ngày 05/02 New Zealand Breakers vs South East Melbourne [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1770279814-0-0-bf6f333ac7558fda7865d3e1fa29dbbd
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80",13h30 05/02 New Zealand Breakers vs South East Melbourne
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/02456966.m3u8
