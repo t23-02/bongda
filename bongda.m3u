@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[KBL] LG Sakers vs Goyang Sono lúc 14:08 ngày 16/02/2026 [FLV]
+#EXTINF:-1 group-title="Bún chả",[Indo D4] PSP Padang vs PSPP Padang Panjang lúc 14:24 ngày 16/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/6992958726633_110198.flv?expire=1771819015&sign=40e49da269163a12ddac2770c1f6a723
-#EXTINF:-1 group-title="Bún chả",[KBL] LG Sakers vs Goyang Sono lúc 14:08 ngày 16/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/6992958726633_110198/index.m3u8?expire=1771819015&sign=40e49da269163a12ddac2770c1f6a723
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771185507.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -46,6 +42,10 @@ https://live.alilicloud.com/live/101640070be30870a13650f8b42cb5c7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4c43bb5da52bb0480024dd8c31ceff38/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/549a3c79dfc837fb785adaa02188476d/image/small?v=1768601124",13h45 ngày 16/02 PSP Padang vs PSPP Padang Panjang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 16/02 Persita vs PSBS Biak Numfor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -342,66 +342,10 @@ https://live.alilicloud.com/live/740e4171c1211cde2976847ed76eab47/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4c43bb5da52bb0480024dd8c31ceff38/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771229135-0-0-93bb4f58d7b1072892f418b429f16695
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771229135-0-0-d0af67f05bd8fee59a339104cf8a3b25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771229135-0-0-84e6458f21d46f09f044f48a64b00ec5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771229135-0-0-dda274f0d24a06a699161f513ac2a630
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771229135-0-0-6987ce736955b937aac8f2fd5f21d900
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771229135-0-0-45d4e7c9f11f0f7d5bd6947562cb53b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771229135-0-0-09edd2991450dcac138dca2caa9f006e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771229135-0-0-f0f43c59356353ba77838a408fd719ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771229135-0-0-cbf2e896a06ea3ea77f88e4bf764dbca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771229135-0-0-b8dcecca9af93525447a2b60b020c9e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771229135-0-0-765202191cc1ddb3995714a29f926949
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771229135-0-0-a4a2a11d319c3fca99e393d0227a5ba2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771229135-0-0-bc1787ecd4f3ed9454edd7e856d5091f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771229135-0-0-5d4833cd12cc97106fcb6383551f4ee7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771229135-0-0-a464408feb3b30c75c09217b12744f3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771229135-0-0-34dc405589bc1361cd0cd1fdeb2d34ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771229135-0-0-47a3e34e94e20c7bf9a2207f747acc9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771229135-0-0-c15d9daa95dbc098c65fb0510f299d0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771229135-0-0-15d1664a4f13da0be5f6af42b70984c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771229135-0-0-c3d5dcb59050dca54c830cc74eff1ec9
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/549a3c79dfc837fb785adaa02188476d/image/small?v=1768601124",13h45 ngày 16/02 PSP Padang vs PSPP Padang Panjang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771229495-0-0-c3ef9c6d67e274669c6e54dec3c0522e
@@ -426,6 +370,66 @@ https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771229495-0-0-ad7c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771229495-0-0-1d593507a2b9b27cfcdc4099f5b91e3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771230215-0-0-8fa2ddd770fc6502a9f7b327c09edd68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771230215-0-0-5bdaff1e648339061e0a39edcb66903f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771230215-0-0-9c34d71a2546fc114741483c22ed314d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771230215-0-0-045032d46cbbde684a0065684fe4c0f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771230215-0-0-d8506e4323f68d7b8b2da01d91ed5277
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771230215-0-0-4bb7f6cf17bab9e963c61b0dd7ccea06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771230215-0-0-9da8c59d684fb289303e2d337a354f03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771230215-0-0-e85e2a5b8bdd904697213ea425b270c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771230215-0-0-2dbb8a02de4f6140d206682266571ad3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771230215-0-0-16d3fbd60e3695127fb6f39542c08a5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771230215-0-0-65f8170f60e6a439bd862b3ea380aa68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 ngày 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771230215-0-0-d3ad9097bb21a4c5b81bf66950d870f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771230215-0-0-8d5eba4208aeb6bda663898e47c02c8c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771230215-0-0-74036c00ee59b8dc46b73414439297a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771230215-0-0-4e56d35574db5ec846bafcb407c14261
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 ngày 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771230215-0-0-f82d14ba7119758c76c0677a03aacaa8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771230215-0-0-08a0714a73220da41be506b9367246e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771230215-0-0-c385fca393a1de1e66ad1a655ce90271
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771230215-0-0-b747d150f1567f7149b30214b07560bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771230215-0-0-a7946b5b749a454b20b86fe180ced7e7
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Volleyball League Women] 14h00 16/02 GS Caltex W vs Hyundai E&C Hillstate W [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
