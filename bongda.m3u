@@ -388,6 +388,10 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/51bf2c28ae2c0c4847ca95b94b82fd8e/image/small?v=1768601124",11h00 ngày 27/02 Fiji Women vs New Caledonia Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0e29874c803c7a9fcd34d99c149b8562/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b9bc8dba4d8fafcfb76fb7567298af62/image/small?v=1768601124",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -400,10 +404,6 @@ https://live.alilicloud.com/live/27c3893833daeb430eaa8802ff76d956/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0b485c6d8eec2b6445871e16f6a71c3e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/51bf2c28ae2c0c4847ca95b94b82fd8e/image/small?v=1768601124",11h00 ngày 27/02 Fiji Women vs New Caledonia Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0e29874c803c7a9fcd34d99c149b8562/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1772173416-0-0-c8e4187fb9082a1e271d327510bd287e
@@ -560,6 +560,9 @@ https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1772173776-0-0-adac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  VfB Stuttgart vs Celtic FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1772173776-0-0-28ae9a98bb2661b12f068fb5f4d6951b
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",10h00 27/02 Los Angeles Clippers vs Minnesota Timberwolves
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[NBA] 10h00 27/02 Los Angeles Clippers vs Minnesota Timberwolves [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
