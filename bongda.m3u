@@ -560,18 +560,6 @@ https://stream.chuoichien.tv/chuoihot.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c25a801fb76032f682c874753607ef9a/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772522257-0-0-5b46d97c0eca8b440f804f6a7b3de551
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772522257-0-0-5126d556658c811f1e3e433f2f941ca1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772522257-0-0-1b703db5c650a8154cc52ed513816ec0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772522257-0-0-7c08d19c0ec19d7bf9ba8f023957b7e0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",Tường thuật: SPA D1 - Real Betis vs Sevilla FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1772522977-0-0-fe57a82d693300ef07a58707f04ba57a
@@ -644,6 +632,18 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1772522977-0-0-1abe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",Tường thuật: ITA D1 - Pisa vs Bologna [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1772522977-0-0-a0cf363a46f0870e4d989a9180dde45d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772523337-0-0-6aee32483bdd15e24bd4fad5c06b22c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772523337-0-0-5f231f6d797fb37d2e834d64bbc07c46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772523337-0-0-e08811cf4cb56f311b25a0b247637d4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260227/e90fc599b182cc44f2a12ed4b726f55b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772523337-0-0-40c02da2423fa4e85d4dc419486f10e8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[NBA] 10h00 03/03 Golden State Warriors vs Los Angeles Clippers [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
