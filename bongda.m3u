@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772559693.png",10h30 ngày 04/03 Los Angeles Lakers vs New Orleans Pelicans (Lương Sơn) BLV SHIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772559693.png",10h30 ngày 04/03 Los Angeles Lakers vs New Orleans Pelicans (Lương Sơn) BLV SHIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772559693.png",10h30 ngày 04/03 Los Angeles Lakers vs New Orleans Pelicans (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -38,6 +32,12 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2258_20180831114704.png",12h00 ngày 04/03 Japan (W) vs Chinese Taipei (W) (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772559693.png",10h30 ngày 04/03 Los Angeles Lakers vs New Orleans Pelicans (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772559693.png",10h30 ngày 04/03 Los Angeles Lakers vs New Orleans Pelicans (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ca352c232374512c2d0cb1b4e7efd966/image/small?v=1768601124",09h00 ngày 04/03 El Salvador U20 vs Suriname U20 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -494,6 +494,10 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",10h00 ngày 04/03 Atletico San Luis vs Mazatlan FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/175a42630bcca982c6901deca4f880da/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/QRlYWUhl-E1YhvyqD.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -522,22 +526,6 @@ https://live8.fastestcdn-global.com/live8/8826515b2cf14333856ee412facedeb4_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/8826515b2cf14333856ee412facedeb4_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",10h00 ngày 04/03 Atletico San Luis vs Mazatlan FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/175a42630bcca982c6901deca4f880da/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772610097-0-0-00cbf955f59cb8bf91c4d4f5c204e52d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772610097-0-0-6f9917fba21202e519ad06ceb9b98944
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772610097-0-0-179dfa201817dc506d874a66a62c1c84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772610097-0-0-b295bd3312ae6dcb8bbb29fb7d5c0860
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1772610457-0-0-fd621185cb861dead06dcbace599f25e
@@ -622,6 +610,30 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772610817-0-0-2352
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260228/b2e7fae4b009e89ffc4dd1d2c6399ace.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772610817-0-0-13fb125b464df0ac232df26e1bdc1e86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772611177-0-0-4e00c137666ef565c2667297326cbd70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772611177-0-0-b19e99a319f4deac2f5c8b7ce848463d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772611177-0-0-e511ecd610f1a0ad160492416c0e8de8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0acaec8142d038ff9822cca6a21265a1.png",12h00 ngày 04/03 Japan Women vs Chinese Taipei Women [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772611177-0-0-b1dc6b0494a9cb433642e5b6cf5a06cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1772611177-0-0-ee5731da189a6767b5b0eb2f052bf5b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1772611177-0-0-237fa2ccdadcc974448880a7ee4e7891
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1772611177-0-0-7fddf9efec609112ed5639391e3ebc3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1772611177-0-0-2751912e1799ee63f112f65602d535ba
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1052px-SacramentoKings.svg.png",11h00 04/03 Sacramento Kings vs Phoenix Suns (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -650,15 +662,3 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[Asian Cup Women] 12h00 04/03 Japan W vs Chinese Taipei W [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Asian Cup Women] 12h00 04/03 Japan W vs Chinese Taipei W [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Asian Cup Women] 12h00 04/03 Japan W vs Chinese Taipei W [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
