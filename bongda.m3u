@@ -14,6 +14,10 @@ https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772608793.png",00h00 ngày 04/03 Everton vs Manchester United (Lương Sơn) NHÀ ĐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",10h00 ngày 04/03 Atletico San Luis vs Mazatlan FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/175a42630bcca982c6901deca4f880da/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ca352c232374512c2d0cb1b4e7efd966/image/small?v=1768601124",09h00 ngày 04/03 El Salvador U20 vs Suriname U20 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -34,10 +38,6 @@ https://live.alilicloud.com/live/194331c104a9ea128da431e27e046c20/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e16ee6361f90f66c9b46c13feb7d2124/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/29ed2e266813564bcfcc26cd9df181ca/image/small?v=1768601124",10h00 ngày 04/03 Atletico San Luis vs Mazatlan FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/175a42630bcca982c6901deca4f880da/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_17f12eea.png",15h00 ngày 04/03 Macarthur vs Central Coast Mariners (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -546,6 +546,18 @@ https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=46faf8e19fef068e1b7a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260303/d650563389cbda8eb2b9341a127b460d.png",15h00 ngày 04/03 South Melbourne vs Solomon Kings FC [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=890a920be426215dd9278c245ef735e3&txTime=69a83529
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772613697-0-0-8dab85b13b0bf96eea01d923ce762131
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772613697-0-0-2d423667fb1b7c6fc4215bb7cf258452
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772613697-0-0-f444d01d7ae333287d375e37d37190ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/4107306a1c384934cb15128eeb01c164.png",15h00 ngày 04/03 Macarthur FC vs Central Coast Mariners [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772613697-0-0-34270b0019e3f2dca04e87f92829d09d
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s",15h00 04/03 South East Melbourne vs Perth (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -558,18 +570,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1720.png",12h00 04/03 Japan W vs Chinese Taipei W (Hội Quán) FULL HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1720.png",12h00 04/03 Japan W vs Chinese Taipei W (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1720.png",12h00 04/03 Japan W vs Chinese Taipei W (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/15550.png",15h00 04/03 Macarthur vs Central Coast Mariners (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -582,4 +582,16 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://cdn2.tuoitre.vn/zoom/700_525/471584752817336320/2024/5/6/duong-quoc-hoang-scottish-open-billiards-17149527590191758456651-147-0-951-1536-crop-1714952863893957701699.jpg",15h00 04/03 Dương Quốc Hoàng vs Tay cơ 2 (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://cdn2.tuoitre.vn/zoom/700_525/471584752817336320/2024/5/6/duong-quoc-hoang-scottish-open-billiards-17149527590191758456651-147-0-951-1536-crop-1714952863893957701699.jpg",15h00 04/03 Dương Quốc Hoàng vs Tay cơ 2 (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://cdn2.tuoitre.vn/zoom/700_525/471584752817336320/2024/5/6/duong-quoc-hoang-scottish-open-billiards-17149527590191758456651-147-0-951-1536-crop-1714952863893957701699.jpg",15h00 04/03 Dương Quốc Hoàng vs Tay cơ 2 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTM3U
