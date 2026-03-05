@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772646654.png",15h30 ngày 05/03 Melbourne United vs Tasmania JackJumpers (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772646654.png",15h30 ngày 05/03 Melbourne United vs Tasmania JackJumpers (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6792_1h48b3m12q2d.png",16h00 ngày 05/03 Iran (W) vs Australia (W) (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -62,6 +56,12 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/10757_1hrk209e5m1k.png",16h00 ngày 05/03 Yadanabon FC vs Ayeyawady united (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772646654.png",15h30 ngày 05/03 Melbourne United vs Tasmania JackJumpers (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772646654.png",15h30 ngày 05/03 Melbourne United vs Tasmania JackJumpers (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0f54780e85be781652987936343c8260/image/small?v=1768601124",13h00 ngày 05/03 Samoa Women vs Solomon Islands Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -506,6 +506,18 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4011de2209a727d982d7b789aa1ab57e/image/small?v=1768601124",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/87a4d6e074804f3a9d6360834ef70c15/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a07ba63beb8ddf7e2631002b25469815/image/small?v=1768601124",17h00 ngày 05/03 Austria Women U19 vs Finland Women U19 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7744ea19214826679f039efe286868dd/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c171914411b8002cdc3adcbdff2729df/image/small?v=1768601124",17h00 ngày 05/03 San Marino (W) U19 vs Cyprus Women U19 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/90510eddf11dc7a1042b4d96b2a722a7/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CA3yhoGG-KMidKLjl.png",16h00 ngày 05/03 Iran Women vs Australia Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -534,98 +546,6 @@ https://live8.fastestcdn-global.com/live8/09b1ac3010514aeba95367831b7b72da_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/09b1ac3010514aeba95367831b7b72da_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0f54780e85be781652987936343c8260/image/small?v=1768601124",13h00 ngày 05/03 Samoa Women vs Solomon Islands Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ab0468307bbaa5af589b0e715e27988c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4011de2209a727d982d7b789aa1ab57e/image/small?v=1768601124",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/87a4d6e074804f3a9d6360834ef70c15/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a07ba63beb8ddf7e2631002b25469815/image/small?v=1768601124",17h00 ngày 05/03 Austria Women U19 vs Finland Women U19 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7744ea19214826679f039efe286868dd/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c171914411b8002cdc3adcbdff2729df/image/small?v=1768601124",17h00 ngày 05/03 San Marino (W) U19 vs Cyprus Women U19 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/90510eddf11dc7a1042b4d96b2a722a7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5a3fc72d8da27502255a02f2feb1a8aa/image/small?v=1768601124",13h00 ngày 05/03 Goa U21 vs Sudeva Delhi FC U21 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/29862df16b95774f973c3705eb4a249b/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772707657-0-0-a9870d4e7bc1c3784ec69e9d37480697
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772707657-0-0-70e4a5993f3eafaf4aaa5979fd3c4d4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772707657-0-0-48e5f6989f385a2fa3a01136c571c8e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772707657-0-0-720be5ed24a50af107e53dbb74c34b91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1772707657-0-0-b6b7d0086206770544cc2385c59fc94f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1772707657-0-0-d103db49a7920125a9512e63d466fddd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1772707657-0-0-98d3d007f001df3285c3df4c00e63063
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1772707657-0-0-261d65419759e91ce3b77c1ed573b151
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772707657-0-0-9543be879ed3d62fd103b00656ceca89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772707657-0-0-8ed5bb1ffe858e7e5144b09f0cc3c73d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772707657-0-0-7264cbc711c6d7c745faa4fb1f271619
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772707657-0-0-9a8fd7c60ead365f0d0fc3d4f3aacfbe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1772707657-0-0-7567a0ead042c9c765c99d401c99ffe7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1772707657-0-0-987d921106284a9d52944c34cf7715cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772707657-0-0-232ee3a4ed34318b0c0c7b2f3d91934f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772707657-0-0-4abb262caa6b9d57591802bc484cb82f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1772707657-0-0-f4681ff2868d25b0c62c21430083084f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1772707657-0-0-f2c353c164574c01d82f4d6b17363b33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1772707657-0-0-016e2bab45beb015a581f0e32d69e006
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1772707657-0-0-6b5e3f501934f1cc8a65fdad30668262
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772707657-0-0-57fb5f8ea86c86cdc01a3602b9cc7f47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772707657-0-0-f46bc541fef10bab65e33bfbd0762ead
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772707657-0-0-fbb31d3cbfd580cada0051b70e497e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772707657-0-0-7ff75295507decdd13af6f317f5abcb5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1772708017-0-0-2a3493543722a0f73cc0da380f6a7947
@@ -770,6 +690,102 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772708377-0-0-1c8b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/0a350686d93f574de7836eff09ac1926.png",NBL: South East Melbourne vs Perth [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772708377-0-0-2d548f70bfacf6a340d031c9f79d7411
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1772708737-0-0-436b9f3e0d404ba8a3a6e6e57edf9fd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1772708737-0-0-c22dcfec415aeddc3042d5c82013c1ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772708737-0-0-c9311dcf74b2e5efbd554ff06ae9cab2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772708737-0-0-4e0dcab4f511e4d7f9b293b6b2b92352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772708737-0-0-bd6c2b0cf2c77dd73a74e30219d6eb44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772708737-0-0-80c19fbad16e900a44761f1d3c9b421e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772708737-0-0-2e43a9d096ffff778a3ef8fd6886d026
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [GOAT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772708737-0-0-f51fef39ab8d9fd5130bc305c7e9f0a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1772708737-0-0-e2d379bb93837dab9e6bdffabc25293a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1772708737-0-0-02745cb6292f5a0454b046c2160d4595
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1772708737-0-0-a1da82cf049a8aa08946e351cc8c5d84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1772708737-0-0-7d57e24604a7b620744314eee926e5c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1772708737-0-0-e740df1d62251119ed55b1b364c9d8ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1772708737-0-0-82a8a5fa04cae405a1bcee39009a694a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1772708737-0-0-4e64ce73b9d642709f1d261ab2c43ad1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/183b59f02954559f9efc7ed5253f54a7.png",16h00 ngày 05/03 Yadanarbon FC vs Ayeyawady united [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1772708737-0-0-7e966461ae49545ccdc20c7d7dbaee70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772708737-0-0-c6a552f7019f6c39cec92d0f3633bb32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772708737-0-0-6c5eb158d585f5bfdeddbd7c7d95c077
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772708737-0-0-a2696374d7d825284d54a0d5b4ee034d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772708737-0-0-cd36314428dc7713b9d72558d3ac095d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772708737-0-0-111df591500e41e450b37ae5f90b1f30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772708737-0-0-02ea27ca8745372916746cf6926a547e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772708737-0-0-dc819070601328f4a73ac4d8a20ff18d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/2513146e195dfa8c7952d4222c15b5a4.png",16h00 ngày 05/03 Iran Women vs Australia Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772708737-0-0-28d5ff528b9ccfc6c65ee313f675e3d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/fa1c5c7f9a20d6153c53df9993a0eade.png",17h30 ngày 05/03 FK Kapaz Ganca vs Turan Tovuz [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772708737-0-0-d2f9503dd1a9a74b8489a99b3cb05af4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/fa1c5c7f9a20d6153c53df9993a0eade.png",17h30 ngày 05/03 FK Kapaz Ganca vs Turan Tovuz [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772708737-0-0-7298d3ee9a5e22e1d88e7bc7d7ccb70c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/fa1c5c7f9a20d6153c53df9993a0eade.png",17h30 ngày 05/03 FK Kapaz Ganca vs Turan Tovuz [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772708737-0-0-73e02887e71997fe778245854d101237
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/fa1c5c7f9a20d6153c53df9993a0eade.png",17h30 ngày 05/03 FK Kapaz Ganca vs Turan Tovuz [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772708737-0-0-9b0ed88c9b5c078b551a78fae1baeb3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/cbaad3b24906aebc814d6c29f4167aec.png",18h00 ngày 05/03 Safa Baku vs Shahdagh Qusar [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1772708737-0-0-82d4d8736f788ce35e0500f6fafdba1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/cbaad3b24906aebc814d6c29f4167aec.png",18h00 ngày 05/03 Safa Baku vs Shahdagh Qusar [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1772708737-0-0-3901fdf6fdaf8563979a45e57c8344d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/cbaad3b24906aebc814d6c29f4167aec.png",18h00 ngày 05/03 Safa Baku vs Shahdagh Qusar [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1772708737-0-0-792b25e4b24595ae32a7aaa0ccb72d13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/cbaad3b24906aebc814d6c29f4167aec.png",18h00 ngày 05/03 Safa Baku vs Shahdagh Qusar [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1772708737-0-0-cc9e7600eeaa338ed6ba3ba4f1ecd8ad
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Melbourne_United_Primary_Logo_2024.png",15h00 05/03    	 Melbourne United vs Tasmania JackJumpers (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -851,28 +867,7 @@ https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",15h30 05/03 Melbourne Tigers vs Tasmania JackJumpers
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/82054853.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80",17h00 05/03 Goyang Carrot Jumpers vs Anyang KGC
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/02456966.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[Volleyball League Women] 17h00 05/03 Hyundai E&C Hillstate W vs Hungkuk W [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Volleyball League Women] 17h00 05/03 Hyundai E&C Hillstate W vs Hungkuk W [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Volleyball League Women] 17h00 05/03 Hyundai E&C Hillstate W vs Hungkuk W [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League] 17h00 05/03 Osaka Sakai vs Suntory Sunbirds [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League] 17h00 05/03 Osaka Sakai vs Suntory Sunbirds [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League] 17h00 05/03 Osaka Sakai vs Suntory Sunbirds [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
