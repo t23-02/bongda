@@ -574,10 +574,6 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8770b11953cafd29f5e458bfa1a1260/image/small?v=1768601124",08h20 ngày 06/03 Atletico Junior Barranquilla vs Alianza Fútbol Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/179fa8efb1d2f5e3e75cc87bd7ee7cac/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3c2dc1e8ed45418344df4e8d565ebe79/image/small?v=1768601124",09h00 ngày 06/03 Deportivo Saprissa vs Sporting FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -586,6 +582,10 @@ https://live.alilicloud.com/live/916760d0598172d6ace1d58f1d1648fc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a1cae12a45ee6b0c9b0f06c9abb28ca5/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8770b11953cafd29f5e458bfa1a1260/image/small?v=1768601124",08h20 ngày 06/03 Atletico Junior Barranquilla vs Alianza Fútbol Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/179fa8efb1d2f5e3e75cc87bd7ee7cac/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/602fa49e3cb41bbd86fd803d57bb7fe4.png",10h00 ngày 06/03 Denver Nuggets vs Los Angeles Lakers [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1772777137-0-0-915bc09b2398202ab616c057a9bea0a7
@@ -706,7 +706,43 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772777497-0-0-0638
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/602fa49e3cb41bbd86fd803d57bb7fe4.png",10h00 ngày 06/03 Denver Nuggets vs Los Angeles Lakers [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772777497-0-0-77127f2f28a6441ec112a3115bd53a3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/a8f922ed2b60c7121fad2597b1526245.png",12h30 ngày 06/03 Adelaide United FC Youth vs White City Woodville [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772777857-0-0-b58475f50cd9a69843865af7daf25e89
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/a8f922ed2b60c7121fad2597b1526245.png",12h30 ngày 06/03 Adelaide United FC Youth vs White City Woodville [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772777857-0-0-53d51b6d2d6d71d1befb92266e900970
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/a8f922ed2b60c7121fad2597b1526245.png",12h30 ngày 06/03 Adelaide United FC Youth vs White City Woodville [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772777857-0-0-573c175186226148f0f3ca54a51b0ab9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/a8f922ed2b60c7121fad2597b1526245.png",12h30 ngày 06/03 Adelaide United FC Youth vs White City Woodville [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772777857-0-0-907cf6359f718df52526306da6d8215d
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",10h00 06/03 Denver Nuggets vs Los Angeles Lakers
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87379114.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Quê Choa",[NBA] 10h00 06/03 Denver Nuggets vs Los Angeles Lakers [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 10h00 06/03 Denver Nuggets vs Los Angeles Lakers [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 10h00 06/03 Denver Nuggets vs Los Angeles Lakers [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_sd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[F1 Australian GP] 10h00 06/03 Free practice 2 vs Free practice 2 [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[F1 Australian GP] 10h00 06/03 Free practice 2 vs Free practice 2 [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[F1 Australian GP] 10h00 06/03 Free practice 2 vs Free practice 2 [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
