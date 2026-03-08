@@ -1598,18 +1598,6 @@ https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772985217-0-0-a2b5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772985217-0-0-09c071ed0763e40fada072fd98a9b90c
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",20h00 08/03 Villarreal vs Elche (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",20h00 08/03 Villarreal vs Elche (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",20h00 08/03 Villarreal vs Elche (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1351.png",20h30 08/03 Port Vale vs Sunderland (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1634,6 +1622,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png",22h15 08/03 Getafe vs Real Betis (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png",22h15 08/03 Getafe vs Real Betis (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png",22h15 08/03 Getafe vs Real Betis (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/9e1c007a8ebfd1859461bbebf168b14b.png!w80",20h30 08/03 Port Vale vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
