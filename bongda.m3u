@@ -406,6 +406,18 @@ https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1773048217-0-0-ad6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1773048217-0-0-5c379134c121c4280169a61d030d5a58
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/21343.png",16h00 09/03 Korea DPR vs China W (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/21343.png",16h00 09/03 Korea DPR vs China W (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/21343.png",16h00 09/03 Korea DPR vs China W (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Liga MX] 10h06 09/03 Club Tijuana vs Santos Laguna [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
