@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/674_165018933333.png",10h00 ngày 27/03 Chile vs Cape Verde (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/674_165018933333.png",10h00 ngày 27/03 Chile vs Cape Verde (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/674_165018933333.png",10h00 ngày 27/03 Chile vs Cape Verde (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -56,6 +50,12 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5765_165018766243.png",10h00 ngày 27/03 New Caledonia vs Jamaica (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/674_165018933333.png",10h00 ngày 27/03 Chile vs Cape Verde (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/674_165018933333.png",10h00 ngày 27/03 Chile vs Cape Verde (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bb061541cf4c7d2ae56ce8ff29a8691c/image/small?v=1768601124",07h00 ngày 27/03 Dominican Republic vs El Salvador (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -288,10 +288,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f3a1170d1102a101b64998df79366dde/image/small?v=1768601124",10h00 ngày 27/03 Chile vs Cape Verde (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/23e31f997f53b6e4a9be81907fe5f262/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bb061541cf4c7d2ae56ce8ff29a8691c/image/small?v=1768601124",07h00 ngày 27/03 Dominican Republic vs El Salvador (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -348,66 +344,10 @@ https://live.alilicloud.com/live/07d36b1fffcdf0c98fc8c886cb6f800e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ea553b9ad564bc8bebb99032473b7e4d/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774586139-0-0-a5421680f79ea509523efb6b73488bee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774586139-0-0-46142d977ad38ae135771f9ac7d6a424
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774586139-0-0-8b1279257f5cb8a69ecfa02c9f2517ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774586139-0-0-80cf8912938fa60a84ea5917c0627853
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774586139-0-0-bfb78cd6b125a584ce20a64fa13424a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774586139-0-0-538d3a1c3596db84cb9ce7707956a9b8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774586139-0-0-997fd5b8a8160a14603046f7b523ac81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774586139-0-0-62a710d1a1849b89fce4e974fc759353
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1774586139-0-0-80a7e9469f3696fc33132e573748c628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1774586139-0-0-813d022985eba1e0857767e947fd20c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774586139-0-0-7815cf87e3ad99a7523d00e5b494a64f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774586139-0-0-2ece1b11a651d728c2c83090a314e7cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=df21f58440c8c053dd6d8a40c1db1050&txTime=69c64f6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=7948cf805d2b9ad40fe3d02c03c3f2f8&txTime=69c64f6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=df21f58440c8c053dd6d8a40c1db1050&txTime=69c64f6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7948cf805d2b9ad40fe3d02c03c3f2f8&txTime=69c64f6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1774586139-0-0-d31a10061cd756b20ec5f3b6893f139f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1774586139-0-0-644af6c9700f92b66fbc8b86a8f81c8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774586139-0-0-381169bfde6b2e6fcba4b3c6d5a480f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774586139-0-0-092059f90ca5a3479007f359adf1a1ad
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f3a1170d1102a101b64998df79366dde/image/small?v=1768601124",10h00 ngày 27/03 Chile vs Cape Verde (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/23e31f997f53b6e4a9be81907fe5f262/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774586499-0-0-c833e1146e03fce8a5787c5caf03dcfd
@@ -504,6 +444,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774586859-0-0-a244
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/93aa660d3ff5a7cae9da60501cf08d19.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774586859-0-0-b8a8553263c6cb500e56f8179a8f68cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1774587219-0-0-0b8527acd4974d40a054993fad640cfd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1774587219-0-0-f9cc2b40c252d9dafef20dc106ae326f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774587219-0-0-85aa09d5d5804a3ac29473690cb4bee1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774587219-0-0-68b3f7d6d89aa564e64af008db9e317c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1774587219-0-0-0ceaaf51089e34cc333e4651fc3ce2d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1774587219-0-0-8551e697bb7a1d66f171a1d7ca18b2d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774587219-0-0-18ee7323c5eeef15692e5604e0465c54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774587219-0-0-0abc20e4d1c795a579a2ead332904a15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774587219-0-0-a20edab0f643351a3510d86cfbbb887b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774587219-0-0-c4e1e44f8d66c4d7de5d4c80985d4e4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774587219-0-0-9c93f47f06ad5dbfb5904509f9c874e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774587219-0-0-b18ac65f900043e72dd62c7f4f79f9e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=208653ad2207012385c8ffcfa33889d5&txTime=69c653a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=22810baf378b7d3d1d0a9de253304ae9&txTime=69c653a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=208653ad2207012385c8ffcfa33889d5&txTime=69c653a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/d69b7848e76309a4ea5fb0dd0ca2027f.png",10h00 ngày 27/03 Chile vs Cape Verde [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=22810baf378b7d3d1d0a9de253304ae9&txTime=69c653a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774587219-0-0-8f7ff27fe00032753de5d9f17111b975
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774587219-0-0-bdd3d518950e0295451c41d23779c8e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774587219-0-0-d82120ca3acf4dffa5d115ca4da60970
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260324/4cc89c3c2f8f7ea6166820322379ba9f.png",10h00 ngày 27/03 New Caledonia vs Jamaica [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774587219-0-0-7555822b36bd715803d86db1d27b8d9f
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/5163.png",10h00 27/03 New Caledonia vs Jamaica (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
