@@ -262,18 +262,6 @@ https://live.alilicloud.com/live/eb380dacb12e1df708877b79aa20976f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0a977a62ed96225bef763e87d2f7029e/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774908700-0-0-fb4ec3d15db7911d908d0feb10335400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774908700-0-0-58266569c7f5d887ba5469aac41b34c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774908700-0-0-be4bddba1e63642c08639ad30ec1bf5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774908700-0-0-4233f5468012672772486d1522853af6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/101d4612d7effa9af726fb6b5b9f1cdc.png",03h00 ngày 31/03 Independiente Yumbo vs Union Magdalena [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774909060-0-0-d10d8d9c14d566b7d789af130cf992d9
@@ -310,6 +298,18 @@ https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1774909420-0-0-a365
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/101d4612d7effa9af726fb6b5b9f1cdc.png",03h00 ngày 31/03 Independiente Yumbo vs Union Magdalena [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1774909420-0-0-8c09697352bd820b1feb653405f17c2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774909780-0-0-d8e9d70800a4fc58ffff57d3e1073928
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774909780-0-0-e75904af2f4f60ec1c89fdb8f817fa7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774909780-0-0-defc7d49e3b7ced578cfe068c7f4ae82
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774909780-0-0-273ff67d38a07cc8bb9017314e295548
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Friendlies] 01h45 31/03 Germany vs Ghana [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
