@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/711_16501891644.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands (Lương Sơn) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/711_16501891644.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands (Lương Sơn) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",13h50 ngày 30/03 Bengkulu Putra FC vs Indonesia Muda Bali FC (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MwdakBThoJwxjAtS8/playlist.m3u8
@@ -32,10 +26,12 @@ https://auto.cdnok9.com/live/sd-6MwdaoXdBhYWhiNW84/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69225_1jthh7f9fj2n.png",14h30 ngày 30/03 Northern United FC vs Friends United (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80",13h00 ngày 30/03 New Zealand vs Chile (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",15h45 ngày 30/03 Seoul Phoenix vs Bunga Raya (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/defe67f635d3ab75365391b78a72f765/playlist.m3u8
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",15h45 ngày 30/03 Seoul Phoenix vs Bunga Raya (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f3188dd1e7c74dfd575ae3ffc5b898e4/image/small?v=1768601124",13h15 ngày 30/03 Nathan Lebak FC vs Persic Cilegon (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -72,6 +68,10 @@ https://live.alilicloud.com/live/af6d1d27138c850e216487fff9fbe02e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1d6a17c2e5030670c1ab64f9ccf964cc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80",13h00 ngày 30/03 New Zealand vs Chile (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/defe67f635d3ab75365391b78a72f765/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134320_9577df1f.png",15h30 ngày 30/03 St. Kitts and Nevis vs Solomon Islands (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -168,18 +168,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoichonhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichonhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/Q1WkZDyS-zmDbXBOa.png",13h00 ngày 30/03 New Zealand vs Chile (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/defe67f635d3ab75365391b78a72f765/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f3188dd1e7c74dfd575ae3ffc5b898e4/image/small?v=1768601124",13h15 ngày 30/03 Nathan Lebak FC vs Persic Cilegon (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0b5b0a976ea9c9633292703328fc76e2/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bdc20bdd3e0ea7a57d5daf2205a19744/image/small?v=1768601124",11h30 ngày 30/03 Persiweja vs Persidafon (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7fd2d61390df52a4d13612a7b070f367/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/af731ed17ad5cf16928a9dd170eeb3c5/image/small?v=1768601124",12h00 ngày 30/03 Heilongjiang Harbin vs Ganzhou Team (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -228,30 +220,10 @@ https://pull-live8.fastestcdn-global.com/live/af4db3a862074f14a96002ca0f05bdbb/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1d6a17c2e5030670c1ab64f9ccf964cc/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1774862260-0-0-e9ef2e61edffce6490bfe2320299740e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1774862260-0-0-c8680c5224fda1c6d4439af6116a6a5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1774862260-0-0-27b1b7d688d1c3c999d328d4ee9d290c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774862260-0-0-449b717c0e9031604650ba843b50bb84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774862260-0-0-d5afae59e49f0d5735e74a9f7540ff3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774862260-0-0-b39897877f926d5dc7d0e36841a44d38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774862260-0-0-257dd6cdd42be36e901daed6713396fc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774862260-0-0-8fab30f594f271b138861e8552aa330f
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/Q1WkZDyS-zmDbXBOa.png",13h00 ngày 30/03 New Zealand vs Chile (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/defe67f635d3ab75365391b78a72f765/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BON BON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-597924_lsd.flv?auth_key=1774862620-0-0-352646f401e31acfa8dc347c6ef76236
@@ -312,6 +284,42 @@ https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1774862980-0-0-f6ce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [GOAT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1774862980-0-0-db2253a17c5729fbaff0558bdae08746
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1774863340-0-0-6d9d5e4d79be51d23b6056ac18e6d18b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1774863340-0-0-a1a62b96ac81c61ad231eaf4b7502179
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1774863340-0-0-51da0d9d3f9b969754cf6b0505e20f3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260328/a13c81cf9520641e77108407c41a77e5.png",15h30 ngày 30/03 Saint Kitts and Nevis vs Solomon Islands [BLV A TINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774863340-0-0-7d0533b2094d7d5490c8f433204428ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774863340-0-0-9e55d4ae943690546163c85e95c320b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774863340-0-0-7e57bf7bac9dd7df631529e1061fe40c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774863340-0-0-5ac07381543bacf7b678c3e3b2670e07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260326/9292ef8867560f3f7889a63044704c16.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774863340-0-0-a2019afb0f1f1677024386b3a7261049
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",16h00 30/03 Nữ Lithuania U17 vs Nữ Estonia U17 (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",16h00 30/03 Nữ Lithuania U17 vs Nữ Estonia U17 (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",16h00 30/03 Nữ Lithuania U17 vs Nữ Estonia U17 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[FIFA Series] 13h00 30/03 New Zealand vs Chile [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
