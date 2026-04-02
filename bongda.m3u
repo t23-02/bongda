@@ -8,10 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5318705eec7b93f9f09b8e4150b7dabe/image/small?v=1768601124",10h00 ngày 02/04 Monterrey Women vs Unam Pumas Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3153cf3a53431f005f9a8404fd33c9c6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c41fa6e91e6264e62bf24d3ffd7eb85/image/small?v=1768601124",12h00 ngày 02/04 Yushu Yak vs Ganzhou Team (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -20,6 +16,10 @@ https://live.alilicloud.com/live/e7626f3a8bd85a88faffed82daa461fa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0d4fa3c86910a8e0f435310c96a53434/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5318705eec7b93f9f09b8e4150b7dabe/image/small?v=1768601124",10h00 ngày 02/04 Monterrey Women vs Unam Pumas Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3153cf3a53431f005f9a8404fd33c9c6/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_17f12eea.png",15h35 ngày 02/04 Macarthur vs Newcastle Jets (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -220,6 +220,42 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1775120020-0-0-1cea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/38a5a45dc394935e15dcb9bba85d44dc.png",Tường thuật: WCP-PO - Democratic Republic of the Congo vs Jamaica [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1775120020-0-0-2e6b6e31b004a712f358811df2ed2e97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1775120740-0-0-b88c8c10a4af2f130c432ab45d5ea545
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1775120740-0-0-8038864d9bc2cb304718399b7f0d20ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775120740-0-0-1039f7e15b0026c47a59e8b1f438a61e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775120740-0-0-8849a5145ec08133fdb4261944cd811f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1775120740-0-0-33ad406b746d697dcacd92ec6d3e97ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1775120740-0-0-7d255fcaba63aeb392c9c180b813966a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775120740-0-0-9b01fb5825b0471e962d02c4272fc077
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775120740-0-0-5fc5631e7d2459227a8ccd2d71145b90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1775120740-0-0-1615617605de4c03c30a88d7e722fd54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1775120740-0-0-eaae64cb4f81ae7e4dcfaa961d87949f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1775120740-0-0-a63b6b35268942f4a508effa228309ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",15h35 ngày 02/04 Macarthur FC vs Newcastle Jets [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1775120740-0-0-ef337ac1a90f68e2578cdfc5f143eb66
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Liga MX Femenil] 10h00 02/04 Monterrey W vs Pumas UNAM W [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
