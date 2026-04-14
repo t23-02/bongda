@@ -1176,18 +1176,6 @@ https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1776200021-0-0-b66b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260412/9a8dd9e6c279738e2a68391f2832690c.png",01h00 ngày 15/04 Al Ittihad Club vs Al Wahda(UAE) [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1776200021-0-0-a8d1e19314c567e7ae3ed0b2feb4cda4
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1721.png",01h00 15/04 England W vs Spain W (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1721.png",01h00 15/04 England W vs Spain W (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1721.png",01h00 15/04 England W vs Spain W (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2938.png",01h00 15/04 Al-Ittihad FC vs Al Wahda FC (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1254,12 +1242,12 @@ https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",02h00 15/04 Liverpool vs Paris Saint-Germain
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",01h00 15/04 Al-Ittihad FC vs Al Wahda
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/43612277.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",01h00 15/04 Al Qadisiya vs Al-Shabab
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/07428422.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",01h00 15/04 Al-Ittihad FC vs Al Wahda
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/43612277.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[UEFA Champions League] 02h00 15/04 Atletico Madrid vs Barcelona [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
