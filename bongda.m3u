@@ -420,18 +420,6 @@ https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777348405-0-0-b751
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777348405-0-0-c84600e697526ca9c0981a86542fb9d7
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1280px-Orlando_Magic_logo.svg.png",07h30 28/04 Orlando Magic vs Detroit Pistons (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1280px-Orlando_Magic_logo.svg.png",07h30 28/04 Orlando Magic vs Detroit Pistons (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1280px-Orlando_Magic_logo.svg.png",07h30 28/04 Orlando Magic vs Detroit Pistons (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png",08h30 28/04 Phoenix Suns vs Oklahoma City Thunder (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -466,3 +454,15 @@ https://live5.msrktz.app/live/82054853.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Quê Choa",[NBA] 09h30 28/04 Denver Nuggets vs Minnesota Timberwolves [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 09h30 28/04 Denver Nuggets vs Minnesota Timberwolves [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 09h30 28/04 Denver Nuggets vs Minnesota Timberwolves [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
