@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778006870.png",07h30 ngày 06/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778006870.png",07h30 ngày 06/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4558_1gshts0qkc2m.png",06h30 ngày 06/05 Toronto FC vs Atletico Ottawa (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -50,22 +44,32 @@ https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d20
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778006842.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778006870.png",07h30 ngày 06/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778006870.png",07h30 ngày 06/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124",07h00 ngày 06/05 Universidad Central de Venezuela vs Independiente del Valle (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06h30 ngày 06/05 Toronto FC vs Atletico Ottawa (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/51703811d991085dc6d8fa8af7be8fb0/image/small?v=1768601124",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/34e8b755f3854f720e8d48dce6f4dd74/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/88ab194fcc2ce22dd9cb642e1597cf6c/image/small?v=1768601124",01h45 ngày 06/05 Folgore/Falciano vs SP Domagnano (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1cd67de2781df8b51411727add0b6e2f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/09acd1f2a6c1dffaab710a0d52ec9607/image/small?v=1768601124",07h30 ngày 06/05 SV Estudiantes vs FC San Nicolas (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/23c9a61be11ecc2381530ce37e5d38f7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b320befccbfbc4ce233a8b4f470ee931/image/small?v=1768601124",01h45 ngày 06/05 Dunfermline Athletic vs Arbroath (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/72450871ec096c9196c0c540aef7719b/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/070cf060628f1c4f6345ca345794a66a/image/small?v=1768601124",06h00 ngày 06/05 New York City Team B vs Chicago flame B (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -86,10 +90,6 @@ https://live.alilicloud.com/live/0bbabd5b638bd291745312e062c513f3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/555cfeb45cb28b6b25d0d641a1d9bd57/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ffc0a243c8b7fc490dac32f3c365f24d/image/small?v=1768601124",01h45 ngày 06/05 Fiorentino vs SP La Fiorita (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/277f808a8b10b28fcb18a3163026ec44/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",07h30 ngày 06/05 Deportivo Recoleta vs Santos Fc vs SP (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -110,18 +110,6 @@ https://live.alilicloud.com/live/64a35e70514b86bc08ed1ca93ae17131/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7f2e39cb19e358f53051cae482789422/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124",07h00 ngày 06/05 Universidad Central de Venezuela vs Independiente del Valle (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06h30 ngày 06/05 Toronto FC vs Atletico Ottawa (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132250_edb73c2c.png",07h00 ngày 06/05 Barcelona SC vs Boca Juniors (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -394,22 +382,26 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124",07h00 ngày 06/05 Universidad Central de Venezuela vs Independiente del Valle (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06h30 ngày 06/05 Toronto FC vs Atletico Ottawa (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/51703811d991085dc6d8fa8af7be8fb0/image/small?v=1768601124",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/34e8b755f3854f720e8d48dce6f4dd74/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/88ab194fcc2ce22dd9cb642e1597cf6c/image/small?v=1768601124",01h45 ngày 06/05 Folgore/Falciano vs SP Domagnano (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1cd67de2781df8b51411727add0b6e2f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/09acd1f2a6c1dffaab710a0d52ec9607/image/small?v=1768601124",07h30 ngày 06/05 SV Estudiantes vs FC San Nicolas (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/23c9a61be11ecc2381530ce37e5d38f7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b320befccbfbc4ce233a8b4f470ee931/image/small?v=1768601124",01h45 ngày 06/05 Dunfermline Athletic vs Arbroath (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/72450871ec096c9196c0c540aef7719b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/070cf060628f1c4f6345ca345794a66a/image/small?v=1768601124",06h00 ngày 06/05 New York City Team B vs Chicago flame B (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -430,10 +422,6 @@ https://live.alilicloud.com/live/0bbabd5b638bd291745312e062c513f3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/555cfeb45cb28b6b25d0d641a1d9bd57/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ffc0a243c8b7fc490dac32f3c365f24d/image/small?v=1768601124",01h45 ngày 06/05 Fiorentino vs SP La Fiorita (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/277f808a8b10b28fcb18a3163026ec44/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",07h30 ngày 06/05 Deportivo Recoleta vs Santos Fc vs SP (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -450,54 +438,6 @@ https://live.alilicloud.com/live/484c01c4e059d27d67355e47afe6a230/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7f2e39cb19e358f53051cae482789422/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124",07h00 ngày 06/05 Universidad Central de Venezuela vs Independiente del Valle (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06h30 ngày 06/05 Toronto FC vs Atletico Ottawa (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1778030965-0-0-d5f2e1a7db33a81e2557a7d108deacc6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1778030965-0-0-0ffb63c86909e43ea2f42cefbe7cc0cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778030965-0-0-9b6cd5fc4c0e7835866679348b02115f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778030965-0-0-a83f63dfb562191fc9ba755bdf8d1c80
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778030965-0-0-b55c3a76acb950120a0c3c28c194c5c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778030965-0-0-44cc644f0319762852a166073008afcb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778030965-0-0-82edbfdb05f61482407bc334046771d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778030965-0-0-98f8e87c0b2d99736358e20ae9abd433
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1778030965-0-0-adc929ec2e482ff430739fdc9ea554ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1778030965-0-0-a796be61d5323d6d231261ba9683700b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778030965-0-0-48847f47ef4085ba02942e6358361eeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778030965-0-0-aee04713474ba080c813e8c27d6a1274
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c29bbcd5acb7d5198fdcae47b6af0759.png",07h00 ngày 06/05 Universidad Central de Venezuela vs Independiente del Valle [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1778031325-0-0-95359c458cb3b4acfda39eddf86eaa49
@@ -678,6 +618,42 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1778031685-0-0-9970
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/10699c1fb602d21a8c78e9a58233cdd1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1778031685-0-0-9617374faa8fafb69e802eb9426a0669
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778032045-0-0-6f1c68395e7dcf722438a5ddde812eec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778032045-0-0-fefd9a7a4e9fcf1148c80e91de42f65e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778032045-0-0-8fdaf96d06bfdc424d40c7d7c024f4d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8f93245f035cecf4a2fec2e7d12f6690.png",07h00 ngày 06/05 Barcelona SC(ECU) vs Boca Juniors [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778032045-0-0-65ccaa3256460b744da8436825a212d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1778032045-0-0-79d65060c1cfb8fe501e79b783d22c97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1778032045-0-0-016d3583d881cfb60e9b0b51f42f55d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778032045-0-0-f5bce7711bf199e495d3683e0d6dcb61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/ffb55a56c66f5b5e5c2f613bbd7b1038.png",06h00 ngày 06/05 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778032045-0-0-dd9e6d1af7f84c4686cdfd5baf697ee3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1778032045-0-0-741e73a5f6cd1d88467b6e236f7996f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1778032045-0-0-7dba382c8cbf86c56a01e13396c102ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778032045-0-0-72a174a930a88c25d0d40b9533dede0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f793a096fea2e0a0ba9d17f6708dd4e3.png",07h30 ngày 06/05 Academia Puerto Cabello vs Cienciano [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778032045-0-0-22b1b12993ae423d0a0d9d4d22d7ff3f
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Tala%27ea_El_Gaish_Logo_2017.png",21h00 07/05 El Geish vs Ghazl Al Mehalla (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -736,3 +712,15 @@ https://live5.msrktz.app/live/90725470.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Quê Choa",[NBA] 07h30 06/05 Oklahoma City Thunder vs Los Angeles Lakers [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 07h30 06/05 Oklahoma City Thunder vs Los Angeles Lakers [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 07h30 06/05 Oklahoma City Thunder vs Los Angeles Lakers [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
