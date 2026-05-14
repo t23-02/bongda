@@ -8,6 +8,12 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778735288.png",12h09 ngày 14/05 Bayern Munich vs Paris Saint-Germain (Lương Sơn) BLV KEVILL REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778735288.png",12h09 ngày 14/05 Bayern Munich vs Paris Saint-Germain (Lương Sơn) BLV KEVILL REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60321_1gt30b8dgh2w.png",07h30 ngày 14/05 St. Louis City vs Los Angeles FC (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnfaster.live/live/sd-6MvZ6B8Vte3gvxvjN4/playlist.m3u8
@@ -290,18 +296,6 @@ https://pull-gv.fastestcdn-global.com/live/2121df1dc70d4f6eb269c3f42be25c39/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-gv.fastestcdn-global.com/live/2121df1dc70d4f6eb269c3f42be25c39/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1778738034-0-0-8eeb028276ed1d0999c8afbb0fc252b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1778738034-0-0-1771e73ef31cb523c8afb713e097a10f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1778738034-0-0-c0b3aebd7392c5dd6c484ecea18746a7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1778738034-0-0-a7f243c2d41400476124d74620bf7527
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",Tường thuật: AFC U17: Vietnam U17 vs United Arab Emirates U17 [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1778738394-0-0-b9aab3b5935661b6a29e641cd8c394f9
@@ -386,6 +380,18 @@ https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=5520476edefb67f8b01
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",test [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f85e77b165277c7a9c2ffb5606805219&txTime=6a05ac92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1778739114-0-0-c673c1433673bc414d659b5511dbe281
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1778739114-0-0-a4cd4804213717b41b69813cad9bcfa7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1778739114-0-0-5e7c1f602612bbfe780c5ed9a90dc389
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260509/9dcde8a69dcc6600ef8487235a97574a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1778739114-0-0-003286a272733d7355517bcd26a25728
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg",10h00 14/05 Dương Quốc Hoàng vs Nguyễn Hoàng Phong (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
