@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12733_1hr8p72940y.png",12h00 ngày 16/05 SC Sagamihara vs Vanraure Hachinohe FC (Lương Sơn) BLV MỘT CHÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12733_1hr8p72940y.png",12h00 ngày 16/05 SC Sagamihara vs Vanraure Hachinohe FC (Lương Sơn) BLV MỘT CHÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2664_1gtqm8vyr33.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
@@ -38,6 +32,12 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12733_1hr8p72940y.png",12h00 ngày 16/05 SC Sagamihara vs Vanraure Hachinohe FC (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12733_1hr8p72940y.png",12h00 ngày 16/05 SC Sagamihara vs Vanraure Hachinohe FC (Lương Sơn) BLV MỘT CHÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12733_1hr8p72940y.png",12h00 ngày 16/05 SC Sagamihara vs Vanraure Hachinohe FC (Lương Sơn) BLV MỘT CHÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80",02h00 ngày 16/05 Aston Villa vs Liverpool (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -158,6 +158,22 @@ https://gckc0525.edgemaxcdn.org/live/m3x5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m3x5.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_078f66b7.png",17h00 ngày 16/05 Incheon United vs Gwangju FC (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_078f66b7.png",17h00 ngày 16/05 Incheon United vs Gwangju FC (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250917_090027_b537b3e3.png",17h00 ngày 16/05 Hồ Chí Minh II vs Xuan Thien Phu Tho (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250917_090027_b537b3e3.png",17h00 ngày 16/05 Hồ Chí Minh II vs Xuan Thien Phu Tho (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250918_215520_259de84c.png",17h00 ngày 16/05 Khatoco Khanh Hoa vs Bắc Ninh (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -190,6 +206,14 @@ https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260515_235749_708937a8.webp",17h00 ngày 16/05 Giang Tô (CN) vs Binh chủng Thông tin (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260515_235749_708937a8.webp",17h00 ngày 16/05 Giang Tô (CN) vs Binh chủng Thông tin (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132402_2fa85175.png",18h00 ngày 16/05 Hai Phong vs Becamex Hồ Chí Minh (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -534,54 +558,30 @@ https://pull-gv.fastestcdn-global.com/live/a312d739570c4befa5486435edab7112/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-gv.fastestcdn-global.com/live/a312d739570c4befa5486435edab7112/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=980a37b3f3adbc2db1235f5e07074fbb&txTime=6a085ad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=795767ca8b09d5abf1887f92db5455e1&txTime=6a085ad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=980a37b3f3adbc2db1235f5e07074fbb&txTime=6a085ad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=795767ca8b09d5abf1887f92db5455e1&txTime=6a085ad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1778914434-0-0-80323304e63077bc0540e4d30269764d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1778914434-0-0-8cd4ca5647516c34a61f5dfdc18c105b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778914434-0-0-5f9e9daf9849692e659908494eb12239
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778914434-0-0-7a08096e9c9636fd873874f8237a4c24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1778914434-0-0-de36ba94fce6932da2ed75fc47e6b1a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1778914434-0-0-2bb201f07adf8d0c2829936b43238ec3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1778914434-0-0-d9351774828b6c95c7c4301812961592
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1778914434-0-0-e19490ded76b61eea3a7473c27796bf3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1778914434-0-0-adbcae49d3f01f3a24b601c221d1505f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1778914434-0-0-769d94d93a2bfd3d205c1f0e6391c187
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778914434-0-0-4373a54b0bb918b54265d8ff30b93a4f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778914434-0-0-42b7ffd303a17e303ac31671ae675241
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/2iJi3FWg-nqhLBCKD.png",14h00 ngày 16/05 Urawa Red Diamonds vs FC Tokyo (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1f0045cc1ade40ebbe978671aedae6b9/index.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/74d226fc8ebb33fb6375a21e33a5e9a1.png",12h00 ngày 16/05 Albirex Niigata vs Nara Club [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=eb2eeb184ecc1888c02cda531745c39a&txTime=6a085c3a
@@ -822,6 +822,54 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1778915154-0-0-1cb7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260511/b4ba697ea4ab1515d7438b5a3ffc2f80.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1778915154-0-0-5624155c3df521af8d80620769497bd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ffc2d76873edc9c1d7487ee1314f30fb&txTime=6a085f0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=f9f6fa1b8b7cc984272011956b079fcc&txTime=6a085f0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ffc2d76873edc9c1d7487ee1314f30fb&txTime=6a085f0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/f2764a937aa92ea7ff1e6f49c3a630e4.png",12h00 ngày 16/05 Mito Hollyhock vs Tokyo Verdy [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f9f6fa1b8b7cc984272011956b079fcc&txTime=6a085f0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1778915514-0-0-bc73bfe3f8d0de286068b1cd857c7b1a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1778915514-0-0-2cce1174d548d425256f39e95a0abde9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778915514-0-0-166766cd3f1c1ff7949adcb1c401eec7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778915514-0-0-b20b8a2a2677f8195b82f32a9acd389f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1778915514-0-0-32e965891d9bc48e18340ab9103fc21a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1778915514-0-0-815762dbabd90c758f370cb932a87868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1778915514-0-0-aa75dac7b2bf375c72c49a110484640f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/df21ac4c0c6f29cd75f7e4746192c769.png",12h00 ngày 16/05 Fukushima United FC vs Hokkaido Consadole Sapporo [BLV YONE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1778915514-0-0-adb1988449b1816a9ef14f9cfd74a6ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1778915514-0-0-80e1438cf0e62dc4ebcd5ec123663565
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1778915514-0-0-b00e26058c462901d1cf1fbf72e997c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778915514-0-0-c89e8f40f73779b927c7703cb3631399
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260513/617ccae77b510790d958d8e7db6c30a9.png",12h00 ngày 16/05 Sagan Tosu vs Renofa Yamaguchi [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778915514-0-0-a76ff64a0486a6ad52f8a7e135dcf031
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/305.png",12h00 16/05 Mito Hollyhock vs Tokyo Verdy (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
