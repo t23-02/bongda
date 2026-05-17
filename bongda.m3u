@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47732_1j3p98ksr42m.png",07h40 ngày 17/05 Austin FC vs Sporting Kansas City (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47732_1j3p98ksr42m.png",07h40 ngày 17/05 Austin FC vs Sporting Kansas City (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnfaster-a.live/live/TONGGIANG.flv?expire=expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5236_1h6wfek5q11g.png",09h00 ngày 17/05 Herediano vs Deportivo Saprissa (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -32,6 +26,12 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4727_1hxb3nrv3ya.png",08h20 ngày 17/05 Seattle Sounders vs Los Angeles Galaxy (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47732_1j3p98ksr42m.png",07h40 ngày 17/05 Austin FC vs Sporting Kansas City (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47732_1j3p98ksr42m.png",07h40 ngày 17/05 Austin FC vs Sporting Kansas City (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnfaster-a.live/live/TONGGIANG.flv?expire=expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/volleyball/team/5943244c39e7bc5f0cb9e916b1a7aec5.png!w80",01h30 ngày 17/05 Zawiercie vs Ziraat Bankasi (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -920,6 +920,38 @@ https://pull-gv.fastestcdn-global.com/live/a28506af8166417e8d71ade79d9936dd/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://www3.f2k3.shop/live/67393928e6c768e2f901f25bbe4837ca/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1bc98e4420bbae09aea92675400e7644.png",09h30 ngày 17/05 Club Deportivo Rex FC vs AF Chilibre (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/3d2016ed0198458eaa3a35d2c16e2e74/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1bc98e4420bbae09aea92675400e7644.png",09h30 ngày 17/05 Club Deportivo Rex FC vs AF Chilibre (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/3d2016ed0198458eaa3a35d2c16e2e74/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1bc98e4420bbae09aea92675400e7644.png",09h30 ngày 17/05 Club Deportivo Rex FC vs AF Chilibre (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/3d2016ed0198458eaa3a35d2c16e2e74/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1bc98e4420bbae09aea92675400e7644.png",09h30 ngày 17/05 Club Deportivo Rex FC vs AF Chilibre (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/3d2016ed0198458eaa3a35d2c16e2e74/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/7079d708b4e391c0c26b20da7b2fb32c.png",09h30 ngày 17/05 San Jose Earthquakes vs FC Dallas (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/4294fe2631774e2fbb9f5684cf6732aa/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/7079d708b4e391c0c26b20da7b2fb32c.png",09h30 ngày 17/05 San Jose Earthquakes vs FC Dallas (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/4294fe2631774e2fbb9f5684cf6732aa/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/7079d708b4e391c0c26b20da7b2fb32c.png",09h30 ngày 17/05 San Jose Earthquakes vs FC Dallas (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/4294fe2631774e2fbb9f5684cf6732aa/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/7079d708b4e391c0c26b20da7b2fb32c.png",09h30 ngày 17/05 San Jose Earthquakes vs FC Dallas (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/4294fe2631774e2fbb9f5684cf6732aa/index.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/1f73d1647dfc72df91faf597e5a8481b.png",08h07 ngày 17/05 Club Deportivo Guadalajara vs Cruz Azul [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1778987515-0-0-ace64517d5b607b1accced20cdf40b2c
