@@ -8,12 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47739_1h8qp9bzsd6.png",06h40 ngày 17/05 Charlotte FC vs Toronto FC (Lương Sơn) BLV LÝ QUỲ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47739_1h8qp9bzsd6.png",06h40 ngày 17/05 Charlotte FC vs Toronto FC (Lương Sơn) BLV LÝ QUỲ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/424_1gxsf3fvqe1p.png",07h00 ngày 17/05 Palmeiras vs Cruzeiro (Lương Sơn) BLV PELE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -26,6 +20,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/280_1j3p97keem1v.png",06h40 ngày 17/05 DC United vs St. Louis City (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47739_1h8qp9bzsd6.png",06h40 ngày 17/05 Charlotte FC vs Toronto FC (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47739_1h8qp9bzsd6.png",06h40 ngày 17/05 Charlotte FC vs Toronto FC (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/volleyball/team/5943244c39e7bc5f0cb9e916b1a7aec5.png!w80",01h30 ngày 17/05 Zawiercie vs Ziraat Bankasi (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -630,90 +630,6 @@ https://pull-gv.fastestcdn-global.com/live/1c71cd46b2f64bf4b62e20b22bd3afdc/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-gv.fastestcdn-global.com/live/1c71cd46b2f64bf4b62e20b22bd3afdc/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1778980674-0-0-e0d9b7e2bcafa077f5f6c0424de1ecf5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1778980674-0-0-36c44efc149be23dc4277ed7e5bef884
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778980674-0-0-b48b448bfeac5d5f9f64d7be3199f36a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778980674-0-0-89e9ac339cf943e457f77a3f2fb8bdce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=ce1850252bbdc2642fc356b5aa88ebee&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=5e69b7881f2612c13bee6234a291fa22&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ce1850252bbdc2642fc356b5aa88ebee&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5e69b7881f2612c13bee6234a291fa22&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778980674-0-0-8b0496c7b2437709bd3bd03c4a55d161
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778980674-0-0-2f850c190780dc5c7e817b4e2d863914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778980674-0-0-28e22368e7a31e78852b9b76c37eac5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778980674-0-0-c75ed6382e53aeeb548d7477ed134a81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778980675-0-0-ed85fc07788169e917431d9ab8d014ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778980675-0-0-34cb87f6537eb66b92557e7e749b5f72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778980675-0-0-1d121a704b927954a232efbae1f92a7a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778980675-0-0-43d8c6e7ff929b43c32e5cbf6936b4c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=d73d0025c23771ade7a7437b6b79362e&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=422b9e2d1298104e93028e33d8fa3f65&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=d73d0025c23771ade7a7437b6b79362e&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=422b9e2d1298104e93028e33d8fa3f65&txTime=6a095d92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1778980675-0-0-bc1a10fa0b9bedff16964eb93e0e7c63
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1778980675-0-0-575c1b4f5c7dad63630cd8bb0dc36aed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778980675-0-0-658a60781e8312ceb4877e637ad79e25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778980675-0-0-963b183a7c15f10b7564193c76e6b99e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1778980674-0-0-9ab48cb59371f82af805496ce4f9d6ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1778980674-0-0-2cd94b8002aa10dbc46f35720fd4206b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1778980674-0-0-2a89f564234b076efdf606a79957864b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1778980674-0-0-2b839e17e46c52932f9ea88fd89654d9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/35169712759343fe5425f490e15bd740.png",07h00 ngày 17/05 Palmeiras - SP vs Cruzeiro - MG [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1778981034-0-0-252d5a6917d4b4ec1b918ba488f883ea
@@ -882,6 +798,90 @@ https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=87d26ca6d40033dd9c5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/1f73d1647dfc72df91faf597e5a8481b.png",08h07 ngày 17/05 Club Deportivo Guadalajara vs Cruz Azul [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=927f92582d61e3f9dbb70363bdfcac7e&txTime=6a096062
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=3f7fdd298a80c8c6c7aef53da893e5cc&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=be52d1e8363c0018d8b81ce0f67730ad&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=3f7fdd298a80c8c6c7aef53da893e5cc&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=be52d1e8363c0018d8b81ce0f67730ad&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1778981755-0-0-3a2c1b3eb4c927ed37b7187b2fa0a205
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1778981755-0-0-ebd504347d256f8ffdcd2c8f79e5fd52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778981755-0-0-9aa29a9681bace3267b0720f36c7f18d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/031bf39e58752300d8be71c21f066afd.png",07h30 ngày 17/05 Austin FC vs Sporting Kansas City [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778981755-0-0-46c08aeb2414b4ad84fd5936d6e7cf69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=223bb6d34ce07cd6ed09cb60adac4dd9&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=aaccfc83896904ad463efe60a1b8230e&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=223bb6d34ce07cd6ed09cb60adac4dd9&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=aaccfc83896904ad463efe60a1b8230e&txTime=6a0961ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778981755-0-0-24a4e7a88afbd3cc4cc87b4c389cdb47
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778981755-0-0-8598c5ffb3f5572cfd5d1514323d19a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778981755-0-0-9a1613162b0abd91b35faee86edfa84d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/9811d285c38fe5ad8fdc3fc23c73be6b.png",06h30 ngày 17/05 Philadelphia Union vs Columbus Crew [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778981755-0-0-0ce85e5b38481e2ec76452079e3aa768
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778981754-0-0-195c8e4dc376ad692c68b23358551d6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778981754-0-0-2181cc399508c7ec844d2063d8363685
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778981754-0-0-1d7ca4f46ccaefa525c3ba8ccc3ed872
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/2cb1fbc9806c228987675aa348e79044.png",06h30 ngày 17/05 Instituto de Cordoba vs Quimsa [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778981754-0-0-d263a8c4d1a1988d510ddd27e24597cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1778981755-0-0-767a4fd0110d6a45d6751037d371be02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1778981755-0-0-df8421be8d4c7d6ca42d88e2173b52f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778981755-0-0-accefb4d18245b0cb48def30fbb7c309
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/49237855c4cf0de9da25c271599f733c.png",06h30 ngày 17/05 Charlotte FC vs Toronto FC [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778981755-0-0-c82655d056e2fe4518aff7525475eaf1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1778981754-0-0-4cc7ff873b3eba4852c205d348ca104a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1778981754-0-0-eb6f45c192633758e07c0c86aa146877
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1778981754-0-0-68ecff29dbf5fa9ceb2cfb3e6894b20e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/45d7c5c82a1c833f8537b77c9f0d1486.png",00h00 ngày 17/05 FC Arouca vs CD Tondela [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1778981754-0-0-492c49b3c73e873720547d56f09dfaf5
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1602.png",06h30 17/05 New York Red Bulls vs New York City FC (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
