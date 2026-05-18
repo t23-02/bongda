@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779103946.png",18h35 ngày 18/05 Zhejiang Guangsha vs Shenzhen (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=539
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14674_1hy78x3exjt.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTogukpCzx6X5kIPdrS4YDw9qRRjCVxDIuDUA&s",20h00 ngày 18/05 LPBank Ninh Bình vs Hà Nội Tasco Auto (Khán Đài A) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -71,6 +71,10 @@ https://pull-kda.fastestcdn-global.com/live/c6b091e98644489faaeb9902030f0f52/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/239d776c2f024b5c991cce353d61cd66/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/25399874c890dd346ebde00e3c2bcb7b.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/b3ef936af3c1debc7d239eb83bd6e1a3/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251011_220657_399c6a8e.png",17h00 ngày 18/05 Gunma Bank Green Wings W vs Suwon (Kor) (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -279,22 +283,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/3efbdef3b7086710b58f8ca978de0107.png",18h00 ngày 18/05 Shaanxi United Soaring vs Beijing Life＆Football (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -327,90 +315,42 @@ https://pull-gv.fastestcdn-global.com/live/77b23c8a453c4bb1b9fa3a6b2a465848/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/239d776c2f024b5c991cce353d61cd66/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779111355-0-0-3e281fb8f992301891dac51bed2429ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779111355-0-0-63e6aea8cc975cec5a5752b5ca45a322
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779111355-0-0-8ed460371a7ae7d7f6a683262879cf33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779111355-0-0-f840545e5db949cea7e02b2111fa5eb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1779111355-0-0-c47b20ff120f265113614b095a6740dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1779111355-0-0-0db9db6d5358c5efbbd51d58ff17e15a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1779111355-0-0-031243e98b62c3f4680c4ee4ba691952
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779111355-0-0-a7b2d1af9628ba0cdcf5b0f6783ce541
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779111355-0-0-8eb0a27296bd804c85037b4c7706f284
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779111355-0-0-20afb8a719619808c02c5a2dc6781905
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779111355-0-0-0d996a05d083bd9dc73879940e7e6aa7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779111355-0-0-fddebf14352ef481ccf4ab11576b213b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779111355-0-0-19d7b975cf68d48a7ab42635ab50d10c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779111355-0-0-a02bf2301aeda24c6cb496065dc14bab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779111355-0-0-1271081165cd3e802960687513d7f57d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779111355-0-0-48c5bf68185106d3746f125412ce57c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779111355-0-0-300bc895a8ff69e2c7fece12a624e323
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779111355-0-0-9a8dfb78f5d68e144d88a1986baef988
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779111355-0-0-225d020b10e52a626f478727290896ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779111355-0-0-694b5860ebafb1c8110562930c8bb7de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=baca83bdd1f3e0ff64ef29fee3a3ed8f&txTime=6a0b5c0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=f9e0b6dfb79eff3baae526e1bed1c16c&txTime=6a0b5c0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=baca83bdd1f3e0ff64ef29fee3a3ed8f&txTime=6a0b5c0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f9e0b6dfb79eff3baae526e1bed1c16c&txTime=6a0b5c0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779111355-0-0-1874b153e18f045ab64a99e6e7402795
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779111355-0-0-acb46e621e976bb362e451cc08cecc88
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779111355-0-0-c9122f8aaf134db379aa1ef319f44626
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779111355-0-0-4b453595e83a2b74240fffda99f5bb16
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png",20h00 ngày 18/05 LP Bank Ninh Bình vs Hà Nội Tasco Auto (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/a4276566e0d14bada2d7babb20a1f545/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png",20h00 ngày 18/05 LP Bank Ninh Bình vs Hà Nội Tasco Auto (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/a4276566e0d14bada2d7babb20a1f545/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png",20h00 ngày 18/05 LP Bank Ninh Bình vs Hà Nội Tasco Auto (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/a4276566e0d14bada2d7babb20a1f545/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png",20h00 ngày 18/05 LP Bank Ninh Bình vs Hà Nội Tasco Auto (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/a4276566e0d14bada2d7babb20a1f545/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png",20h00 ngày 18/05 Yaypan FK vs FC Kattaqorgon (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/0cffb265a66545928ec20c7a349b721f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/25399874c890dd346ebde00e3c2bcb7b.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/b3ef936af3c1debc7d239eb83bd6e1a3/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=3f610058520f581863f01050badb7f6f&txTime=6a0b5d73
@@ -519,6 +459,90 @@ https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6ba0ad87546a3466c417
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=de992195801a93ac37aba3563bd4bd07&txTime=6a0b5edb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779112435-0-0-d449e90b666a3cd6a94f1225d9d6c08a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779112435-0-0-23c92ef61f90ddc89adbe5df1bc94998
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779112435-0-0-957545d0efe7d36c3a5b3f9ff3d1061a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779112435-0-0-91f3a1f421f7840fdb419e09022051f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1779112435-0-0-8221104a6c17a0a1c2c941f50d572cde
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1779112435-0-0-cf81aceee03e96bdfc8a25633f630be5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1779112435-0-0-94ddcf2b8e7b74d76c05dacab74b80b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779112435-0-0-a0eff303c848adf25179c3d62219a793
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=b4f3d6b4270a4706b74b57e708202e60&txTime=6a0b6043
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=c5d5a19af6720823d07c05d514bb2607&txTime=6a0b6043
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=b4f3d6b4270a4706b74b57e708202e60&txTime=6a0b6043
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/e20e73d339fb7668e040ca8b293d892f.png",20h00 ngày 18/05 Shirak vs Urartu [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c5d5a19af6720823d07c05d514bb2607&txTime=6a0b6043
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779112435-0-0-ec575860769f816e8822f05f156e1175
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779112435-0-0-f96aab64b2dfc4286cecb335a15fdfd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779112435-0-0-cce279cf3f258f35bd5b8e5900d29a32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7e6541f7378f5b77fce2946d123fc9bf.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779112435-0-0-8f9383dc01db8b5b39aabf5086bc6bb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779112435-0-0-1fe11a4d67905759d74d9f3a45ceac52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779112435-0-0-14575e276a4bfb1769c36d7b91d96c64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779112435-0-0-ae736845d99ce4556840fbe8ef1835c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260515/8b3e7391d34001a5293045b297e7c444.png",19h00 ngày 18/05 Thimphu City vs Drukpa FC [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779112435-0-0-5e725ab9aacfbec9492ea1b9239ca6f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779112435-0-0-6e80fe81743b26608ed349445c812c91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779112435-0-0-80049039ae31deaa082c96ede7dd4747
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779112435-0-0-7924dbc1a3fcd1da2ea4758b44276e03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/9ef730db8270c458ca3c84c237958906.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779112435-0-0-0598a3e5115d003eb0d76898a3dcd346
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779112435-0-0-290bcbd3a3d1db7839e177afcb9c6784
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779112435-0-0-be238974815e589e87b6ca08d28304df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779112435-0-0-938cf6c8b186c88eea3b387ebcbc8aa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260514/d40f94c7a7ab4f389d82adcd73972c57.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779112435-0-0-f245423d5b36cfecd145cca15595ea19
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Zhejiang_Lions.png",18h35 18/05 Zhejiang Guangsha vs Shenzhen (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
