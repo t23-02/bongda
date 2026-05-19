@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7440_1h6mrcxqjk1r.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7440_1h6mrcxqjk1r.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21673_1gt31t5xqg20.png",07h00 ngày 19/05 Guayaquil City vs Orense SC (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=00
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6224_1k8cgy971t18.png",07h00 ngày 19/05 CD Motagua vs Genesis (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7440_1h6mrcxqjk1r.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7440_1h6mrcxqjk1r.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -293,6 +293,22 @@ https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png",06h00 ngày 19/05 All Boys vs Deportivo Moron (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -313,82 +329,6 @@ https://www3.f2k3.shop/live/9b814b013d46cda9b1b39356c3fc37e3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/4a30805f478de3990a3fd4e0f97b9e3a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/46cbf2c47cd84d64852a7b39d592dde6/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779153115-0-0-1d952a1475ae9f545d35fea654a2d353
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779153115-0-0-1175fe731d769f71c678f292c4677ad4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779153115-0-0-c4d5610a896b03ae1b2813276220af1c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779153115-0-0-68031773c0da52e64ab9e08a8d395c00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=0b62252c9374b3cf8f974e89264499e2&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8fe90ba064ff351c0a78f9fb7e3ac026&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0b62252c9374b3cf8f974e89264499e2&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8fe90ba064ff351c0a78f9fb7e3ac026&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779153115-0-0-74028e6cf4be7e631e7f8765dc6388fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779153115-0-0-7b277617d1a3305d225b4e5dd1b2d37e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779153115-0-0-71cd0ca07a65d629e6014a87306956e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779153115-0-0-2e5b8a13acf699aeb349408177a3d645
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779153115-0-0-4d775791a3d3a162b78bfe730fc6ea39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779153115-0-0-e43a2c9bc3b9791a93a5daf789bda956
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779153115-0-0-14c00bc69aade1a836dc8a6a031a78f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779153115-0-0-e7835b90f67b4cb34f3f79f6b87dd5be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=af8811e78ba67cc436d1a86b613cebb5&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=71ea460c33a02b3bb0e33d6090da777a&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=af8811e78ba67cc436d1a86b613cebb5&txTime=6a0bff2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=71ea460c33a02b3bb0e33d6090da777a&txTime=6a0bff2b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779153475-0-0-db84de9d85199685aa8665cbbf746bb6
@@ -509,6 +449,78 @@ https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779153835-0-0-548
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779153835-0-0-15688c307def9fa39a8490a604453647
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=ce7868b7d9666c2fac75c9844c2dfda7&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=00aef21d083d4e06107a50870d669c6e&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ce7868b7d9666c2fac75c9844c2dfda7&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=00aef21d083d4e06107a50870d669c6e&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779154195-0-0-4586097dde7d7bb19e0df92df7ddbfbd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779154195-0-0-e618b1662cf1fb1d3b8e1418df0a9f0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779154195-0-0-e0abef4ad80d450f73b58b0181a52410
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779154195-0-0-9398205c5dd2f50269b7b928ccabc70a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779154195-0-0-4548a8d5d06181b74fc5db935504c964
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779154195-0-0-3fee03e82b054a9eb16eae0e8a5c83a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779154195-0-0-841e23fd21808427ded8ecb3fd009e7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779154195-0-0-36cb65ec5c5ef5eb089280633583b1b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=fd83e8459838b3909c9a98c75f88b030&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=29f25bb2ac5741263637990d6176a3f4&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=fd83e8459838b3909c9a98c75f88b030&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/304218712b0a231122921bb3318de84c.png",07h00 ngày 19/05 CD Motagua vs Génesis Policía Nacional [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=29f25bb2ac5741263637990d6176a3f4&txTime=6a0c0363
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779154195-0-0-b0e43bae5cdeeb685b02a7ea2c9d9ab9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779154195-0-0-17ce084856edb15b3a6ecf8c2f805ff6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779154195-0-0-efb3b4d584b530add9c9ac34d13030e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260517/751f875398448b4ba4c6f0f519f42206.png",07h30 ngày 19/05 Oklahoma City Thunder vs San Antonio Spurs [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779154195-0-0-0e33ade5e993d792e1f5b2908e09a60a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [HÀ DUY KIÊN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1779154195-0-0-a65514fc9bacb2297f204c81613a410e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [HÀ DUY KIÊN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1779154195-0-0-f89ebc94e72d044c29cc92cd0c55fee4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [HÀ DUY KIÊN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779154195-0-0-eda9ccc54cfc3121f1cd10f19a52a890
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/2e35e30ac32f46b0c59998435d732b52.png",07h00 ngày 19/05 Guayaquil City vs Orense SC [HÀ DUY KIÊN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779154195-0-0-cf062f5c473fa68b3f75dbd5e2f89f7a
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1159.png",07h00 19/05 Guayaquil City FC vs Orense SC (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
