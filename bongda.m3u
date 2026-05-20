@@ -23,10 +23,6 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11763_1hw70t2mjs5.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/3728683390847f335552d077cf0b8752.png",08h30 ngày 20/05 South Melbourne vs Vanuatu United FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
-https://www3.f2k3.shop/live/767e0c44d179983a46b1390a31da4066/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -39,6 +35,10 @@ https://www3.f2k3.shop/live/a53739411077fda6c1dde4b77c251399/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/c5790ef6a7b6e3c4c414896eebce160c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/3728683390847f335552d077cf0b8752.png",08h30 ngày 20/05 South Melbourne vs Vanuatu United FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/767e0c44d179983a46b1390a31da4066/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132250_bd21cf75.png",09h00 ngày 20/05 Independiente del Valle vs Libertad Asuncion (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -287,6 +287,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/d1eb677c677102db271b1a610486923f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/af5d08bcd181c66a5ff7724086d6c933.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/c5790ef6a7b6e3c4c414896eebce160c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/3728683390847f335552d077cf0b8752.png",08h30 ngày 20/05 South Melbourne vs Vanuatu United FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -311,74 +319,6 @@ https://pull-gv.fastestcdn-global.com/live/b0f734b2c3a9480bad507a0fa7a9d427/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://pull-gv.fastestcdn-global.com/live/b0f734b2c3a9480bad507a0fa7a9d427/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/d1eb677c677102db271b1a610486923f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/af5d08bcd181c66a5ff7724086d6c933.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/c5790ef6a7b6e3c4c414896eebce160c/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779251395-0-0-5d1c3b547206c08ca435c4f55df9f240
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779251395-0-0-c27a1dfdaed58a03c3f39e3e317554ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779251395-0-0-2afa76b4fb6a36e52ab1c407c715267a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779251395-0-0-5031fe33a53de195d21055057998d916
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1779251395-0-0-5a7921668465a5cb0fb5b0d22845cb05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1779251395-0-0-d3190059578f164ab1e7c15fc3067748
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1779251395-0-0-edaa139d7425ed9500fc5fb4dff4a3d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779251395-0-0-4fe82039bfeff9b6bdfc28b86a7f4993
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=b0e631cf2e334ee2e798fddf44f49efb&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=67a673de09d5849be2721c6637cef31c&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=b0e631cf2e334ee2e798fddf44f49efb&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=67a673de09d5849be2721c6637cef31c&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779251395-0-0-cfdb2c327eea6ac8aa2fe1842014961b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779251395-0-0-162bcf64d9c45134d489f3f829216e12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779251395-0-0-7597e1ce8594a553c28af85300d12c8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779251395-0-0-78034d2c16c22528fee576691b0b65fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1990a8c27cc67b16575cf01a1b64b764&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=a3a52baf9d8b78979b362d464840a367&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1990a8c27cc67b16575cf01a1b64b764&txTime=6a0d7f13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a3a52baf9d8b78979b362d464840a367&txTime=6a0d7f13
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779251755-0-0-3408a4a6ec15afe2b37c245905662614
@@ -547,6 +487,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779252115-0-0-e885
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/1db89e3c5c1004f21dde9a8aaa4bdce5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779252115-0-0-2eb0b651a125b7af68be6fecd76f0457
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1779252475-0-0-993a2a5b0d4d770a22d7be60dcc2be42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1779252475-0-0-62dc342a5ae57ce5e4d4334d1bef8b4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1779252475-0-0-03b2e85960f082b042822252c82e1d2d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779252475-0-0-cc926f33afec555494cc8f9207a0ecf3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779252475-0-0-c5dd30e175e701337cf5600297cfce0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779252475-0-0-7aec8adb536e5589ba73f2adb8e614fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779252475-0-0-9b01d7fcd487ed0c8ad0730b81c0a235
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/16ec670a02f6387f8144fdcf297df40a.png",09h00 ngày 20/05 America de Cali vs Club Atletico Tigre [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779252475-0-0-4aec03408e23be31326120b91c003599
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=438a08dae9b703cb2fff8187d1d6254b&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=7475f511737545a94184daa2e2afcbcd&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=438a08dae9b703cb2fff8187d1d6254b&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=7475f511737545a94184daa2e2afcbcd&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779252475-0-0-92c92af90666354fcbba35327d067327
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779252475-0-0-42cefd18e20ad1237bf133eca88fac49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779252475-0-0-151c7f74b31c25a7ddcdccc59f7e62b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d4185a01492317bda43a23ca743506d0.png",09h00 ngày 20/05 Independiente del Valle vs Club Libertad Asunción [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779252475-0-0-3ca409c2f03f0a878cdf34cc00c85090
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=66e6b5dd6701a674b8b22012074852bb&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=53acd5ca288ba8ee1bfef07cea15ea44&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=66e6b5dd6701a674b8b22012074852bb&txTime=6a0d834b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/d5f9400017638e700f660ee4f3caeb2f.png",09h00 ngày 20/05 Deportivo Cuenca vs Deportivo Recoleta [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=53acd5ca288ba8ee1bfef07cea15ea44&txTime=6a0d834b
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png/250px-Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png",09h00 20/05 Independiente del Valle vs Libertad (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
