@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8843_1gtzd4kn605.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
@@ -11,12 +17,6 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8843_1gtzd4kn605.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen (Lương Sơn) BLV PELE m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen (Lương Sơn) BLV PELE flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/3190d6d022fe9b36c65d83cf98e16d15.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -145,42 +145,6 @@ https://pull-gv.fastestcdn-global.com/live/12b833872d1e4a11b7b0af9109140ab1/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/fef4981155179b2cd7fb8368de3abce0/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f89e6c20a093a75695ce08073195cd0e&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1bde6f3328ce93cd4351e9191b9ecb1f&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f89e6c20a093a75695ce08073195cd0e&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1bde6f3328ce93cd4351e9191b9ecb1f&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=8a404c8267c2268000725a9f4060e008&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=e7a74e9fcc26a913b65872c6ac16c846&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=8a404c8267c2268000725a9f4060e008&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e7a74e9fcc26a913b65872c6ac16c846&txTime=6a0fbfa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779398995-0-0-e4feba9c6745921128eeec85b66bf42f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779398995-0-0-386d642701e0c99fba24839002513979
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779398995-0-0-51254f9987ec8d7720b786089b4729ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779398995-0-0-502155277963e3fa560cc3c85d60e140
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/47ec1be741b4e281b420c91690e34f2a.png",02h00 ngày 22/05 Partick Thistle FC vs Saint Mirren [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1779399355-0-0-64680518a4c5ceddfcd672c037bd5342
@@ -193,18 +157,6 @@ https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779399355-0-0-7cb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/47ec1be741b4e281b420c91690e34f2a.png",02h00 ngày 22/05 Partick Thistle FC vs Saint Mirren [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779399355-0-0-d7bf2a42eba8dc1e4e07141e101b4b99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1779399355-0-0-5d4fdc91432d6b9a0e373ff7697a68b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1779399355-0-0-b1e0edff48261a39de051450ae0fec94
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1779399355-0-0-6fdd24d0148d9eb57ce69d600fc1e916
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779399355-0-0-760d164fb539261618bf8fae86276c34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/97fb4151ec14bd06fa93e4f62ac3a24f.png",01h15 ngày 22/05 Grasshopper vs Aarau [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1779399355-0-0-a7d16b87ae71fdcd7bc2bac8e0886fec
@@ -301,21 +253,42 @@ https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779399715-0-0-29c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [TRÀ ĐÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779399715-0-0-f4948654ff3e10f094d9c1764cff2556
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2939.png",01h00 22/05 Al-Nassr vs Damac (Hội Quán) FHD 
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2939.png",01h00 22/05 Al-Nassr vs Damac (Hội Quán) HD 
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f239e0bac69101ca7e0781c3eeb25292&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2939.png",01h00 22/05 Al-Nassr vs Damac (Hội Quán) SD 
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=f269b3f596d3b6b39a02cfc723c296e7&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",01h00 22/05 Al-Nassr vs Dhamk
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f239e0bac69101ca7e0781c3eeb25292&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/04cbb1acea9c6ba43153e1bb04f9bb78.png",01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/97312754.m3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f269b3f596d3b6b39a02cfc723c296e7&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779400075-0-0-e3742aff55fdd83a0b00d71e2a286ec7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779400075-0-0-a0027607b53fa2dd782552dcc139c22f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779400075-0-0-2c06c8cb688ffc38cb9ebd955bad9fd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/66097290d1b84218ba870d0f92e29e42.png",03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779400075-0-0-d9c0c1c0424e802fa9721769ba52f526
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c7ced4e9eb81a88b93cd821dfc7645be&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=e83670bfdb4698b02cd15d8574c6a865&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c7ced4e9eb81a88b93cd821dfc7645be&txTime=6a0fc3db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/3cf4166c280ae844567c15bb76416cea.png",02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e83670bfdb4698b02cd15d8574c6a865&txTime=6a0fc3db
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/181ee8709b75f543a1cf4c943ae3304b.png!w80",02h00 22/05 Utrecht vs SC Heerenveen
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
