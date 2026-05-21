@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779361957.png",18h30 ngày 21/05 Huzhou Team vs Taizhou Team(Z) (Lương Sơn) BLV SHIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779361957.png",18h30 ngày 21/05 Huzhou Team vs Taizhou Team(Z) (Lương Sơn) BLV SHIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",19h45 ngày 21/05 Al Mukalla SC vs Ittihad Ibb (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",19h45 ngày 21/05 Al Mukalla SC vs Ittihad Ibb (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28416_1grwgmk5g017.png",19h00 ngày 21/05 Arba Minch vs Sidama Bunna (Lương Sơn) BLV PHI HỔ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28416_1grwgmk5g017.png",19h00 ngày 21/05 Arba Minch vs Sidama Bunna (Lương Sơn) BLV PHI HỔ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4899_2007122516472681454.jpg",19h45 ngày 21/05 Al-Yarmok Rawda vs Sabbab Al-Bida'a (Lương Sơn) BLV TIỂU LANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
@@ -65,14 +47,24 @@ https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28416_1grwgmk5g017.png",19h00 ngày 21/05 Arba Minch vs Sidama Bunna (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",19h00 ngày 21/05 Adama City vs Welwalo Adigrat (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28416_1grwgmk5g017.png",19h00 ngày 21/05 Arba Minch vs Sidama Bunna (Lương Sơn) BLV PHI HỔ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
-https://www3.f2k3.shop/live/010a5a15ae9da313d834a305d840ce1c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/151ccaae55e64d74f59fe4ca4ccc8472.png",19h00 ngày 21/05 WIT Georgia Tbilisi vs FC Irao Tbilisi (Khán Đài A) source
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28416_1grwgmk5g017.png",19h00 ngày 21/05 Arba Minch vs Sidama Bunna (Lương Sơn) BLV PHI HỔ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
-https://www3.f2k3.shop/live/17b23b784f7b2e2af566ad47f660aead/playlist.m3u8
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",19h45 ngày 21/05 Al Mukalla SC vs Ittihad Ibb (Lương Sơn) BLV LÃO HẠC m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",19h45 ngày 21/05 Al Mukalla SC vs Ittihad Ibb (Lương Sơn) BLV LÃO HẠC flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779361957.png",18h30 ngày 21/05 Huzhou Team vs Taizhou Team(Z) (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779361957.png",18h30 ngày 21/05 Huzhou Team vs Taizhou Team(Z) (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png?_=20260314013615",20h00 ngày 21/05  Hà Nội Tasco Auto vs  VTV Bình Điền Long An (Khán Đài A) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -121,6 +113,26 @@ https://pull-kda.fastestcdn-global.com/live/5c8f45ba5a93460f9d9372bb570610eb/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://pull-kda.fastestcdn-global.com/live/5c8f45ba5a93460f9d9372bb570610eb/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",19h00 ngày 21/05 Adama City vs Welwalo Adigrat (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/010a5a15ae9da313d834a305d840ce1c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/0cf592b401f347755712729a9001f154.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/1d6ea60e8f82a815c51e184384e6573a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/e7fcb477b12cf7fa73ebaa19d43cad23.png",20h00 ngày 21/05 Cebrayil vs Simal FK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/721c0d6d52914ce9b3475a57c147419b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1022d17b79892a3e73474eb4c2dae845.png",20h00 ngày 21/05 Villa San Carlos Reserves vs Deportivo Merlo Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/2badb6adb93785eae6824cf03691c288/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/151ccaae55e64d74f59fe4ca4ccc8472.png",19h00 ngày 21/05 WIT Georgia Tbilisi vs FC Irao Tbilisi (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/17b23b784f7b2e2af566ad47f660aead/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130559_a6ed3550.png",19h00 ngày 21/05 Sport Academy Kairat vs Turan Turkistan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -289,30 +301,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",19h00 ngày 21/05 Adama City vs Welwalo Adigrat (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/010a5a15ae9da313d834a305d840ce1c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/151ccaae55e64d74f59fe4ca4ccc8472.png",19h00 ngày 21/05 WIT Georgia Tbilisi vs FC Irao Tbilisi (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/17b23b784f7b2e2af566ad47f660aead/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/5a8e3fe4bb97e3425c2b667c45dda35c.png",19h00 ngày 21/05 Ararat Yerevan II vs Andranik (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -361,66 +349,42 @@ https://pull-gv.fastestcdn-global.com/live/7d189c1ec6514ee1b99bc429881dc40a/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://pull-gv.fastestcdn-global.com/live/7d189c1ec6514ee1b99bc429881dc40a/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1779372355-0-0-925e066ad506f3ef88f3939a15fa81d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1779372355-0-0-338a7fe78d9893ba5e63e40014e89e74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1779372355-0-0-742dc3942fae0b8bd7c0ac64c6350ee4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779372355-0-0-efa69d5dd4706371e97463e51c2203e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=50faccd33142ec98009d5a89b4b2d52b&txTime=6a0f5793
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=3282e504fee1c9c42b4ac65d64dd1093&txTime=6a0f5793
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=50faccd33142ec98009d5a89b4b2d52b&txTime=6a0f5793
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=3282e504fee1c9c42b4ac65d64dd1093&txTime=6a0f5793
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1779372355-0-0-b43c4a375019e298132f7ea4095cf3d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1779372355-0-0-e106e842655d3dff920454586af7716f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1779372355-0-0-c05021c7ebadc6d2b824c351e5e4f6c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779372355-0-0-c8411e7570958b6ec99ac4fbd2681026
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1779372355-0-0-4020306d3e78ef8de78ea9e43aa624c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1779372355-0-0-ae136c075b0475b214f81e3194d88786
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1779372355-0-0-a52ac1c448dd01a9bbd86ab241728fb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1779372355-0-0-3d07ebd7907ed2ae551734cee9747be8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779372355-0-0-bdbe9d3037d591a890708b3622ecc8df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779372355-0-0-d4c8abd0935e13ab08a404c67a6b40f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779372355-0-0-630bdb2856d6106fc2f8fcd0180849a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779372355-0-0-0be79cd10428bfe15cef301fb3fdc433
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",20h00 ngày 21/05 Hà Nội Tasco Auto vs VTV Bình Điền Long An (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://pull-gv.fastestcdn-global.com/live/85f62f1e328a46749e89089273cf258e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png",19h00 ngày 21/05 Adama City vs Welwalo Adigrat (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/010a5a15ae9da313d834a305d840ce1c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/0cf592b401f347755712729a9001f154.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/1d6ea60e8f82a815c51e184384e6573a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/e7fcb477b12cf7fa73ebaa19d43cad23.png",20h00 ngày 21/05 Cebrayil vs Simal FK (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/721c0d6d52914ce9b3475a57c147419b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/1022d17b79892a3e73474eb4c2dae845.png",20h00 ngày 21/05 Villa San Carlos Reserves vs Deportivo Merlo Reserves (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/2badb6adb93785eae6824cf03691c288/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/151ccaae55e64d74f59fe4ca4ccc8472.png",19h00 ngày 21/05 WIT Georgia Tbilisi vs FC Irao Tbilisi (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/17b23b784f7b2e2af566ad47f660aead/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779372715-0-0-6bf6f927d6d011a8fe2a7a62156930be
@@ -577,6 +541,126 @@ https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779373075-0-0-ba4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779373075-0-0-c9ad361ff987fae91982b8125bd1450b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779373435-0-0-1d358b0a32521e2e0aa4509e01ec335a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779373435-0-0-dae8cda04adffb1e74e173ae33e17e03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779373435-0-0-21dc0350b5e720b22b2c2c84f5850eb3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779373435-0-0-57fad5ae8a2139054a27ef23aeeb486d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1779373435-0-0-40701c97ad6827270cda3ca3e32dcc13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1779373435-0-0-6d0ec44533255dc250122b7cafe25088
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1779373435-0-0-044cee2b954fd3a533e867eb90bda7fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/6f96c334de88b5c363841d50be4875e6.png",20h00 ngày 21/05 Cebrayil vs Simal FK [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779373435-0-0-7c94acc9b8740f11592a10997cdc6f16
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=25448c1f96ac6955030efc86a530c11c&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=156d800c0105ab6f9683b09fbbc5bb2c&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=25448c1f96ac6955030efc86a530c11c&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/412b4417328bb146467ffdd35a4f9a42.png",19h30 ngày 21/05 FC Shakhtar Donetsk vs Kolos Kovalivka [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=156d800c0105ab6f9683b09fbbc5bb2c&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779373435-0-0-c1cc276c82d33b7ba0950ca5fbaf0c8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779373435-0-0-c8698d1a9fde5d47f7d670000181afe7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779373435-0-0-e9f02743c78cfb8df3499142d448b26d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779373435-0-0-dd7560e4d873b69d3ec91f8cd8af648d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1779373435-0-0-c638826e098f390cfaf53cbc3b592c36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1779373435-0-0-c429d637b38123cb054c29fd80987274
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1779373435-0-0-e1668483121a413d991affc791348c07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779373435-0-0-f0c3e6c1bdac74dda3c53cf05f5497e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=fbcad38f51e333d3fa33a924bee6f439&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=506da49061c6f4b408f0bb5dfe5ab25b&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=fbcad38f51e333d3fa33a924bee6f439&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/a4958ee3170abd76872c68a86b4bf323.png",18h30 ngày 21/05 Punjab vs Mumbai City FC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=506da49061c6f4b408f0bb5dfe5ab25b&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1779373435-0-0-95b34a2bc908931e7dd30fab6120da1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1779373435-0-0-7386d9f7939e5893ab0b3da6f647b9c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1779373435-0-0-e7f198a9b7e4f10ae03f1cf5cad207f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/dcb61b0fd0efdbfc84adc3bf2d975495.png",20h00 ngày 21/05 FK MOIK Baku vs Difai Agsu FK [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1779373435-0-0-f1e82eda7a1140c01115d1ae71fdcdea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV A TINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=e7d0974cc96faa84d33a7bdffaece186&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV A TINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=4e9367c0818625dbbb6be747a0a885b6&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV A TINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=e7d0974cc96faa84d33a7bdffaece186&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/c350995c8c65e83a272a92f37a1523f4.png",21h00 ngày 21/05 Inter Kashi vs East Bengal FC [BLV A TINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=4e9367c0818625dbbb6be747a0a885b6&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=689875978998dec8f64adf1ad8bc2b43&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=c2a72749f1c5e77757ee5dc5a9a96daa&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=689875978998dec8f64adf1ad8bc2b43&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/00bee573312aa21d92fcb8857338c752.png",18h30 ngày 21/05 Jamshedpur FC vs Odisha FC [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=c2a72749f1c5e77757ee5dc5a9a96daa&txTime=6a0f5bcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779373435-0-0-edb65255320a0d661ccb472d1365550f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779373435-0-0-4d3ff0d889b63ef8e92d76ea1b2041c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779373435-0-0-d53ce10d75c4f42d5a30f6bd668d5e1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260516/199efa2f05f70f347ee02f81d9b2b404.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779373435-0-0-8606d64b5411e911bc91fce51ea888d9
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/KbyBL1Xg-8hRiTVXM.png",18h35 21/05 Shenzhen vs Zheijiang Guangsha (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
