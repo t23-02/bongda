@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/330_1gq1fbpxrd5.png",05h00 ngày 24/05 Gremio (RS) vs Santos (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/330_1gq1fbpxrd5.png",05h00 ngày 24/05 Gremio (RS) vs Santos (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -267,18 +273,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=294e26d64a208d86aa9dbb73d509edc3&txTime=6a1274eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=9fbb00f08ffbb9d3d5fefc9abb35c079&txTime=6a1274eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=294e26d64a208d86aa9dbb73d509edc3&txTime=6a1274eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9fbb00f08ffbb9d3d5fefc9abb35c079&txTime=6a1274eb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/bb4bc1786d7ed2e6ff758c0dd8c3bc70.png",05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779576835-0-0-fce4a2a0208a301266cba208ab1fbb6d
@@ -351,6 +345,18 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779577195-0-0-f866
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779577195-0-0-4eabd6ebb25b6e9961ebaacb556cde45
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=30aabef7e024ae738044f3aae6475f35&txTime=6a127923
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=98fd0634bab07dfb16ee2a4196ac22fb&txTime=6a127923
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=30aabef7e024ae738044f3aae6475f35&txTime=6a127923
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/a769dc638782f2a15f6124cc6bc80e05.png",05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=98fd0634bab07dfb16ee2a4196ac22fb&txTime=6a127923
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png",05h00 24/05 Gremio vs Santos (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -363,9 +369,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80",03h00 24/05 Sao Paulo vs Botafogo RJ
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80",03h40 24/05 Minnesota United vs Real Salt Lake
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14707124.m3u8
