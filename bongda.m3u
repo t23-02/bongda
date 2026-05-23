@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21818_1jsqvnqxr32t.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Lương Sơn) BLV MÃ SIÊU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21818_1jsqvnqxr32t.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Lương Sơn) BLV MÃ SIÊU flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11763_1hw70t2mjs5.png",07h00 ngày 23/05 Independiente del Valle vs Libertad FC (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/32812_1gt5prcw0e2x.png",07h30 ngày 23/05 Bubali SC vs Racing Club Aruba (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21818_1jsqvnqxr32t.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/21818_1jsqvnqxr32t.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/bcd699518dceed7a5399ad506c0efe25.png",07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -39,6 +39,14 @@ https://www3.f2k3.shop/live/8f3d7348dc32c2c781db94ec0ead7211/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",09h00 ngày 23/05 Mexico vs Ghana (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",09h00 ngày 23/05 Mexico vs Ghana (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133958_1320ec42.png",14h30 ngày 23/05 Gyeongnam FC vs Suwon City FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -223,66 +231,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779503755-0-0-bcce1bed8f4f18ab9e774c87f02f38d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779503755-0-0-2c3cbee216fa23fd4f8e6e28fe7a753e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779503755-0-0-362545ff1417d75d73130d01f69029fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779503755-0-0-47b6ddd503865cd9913fec944a24d6f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=091ebb598467515e84d571ce376ff27f&txTime=6a1158db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=99ef2f7fe2db9aabc41d18cdd16b5d9e&txTime=6a1158db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=091ebb598467515e84d571ce376ff27f&txTime=6a1158db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=99ef2f7fe2db9aabc41d18cdd16b5d9e&txTime=6a1158db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779503755-0-0-d1dd94aef1ad05424080c4c233659d4a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779503755-0-0-f5cf4b97638330199c50173f1c311b49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779503755-0-0-3b33e1f653a21df76d9436cd22f75c33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779503755-0-0-bc39e3cd97bf0bf324cbcaa643ecef25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779503755-0-0-86d41864d2cd817e282ffbbf9d62b63a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779503755-0-0-be732db77c363b298c0a08da704a4d87
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779503755-0-0-3108f1d993bfc58657dc546ed22200b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779503755-0-0-ba7506dcadcd2ad694032c20886d8890
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779503755-0-0-f7e7ad30d01538e9b7b0487ee6f45a83
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779503755-0-0-4c994cdd0119d695e189d387f5f62c8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779503755-0-0-0edf2408a12cb2f0b7245170073cb9a7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779503755-0-0-4c04e82c1df60f011728ac490085f339
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/601a2dc1501a8f89d1f5cc34a246c8af.png",07h00 ngày 23/05 Sporting Kansas City Reserves vs Austin FC II [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779504115-0-0-2e527acf511731b2fd72f7ecae80cdf5
@@ -499,6 +447,90 @@ https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779504475-0-0-92f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/90f6ec2f7faf1ac60e195973101f9c42.png",09h00 ngày 23/05 Seattle Storm W vs Connecticut Sun W [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779504475-0-0-fc26d1e8650eab757563d79a41f24670
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1779504835-0-0-ab95f1c867f975e32d16fc38e5335708
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1779504835-0-0-4f1d8ebb4d74c1657247c9a23c02d2ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1779504835-0-0-bf203f1ce6e794b2098fe73da17ccd5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779504835-0-0-f6ee1de9b70c5a178b425aab74e3064c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [MONEY MAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1779504835-0-0-ceb3c097f00b503d90bb7429e7fabb9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [MONEY MAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1779504835-0-0-6b3fbcc058f1a10dbadaa134a18a6e4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [MONEY MAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1779504835-0-0-507c8d0495ee82e8f29ef5db5026ec01
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [MONEY MAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779504835-0-0-7617e71adf92533a9f6feb36e0b32bd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=9939ac639e6091d7f778a4886cb2392a&txTime=6a115d13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=c86188529487a7d3bd94b8ee802d6262&txTime=6a115d13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9939ac639e6091d7f778a4886cb2392a&txTime=6a115d13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/a9e8306088498329d2b6593befaa07e0.png",09h00 ngày 23/05 Mexico vs Ghana [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c86188529487a7d3bd94b8ee802d6262&txTime=6a115d13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779504835-0-0-e000ac7947df3ed1af6a82a628dac31f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779504835-0-0-6906717a50232040bb6ee7013c4521ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779504835-0-0-bd63b80c8725727e63e0557237a19b8f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779504835-0-0-f173568ede36447fcdbdfc964ab45f28
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779504835-0-0-48f75b4c0f6d001de9bd67bbb12ec86e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779504835-0-0-0f5c24dd41849cf11e9ab64a599d0c68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779504835-0-0-41c1803aa190e82589cccb6da53443ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779504835-0-0-aa065e05f89cd1554630f7abe1f39c0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779504835-0-0-12e5a07139bbed228af2eae0d8ab75a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779504835-0-0-7fa172ed078c6691316b4f84299ebc54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779504835-0-0-9bb9cb89cb905d25b60ade4fbc818532
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260521/c36f862656c96b503ae04dc3cd59a184.png",07h30 ngày 23/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779504835-0-0-3d4ed71b340b5bd2779dba1a262651a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779504835-0-0-98b0131aaa0e28e246da70afac04a361
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779504835-0-0-0819d6e3391dd00cf16ed4de66642d76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779504835-0-0-9b23f6154a0bb2f60dba333651ee16a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260519/f7ed3f104f561d499030e9877ba04590.png",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779504835-0-0-ad1b60485c7ac6ae49cc7a3cc22d46e9
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07h30 23/05 San Antonio Spurs vs Oklahoma City Thunder (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
