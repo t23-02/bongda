@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",06h00 ngày 27/05 Delaware vs Philadelphia Lone Star (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",06h00 ngày 27/05 Delaware vs Philadelphia Lone Star (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png",05h00 ngày 27/05 Millonarios vs O.Higgins (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/413_1hxqrprbs1c.png",05h00 ngày 27/05 Sao Paulo vs Boston River (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",06h00 ngày 27/05 Delaware vs Philadelphia Lone Star (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",06h00 ngày 27/05 Delaware vs Philadelphia Lone Star (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -261,78 +261,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=a0a7cccf3f971fe28fc8db3fd3db9154&txTime=6a167feb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=ca64404d878e1f6a59a19c2498fb310b&txTime=6a167feb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=a0a7cccf3f971fe28fc8db3fd3db9154&txTime=6a167feb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ca64404d878e1f6a59a19c2498fb310b&txTime=6a167feb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779841435-0-0-6e48de784d863a27836a44f713e0fbb2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779841435-0-0-1586b9af7ab5158d895c77f3d6289ba5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779841435-0-0-84031d595af0322cc1cd5704f0e4b729
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779841435-0-0-a577a3f5ec05755cfc86a078efe58db7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779841435-0-0-e6ec61ab86aab8d7ccb2c9d647bd8d86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779841435-0-0-f0605bf68da036bdb412d38a5e0f1d21
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779841435-0-0-276bfac4320c131b93edf8ea5836da99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779841435-0-0-79232a61eb0cbeff7d5639c7c3fcd377
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779841436-0-0-5fb2454aaf59f4e7251a45ac4e28a064
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779841436-0-0-63ff674a0d72db44fa93c6ff27aab3f9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779841436-0-0-1d297251f64082bc8c2a1cdcaddab892
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779841436-0-0-1c7c31dbc702f30af2d800bd609f568c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779841436-0-0-bf02cd3dfd65b5180180ee6bd065e642
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779841436-0-0-8cf98bb4688e10180937fe0f92807df8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779841436-0-0-8d5e41ad80f678047fad6e005b4ab81c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779841436-0-0-33b9730424b22a8fdd23bc7db2c57744
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779841435-0-0-f36444a30cc6aa6f836f16de94586643
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779841435-0-0-066526866fd922f83018e34bbb7aadd8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779841435-0-0-cd674555142c6031d94b4ab85907726d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779841435-0-0-1de92418bf42f36bbb81ccb9157e3c8f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [MONEY MAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1779841796-0-0-1e29b5776632e1214f5c9bf17b186d9a
@@ -429,6 +357,78 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779842155-0-0-26a8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779842155-0-0-2df22078a8b5a73157a4a415fb94c5e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779842516-0-0-b882675fa9718a5bc781be4c50fa44f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779842516-0-0-e6ce225a8650f07af7393407ac69e10a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779842516-0-0-cd8e4b974f6021bb0a8a0d14e1a0a901
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/b5734ae48510ddeedd718b55c3394eda.png",05h00 ngày 27/05 São Paulo - SP vs Boston River [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779842516-0-0-af9ecf85dea3b56c14f1c3eb7681371d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779842515-0-0-7b15aadb400875e0b9ca39da93e66197
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779842515-0-0-aba7c00cc29d8402261cd93028f64301
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779842515-0-0-d82963066cf9c1716b203384dc49373e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/66ddb5a97d8e2630dc538db83279700a.png",05h00 ngày 27/05 Grêmio - RS vs Montevideo City Torque [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779842515-0-0-40e546dceff05240d4cc6dbd50d5b88b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779842516-0-0-ea85d89d6773a78b1805f7d2c44476a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779842516-0-0-4f24a23b7df24907faddcb96ab74b0b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779842516-0-0-efee4d26d1b19672568ae87a449b5002
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779842516-0-0-80c05d1c1f9ae2c6cb806b055e6ae839
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=4c4bcff63a1122b66a1cb53e0a6b6b62&txTime=6a168424
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=93c99dc0aac7fa779d0ba3dc29591c46&txTime=6a168424
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4c4bcff63a1122b66a1cb53e0a6b6b62&txTime=6a168424
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/af015e671cf130ddfe0b1ecf049df58b.png",05h00 ngày 27/05 Club Atlético Lanús vs Mirassol - SP [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=93c99dc0aac7fa779d0ba3dc29591c46&txTime=6a168424
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779842515-0-0-79bc52fbb9c3bc501f9d0858718b6ebb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779842515-0-0-53eda1245b6487f9fb3fbd907ed62bc7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779842515-0-0-a1338ac3bb84c5eaf452d9e49e056ef1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/e515694ec71f331b2218c58c6809ab4c.png",05h00 ngày 27/05 Palestino vs Deportivo Riestra [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779842515-0-0-67596ae82894e20c3dbff160290f6b92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779842515-0-0-726ed105a8addcfbf033988bad58a3b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779842515-0-0-eb105e14d84dc40b75ec45e613ad10cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779842515-0-0-2bea8cd1b4fea5534784bf5044355238
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/9052e32610d87591191a068dde39d536.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779842515-0-0-2f1cb993629dd26615c6f0a2c965dc65
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",05h00 27/05 Gremio vs Montevideo City
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/24561735.m3u8
