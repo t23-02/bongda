@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento (Lương Sơn) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento (Lương Sơn) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4918_1grmmxhty619.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -41,6 +35,12 @@ https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fc
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png",17h00 ngày 28/05 Paro FC vs Transport United FC (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -93,6 +93,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142855_9db63b5c.png",18h00 ngày 28/05 Sri Lanka W vs Bhutan W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142855_9db63b5c.png",18h00 ngày 28/05 Sri Lanka W vs Bhutan W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144530_7256014f.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -277,126 +285,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779969236-0-0-075127ae2daa9b9cb51f2d38bd5bb9ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779969236-0-0-06061395b09a95b468f8576360ed26d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779969236-0-0-56ca46ee58d81032c52174c4f145bc87
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779969236-0-0-4c8042aa1eb68661030a999e32b2aba2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=58424d51e595e43130b23ed42c5cea8f&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=a0d2ebfbb9a360f24c9e98e2bdad2759&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=58424d51e595e43130b23ed42c5cea8f&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=a0d2ebfbb9a360f24c9e98e2bdad2759&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779969236-0-0-eee17ab6336ad504c641844bea184f8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779969236-0-0-ac80afae40e0e6cc5675f70ef79589b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779969236-0-0-b93ae1ab5c35b50b740ac4d4a94a94ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779969236-0-0-9b6ba5a7f8040d6e9c8e91ac8fc01967
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779969236-0-0-7934ea14171991ea2731cc475e83b279
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779969236-0-0-0b472c8aad6ae601d44e24bfddfbf2c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779969236-0-0-cf86a25e181f05cecdf2738a5d294934
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779969236-0-0-a52e403846cebf67788c8087e3483a02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779969236-0-0-6d00dc24c88d7409f8fd92cd4bc40b7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779969236-0-0-aea7ddee8ce1c51d269e4005b3d07710
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779969236-0-0-fd94a5900e4487daaad19ba40ef642f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779969236-0-0-e1bc4be0099265021255a8a03f110d55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779969236-0-0-c712b59837958e924087bf7a1f122be8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779969236-0-0-aa2e001846242b4c055b67d67e6b6f3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779969236-0-0-a8aa12ce488c69b9e08a41a35b3c6607
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779969236-0-0-b743c6389600e93dc0b62a03a3601d49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779969236-0-0-5e45570329f3a0accca7b51f6580c930
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779969236-0-0-bb2d1c232fddcbccb75466ce76cd0f10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779969236-0-0-b87070289528b03969e438becfb1f493
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779969236-0-0-208467971be6dd3e3759c10b757e7a02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779969236-0-0-e49080c20fb0adf5fc32e88eddcab522
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779969236-0-0-af430cb6d78c4a2885a21338277f00c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779969236-0-0-1acb3a3a2fa46c39a16931aa35adb257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779969236-0-0-94776ced815bc63a98a006fb548df9c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=25b6e7e3f6af0bfa1552e78b622b94a0&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=fdd49a294d7ae24ef979201c7ec9ab85&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=25b6e7e3f6af0bfa1552e78b622b94a0&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=fdd49a294d7ae24ef979201c7ec9ab85&txTime=6a187324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779969236-0-0-f982ef37a11b42b4d2bf3a21a3230fb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779969236-0-0-1a2a2c9cbb7c86c92268bcaf8680ade7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779969236-0-0-5c35c4a5e64d5e04063071c1f8dbac01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779969236-0-0-dbc25d1bf446917d8d5c6add324e98ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779969596-0-0-6c322abaf1e9bca1cd67acc30bd285d9
@@ -493,6 +381,138 @@ https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779969956-0-0-b9c3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [CHANH MUỐI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779969956-0-0-79473f66ae520d56429341c6d0b3748e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779970316-0-0-5dd389f4997e1dfeb56cdae6ffb90b7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779970316-0-0-b3f766b0835c4eeb6d67a03f953b8087
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779970316-0-0-c97d571c64d9eac0cf25ba511f981ae0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV THÓC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779970316-0-0-ca106a443b6cb22dd02b927080569c97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779970316-0-0-6d7fc3cfd7f90834ef47ed14f58211ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779970316-0-0-b467908ff2df79861bdd0d414ff77ad6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779970316-0-0-e12f32e193449a10205637906884d0dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779970316-0-0-6a3b208254023cf2240a2eb89f9fc14e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779970316-0-0-f50b03523875517acfbb554fb6d2ee69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779970316-0-0-01f72d894fedc78e3f12ae63530a0a63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779970316-0-0-aa4c8a8b010dde5e8f3306e732bdd417
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779970316-0-0-09ba7b8765cd246e36293ebfaf38b20e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779970316-0-0-5f0b6b0094c7720e8d60b107138757f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779970316-0-0-d318c86d02fc0266e28c1d44723aec49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779970316-0-0-06698778eb8ef966798c3c37be618bdb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png",17h00 ngày 28/05 Okzhetpes vs FK Aktobe Lento [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779970316-0-0-d7ae0a697f01efcdd901682bf5e55d9b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=3970243b428e20c1d201bb7de8d1c8c2&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=f2cb516e630bc6b1c6c525431431be09&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=3970243b428e20c1d201bb7de8d1c8c2&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png",18h30 ngày 28/05 Belgium U17 vs Spain U17 [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f2cb516e630bc6b1c6c525431431be09&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779970316-0-0-25844dc04e4ad1944c61ffffc493ac7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779970316-0-0-1579112ed46ca088defbda06eb2d4f62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779970316-0-0-134b26d2aeb1ab5eadfc66e3d4243d32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png",18h00 ngày 28/05 Sri Lanka Women vs Bhutan Women [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779970316-0-0-d6a82a2ed69355ca7cc88d6e0f780fb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779970316-0-0-01f976c3c09350c6880f06c4f4da304d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779970316-0-0-e5ad9ef7075a244e1809a11a90edfd02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779970316-0-0-26571f272e0afbec10cd1e02e1a856da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png",17h00 ngày 28/05 Paro FC vs Transport United FC [TƯ MÃ Ý] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779970316-0-0-410ffb495b2014037ad012361d059af8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=808fe14c1c978865e6afaed3a21b7d88&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=408e75ebc972cb2846e0643d97561ef8&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=808fe14c1c978865e6afaed3a21b7d88&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=408e75ebc972cb2846e0643d97561ef8&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=6d5b04f4bbb67dbbc0c3e6895a2c7d42&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=02ca8dcccd7b590c71e627d01d6288e5&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=6d5b04f4bbb67dbbc0c3e6895a2c7d42&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=02ca8dcccd7b590c71e627d01d6288e5&txTime=6a18775c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779970316-0-0-450d509660c382acd2f9397f7ce916e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779970316-0-0-516c8fdead07d6c593ac6951d1caa069
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779970316-0-0-f8dc4898efe286a45162d7626d9f0cfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png",18h00 ngày 28/05 Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779970316-0-0-c8b3511d352ed14d077fe1f13104dad2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779970316-0-0-a2ce8ae72bcb382c7bf33295c53c6209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779970316-0-0-c2b30f897ed53a1e04daadfd7c735a6f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779970316-0-0-0cfdb0bd3f91cf54b5500e0891f78bca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779970316-0-0-3024d2a871c2d356465e12d3470dc9c3
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4558.png",17h00 28/05 Okzhetpes vs Aktobe (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
