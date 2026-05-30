@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",02h30 ngày 31/05 CF Os Belenenses vs SC Farense (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",02h30 ngày 31/05 CF Os Belenenses vs SC Farense (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/322_1j9d3cawp41r.png",02h00 ngày 31/05 Flamengo vs Coritiba PR (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -59,6 +53,12 @@ https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png",01h30 ngày 31/05 Nigeria vs Jamaica (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",02h30 ngày 31/05 CF Os Belenenses vs SC Farense (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",02h30 ngày 31/05 CF Os Belenenses vs SC Farense (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -111,6 +111,14 @@ https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125537_d4d52169.png",03h30 ngày 31/05 Gremio vs Corinthians (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125537_d4d52169.png",03h30 ngày 31/05 Gremio vs Corinthians (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132810_d11dcb2d.png",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -327,66 +335,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780174436-0-0-37a5aea793c5c39f7e08757775374ba2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780174436-0-0-ff9b792d6a757cb049b81e9e614bd593
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780174436-0-0-18e99b613cf5f515bbece3110a375242
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780174436-0-0-3d05800e8325ed77d7d3409de4be9adc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780174436-0-0-d4495edc229f37c3e2783eddede870aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780174436-0-0-5b3002a8ffe7ede982fd623fc3447109
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780174436-0-0-6f6d6c8dec05570b707ad7cfc09a7e49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780174436-0-0-efc85119efbf56874394ab1c99f5c603
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780174436-0-0-a52bcbe5a0d9a0a27666daf9879f8493
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780174436-0-0-2eec0d154ed5e55fd9b9fc2ebb920365
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780174436-0-0-e8282730a0adfc97b154233a5b3e36df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780174436-0-0-3f5cbbebab749fedea2650a3c4199276
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780174436-0-0-314a27c20f84ff5198ea39543087ee98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780174436-0-0-79c40a34fcc40721badd43ffd439bfec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780174436-0-0-8c39ba2947edb17055bb36ab99f66750
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780174436-0-0-a907b275b4e614aedc1839500235dbc1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780174436-0-0-bfe8a7acb320d1cff505645512f2ac06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780174436-0-0-e9362d4d1362c8c10da2ea2ece5cbd84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780174436-0-0-b34d3edc214a418e41a68e5d8e94e376
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780174436-0-0-5d04df7bbe2cae00dd28e6e721d2ef1e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780174796-0-0-ebb8b893930a0f6ba33fbe87ab1f10d9
@@ -543,6 +491,78 @@ https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780175156-0-0-ce1e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/5bb26332525c6cd473584ba3d6419138.png",03h30 ngày 31/05 Grêmio - RS vs Corinthians - SP [BLV NẤM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780175156-0-0-4ba682ca800d84242a3062a7ae4df09b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780175516-0-0-77629f8327ca04e6ca557a8f53271d12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780175516-0-0-0f9923f9ee6bcf8662d2e95129d9476e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780175516-0-0-08df88323a061c7c6b5a3a27cc1a7acc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780175516-0-0-62ab4f0b01604299e87a269f8df81490
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780175516-0-0-62441a4ed559d0ae2907154aace7c1fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780175516-0-0-97468b710915ab6d41e4b646dd51282a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780175516-0-0-d5280e572a50994d2d512d9a7620e728
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780175516-0-0-1b1f035ee780bd6fd65489719cc82e29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780175516-0-0-694f2cc3111b713ee043c171fe450695
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780175516-0-0-b590d6d21c242922eaf3611b14f816da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780175516-0-0-91dd58ab58f29d0e00e3849efbfaa98b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780175516-0-0-e5ba9c9acc934e3059a2473a6aabcb36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780175516-0-0-1948e7015c86322d0df3999962d93fba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780175516-0-0-e32bca1984e8f3f0f0b91e0a2cd28fa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780175516-0-0-2fc580b521726f30f847de96c533d3be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/fc8e746e335e685c698539ea19fbb22d.png",03h30 ngày 31/05 Bahia - BA vs Botafogo - RJ [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780175516-0-0-e78a76bc616f27dc20e15d02c935aa74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/5bb26332525c6cd473584ba3d6419138.png",03h30 ngày 31/05 Grêmio - RS vs Corinthians - SP [BLV CÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780175516-0-0-05675c9af2a3b41c88bb70b845b5f39a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/5bb26332525c6cd473584ba3d6419138.png",03h30 ngày 31/05 Grêmio - RS vs Corinthians - SP [BLV CÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780175516-0-0-e741edaf199e6d8e899f1b30a088a9ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/5bb26332525c6cd473584ba3d6419138.png",03h30 ngày 31/05 Grêmio - RS vs Corinthians - SP [BLV CÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780175516-0-0-fc357d785cd7a6c8ad5e8133b5271e4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/5bb26332525c6cd473584ba3d6419138.png",03h30 ngày 31/05 Grêmio - RS vs Corinthians - SP [BLV CÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780175516-0-0-a3b620eefdd1daf8e1a33025c0bf114a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780175516-0-0-e48970809a9b88306edb524dd92cc78e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780175516-0-0-4cee36fa57123492d4b77a02cd5cb4f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780175516-0-0-9af082b3b285b95d28f1e3f3ce7fd95e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780175516-0-0-afbcf77acb753c75bb1dc2ae8685b2a8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",02h00 31/05 Flamengo vs Coritiba
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/68848594.m3u8
