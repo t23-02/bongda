@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/244_1gqv1y90c11x.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central (Lương Sơn) BLV HÀN TÍN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/244_1gqv1y90c11x.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central (Lương Sơn) BLV HÀN TÍN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png",02h00 ngày 01/06 Huachipato vs Univ Catolica (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -71,6 +65,12 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png",02h00 ngày 01/06 Huachipato vs Univ Catolica (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/244_1gqv1y90c11x.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central (Lương Sơn) BLV HÀN TÍN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/244_1gqv1y90c11x.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central (Lương Sơn) BLV HÀN TÍN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -299,6 +299,22 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png",20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png",20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhbeo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png",20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png",20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130124_ae02cf78.png",21h00 ngày 01/06 AL Masry vs Masr (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -315,6 +331,22 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png",23h00 ngày 01/06 Slovakia vs Malta (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png",23h00 ngày 01/06 Slovakia vs Malta (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png",23h00 ngày 01/06 Slovakia vs Malta (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png",23h00 ngày 01/06 Slovakia vs Malta (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -339,102 +371,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780258316-0-0-37e918fe073bbac3671f15dda630be16
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780258316-0-0-6b651d58b2bfc5df29a95fdca635d835
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780258316-0-0-a49ec687ae80a969712f67bf3bc32a8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780258316-0-0-4ba340630f7c933090919eff1b4da08f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780258316-0-0-547e125dd6382740bda2d58080a872cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780258316-0-0-f0a1f7248bc67b00987a20b9d0c96cc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780258316-0-0-53ea7832ce971ba3a976d1e8280a31ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780258316-0-0-84a00a395c6f52620057829200e4bd51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780258316-0-0-660537906059a53e75ad8bd4fb0ce82d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780258316-0-0-1c718e8c8e16b2f07dc1fe32336c6278
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780258316-0-0-2ea5d0778a611793d17de1ac28c673cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780258316-0-0-b810f63dd429d0c92244a45814da1bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780258316-0-0-eed045d140c112293e6b0161fbdc2631
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780258316-0-0-ccbbe24f758b9c810df1c804e8370fe2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780258316-0-0-f18fa061f3232b656ef3214b461c0faa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780258316-0-0-f7ce0453a892ed33496c2766ab8a48cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780258316-0-0-6ca2fce8bc1b91219c9f01994122fb85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780258316-0-0-bf13a3c2d19d832d84e008823d409680
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780258316-0-0-11603ae11287b85dc21693a039ebf10d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780258316-0-0-02213aa0a98c9d0d3791ea0e4c803236
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780258316-0-0-0ec996c7992de47316d85f2dcb4fe8f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780258316-0-0-fa2e01dfc4a08815a3e2003506df0666
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780258316-0-0-5b6123fc85e53fd4606525d7b1da5b8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780258316-0-0-0dded1b0fc62ace3ed229f14d9669e9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=af4bbe9fe2b5325eac9a705fdb6ee662&txTime=6a1cdc5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=94440e98698abfddd5dc5ddc257c20cf&txTime=6a1cdc5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=af4bbe9fe2b5325eac9a705fdb6ee662&txTime=6a1cdc5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=94440e98698abfddd5dc5ddc257c20cf&txTime=6a1cdc5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780258676-0-0-6ca54c837c83daa27362bae9ac8f22dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780258676-0-0-036c710f5bf5911b265b555089e0c3d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780258676-0-0-b1cdc73e42cd1f749d73ddf66409837f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780258676-0-0-77e9f51d8a679179c7732983c5ac0b84
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780258676-0-0-f6abb7ce00d471431ecaaa9bed61bff2
@@ -447,18 +383,6 @@ https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780258676-0-0-191c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780258676-0-0-38f6dd4d5b261e68ee8ae37bb1ccd8e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780258676-0-0-c6866457965af50a58fe19b3c5ed153f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780258676-0-0-d4a9efb07bb2532668e8ef7f068f4027
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780258676-0-0-a19d79a1c2f24f860c5ac669b2fcc89d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780258676-0-0-8fb1e65baeacf52d5c240da471a9b8d9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=1cae36e151c3c2aab1ed9285fd017245&txTime=6a1cddc4
@@ -495,42 +419,6 @@ https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780258676-0-0-0b26
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6d57fdf8a9e9bfd706c6f967b922db5d.png",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780258676-0-0-23ad55fc32345f5b1662d99f6f410f8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6d57fdf8a9e9bfd706c6f967b922db5d.png",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780258676-0-0-3b5da441c4074b47ce8a30859a3a709e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6d57fdf8a9e9bfd706c6f967b922db5d.png",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780258676-0-0-6ce44475dd132fa6f0254164bfaf9169
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6d57fdf8a9e9bfd706c6f967b922db5d.png",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780258676-0-0-3109b87814a436b9d0d3f1ac7fc95fab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6d57fdf8a9e9bfd706c6f967b922db5d.png",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780258676-0-0-fcc1c48ae6e3c5335322ece1172170a7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=5f38537acbafa055ae7b5cc4b2e74185&txTime=6a1cddc4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=f9340af95b9f6a2e2559e7d14a55902b&txTime=6a1cddc4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=5f38537acbafa055ae7b5cc4b2e74185&txTime=6a1cddc4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f9340af95b9f6a2e2559e7d14a55902b&txTime=6a1cddc4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780258676-0-0-b392f63a19b5fe8cdc2663e553e13a1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780258676-0-0-fc414a0728c2188f10e3d7ee15b7bd25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780258676-0-0-79e08910cfb67d92b7dd50db81b38a3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/22dd0624189efd6a846fadd40f8616f2.png",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780258676-0-0-845293f271c3c44cae413333f609e073
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/45d49bb7ddb09ba5e3c5adba15c3dd7f.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central [BLV RYO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780258676-0-0-deb26533f59661b93e78a73c9f2111e8
@@ -663,6 +551,90 @@ https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780259036-0-0-29db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/45d49bb7ddb09ba5e3c5adba15c3dd7f.png",01h30 ngày 01/06 Estudiantes La Plata vs Rosario Central [BLV HÚP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780259036-0-0-ec1154c91adc58a041db32f3a59ffb5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=b2cca12a81739b065e1a52554b82447d&txTime=6a1ce094
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=104db1ae873fbd56d701b70072e30e99&txTime=6a1ce094
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b2cca12a81739b065e1a52554b82447d&txTime=6a1ce094
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/63b1b3e35882fb7fd9aa6e9255e6bdbe.png",02h00 ngày 01/06 Cordoba vs SD Huesca [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=104db1ae873fbd56d701b70072e30e99&txTime=6a1ce094
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780259396-0-0-fb6efbfb3ece3055daa99195653e6dfd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780259396-0-0-d96327423958b8a443092a395ca128d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780259396-0-0-f76fab2e8128d57f9aa7608b40d22c5a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780259396-0-0-c1b777d9ec4266ca896d1eda6c7f7601
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780259396-0-0-5bbbb06ac08e52ef38c94c813d53b8c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780259396-0-0-3c88d03b40accd312f53c354b660afb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780259396-0-0-e204adc77c2361969c03fbd79f37106f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/4a06780b66b8cbd03746142f814902e0.png",01h45 ngày 01/06 Germany vs Finland [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780259396-0-0-b5d630409777ddfea9b2f23ccb2add5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780259396-0-0-931e3f0ab1a91326bf920454d9fe4a4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780259396-0-0-c96a2593ecffa91f597491b309067657
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780259396-0-0-a42b173a79724236618fa67c94cbee6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780259396-0-0-96e56fa879a36659ff7fcd8ced23dafc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780259396-0-0-1a783607967219aa84e88c1e78e965e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780259396-0-0-3f303322c06d3fb2fd9abeba70909870
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780259396-0-0-a501f98f49537f2a880734d0a10723cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/f55d6e5ba9168ee191982c8738211db8.png",02h00 ngày 01/06 Palmeiras - SP vs Chapecoense - SC [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780259396-0-0-b9801d4a5e18c88ff386ea565a7f41d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780259396-0-0-d5d385c1ac6520e3ff708e262b6fdd73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780259396-0-0-5572176115c78ef027972bf037e7750e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780259396-0-0-388d1e4f58035d34428ccd3c7e5e0498
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/041741cacf80f677067c1a148cc17b30.png",02h00 ngày 01/06 Vasco da Gama Saf - RJ vs Atlético Mineiro - MG [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780259396-0-0-ddbadcca9accba7c12c41162105d23a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780259396-0-0-c2da76bb90a16390aba51fb859085da7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780259396-0-0-c7965414e57ef624f3644ea3acad9f54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780259396-0-0-1c34f9c07cc85f4caa6391f32adc1db2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/e8c10672c1fcbfc423995f0e3694b644.png",02h00 ngày 01/06 CD Leganes vs Mirandes [BLV CÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780259396-0-0-5aacc59154b1ffa0de4f38d0575d247b
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",01h45 01/06 Germany vs Finland (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
