@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780590284.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780590284.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780614809.png",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18605_20130924134718.png",06h00 ngày 05/06 Anapolis FC vs SC Paysandu Para (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780590284.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780590284.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -75,6 +75,14 @@ https://gckc0525.edgemaxcdn.org/live/rockiehd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/rockiehd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125458_7fda1723.png",07h00 ngày 05/06 Czech Republic vs Guatemala (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125458_7fda1723.png",07h00 ngày 05/06 Czech Republic vs Guatemala (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_212618_887a8760.png",14h00 ngày 05/06 Belgium W vs Czech Republic W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -259,90 +267,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780619359-0-0-294549eb7eb7680e551cf86bcbb96351
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780619359-0-0-f5839368e16ceb832d962a2017fa4b36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780619359-0-0-3ee36f5e05bf7a90a1ff49666f8f9e03
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780619359-0-0-c5a4bf1897723e2081876e1d49b52eaf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780619359-0-0-d7bdd9fef21b179443d96ec42e7467f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780619359-0-0-d717fda251bd9c445fcbe8dd644fa282
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780619359-0-0-d152d15f97087d38c07e6ebe72082800
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780619359-0-0-e6f31402beb0b3cb6596c33056299fe8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780619376-0-0-53853f08f9ef059e40572fad03ccbe64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780619376-0-0-16c27696e158f8e2da44257914ef7d01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780619376-0-0-7b781f917c1d914868c6752f92cb25be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780619376-0-0-a35c13bf7f769194ef0f96310cd225f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780619359-0-0-d0ad00031a0d5de1ecea7d31748a7f92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780619359-0-0-77f3421a929286df2969b3e988b38b59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780619359-0-0-3c37110de1dedb7eb822df61b5a54fc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780619359-0-0-789b6be624fcbd33d1833ce04690884b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780619359-0-0-f258ed8ef2b1eb1d6a6dd3a82524d7ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780619359-0-0-897818877dad808b1f0dd5dc62998f73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780619359-0-0-fa3ce9770940c31b0b81f367d56760ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780619359-0-0-ad305dfce1d30bc735723d73a921386f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780619359-0-0-b0332535de10e4bc2d2d25e53c4a7052
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780619359-0-0-fcacf56430b0ae54fe532bb14cce2701
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780619359-0-0-1409804498ab0483945b02b1eb8341cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780619359-0-0-9e20dc3b7825f3d91b5782052682e372
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780619359-0-0-5484a6f45b338490f21a5754f771dff1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780619359-0-0-32841188dd2b53b12e4947b918648553
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780619359-0-0-b2334074dd8f98ff7a8d1d159a9e5dff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780619359-0-0-7c6f57cd6cbbc36e6b85807e6bd579b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780619719-0-0-06d7ba04945e79ac59f203d2ce0c35b3
@@ -391,6 +315,90 @@ https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780620079-0-0-ef3d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV YONE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780620079-0-0-b19b71d3fdbaa774e86113344aa0b71c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780620439-0-0-e53fd8d164b1e25ed1f0301f65262253
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780620439-0-0-f9252bbe03d996ffac5d14e8967405f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780620439-0-0-cf801308d870498cd2754502828a144a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780620439-0-0-1a393d0068efa7ed50f429f89f23bc15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780620439-0-0-e56573b586c2d1eb554e9e3b5be35b48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780620439-0-0-74a32dba1755a78984f99d3f0b41250a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780620439-0-0-588551fd41931bd5fe1c1e7bd1a969c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780620439-0-0-4d411886889319bc173cb8d136dba078
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780620439-0-0-97340dd5805bae3a03b5706a3501a560
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780620439-0-0-44edc132e3a4369e583b20c10c4b8e24
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780620439-0-0-02f24f58bd81490b77a72771baf15988
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780620439-0-0-7ec8440ee46ace41d4cbefde132e5d74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780620439-0-0-990036da681e3875fce63698b60b5716
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780620439-0-0-75bc3484d1d38d1f3dc0c7849dece8f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780620439-0-0-1aa40378033bd31e9ca8d22682e67395
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780620439-0-0-12336d1c6ca2e567ddff6a2c5f1c507d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780620439-0-0-6b624b1c946027f2db51529aca484696
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780620439-0-0-633165f11cea8464c64bc0e79f7effd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780620439-0-0-35617394ff7ee884a9b74606347d0586
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/a2ae71c00cbff93ddeacf2fa094f12aa.png",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780620439-0-0-e7beb6d207dfb69b75f1261ea8d08c92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780620439-0-0-38ebedf43efa487920c78d3ea4bff1a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780620439-0-0-88a1369a3fe9729c72b921e4dc29838c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780620439-0-0-7b7a2338cfa5267c4367025a6868667b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/9d5f51f99ea57ce04dae1525150bbb52.png",07h00 ngày 05/06 Czechia vs Guatemala [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780620439-0-0-8ffb0265048d104f3daff3e8c5552a55
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780620439-0-0-e6703dd3e2f50b7cf9f1b934d2909483
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780620439-0-0-fa44da16f6f0b8ee58f759ddeecd3026
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780620439-0-0-e1fb98f862a997089ade2d92ffb5dbac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780620439-0-0-f9d5248fa70704b5e5d49e79483aa84a
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png",06h00 05/06 Brazil vs Cộng Hòa Dominicana (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
