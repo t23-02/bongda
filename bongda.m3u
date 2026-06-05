@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780614809.png",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780614809.png",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17295_1h489yn5gxj.png",13h30 ngày 05/06 Macau U23 vs Canton United (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69231_1jtm3bb0ydp.png",13h30 ngày 05/06 Wuhua Huajing vs Taizhou Morning Tea Dark Horse (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780614809.png",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780614809.png",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -461,90 +461,102 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/316c5b22f5274cd26b8a29f38ab10266.png",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780646359-0-0-1251830cc8dcf6ccfd1b66e3ef8b95ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/316c5b22f5274cd26b8a29f38ab10266.png",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780646359-0-0-d522212df375027fa7076c7107897edb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/316c5b22f5274cd26b8a29f38ab10266.png",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780646359-0-0-ae098d1a392881d225f898d97de51930
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260603/316c5b22f5274cd26b8a29f38ab10266.png",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780646359-0-0-91c5de1348a1d78248c57013ce7e1aaa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780645279-0-0-fd896ee74df9f5e0a4078efdb1b75d4b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780646359-0-0-1b841fec32e9d808fa8d422d5f3bbf3f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780645279-0-0-2c2170167287abea4a49459b6610dc0e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780646359-0-0-db342052f95cba1e4b729c147691db46
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780645279-0-0-65aa2155df74d4908f99191d076df641
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780646359-0-0-dbd6ab5ad54d935c4bc00f4c7554cca4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780645279-0-0-22520ef53ef537cb7a635a0a3514c9d9
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780646359-0-0-5ae20f5fdffd74b63c222ecd1ffe6fa0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780645279-0-0-b49e944f421e135bbf5e2ce8d1359732
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780646359-0-0-69fb7c19aaffedaada604dc097462bfe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780645279-0-0-783f489d8333a39a019079e59cd56105
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780646359-0-0-7ebf4610d29e47c47c2ca02cde334ddc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780645279-0-0-a8368aa47354655c41f61c173aba3bac
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780646359-0-0-3c189823a94c1e7d027d7dbdff6fb8b5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780645279-0-0-941afe3614b4cbed88b19cf2198be258
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780646359-0-0-d0ae09ec93a1ad73f565d631b1770407
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780645279-0-0-79ba8ade094ff3de0c2a491810dc10f4
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780646359-0-0-2314afef517295ca9381a3971c99cf63
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780645279-0-0-47f0da17f0631e5d539ef7fa9d23895a
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780646359-0-0-83d71834df82b9afc204fa9bcd029471
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780645279-0-0-6727211d8cc2789591c7cbf67fd00965
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780646359-0-0-0552bde378b28ed873d488759387c137
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780645279-0-0-3ac6f78a1a4a5fdc6e7ea93af05e74a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780645279-0-0-ca1004b4d29ba13741b3562ab5cbad35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780645279-0-0-e37078b196e0a24340ecb57566e31fe2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780645279-0-0-877f56e769bf2b3ac05fff1511f42eaf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780645279-0-0-c8a9c5ab06d2bc5bbe3086a236adf827
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780646359-0-0-a4789ab28e6e8cac7d5d2d6bdbb1b645
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780645279-0-0-eb2e4b2e6a240f6499acd2055477842a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780646359-0-0-0642e873bba0551e7dc405de9236a565
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780645279-0-0-840c628b4ebba14d8f349307a0357b9a
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780646359-0-0-a009ddd7e0e9578c71631343a884afd3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780645279-0-0-e8e98b05db4f28ec483bc9dd5ca61cfd
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780646359-0-0-d7cc96d3a950f01de0d4b7ebea1db07a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780645279-0-0-11aba610964afe5d549751fc5fe43681
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780646359-0-0-cc24a2332fb29ed2749e3f0e9f26e37f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780646359-0-0-4b0b814a79758f62ef19fd0d0be816b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780646359-0-0-76f5e750b5b12901d831a71d15c90095
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780646359-0-0-2fa1031299a6b7bda18493aa399e0b66
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780646359-0-0-62ee043216212dd6f7913828857951c1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780645279-0-0-0a6b6642cd30fa455fd78f90bc838ea8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780646359-0-0-d30073fced852be372c2016c06ea0b3a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780645279-0-0-755560b468394d5d16b6e9554645ace3
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780646359-0-0-21dd3b85d62eb38206cfc1ca312778b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780645279-0-0-155febf62fef1c692d4c20419633fbac
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780646359-0-0-05059ee73c8cea3dd57a47ef609fa3d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780645279-0-0-212c0c4eb1c612585fcd226194e72cb4
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780646359-0-0-4b9c1cb7bbd7b8e21e116787fd9d01ac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780645279-0-0-f0641e00d4343b264e586225fd0e8a00
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780646359-0-0-8e12d49a72bd5c6dd46d65eb9d45a969
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780645279-0-0-4fe5952cd5e3f1e95439cb709695f459
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780646359-0-0-d47e7fb1080789557a5a77e54a17cf84
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780645279-0-0-5ffb358ef1a7c8ab21dee96c9ce9ff76
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780646359-0-0-8a1c562d4ebe410d1094376ed47690b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/0c7115a6d6df22f726df030c9ed0f28b.png",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780645279-0-0-1daf46e4db45b64ebc34350e2e8e2a50
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780646359-0-0-dfae0e6a0948ff3d2df3eb2f55c5b9c9
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",13h30 05/06 Đ (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
