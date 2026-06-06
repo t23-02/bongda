@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4417_165726898169.png",18h00 ngày 06/06 Thailand U23 vs South Korea U23 (Lương Sơn) BLV SHIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4417_165726898169.png",18h00 ngày 06/06 Thailand U23 vs South Korea U23 (Lương Sơn) BLV SHIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9317_1gtqmkchep14.png",18h45 ngày 06/06 Viktoria Plzen U19 vs Slovacko U19 (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9317_1gtqmkchep14.png",18h45 ngày 06/06 Viktoria Plzen U19 vs Slovacko U19 (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4417_165726898169.png",18h00 ngày 06/06 Thailand U23 vs South Korea U23 (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4417_165726898169.png",18h00 ngày 06/06 Thailand U23 vs South Korea U23 (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -301,54 +301,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780751839-0-0-17ee69a865a7abeeb8d73aa5ffb89f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780751839-0-0-7adb5f7f8d58be192282cee6f561c70b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780751839-0-0-ce4a7da68230d7517cab1c487695b23e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780751839-0-0-592b0f01223891492ccc930acd805567
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780751839-0-0-1db4f2a3a213cb156d656c0f7d71cafe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780751839-0-0-9454331565e92111d5ee9f342a888d08
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780751839-0-0-69ce3294aea760d5ee09bfda21b0fe89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780751839-0-0-5bf2ce3435d8e3cdda7dece55288bdc7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/366a201a3a78bd48e6cbedc41f0b4eee.png",17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780751839-0-0-2c7150a07c35f0983824532f834e7f1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/366a201a3a78bd48e6cbedc41f0b4eee.png",17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780751839-0-0-db557f6176e2dcd39248f07ce212ce50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/366a201a3a78bd48e6cbedc41f0b4eee.png",17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780751839-0-0-92f1726346c8e00a45291f79886cbd30
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/366a201a3a78bd48e6cbedc41f0b4eee.png",17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780751839-0-0-19209a1b2c79495134fbc5fad0291639
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=a5b1cdd557a7f979068c05ce39c2120c&txTime=6a24642f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=9707ae938294a4bfa6a115a935f01c58&txTime=6a24642f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=a5b1cdd557a7f979068c05ce39c2120c&txTime=6a24642f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=9707ae938294a4bfa6a115a935f01c58&txTime=6a24642f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=e1dc7617fbc229c49580fff08751503c&txTime=6a246597
@@ -361,18 +313,6 @@ https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e1dc7617fbc229c49580
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0f3725c62bcf0b3481b26dc5f209a02d&txTime=6a246597
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/a56d62ce6181627f2c24d3c03cef08af.png",17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780752199-0-0-fc06eef8096a54f16288dd7b3877fe11
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/a56d62ce6181627f2c24d3c03cef08af.png",17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780752199-0-0-0c413000a3e13de46f6ed0317438a94b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/a56d62ce6181627f2c24d3c03cef08af.png",17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780752199-0-0-1795ed40cb02cfbeedb430acd56b6652
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/a56d62ce6181627f2c24d3c03cef08af.png",17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780752199-0-0-a71a4df0160ea212e18e54878ea665c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BEN 10] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780752199-0-0-d35f5d563842160e1f17cd6e252bdfd1
@@ -541,6 +481,138 @@ https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1e7e9371d890a466328b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/f85614137aa44b47313d48d50883243c.png",20h00 ngày 06/06 Lithuania vs Latvia [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f2f1c403a464a928f28ab41c78f15f39&txTime=6a246700
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=ae569a617f93a8a25fc8c7404f2d270d&txTime=6a24688d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=a8c693aaf70d3e50ecc316a2592cd41b&txTime=6a24688d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=ae569a617f93a8a25fc8c7404f2d270d&txTime=6a24688d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/954eb252261507b9861b2a850f65fd44.png",20h00 ngày 06/06 Belgium vs Tunisia [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a8c693aaf70d3e50ecc316a2592cd41b&txTime=6a24688d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/fd77dc4e56a371235591a6e8b7dba6d4.png",20h00 ngày 06/06 Cambodia U19 vs Philippines U19 [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780752920-0-0-f8bab136d972074b9d19c1801800ec70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/fd77dc4e56a371235591a6e8b7dba6d4.png",20h00 ngày 06/06 Cambodia U19 vs Philippines U19 [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780752920-0-0-bedfa57b57c0c1d834a46a88e6e71a6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/fd77dc4e56a371235591a6e8b7dba6d4.png",20h00 ngày 06/06 Cambodia U19 vs Philippines U19 [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780752920-0-0-c6f8e8d836c4fab5c19cb5e0a21f030b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/fd77dc4e56a371235591a6e8b7dba6d4.png",20h00 ngày 06/06 Cambodia U19 vs Philippines U19 [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780752920-0-0-a942172e3b5f88530e4d21d664e72d07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/3cb21fcc467539e26857e1d785da8fc4.png",17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780752920-0-0-98655e9ac4e2c48cd898a3d7bded846a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/3cb21fcc467539e26857e1d785da8fc4.png",17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780752920-0-0-79160d79e2e4499a12d76b8c858b656e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/3cb21fcc467539e26857e1d785da8fc4.png",17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780752920-0-0-98125848a163a431e3d54b0bd9b3ca2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/3cb21fcc467539e26857e1d785da8fc4.png",17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780752920-0-0-722c9a926254c4962c9f12492d16d20e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/18e722a9fe918ed1abfeae6a9be32d76.png",20h00 ngày 06/06 Ekenas IF vs Mikkelin Palloilijat [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780752920-0-0-ba72ecd469f656c5b76b5cc373d5a923
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/18e722a9fe918ed1abfeae6a9be32d76.png",20h00 ngày 06/06 Ekenas IF vs Mikkelin Palloilijat [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780752920-0-0-6925e25adaa5585968096d3ece74359b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/18e722a9fe918ed1abfeae6a9be32d76.png",20h00 ngày 06/06 Ekenas IF vs Mikkelin Palloilijat [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780752920-0-0-2a8d76f3b83a1ab9be03c912809b827a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/18e722a9fe918ed1abfeae6a9be32d76.png",20h00 ngày 06/06 Ekenas IF vs Mikkelin Palloilijat [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780752920-0-0-f9b54c6dbcf6984b025b6a86f6137687
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780752919-0-0-80a6d915c1a4b26626793a51edf48d0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780752919-0-0-dcf63f5f206f56327af052fff4fae590
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780752919-0-0-763fd65299b25b6a125dd9b130b5ec99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/c195191718f086f7a67493c22ccb44c3.png",18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780752919-0-0-53062e2b8d2461bcbcc08aa74cf45433
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=ce599aa2927bb4e1a2de5f7ca1ba6522&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=84e8e08e4e6f1b8f5427365cb9037cf5&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=ce599aa2927bb4e1a2de5f7ca1ba6522&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/8c7550eea6b55f479526c3273db4162b.png",18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=84e8e08e4e6f1b8f5427365cb9037cf5&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780752920-0-0-098a105840f0fa27325b5c555f4a648d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780752920-0-0-6867e4793fed668903784c016f76b4ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780752920-0-0-ebfda5277bdf338dd84992119d580ffc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780752920-0-0-9d3da43c573bf888fade3a71e3034b67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/f85614137aa44b47313d48d50883243c.png",20h00 ngày 06/06 Lithuania vs Latvia [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780752920-0-0-00f360e6a9b250ad25d440e8f0e341de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/f85614137aa44b47313d48d50883243c.png",20h00 ngày 06/06 Lithuania vs Latvia [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780752920-0-0-d58df956755d11ff4d3cd379ba7f7c44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/f85614137aa44b47313d48d50883243c.png",20h00 ngày 06/06 Lithuania vs Latvia [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780752920-0-0-b9b1759f2a4fe81d37eb6bcbb6ba76d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/f85614137aa44b47313d48d50883243c.png",20h00 ngày 06/06 Lithuania vs Latvia [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780752920-0-0-42132f2aa62933aafe1e315bc04a6574
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [HÀ DUY KIÊN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780752920-0-0-b58caf11aa2dbc00dcd38b213d2cf5c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [HÀ DUY KIÊN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780752920-0-0-c8aba695d6c715dc06a95815c4b5341b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [HÀ DUY KIÊN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780752920-0-0-fb0fd52214bd3610eef0e23123a23faa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [HÀ DUY KIÊN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780752920-0-0-5dd03ae20b48cbde397a03faefb2e24c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780752920-0-0-e62082723775ce195aa554c266277d8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780752920-0-0-b9ac237e9671fea1c62efcb50267b49a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780752920-0-0-bfb5faec90845bc7ab8f5cfb3ebabe14
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/b86dae53e5cd3e5d39fb1f6bf1040ed3.png",20h00 ngày 06/06 Japan U19 vs Canada U20 [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780752920-0-0-f97d954f21a2843b363c07aabb7b57e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=5785b17cb4433c9d8c821c8518143989&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=868ce5486f55d7d0bec28b0ad4db58a0&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=5785b17cb4433c9d8c821c8518143989&txTime=6a246868
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260602/48ce52df0773c6a87ca4f62b9e60cf91.png",20h00 ngày 06/06 Central Espanol vs Racing Club Montevideo [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=868ce5486f55d7d0bec28b0ad4db58a0&txTime=6a246868
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",20h00 06/06 Belgium vs Tunisia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -553,6 +625,18 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",20h00 06/06 Lithuania vs Latvia (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",20h00 06/06 Lithuania vs Latvia (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17962.png",20h00 06/06 Lithuania vs Latvia (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",16h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -577,6 +661,18 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1%2C6-1_%2854320887214%29_%28cropped_Maja_Chwalinska%29.jpg",20h00 06/06 Maja Chwalińska vs Mirra Andreeva (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1%2C6-1_%2854320887214%29_%28cropped_Maja_Chwalinska%29.jpg",20h00 06/06 Maja Chwalińska vs Mirra Andreeva (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1%2C6-1_%2854320887214%29_%28cropped_Maja_Chwalinska%29.jpg",20h00 06/06 Maja Chwalińska vs Mirra Andreeva (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Deep_Cross_Gaming_logo.png",16h00 06/06 Deep Cross Gaming vs GAM Esports (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -613,9 +709,30 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/b41e9e7759d0ab396a862fb8c80b5d27.png!w80",17h30 06/06 Hwaseong vs Suwon Samsung Bluewings
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",20h00 06/06 Philippin vs Uzbekistan (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14707124.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",20h00 06/06 Philippin vs Uzbekistan (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",20h00 06/06 Philippin vs Uzbekistan (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/001e7c76f6571d153feb351f0aec9cee.png!w80",18h00 06/06 FK Lida vs Volna Pinsk
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",20h00 06/06 Nhật Bản U19 vs Canada U20
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/809acdd49b4b1e55e7393c7575189e81.png!w80",20h00 06/06 Ekenas vs Mikkelin
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/02456966.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",20h00 06/06 Campuchia U19 vs Philippines U19
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/90865415.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",20h00 06/06 Bỉ vs Tunisia
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/33982309.m3u8
