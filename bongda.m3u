@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV HEINEKEN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV HEINEKEN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/660_165018869978.png",07h00 ngày 07/06 Argentina vs Honduras (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -47,6 +35,18 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6630_1grz8jwyh02b.png",07h30 ngày 07/06 Deportes Iquique vs Deportes Recoleta (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV HEINEKEN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC (Lương Sơn) BLV HEINEKEN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -539,90 +539,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780795400-0-0-cb13a387eff7e3aad8a5d7c3847f4c69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780795400-0-0-2970906ce49cf5db4933e85b9f1d3e97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780795400-0-0-4d72c01fecfee92f519efb858c110f65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780795400-0-0-30a07e2197e51dcbf10e9a06f429633a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780795400-0-0-2226a41692da30ce1c63ffb87c9d36ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780795400-0-0-1576d3ebe595be8094879a0574d896c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780795400-0-0-4c3644ccaa03626c83d8bf03a47c43f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780795400-0-0-bc7ecba06897f8cbd3ecd3d263a953d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780795400-0-0-86b533ed62ed1c752c929f5d3d441ca7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780795400-0-0-5f493ad868573cf9f9a12948aaca017a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780795400-0-0-3c196e0a8f70d9aee18b78d7b692916f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780795400-0-0-c22b43eafa529850f2dff4c972e38c82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780795400-0-0-58a96081898194e74a5146cdcdf14c4f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780795400-0-0-8b69595e179baca1752275adddcf0b70
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780795400-0-0-ab450eb13d77dc20eea083371b0fb60e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780795400-0-0-a226f9315128eae1d765e22f1e8f8b49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780795400-0-0-18a4c8dcceefc2ffe4f4ddc3df7b051a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780795400-0-0-74d0d5ca5fa578a0a2d555718a25e95f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780795400-0-0-cc40bed31bddbb07d474eb990e80ac02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780795400-0-0-489b47bc952c52a1243a0b6602d21b27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780795400-0-0-544b1a10f01d7a1692536595d3bd7561
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780795400-0-0-b860ec26553efff3ce3f3a34e58162dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780795400-0-0-b5761ebcd7c3eaff1efbedc0112299fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780795400-0-0-f7012f9f8a742f873348fe5143f8bbec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780795400-0-0-7ba6421224c19878be72fa90e8023227
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780795400-0-0-249192f3a691a5b6935bdafbc209ddae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780795400-0-0-d510054a99333db82bef6caff2c15fb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780795400-0-0-021ec6a61c3e9bc31d3b4344053f50b9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780795760-0-0-212a9d2a782df303e4f7d41f0bff595c
@@ -803,6 +719,90 @@ https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=92626315eb4e29ac034d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/56d8cbc9aa81f3e76166952885fda062.png",08h05 ngày 07/06 Colorado Springs vs El Paso Locomotive FC [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c8e06cbc5014f82fef421a1da3aeecbb&txTime=6a251128
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780796480-0-0-a123b52b7947cc7d742432ad1ce8f187
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780796480-0-0-8e69e48ed734191282c6dd023467bd0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780796480-0-0-9afdb75632479826df25eee709b6e303
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780796480-0-0-4eb95eb12b4b4c5d0fe313ec4d0a3107
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780796480-0-0-ad8c3c8e5dd44b1c03c605f29b31bfb7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780796480-0-0-d2d93630f5db0aa741c20d51a196d8f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780796480-0-0-3e07e48dd3dba731ed7b31893507a586
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780796480-0-0-19ee159fb6d4bd1c68411ab921470e41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780796480-0-0-dfaf0b9737af7fc94d1b11ba135fbc64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780796480-0-0-be6a377ecfa0d0c029713f2e30a67f8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780796480-0-0-3e5b30dcc6e0da4d7de3b4d481b23cfa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780796480-0-0-550158deb24290de6c0518610cc0fb99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780796480-0-0-011e6ae51e0d5947de876c94aa68db9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780796480-0-0-f1d43c034934f829bbb7c26e3bf2880d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780796480-0-0-54ea716791db5d61e3e6d21792a92135
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/30e405b9a78a35f1ff171f049e26ff9e.png",07h00 ngày 07/06 Argentina vs Honduras [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780796480-0-0-02e8bb56e105859659368883ba0c7ed1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780796480-0-0-6882d50548bf7c03e52602e8fa4d1b0c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780796480-0-0-b2b76163750854fbc08f10a9a1d142ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780796480-0-0-ac4ab38319f9981acbdb5d6b4057095c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260605/9545bebe243afcd3ce07deec47565579.png",07h00 ngày 07/06 New York Liberty W vs Indiana Fever W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780796480-0-0-a91077e270752f8e75ffb61839257f7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780796480-0-0-96647ab4ac9a6f4426d393942dd74fdc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780796480-0-0-36fe3c222cae6207d6b337089efa047e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780796480-0-0-a65dfa3d2d5d97b43108d671bdd18895
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/d2be7326eeb0130970e7c35e90ecd9fe.png",08h05 ngày 07/06 Spokane Velocity vs Athletic Club Boise [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780796480-0-0-ae5c3560d9c7777d386ed3ca521e9042
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780796480-0-0-8b00631e94aa0c3a8c5b7ecb1b89da43
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780796480-0-0-a2b060b60e1c35a73211fcb08edc68b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780796480-0-0-f1dfa4ff2b19db1dc7d783ddbca12c67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260604/2aefa565cc9ea569a738e9119f22e878.png",06h00 ngày 07/06 Supra Du Quebec vs Pacific FC [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780796480-0-0-008214156b762481b40a76bf5be34597
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",08h00 07/06 Việt Nam vs Hồng Kông (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
