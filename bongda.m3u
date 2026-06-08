@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14297_165725260332.png",23h00 ngày 08/06 Haiti (W) vs Equatorial Guinea (W) (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14297_165725260332.png",23h00 ngày 08/06 Haiti (W) vs Equatorial Guinea (W) (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/717_1gw9fv66tr1a.png",22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
@@ -71,6 +65,12 @@ https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/749_16575029864.png",23h15 ngày 08/06 Italy U21 vs Albania U21 (Lương Sơn) BLV NGƯỜI THÉP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14297_165725260332.png",23h00 ngày 08/06 Haiti (W) vs Equatorial Guinea (W) (Lương Sơn) BLV LÃO HẠC m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14297_165725260332.png",23h00 ngày 08/06 Haiti (W) vs Equatorial Guinea (W) (Lương Sơn) BLV LÃO HẠC flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -363,6 +363,22 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144745_2a12c2b6.png",20h00 ngày 09/06 Australia U19 vs Cambodia U19 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144745_2a12c2b6.png",20h00 ngày 09/06 Australia U19 vs Cambodia U19 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144745_2a12c2b6.png",20h00 ngày 09/06 Australia U19 vs Cambodia U19 (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144745_2a12c2b6.png",20h00 ngày 09/06 Australia U19 vs Cambodia U19 (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260604_133429_24e1757b.webp",20h00 ngày 09/06 Kyrgyzstan W vs Australia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -395,6 +411,22 @@ https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134310_c4f06af1.png",22h00 ngày 09/06 Tajikistan vs India (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134310_c4f06af1.png",22h00 ngày 09/06 Tajikistan vs India (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134310_c4f06af1.png",22h00 ngày 09/06 Tajikistan vs India (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134310_c4f06af1.png",22h00 ngày 09/06 Tajikistan vs India (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -419,30 +451,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1780938680-0-0-d7a9a77f90e21a39db04892fb8523fa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1780938680-0-0-bc8cd6b02e14d56ed66d81c666b19622
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780938680-0-0-6544f60fb8f8323c7e78e0d0bb07bd86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780938680-0-0-76838e2702e612279568d827536e8529
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780938680-0-0-a19121e7661dc7b60c685c893679d164
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780938680-0-0-c6f4cdbfff31b908a484897fcc623113
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780938680-0-0-18d53771b0b6fbf5948c2742dca95394
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780938680-0-0-9f834dc605ec58ca8a128bf1d12062d3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=7c358c95279aa08104192983ec9a0cff&txTime=6a273f70
@@ -611,6 +619,30 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780939400-0-0-6a08
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780939400-0-0-cb27fecb1c5f967e80f98800900304c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1780939760-0-0-5c7636798182a4b528871ec6b6ac5fe5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1780939760-0-0-0c1c6d7e146d53ed6df1ac2c20d28b08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780939760-0-0-2db555d5516c528c9d6cb41355b32135
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780939760-0-0-5b87a83d64963fa42d89e9038e4916a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780939760-0-0-a4a6389d4f71e4550deb89f6501b8969
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780939760-0-0-7e1aa50f04171735282c04a9d2257d91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780939760-0-0-5728192704e91d6ba0f2790c6ad6a480
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",VTBUL: Unics Kazan vs CSKA Moscow [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780939760-0-0-c5d7a1d7dcf6127bfcd3b228f2af3147
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903",19h00 08/06 Gamingccc (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
