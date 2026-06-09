@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780979059.png",12h00 ngày 09/06 Canton United vs Guangzhou Zhicheng (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780979059.png",12h00 ngày 09/06 Canton United vs Guangzhou Zhicheng (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -417,18 +411,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780984760-0-0-3906a559696745b3161838b38e2f9f12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780984760-0-0-8d0473773568e885254bef878186e1e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780984760-0-0-84b09f6207d998ce9abf5ffd8c30869a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780984760-0-0-fd66d51174304ccf53e6e20bc6ebde67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780985120-0-0-97694902735d1a56d7e4f8028febe865
@@ -501,6 +483,18 @@ https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780985120-0-0-8b54
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",Tường thuật: INTERF - Colombia vs Jordan [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780985120-0-0-916671fd1eb3c8c04a95648d5ad7b53d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780985840-0-0-93e86e5aab748f5c767d428c974862a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780985840-0-0-bcf1ce070d1432085db8297acb06d57a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780985840-0-0-42af08faeeb5b982cd9fd10c021f7e6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260329/b88e9212c84ff6f95da25e066f53b62d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780985840-0-0-b4ae87f89702c2e5861cbe37f8041838
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",11h00 09/06 Uzbekistan vs Úc (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
