@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781298901.png",04h00 ngày 13/06 Mexico vs Nam Phi (Lương Sơn) BLV LỮ BỐ REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781298901.png",04h00 ngày 13/06 Mexico vs Nam Phi (Lương Sơn) BLV LỮ BỐ REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781298091.png",04h01 ngày 13/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-ttps://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781298091.png",04h01 ngày 13/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -721,18 +727,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781301920-0-0-ee26588518f14df859e9c2349af3cdfb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781301920-0-0-4f31ae91f74ca48aed48a28f6176099f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781301920-0-0-c6590040ace02468ededfc7e5ab01b19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781301920-0-0-6b38bf5b3823db6f7858fd3141496dc6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781302280-0-0-d16aa1e64321002043c1b5f513c8dc2c
@@ -805,6 +799,18 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781302640-0-0-f6a5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781302640-0-0-343ed9e9fab81b489cdf1d9117147aad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781303000-0-0-ca849570af989b241f3b7f5cdf76725b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781303000-0-0-afb4427539fbced001e92710498bdc7a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781303000-0-0-f71179f1efafa45d725a662dd5c97907
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781303000-0-0-7fa880fa81b183d85974075397384f0e
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",02h30 13/06 Bỉ vs Serbia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -829,15 +835,3 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",22h30 12/06 KTP Kotka vs Ekenas
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",22h30 12/06 JaPS vs PK-35 Vantaa
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",23h00 12/06 Liepaja vs Super Nova
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/90947f03d78b6634fe6ad3014329bc14.png!w80",00h00 13/06 Dinamo Batumi vs Dila Gori
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/87547578.m3u8
