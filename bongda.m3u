@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png",03h00 ngày 15/06 Netherlands vs Japan (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png",03h00 ngày 15/06 Netherlands vs Japan (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png",03h00 ngày 15/06 Netherlands vs Japan (Lương Sơn) BLV HÀN TÍN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
@@ -47,6 +41,12 @@ https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1646_1hr8pdq1wj26.png",03h00 ngày 15/06 Cuiaba vs Vila Nova (Lương Sơn) BLV TÀO THÁO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png",03h00 ngày 15/06 Netherlands vs Japan (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png",03h00 ngày 15/06 Netherlands vs Japan (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -219,54 +219,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=7c64123a533970c5fe17d1317471d87a&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=61aa214de17b20c883063b3fbff36144&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7c64123a533970c5fe17d1317471d87a&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=61aa214de17b20c883063b3fbff36144&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=583328e8c7eb755a622c5bc30d41e8fe&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=96060de5759c7d20694e7ae8c551f78c&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=583328e8c7eb755a622c5bc30d41e8fe&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=96060de5759c7d20694e7ae8c551f78c&txTime=6a2f6bf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781474721-0-0-6bbe040d699508d713003cc0a7789406
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781474721-0-0-4900c35f71c2665db24a96789911aa61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781474721-0-0-eae550728f701a222ad709bd46236324
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781474721-0-0-f29e8f805242419dd462a88632f00548
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781474721-0-0-98e679958bdc872a9b17cedc42300034
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781474721-0-0-ffa02512ef6cc61aa4590c614a824581
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781474721-0-0-e7e05e992001893e2bf51f2bd5872054
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781474721-0-0-d92da4910e980e760c142bcc529ced02
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781475081-0-0-b9bde01f1f86015af9db2bdee575a6cf
@@ -423,6 +375,66 @@ https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781475441-0-0-de90
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781475441-0-0-09e01f14fc961144a5bb28f50ca2cd25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=ababd1a20eff687d11875b7abda41891&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=3b5a0d772460e6ca731d225b202456c3&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=ababd1a20eff687d11875b7abda41891&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3b5a0d772460e6ca731d225b202456c3&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=1f2583db9524fa15c9b559259f3807a9&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=e0c94044da81897d9173b1a29472e52f&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=1f2583db9524fa15c9b559259f3807a9&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=e0c94044da81897d9173b1a29472e52f&txTime=6a2f7029
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781475801-0-0-7286b21c71c47037c8a47896c1ed948d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781475801-0-0-3c39dbd7b0753bc430ff75828fb75876
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781475801-0-0-51b29ae7fd17dafa0b64d41ac51ddcff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781475801-0-0-91acab5040a8e172ca310c144dbec521
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781475801-0-0-10653da399f81e634795600d3d065380
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781475801-0-0-7c3fddbaa7ae31c95efb1b26391157fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781475801-0-0-3e094a862dd07aa18494df08bfa1b95f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781475801-0-0-2c46ec0e9da25bf04a74181546b5f7ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781475801-0-0-273b85521b42e19f63fd567edff7f80e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781475801-0-0-b6b708d0753c9068ae004f28b50871b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781475801-0-0-8e8c2222b6bd401bb2daa32088dbebc6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781475801-0-0-f1a1374997e60920a12029caf9ab45c1
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1118.png",03h00 15/06 Netherlands vs Japan (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
