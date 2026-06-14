@@ -1037,6 +1037,18 @@ https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781439801-0-0-0b0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781439801-0-0-d3f29a995fe150771a806967c9cade46
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19h00 14/06 Slovenia vs Nhật Bản (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19h00 14/06 Slovenia vs Nhật Bản (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19h00 14/06 Slovenia vs Nhật Bản (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/17269.png",18h00 14/06 Wuxi Wugou vs Meizhou Kejia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
