@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/35397_1h4pznznxt2s.png",17h00 ngày 14/06 FC Ulaanbaatar vs Khoromkhon Club (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/35397_1h4pznznxt2s.png",17h00 ngày 14/06 FC Ulaanbaatar vs Khoromkhon Club (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/35397_1h4pznznxt2s.png",17h00 ngày 14/06 FC Ulaanbaatar vs Khoromkhon Club (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -53,6 +47,12 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/50189_1hrk14nehb2t.png",18h00 ngày 14/06 Wuxi Wugou vs Meizhou Hakka (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/35397_1h4pznznxt2s.png",17h00 ngày 14/06 FC Ulaanbaatar vs Khoromkhon Club (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/35397_1h4pznznxt2s.png",17h00 ngày 14/06 FC Ulaanbaatar vs Khoromkhon Club (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -105,6 +105,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130603_b96ba45f.png",19h00 ngày 14/06 Ulytau vs Zhenys (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130603_b96ba45f.png",19h00 ngày 14/06 Ulytau vs Zhenys (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130603_b96ba45f.png",19h00 ngày 14/06 Ulytau vs Zhenys (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130603_b96ba45f.png",19h00 ngày 14/06 Ulytau vs Zhenys (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123043_e3391af2.png",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -449,126 +465,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=506960a91e861bacec68a0075fdfbd8a&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=290bb6a911562aa077940a3e3f839c83&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=506960a91e861bacec68a0075fdfbd8a&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=290bb6a911562aa077940a3e3f839c83&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=5ff22b4ec1607a36e226b8438843bc5e&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=df809c71f7b34092f8553448244108c3&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5ff22b4ec1607a36e226b8438843bc5e&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=df809c71f7b34092f8553448244108c3&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781439081-0-0-55f1b5fa98e34252ee36d37db4f1e60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781439081-0-0-cd5fb15c816cdd38e42741fc0de82c2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781439081-0-0-48cba97e5f97a65a6bd3e3b2fa21500d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781439081-0-0-2a79f5cca3d47db4ce479a560c5f89a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781439081-0-0-9b70cf73ae9926d022dd04f2c0bb0341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781439081-0-0-053fa53ec19952fbf25b65605e6ebc91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781439081-0-0-d8606f8ba80ae8fbb7bf0f3c57485f23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781439081-0-0-9d7186b8f3cf4b7dd7a7b6f331dc0b13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781439081-0-0-0fe73387bea60cbc1ab24f3c007292a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781439081-0-0-74181e73f13eaa45a07e8035cc3bdca5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781439081-0-0-b82ee962556a6429066d3ffb894b01ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781439081-0-0-ebfc07647cf7f52ccf2333cdcb437a8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781439081-0-0-96a81d1da51ee43e57113f720fd34154
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781439081-0-0-e8c90080c0d327d11aba7173c991c53d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781439081-0-0-6edf9827b1ff9a95fc45be37b79c77e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781439081-0-0-2ca8251889b0802e4980fa4cb1197179
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1781439081-0-0-53b853a90ecef4382762b7d51c11762c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1781439081-0-0-bbc93ff1d3a82490203de3c52c92d2de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781439081-0-0-7d9dca8dd44501b289bc3ff58fdf7b61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781439081-0-0-963e0a48418bdf31d292868dbbdead9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781439081-0-0-ffe64966ab8e984dac6c431042657fa5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781439081-0-0-4cae38a595b567e50ce546dda9bd9fb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781439081-0-0-0eafeb49cc19c504df62f6485e9b9c89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781439081-0-0-dc76edf525820ed2f4b62b56d9897f90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781439081-0-0-012b3b87e267161e12da7f670091214a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781439081-0-0-0c89dc07d375821a14b0bc395d1db9af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781439081-0-0-f72effa2611eac3d5d65c83eeae30e91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781439081-0-0-d5afea30b8c2170521ea8202635b96b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=c2f75b08e06a57bbd3f14082ac19eb8b&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=43ef8fcf0e17aaffde7d1090a66d8ba5&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c2f75b08e06a57bbd3f14082ac19eb8b&txTime=6a2ee0b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=43ef8fcf0e17aaffde7d1090a66d8ba5&txTime=6a2ee0b9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/e70835e3e753af5a4942c75d0a68c769.png",18h00 ngày 14/06 Ninh Binh FC vs Cong An Ho Chi Minh City [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781439441-0-0-2fa1ecc9c600e8a4ac2e8ad35dd574ff
@@ -1037,6 +933,126 @@ https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781439801-0-0-0b0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781439801-0-0-d3f29a995fe150771a806967c9cade46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=3b0d07374c00d2302254e33e511481a7&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=8dec04d3f1ac9f5e11e9da6fb7c815c4&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3b0d07374c00d2302254e33e511481a7&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=8dec04d3f1ac9f5e11e9da6fb7c815c4&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c3e70cc266973890482baabca13dde8f&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=05a315be1cc9e01639a12743e4c04a8f&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c3e70cc266973890482baabca13dde8f&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=05a315be1cc9e01639a12743e4c04a8f&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781440161-0-0-aa1340910ba28f691ef7b2f8cba33aa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781440161-0-0-d997ce2af4a35895fc95b94057c28be0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781440161-0-0-c90dd72adc7e58fd6a094c8860f928b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781440161-0-0-c12c9e9449faad37b26fb4641741d4ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781440161-0-0-6a06a70b3726f379931635d4f6a69b6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781440161-0-0-19038b715de2aa8f5c94a1b883a251ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781440161-0-0-2b287d1e2aee3ab6d01d6aeaad4e130e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/ebf6bef0964672d4fbb3b53a2eef6da2.png",18h00 ngày 14/06 Wuxi Wugo vs Meizhou Hakka [BLV HÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781440161-0-0-2b51a193832905426a788f5f582823c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781440161-0-0-c3e151ae24736d326f52de8eed8f5afe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781440161-0-0-b60e4e86a16594e9c24b68ae64efd099
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781440161-0-0-525f255b3ed0eb709bf78946710a82ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/0d079838725c4b66859f019203502a51.png",18h30 ngày 14/06 Nantong Zhiyun vs Yanbian Longding [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781440161-0-0-e465ee1a59d002eeb3d2629c487ac439
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781440161-0-0-9cfe45073ace46dfd339e00e09572fd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781440161-0-0-8435a1ec567c50e6446b9e66ba8c89a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781440161-0-0-e679d2fc734b7e2e5e3b0509ef9cff15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/8e28cac19f0e7ab6e97d89a8c17e58d4.png",18h00 ngày 14/06 Norrby IF vs IK Oddevold [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781440161-0-0-e0839342a3e42431c55ca17c93bfac0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1781440161-0-0-c6dea3e65b91e165237c8def832011b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1781440161-0-0-b6f95dc4b4d21ff5a0351d9a03a2fce4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781440161-0-0-3d5ce66dd216ce68c900720bd3aa8f2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d76792ad50bf9a09c1d2dbec874e581b.png",18h00 ngày 14/06 Shenzhen Juniors vs Guangxi Hengchen [BLV GIÓ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781440161-0-0-a52acee093ff0b9353a72581d025c9fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781440161-0-0-adbff2029dbf5237dabfbc4466d9e8f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781440161-0-0-68a33edcb0abde9e18aa440115c4f423
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781440161-0-0-958d27089c6211dc6b1bf76744d91d4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/33f1c173e0c77d6634e0af54a3900ff3.png",18h30 ngày 14/06 TNT Tropang 5G vs Barangay Ginebra San Miguel [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781440161-0-0-a4b9f0f5c2cdc8401fa2cc902d17992c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781440161-0-0-93f5e7361b5e783ef4a963bc68a9609a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781440161-0-0-11683fa0438b0b3488f1f00bffd7d1d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781440161-0-0-d032c42cedeebbf70d056bdf66a87cd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/53eb0792959245ab7c67c3c80a4e7fd0.png",18h15 ngày 14/06 Hegelmann Litauen vs Kauno Zalgiris [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781440161-0-0-2f0ff17ddd9641272c4cc8d620b01695
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=975c417101384a62551f2be9ae112b3b&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8535b9ffdfc9bbdb718c447addb18af5&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=975c417101384a62551f2be9ae112b3b&txTime=6a2ee4f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/a3f5580e65e07b9f39d7cf210f53058f.png",18h30 ngày 14/06 Nomme JK Kalju vs Paide Linnameeskond [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8535b9ffdfc9bbdb718c447addb18af5&txTime=6a2ee4f1
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19h00 14/06 Slovenia vs Nhật Bản (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
