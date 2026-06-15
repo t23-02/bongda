@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/776_165018978353.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/776_165018978353.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/776_165018978353.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -41,6 +35,12 @@ https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781557807.png",04h09 ngày 16/06 Đức vs Curacao (Lương Sơn) BLV NGƯỜI THÉP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/776_165018978353.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/776_165018978353.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -141,6 +141,54 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130827_a8dbf6fe.png",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132812_7956bea9.png",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132812_7956bea9.png",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132812_7956bea9.png",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132812_7956bea9.png",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -165,78 +213,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781566521-0-0-a3cf44ce10b42a766d06e4ce5b3bf350
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781566521-0-0-74f937cdf6cea32e65c3478a897bf034
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781566521-0-0-579fbea0ef0f406a796bcbdf49ce7de9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781566521-0-0-aa2deafb931659aef97fb133309f9edd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=dd457d0404390ed75bba077d66b85ca3&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=c76911bf418b9796dae0d62849e1ffdd&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=dd457d0404390ed75bba077d66b85ca3&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c76911bf418b9796dae0d62849e1ffdd&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781566521-0-0-18d542287f8f469e4c0c1346f7c222c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781566521-0-0-b66d0233bde6eb343218f33972249e37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781566521-0-0-b72ad79ad1bbfbaafcaf0d2b909f0d3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781566521-0-0-a6f6bc0f4f6e3d8a19ff9d8d8ec0f68f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=7434da8791fc02f43ab5bfed27cae10b&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=2048bc5f4e627fb6de5d6b3c0ff2f884&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=7434da8791fc02f43ab5bfed27cae10b&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2048bc5f4e627fb6de5d6b3c0ff2f884&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=dc757bc8be16fe6e541ffce6659694f5&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=b22eef06b3920c92f8450f8b71f41c12&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=dc757bc8be16fe6e541ffce6659694f5&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=b22eef06b3920c92f8450f8b71f41c12&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=94d88d300ce36ffb5678543fcae6f0b7&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=301ab1f7aeb0576811da8882e357dce3&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=94d88d300ce36ffb5678543fcae6f0b7&txTime=6a30d289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=301ab1f7aeb0576811da8882e357dce3&txTime=6a30d289
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=d49e0be4fdb7c716c7c434729f327bb6&txTime=6a30d3f1
@@ -321,6 +297,78 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781567241-0-0-21a1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781567241-0-0-497da966a3219c0cbadfe5bd847160fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=760a3e95904835c09cfadbd2d3939b13&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=96aa31cf7c709568f36e3bfdd8944fb0&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=760a3e95904835c09cfadbd2d3939b13&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=96aa31cf7c709568f36e3bfdd8944fb0&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781567601-0-0-d3e7b28b370903bbef4bb76586feb674
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781567601-0-0-7af973a3330742cbd9a7e3229cdcb180
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781567601-0-0-ee4ec93c4ba417b52e9a6fe6f30992fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781567601-0-0-a3a53553c7a1d65ff5dfcb8a1b8d1499
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=29646ce47efa92c1a930f59837c55ba0&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=2f55f70d19eefa1eed2fd825717008c8&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=29646ce47efa92c1a930f59837c55ba0&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=2f55f70d19eefa1eed2fd825717008c8&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781567601-0-0-a343ddcb769568f0554d94f96e8150b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781567601-0-0-949e22b2eb0d62fb350b5b9adca01eca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781567601-0-0-531027efdb54dd3a27a85b677a69d018
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781567601-0-0-d259c50250f3b94d9ffb44c54ce32c64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=616a01094cd2ef40ced2eb1c233b915b&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=bc58aa09754986eb349a53c83e5c3a1b&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=616a01094cd2ef40ced2eb1c233b915b&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=bc58aa09754986eb349a53c83e5c3a1b&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=fe602935767509edd48078f8d1c9d78f&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=1380b1012b88abe7ed3b41e308f43625&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=fe602935767509edd48078f8d1c9d78f&txTime=6a30d6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=1380b1012b88abe7ed3b41e308f43625&txTime=6a30d6c1
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",05h00 16/06 Saudi Arabia vs Uruguay (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
