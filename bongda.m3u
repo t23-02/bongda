@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/25002_1grcy3a3b31h.png",01h00 ngày 16/06 CA Independiente (W) vs Boca Juniors (W) (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/47705_1grcy3a3tj1s.png",01h00 ngày 16/06 Banfield (W) vs Racing Club (W) (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -78,22 +78,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -107,6 +91,22 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132738_952f6da3.png",05h00 ngày 16/06 Saudi Arabia vs Uruguay (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -195,114 +195,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781549961-0-0-d25d67f20ace2924dac3fc187c5ba3ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781549961-0-0-05fdcb2587e7606101b401fa40f28e28
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781549961-0-0-8541521be90bb6020ee36fd9d6457beb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781549961-0-0-982995ac1ea1c1a6d633eb99ceb8f84c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=ad3f7d41a302474faa5f7e636e1946ce&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=e81ec3bdc561d264e7fd6f19b7396f3f&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=ad3f7d41a302474faa5f7e636e1946ce&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=e81ec3bdc561d264e7fd6f19b7396f3f&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781549961-0-0-e5582cba7b7a8f3d0e27209dc6e74494
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781549961-0-0-0495374074dede5e80aca62bf3e18049
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781549961-0-0-8e18e7be52751d056b20251dd3244a40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",23h00 ngày 15/06 Spain vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781549961-0-0-e37ca45f949eba402e2a114b48b1259c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781549961-0-0-e51927fe5511ef60a44e8a4632c2a5f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781549961-0-0-0b9983f4061fdf5f897fa49a5d8ee04a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781549961-0-0-1618621e93dd45b0e7343c4a7362b7e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781549961-0-0-2122b6ea37886bf34cf4d49c8a787989
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781549961-0-0-5a14541afec080f5f6b66fe6eabb0b7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781549961-0-0-61949c1d332f317055e001011ae7b44e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781549961-0-0-4d38f4e221a1797ddccbc90a51d6748d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781549961-0-0-84ad1ef6a504ccf3f87af227ea396abe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781549961-0-0-79283187cb57174e48c5a7180b1ad8c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781549961-0-0-8d02dcc23703b042c061a8e0fa18e6df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781549961-0-0-98fbaab537e881a5b0e9f531ea8ea64d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781549961-0-0-0107611765d1691d794d53d0cc90598b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=e8f2c0a1af04d3785c5691493e41d313&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=1e9fefc3fcb47f19946f170496163acd&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=e8f2c0a1af04d3785c5691493e41d313&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=1e9fefc3fcb47f19946f170496163acd&txTime=6a3091d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781549961-0-0-ee04e010732ad8aee5266ababeaa33b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781549961-0-0-d06d1213ae7bc9c7a2ae4f97fb07d1ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781549961-0-0-37e2e3900f93eac2424c673e46f856fc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781549961-0-0-990419b4d230c4191ee329058a6efe14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781549961-0-0-569ce6b9266320d9851a834fd004a8fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781549961-0-0-8fdf7f3a446ccae4b3d3082cc85b06fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781549961-0-0-0f14bc5b07bf34961418b7a61257dff1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781549961-0-0-9af789004ccfcda3912ec84936be7238
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=6db6caedcfa43c77ea5ee618e179c83c&txTime=6a309341
@@ -387,6 +279,138 @@ https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=ad9c12e3b84fb7ba87d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=89d7aa0cb01bf6a3ccf1f0d328b4f026&txTime=6a3094a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=18522d3fc31d5c11481d38c9e553b486&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=621080a6673388ba70dc0b7b393ad996&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=18522d3fc31d5c11481d38c9e553b486&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=621080a6673388ba70dc0b7b393ad996&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=2d68d2d3d31a167ee8e0222a5f66bd79&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=74689b7c19c92a4bc44293fe4150d1b4&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=2d68d2d3d31a167ee8e0222a5f66bd79&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=74689b7c19c92a4bc44293fe4150d1b4&txTime=6a309611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781551041-0-0-3a04d8bdc0c46ec35dd892c0e268ec2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781551041-0-0-f20c237aa907d64f38871eb2e250a80f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781551041-0-0-3182a193b770fac527cfbe9f8d745812
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781551041-0-0-46664f6ed8d72f1912e81b9d6d0b65a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781551041-0-0-5752f60f057fec28ae07289ff6e7ebcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781551041-0-0-0b31762b6d315dc6360175a6c1aa1229
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781551041-0-0-9287344867b21620f8ea0420d14de45e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781551041-0-0-0bf9a38b58a4e87ebd7450e453967f35
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781551045-0-0-d8b05c6a878aaf133a9928424526d850
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781551045-0-0-d79b35fca50b49a10ce127b09ad3e679
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781551045-0-0-a7cff0a2ca169d47906e241a6be17635
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/2317406cfdb1dab2b965a89d93293096.png",02h00 ngày 16/06 Belgium vs Egypt [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781551045-0-0-f78b44e8c883aec0424115e71408a8f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781551041-0-0-b1c304bfcd72b681f0f2bf42a8b00730
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781551041-0-0-17a2cc3e242f6b3d2655e8673e9a50fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781551041-0-0-ba8c282e2a1bac1bff4b17bdf36b20f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/3c664b2f09b8844264c2044899913ded.jpg",00h00 ngày 16/06 GIF Sundsvall vs Osters IF [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781551041-0-0-468c46232de2c010e915b0c663ac7f0c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781551041-0-0-64a94b178c416955a2dc435e9950bd4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781551041-0-0-729702b026d0a76350b9cd0e1501e889
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781551041-0-0-db77c9eb77486a542c3ca828b9f7a1a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781551041-0-0-d53504eb60d51af8669d317721999feb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781551041-0-0-9c8ab094a1e708b07571530d1099f015
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781551041-0-0-1502fe081fde8c0eb6c53eef1c9c75be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781551041-0-0-c12af008c37935f53dddca66095bd70c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/eb39888009bace6be348e05507738b62.png",00h05 ngày 16/06 IFK Norrkoping FK vs Varbergs BoIS FC [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781551041-0-0-c8cfcc39b1a0de814d6d7cada6bb3fb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781551041-0-0-7709dafccb37632cc3c9553f3f0b7afb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781551041-0-0-631359bd62425db841a4a2788b26ec97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781551041-0-0-4925de7887f8432c19d8d439f5826f80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781551041-0-0-63e49d0ca114b7deca3d9e2b4a95ca90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781551041-0-0-534d51246c3651987f4d54a2434c0821
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781551041-0-0-b87011d4c2383e9c078e3bbeda1c5c28
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781551041-0-0-c06797ce3f2293bcdef24b61ef97795c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/4fc5b671c3062aafa148c1586e6cdbe6.png",01h00 ngày 16/06 KA Akureyri vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781551041-0-0-33ecb8a399679d489f189c17a13af7e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781551041-0-0-346de438539acbb44fa4086f2337786b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781551041-0-0-6b8b7a9df58046ad95fe745aad5ad14f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781551041-0-0-a58c0fa73dd757f5c4a3510ce013ea65
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/018934441f6766cd34efd0316284cb84.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781551041-0-0-7f767a9d9d73e131c46dd0fde55f049d
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02h00 16/06 Belgium vs Egypt (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -447,9 +471,9 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/5aa5f2f1a954448fd5bef463a34830b0.png!w80",01h00 16/06 KA Akureyri vs Fram Reykjavik
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/78905744.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",02h00 16/06 Bỉ vs Ai Cập
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/24561735.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/5aa5f2f1a954448fd5bef463a34830b0.png!w80",01h00 16/06 KA Akureyri vs Fram Reykjavik
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/78905744.m3u8
