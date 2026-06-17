@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -35,6 +29,12 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -151,6 +151,118 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080458_8929e0d7.gif",19h00 ngày 18/06 Serbia W vs Italy W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080458_8929e0d7.gif",19h00 ngày 18/06 Serbia W vs Italy W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080458_8929e0d7.gif",19h00 ngày 18/06 Serbia W vs Italy W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080458_8929e0d7.gif",19h00 ngày 18/06 Serbia W vs Italy W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_081520_6f8a2bf2.gif",20h30 ngày 18/06 Thailand W vs Bulgaria W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_081520_6f8a2bf2.gif",20h30 ngày 18/06 Thailand W vs Bulgaria W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_081520_6f8a2bf2.gif",20h30 ngày 18/06 Thailand W vs Bulgaria W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_081520_6f8a2bf2.gif",20h30 ngày 18/06 Thailand W vs Bulgaria W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -175,66 +287,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=0f7f4fcef6ce9a9f661c58b07e8ee624&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=23a099d4cb2de7c2cba5fb789884f081&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=0f7f4fcef6ce9a9f661c58b07e8ee624&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=23a099d4cb2de7c2cba5fb789884f081&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781735361-0-0-b45da360efd96e11c9e3397fc75ad1b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781735361-0-0-09109f0d65ecc5bdb1735d7fa3d9d5fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781735361-0-0-ea36a0c2b4ba843f9050daf99352fd12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781735361-0-0-01ccd15c8f6cf035b2a4e4575f8956e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=6a7be030a6945f4111d6b20d71a0aa9c&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=a8ed3dc3854156cfa11ff82bde3f12a1&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=6a7be030a6945f4111d6b20d71a0aa9c&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=a8ed3dc3854156cfa11ff82bde3f12a1&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=56579eb4add3724ed4a0b76d06c2b659&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=11eb803f6c97e0d1f4240b889c8c2543&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=56579eb4add3724ed4a0b76d06c2b659&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=11eb803f6c97e0d1f4240b889c8c2543&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=c672df1c292e7d6d15b667cb5f7f7134&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=0e714bf469b60e4ea1ad69ea53864d08&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=c672df1c292e7d6d15b667cb5f7f7134&txTime=6a336611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0e714bf469b60e4ea1ad69ea53864d08&txTime=6a336611
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=a8966bdea20794285aedabd75b962db2&txTime=6a336779
@@ -331,6 +383,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781735721-0-0-16b8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781735721-0-0-6166d6c7d0268c5b5e08cb8c2cd9f21b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=7ef49f4f035a18e1be02242f1c7f4877&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b683b095ab9c0e638153040f2ac9eb94&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=7ef49f4f035a18e1be02242f1c7f4877&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b683b095ab9c0e638153040f2ac9eb94&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=1924bf707a59011182f85c9a4d63f4e1&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=e129e296b69c25c1a80ed2bb8227958b&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=1924bf707a59011182f85c9a4d63f4e1&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=e129e296b69c25c1a80ed2bb8227958b&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=402cd6cd9c0ed2a4a36e79f49bfad3ea&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=ad0458acc60097df40c0dc9f0c27abc8&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=402cd6cd9c0ed2a4a36e79f49bfad3ea&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=ad0458acc60097df40c0dc9f0c27abc8&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=0eb183aa40eeb34cb2d50c89bcaabd14&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=b466615b0cb1776e48eacc9e4cd1a343&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=0eb183aa40eeb34cb2d50c89bcaabd14&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=b466615b0cb1776e48eacc9e4cd1a343&txTime=6a336a49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781736441-0-0-71fa68e4ef575fad0966e3829dbf5035
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781736441-0-0-8792dc66cfa65dec6234df8793c53034
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781736441-0-0-897e490218d74d94e1d06a282a2dd3ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781736441-0-0-be57233f9c648e99ebe6ce4fee35d0c8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10.png",03h00 18/06 England vs Croatia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
