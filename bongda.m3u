@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781724655.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781724655.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781755019.png",11h00 ngày 18/06 Argentina vs Algérie (Lương Sơn) BLV YẾN THANH REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/44980_1k6phcrs0f2b.png",14h00 ngày 18/06 Khovd Western vs Khangarid Klub (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781724655.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781724655.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -93,22 +93,6 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 18/06 Tsirang vs Tensung (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -421,90 +405,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781774601-0-0-ed9538c0670c1302249f71fe6c811132
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781774601-0-0-b5a4779d2e7c1e6b91a1497bc82e2ecc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781774601-0-0-156d879996a8d52e987eaa714b1b0dee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781774601-0-0-cea853d1bd59fffa928dd6728930be12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781774601-0-0-ea83e90ad840afbf2f0839cd219cbbb5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781774601-0-0-2bc03e708493526321e540d93c5d961d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781774601-0-0-31a2a39614b83abf53cf23fb740c7e84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781774601-0-0-f8a9eff9057b23a85f0cb249f2e6a980
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781774601-0-0-1b89f026b3bcc3a96666f6080e7c54c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781774601-0-0-ee8fe60b1ceb36cdb5b883d0dccb4c52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781774601-0-0-1b04b490eeed9d6f642123d7cd415169
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781774601-0-0-060ec68eec53b65870fa5d81d8de4a7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=493b932e1134a5ffd6c4a55332272478&txTime=6a33ff59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=31593e4c188f61bcb583c3a2d03b2c8d&txTime=6a33ff59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=493b932e1134a5ffd6c4a55332272478&txTime=6a33ff59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=31593e4c188f61bcb583c3a2d03b2c8d&txTime=6a33ff59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781774601-0-0-2ef8ef9205852624f7ea78cbd53b4a3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781774601-0-0-eec52f2cac1b96750e3c31ec1322226c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781774601-0-0-dff46f84794f7adb46d681212d67b4e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781774601-0-0-a2213d12deef10a1d8dbe3ccce03d2bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781774601-0-0-85f21c57efc16104de2ebb7bf3ae82c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781774601-0-0-1622f0df0d63ef89b5e249fcf37c3eb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781774601-0-0-1834bdc1b26e0b480b893e549fd06b58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781774601-0-0-b5713fb1158c2bab07bf0a16772c1b67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781774601-0-0-dd5c47f338b420c9a655cb14dc44003f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781774601-0-0-24813d5d7f61b82c1a037a02493ccf81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781774601-0-0-38cc9f765fe4c5f7192659ce39239d24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781774601-0-0-5a5cd245a790dce211364b6b4c560311
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781774961-0-0-8af0a294bf2ccc7bacb290075467ebc1
@@ -637,6 +537,90 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781775321-0-0-7b57
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781775321-0-0-8c0c9380d77aec5c41cce4a3ebb808cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781775681-0-0-f1f17e6c87872a015fd1ca62ee648ce8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781775681-0-0-0712cb98b692402cb794b6d49fc752ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781775681-0-0-9e930dc9b201fb07c22271b26fa337ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781775681-0-0-caa546b4f8f253d1dda2da51c02b2705
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781775681-0-0-9ef24f2f8cccb9e2b2c8b7707ee19b07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781775681-0-0-087e147e35bc69eb4f03a697f6d1ee08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781775681-0-0-6b4a67e5afd9cec4e69716ab55f95cd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14h00 ngày 18/06 Southland Sharks vs Taranaki Airs [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781775681-0-0-58fef78260588f12194f13f320ca6c18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781775681-0-0-d500bf91a5daa3eefaf555439cfbf2f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781775681-0-0-98a9f0f3e04d9942ab1363776bbe37c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781775681-0-0-d0ac634e9eaab13d3185f98e3fdd6c1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781775681-0-0-2c94cfb33f741251f02d82804963ac7c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781775681-0-0-45fb25495fa281aef4e7ac4ec4231462
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781775681-0-0-a76f609afe0a306576235e235eed556e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781775681-0-0-83ef3a7ca3e891b67e9dbf7f390edb6f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781775681-0-0-71e83d1dc37b58282e6d5b74dd0c5337
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781775681-0-0-57453d45d8a1eddc4ec2f846fe9f4132
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781775681-0-0-408c44179c0a1b9e902f3516b7d778d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781775681-0-0-eb7c04499af613da60c2ae0466583b7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781775681-0-0-682ee0d30c5d3f9820440d31fa3a0ac6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=fdc9020efdac0f9085271eda08ee6f2d&txTime=6a340391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=61276415a0432549f515d185e2c994d8&txTime=6a340391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=fdc9020efdac0f9085271eda08ee6f2d&txTime=6a340391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/8b1df2906d2cf33c0abd07aa421079da.png",14h00 ngày 18/06 Khovd Western vs Khangarid FC [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=61276415a0432549f515d185e2c994d8&txTime=6a340391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781775681-0-0-c3be20c0133c097f925e561c37a14f1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781775681-0-0-4ab47f048dc3e16510b29032850272fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781775681-0-0-c38e796f0439d7e4a13cbdc5d6ab326b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781775681-0-0-83743117a396f2b3bd5f16cb2391097a
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15h00 18/06 Séc vs Mỹ (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
