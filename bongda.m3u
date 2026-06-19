@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781813503.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781813503.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60083_1jrcx9hjze2z.png",14h30 ngày 19/06 Yan An Ronghai vs Qingdao West Coast (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -47,6 +41,12 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781813503.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781813503.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -99,6 +99,22 @@ https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2219.png",15h00 ngày 19/06 Dominican Republic W vs Serbia W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2219.png",15h00 ngày 19/06 Dominican Republic W vs Serbia W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2219.png",15h00 ngày 19/06 Dominican Republic W vs Serbia W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2219.png",15h00 ngày 19/06 Dominican Republic W vs Serbia W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144219_a2dd309c.png",16h30 ngày 19/06 Langwarrin vs Port Melbourne (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -491,126 +507,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781858481-0-0-89becf44e0fb93058d711b06c2a2d15c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781858481-0-0-9fac82212fd094dd855dc9bb11a45812
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781858481-0-0-e85b2a9a813be4526d95f3276c4c2f12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781858481-0-0-b9c3d77ca29c329fe32f35f4ca36b867
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781858481-0-0-d3f4446ed2144f9488f3d5fe3a31791c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781858481-0-0-a30e332a1bc1c7623c1210c07bb2e0d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781858481-0-0-71fbf142e6e1a3716dfe7451e6e39aaf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781858481-0-0-3b03b22287cddb7fb76f3cefc3d3468e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=60a2faca0af2b6aa12c709e52bde2e41&txTime=6a354701
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=95fcc38c298af6d436e76e603feb6cb8&txTime=6a354701
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=60a2faca0af2b6aa12c709e52bde2e41&txTime=6a354701
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=95fcc38c298af6d436e76e603feb6cb8&txTime=6a354701
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781858481-0-0-e818b9133967c907805e2d7b43879ad8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781858481-0-0-9d4810852a335a08aac84049da64d12e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781858481-0-0-08cd37d91b7d8021623daaece6027ea4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781858481-0-0-61a6d852f08900210e891fad9eb6d6dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781858481-0-0-b91d86aca8c5b227ecd47f077c7e61ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781858481-0-0-26840ff8f58ab045a9571ed919918276
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781858481-0-0-cfd01977c0756e7f3585ca6e98c24a6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781858481-0-0-b44935e0859f9875b2c9ef08ca8492db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781858481-0-0-da2b05fe3efeda5186c3b47efb5862d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781858481-0-0-b867e5caf428bcedd6c9907f6c878f40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781858481-0-0-e4454c6eb939298c4ebed25d87bc4d50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781858481-0-0-f4a0fa5ef6494bc71dee805d980375a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781858481-0-0-235c04887a1eb005fe2663fb6abe079d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781858481-0-0-92a1f64ef0d931fc914f43e7ae4fe280
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781858481-0-0-d1dec3c8d5ac0fef0ee19a6e5e6435c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781858481-0-0-47e43dbeb45350eae67a5ca343884001
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781858481-0-0-0516df331679efc47b89d190cde63022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781858481-0-0-34d65283846ccfd74268a05b6c805fce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781858481-0-0-23ded6d53ea1075f0e08816b30fe18b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781858481-0-0-b1939b254a4b893ae1c32e14ff4d5d28
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781858481-0-0-d516712aba14e95dc1ed7ae57dcdd4f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781858481-0-0-9a7a893d04be751f4280aa841f1f5f87
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781858481-0-0-eaa4356361629cf6f2e1d1c0744a7e07
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781858481-0-0-d763c140a195845db8f6985a6b27ab0e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781858481-0-0-51b69726365b1cfa5224553fb716b99b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781858481-0-0-84764de1c8877c14ee0bd7e121586a57
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781858481-0-0-75d25e88bd7499e4e69691072d56b466
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781858481-0-0-444b869bc99472351f36125c96308e28
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/f5166aa8388c393cac7ebfec6baeb6e1.png",CHA FA Cup: Dalian Kewei vs Liaoning Tieren [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=c6b99aa40737f8c22de5990a37ffa295&txTime=6a354869
@@ -863,6 +759,126 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781859201-0-0-0c53
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781859201-0-0-0a213b2a037feb07b80ec409e6a7ec9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781859561-0-0-06e1e7287882d4fdeaf7eaf275b36651
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781859561-0-0-141cc8c85fcf320936bea39f53dfcb76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781859561-0-0-1cb6218e7c151b7194a05cf86601013e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781859561-0-0-2072e89de16aa42bef71bb478fe065e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781859561-0-0-5d5b5734748fcb45090ca9e251ab4caf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781859561-0-0-69232f128cbc132667063535ff9ba645
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781859561-0-0-0c548b3178aded93ab07ffa14a1589e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781859561-0-0-abc969ee7c54dfaf089f1ad53bc92b91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781859561-0-0-39f9b3d712cdf49eb066681a579dd519
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781859561-0-0-b83e752d25aa31a4fceb4610ed8f5dcd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781859561-0-0-1dfaabbd050e12d236fb3dc1a3f2e19e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781859561-0-0-d22ba7afdc2be79cc45ed8ba96b8ed9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781859561-0-0-1933d18b792820856961ddbe7ab5824f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781859561-0-0-08a2e0159c37a05b62bfda72e64a804f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781859561-0-0-1eea08450504b8eddeca0337c61133f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781859561-0-0-bbc2585e0af772119c5421ef04cab5b6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=20cdc83d0f4dae79c6d021e68074bba9&txTime=6a354b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=c196a8b713680738cd283322d3d46039&txTime=6a354b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=20cdc83d0f4dae79c6d021e68074bba9&txTime=6a354b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png",14h30 ngày 19/06 Dalian Kewei vs Liaoning Tieren [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c196a8b713680738cd283322d3d46039&txTime=6a354b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781859561-0-0-830254472140868a2803135ff8c7eb99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781859561-0-0-9fc2f5f8695400c62bd999a95d22d5f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781859561-0-0-7acd638bd3a40ae3375648c72b1a8e8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png",14h30 ngày 19/06 Shanghai Second vs Shanghai Port [HẢI THANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781859561-0-0-7bef4c847597ae3bba519d281054f08b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781859561-0-0-c13132d880fb1fddf7064b1771441dbd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781859561-0-0-d85d70c36f176fc93e2c76c589c3e305
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781859561-0-0-8e94bd60c4f18fcfc048b643cf5eed15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781859561-0-0-c5dcf17fe4e26f0b4d44af97f2cd0d23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781859561-0-0-e91726f68c9d4fa95ab27508e95ca68b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781859561-0-0-3d4ea30c10a9f552f1dd4f47b741c7bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781859561-0-0-090d69b64881ec01407506f4cbc70d0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781859561-0-0-caeea5988d9d7129b1bbef0d63c7da40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781859561-0-0-e3c06f42134265236c7162eec260eb2b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781859561-0-0-239d5ab1d67d1b03b2361dd5d3e1c6b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781859561-0-0-468bfff56d1090532757fc45e7c366e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png",14h30 ngày 19/06 Canterbury Rams vs Tauranga Whai [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781859561-0-0-9334b513067d5df3241c8bfbb6c66e9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781859561-0-0-05392284f39e2cdd3347968b5fdf30c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781859561-0-0-c73bd2240451bc0cc8c2b922182f589a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781859561-0-0-14c44846d4d819625486c4a39acf1ec5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png",14h30 ngày 19/06 Shanxi Chongde Ronghai vs Qingdao West Coast [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781859561-0-0-7e3c5394050fd121b22a650025555610
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",15h00 19/06 Cộng hòa Dominicana vs Serbia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
