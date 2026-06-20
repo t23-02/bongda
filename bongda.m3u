@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",07h30 ngày 20/06 Brazil vs Haiti (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",07h30 ngày 20/06 Brazil vs Haiti (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31450_1gwxajpemt5.png",06h00 ngày 20/06 South East FC vs Point Michel FC (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68702_1jqtyj4xq91e.png",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",07h30 ngày 20/06 Brazil vs Haiti (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",07h30 ngày 20/06 Brazil vs Haiti (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -461,78 +461,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781916801-0-0-bd1d5445fd79a94cc1302a40ce78eefd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781916801-0-0-ff3f7980400b942762c1b1eb0cb40d4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781916801-0-0-597c319eecb6424a859fb478bacf8157
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781916801-0-0-0c2aec2df07ae63a8adc53633e8c7b77
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781916801-0-0-594aef06aed7f9cf36398f90b9575bf5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781916801-0-0-b1abf11472278a4f206f0a4d352f5091
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781916801-0-0-69b643a9f035cf0bc36ff6a139485bae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781916801-0-0-d0b0114ea8e32d0c16de1f4b0b007cf8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781916801-0-0-ee0cf90e6a66992b262be1a220719f64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781916801-0-0-1b416adb5e52d9f3cbe2503646f46142
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781916801-0-0-877829b3daf56297bcf0ceb04e9e91d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781916801-0-0-a87e023c1d71eb6356cd76cb6013b9bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781916801-0-0-bdc701b2af86704502a08a3bce6b8b9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781916801-0-0-38817aa34aa54ff9539caa97fc4998d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781916801-0-0-6bc57eefd16a1cbd5694a5e809098bc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781916801-0-0-e947f4603ba4f485a311133f556c81a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=479151862d6be06efdbb549c9846383c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=6826b25b2634a782d165cddf3045d8a4&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=479151862d6be06efdbb549c9846383c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=6826b25b2634a782d165cddf3045d8a4&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=2052bd7209426bcd427485d06be1e5c9&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=731f980207b583cdd5ac993792cd8196&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=2052bd7209426bcd427485d06be1e5c9&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=731f980207b583cdd5ac993792cd8196&txTime=6a362c39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781917194-0-0-d0a6b00b00209791313ce971bba7e656
@@ -689,18 +617,6 @@ https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=3603261118ff14f5220c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=c0f3f8c49aa710a4a1c506b454c8264c&txTime=6a362da1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781917521-0-0-18cab8e17b3c43c367828760f5f2344c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781917521-0-0-b54b77888d095d22c6fc8a5bc4ca0fb1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781917521-0-0-e4abed7f1930a7280b9db9a8460e8b5e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781917521-0-0-861b2d052384b61a57c4bbb4d1520510
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781917521-0-0-48ac3d6212710009d3e9dd16829d3768
@@ -749,6 +665,66 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781917521-0-0-3e8e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/8cd5ff2574e71acd04877350b63e902b.png",07h00 ngày 20/06 Osos de Manati vs Piratas de Quebradillas [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781917521-0-0-4655223f6e948ed634416ba7bbf38753
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781917881-0-0-3fb31647264ee7055675f01306cc23e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781917881-0-0-00275d0c86342195c4d533d982ddc1a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781917881-0-0-d523e6db3ff7dc39fe79231e44163b34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781917881-0-0-42f478431b3e1fd90005f0c009e7ec18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781917881-0-0-ae09a31d1e4bce1a43e7dbe8436bd244
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781917881-0-0-31135142d88d334cbb7b585adfa0d156
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781917881-0-0-4d8a90b657cd8d0a71c74b10cb77d8ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781917881-0-0-98861de5582b674b0747a20695e744cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781917881-0-0-c06b0e12310f78775307d0ae42fd5ac4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781917881-0-0-bc2b88b74f5160f26e0e733847662b88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781917881-0-0-015fee59611402e0aa0e21b3b8e32309
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07h30 ngày 20/06 Brazil vs Haiti [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781917881-0-0-8c592c2e8b5495ab57d6e1ade0998c34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781917881-0-0-5de4d430309f20daf579cc3c145fa073
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781917881-0-0-b02afaf5a3c7c3e85b02674eca0d7373
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781917881-0-0-3a15d470256ac3d7e1f8d4059460b3a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06h30 ngày 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781917881-0-0-37c97224774f27172198d99a2a42f6b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781917881-0-0-8f8e28273d9460c27414a03b7ce10d0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781917881-0-0-2f764a7c426457c962fec2d049576c82
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781917881-0-0-d6e15905e51b685384b5b1869971f4f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06h30 ngày 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781917881-0-0-fbee63f09972404f10a7fa3a436cd394
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",07h30 20/06 Brazil vs Haiti (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -785,9 +761,6 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",05h00 20/06 Scotland vs Ma Rốc
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/78905744.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",07h30 20/06 Brazil vs Haiti
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/08552895.m3u8
