@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png",02h30 ngày 21/06 Almeria vs Malaga (Lương Sơn) BLV HÀN TÍN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png",02h30 ngày 21/06 Almeria vs Malaga (Lương Sơn) BLV HÀN TÍN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h00 ngày 21/06 Germany vs Ivory Coast (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -41,6 +35,12 @@ https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa28344
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h00 ngày 21/06 Germany vs Ivory Coast (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png",02h30 ngày 21/06 Almeria vs Malaga (Lương Sơn) BLV HÀN TÍN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png",02h30 ngày 21/06 Almeria vs Malaga (Lương Sơn) BLV HÀN TÍN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -197,66 +197,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=b731690a2199926cbb9ecda694d8a695&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=fc72cae3e605302c3af7397cd0546c1a&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=b731690a2199926cbb9ecda694d8a695&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=fc72cae3e605302c3af7397cd0546c1a&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=41902a4215b863568b0e0ce3063b3599&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=63db933dbdfee45267dc287bea8bac6c&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=41902a4215b863568b0e0ce3063b3599&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=63db933dbdfee45267dc287bea8bac6c&txTime=6a3750b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781992041-0-0-3136023cba6086db84985a0b789c8cc4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781992041-0-0-0adeb1101cdd2dd3d35ba97dad514298
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781992041-0-0-689cfe8ece8807883fabdcd13080969d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781992041-0-0-e4f5938d19ee5062e57b3658df00cbed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781992041-0-0-b34b9056fbbb503fc12eebe5ffc4bb39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781992041-0-0-bc40ca6ca2a62d751b03ff6a5995ad36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781992041-0-0-314ea2f4bbc5440614b20ccaf73b4216
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781992041-0-0-3265baba766ef48132b37c1ce022ce9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781992041-0-0-2ba91069f3032012bc1703d57b602fe2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781992041-0-0-5ee25ef19653471bad92a2b271cad7ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781992041-0-0-4769c382228fc7bdca4b2db4e8e50b98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781992041-0-0-37a10c4dd27becd53d1b069de36de459
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5dd3f3fefd667c397602982d88cfee67&txTime=6a375221
@@ -377,6 +317,78 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781992761-0-0-c88f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781992761-0-0-8694b92b9dc6efaec632ae7eff333a62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=d14d368813d9299ddacd2289cd7f8d73&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=5eb4995aa051e0cd2fb79937a7c7929f&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=d14d368813d9299ddacd2289cd7f8d73&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=5eb4995aa051e0cd2fb79937a7c7929f&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=58f3311d90aaefae8e6c90cda02357b0&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=a55a5a52859a47854d0d217a549f9a40&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=58f3311d90aaefae8e6c90cda02357b0&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=a55a5a52859a47854d0d217a549f9a40&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781993121-0-0-9e20306812564949d6c1214513b77ece
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781993121-0-0-9c753754ce06cdcf95e56b8d6b26e51e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781993121-0-0-f4ebb0521fa27949fc50d6dd978ae50f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781993121-0-0-0f53efc8c6496cd1df5f5b87e28efe3d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781993121-0-0-91144a8de688186b69fa7eec7aee6aa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781993121-0-0-d96c461c1f0767de7157daadb11e4332
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781993121-0-0-8ab447f06c93165adb2d45cf0d3ada3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ec4f7f7cb07549d8edcf89e932c02be.png",02h00 ngày 21/06 Almeria vs Malaga [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781993121-0-0-c24b983846da6d3896e778d23008d6a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781993121-0-0-742d8eeca8e212d3955a390d607d3692
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781993121-0-0-64ea0196f4c8f45e88c04a6545491e3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781993121-0-0-91b2ac1a7613a547579f0c16b74216ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/99749e266c8fd82c2fd5a4a40a544017.png",02h00 ngày 21/06 Phoenix Mercury W vs Seattle Storm W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781993121-0-0-4fa96ea8a860e4f8c6902a3e03ea38c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/690317e8048679f77edcafbadfaa6cfa.png",05h00 ngày 21/06 Rangers Talca vs Universidad de Concepcion [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=0c7cb47311b1ba3b5f6ade2490e4d118&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/690317e8048679f77edcafbadfaa6cfa.png",05h00 ngày 21/06 Rangers Talca vs Universidad de Concepcion [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=1c9b6c83fd561c73b7484ad1e3e410eb&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/690317e8048679f77edcafbadfaa6cfa.png",05h00 ngày 21/06 Rangers Talca vs Universidad de Concepcion [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=0c7cb47311b1ba3b5f6ade2490e4d118&txTime=6a3754f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/690317e8048679f77edcafbadfaa6cfa.png",05h00 ngày 21/06 Rangers Talca vs Universidad de Concepcion [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1c9b6c83fd561c73b7484ad1e3e410eb&txTime=6a3754f1
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",03h00 21/06 Germany vs Ivory Coast (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -427,7 +439,7 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",03h00 21/06 Đức vs Bờ Biển Ngà
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.apusport.com/live/78905744.m3u8
+https://live05.apusport.com/live/08552895.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80",02h30 21/06 Almeria vs Malaga
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.apusport.com/live/87547578.m3u8
