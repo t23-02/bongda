@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45767_1gw9fsjq8t13.png",08h30 ngày 20/06 Cooks Hill United Reserves vs Weston Workers Reserves (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45767_1gw9fsjq8t13.png",08h30 ngày 20/06 Cooks Hill United Reserves vs Weston Workers Reserves (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -63,6 +63,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141354_a613be1e.png",11h00 ngày 20/06 Hume City vs Green Gully (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141354_a613be1e.png",11h00 ngày 20/06 Hume City vs Green Gully (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141352_b0ea8ade.png",12h00 ngày 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141352_b0ea8ade.png",12h00 ngày 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133642_573f2bfb.png",14h30 ngày 20/06 Qingdao Red Lions vs Wuhan Three Towns (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133642_573f2bfb.png",14h30 ngày 20/06 Qingdao Red Lions vs Wuhan Three Towns (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123048_e67768f5.png",15h00 ngày 20/06 USA W vs Italy W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -407,102 +431,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781926881-0-0-6de8d3961220f3e9bee7d8effd5c6729
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781926881-0-0-9ea490ed1ac676be349042a84e8e57d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781926881-0-0-03edb60f257ae0b2952d16f5262c6474
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781926881-0-0-13cd7258fce4860919774b5fd11a6b7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781926881-0-0-b3edfd191d081e30eeaffee579fdc76d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781926881-0-0-983601ef099a27c1c9ebb7ff662f2ccc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781926881-0-0-755f983d0dd44c4240719e3fe62a9eb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781926881-0-0-dab37327f85645997d6b2b669fc97bb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=4fc8c3c8763b2c034957909cde5f0536&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=adb57927be34704fc6fa6d2fe7bb2b3a&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=4fc8c3c8763b2c034957909cde5f0536&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=adb57927be34704fc6fa6d2fe7bb2b3a&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=d263c8022d21672a8c4a7197f25f45cc&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=da59ce17c00bf831bba41448fc92f319&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=d263c8022d21672a8c4a7197f25f45cc&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=da59ce17c00bf831bba41448fc92f319&txTime=6a365231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781926881-0-0-5db9c64363f7ade1bfbabfec2e7d5257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781926881-0-0-2d07b57de027a8aae9fc1f8b99c44a66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781926881-0-0-c5d1dde410f0efb4ba56d03cfb9c97a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781926881-0-0-fd10f24d50faa67b3b0da717712aa61b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781926881-0-0-41c8ffc684e161b20070ef5a263b2fcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781926881-0-0-4f5c729bedfb3fa4acaac547c1802d5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781926881-0-0-f562dd4ee52853c3cb048cb8ce1f478a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781926881-0-0-87b1651c82188754a261b7eda12bd9e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781926881-0-0-714abf7dd196d090317ea023ac22376d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781926881-0-0-696bdb4afe38ebcf0fabcd43a1374a98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781926881-0-0-c9b2aaeeb36631cf4e6c3d94d4184a3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781926881-0-0-40d3841766496842b480eaa995b5c096
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781926881-0-0-e5021613115df499917e2bdfec46cb84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781926881-0-0-53f6d9da5974b31154302e5035a8c00e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781926881-0-0-af5727e79d0e22e18ff759469fee44b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781926881-0-0-14c47e4e945b630a180aa2b662c30e22
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781927241-0-0-f8265f7cc10c29739d31aa4b163a8986
@@ -599,6 +527,90 @@ https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781927601-0-0-751
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781927601-0-0-210a83bce84db8d9e0084dbd4e39f804
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781927961-0-0-a5dd6187e31660e5838756d9cc1bf17c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781927961-0-0-640c547a3d0aad065066d60fff481259
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781927961-0-0-efa1574714c164ed4054852b222fbe0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781927961-0-0-85c9c0ad7eb7b9a7d9fa2f4b720cc6d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=2ff5f06460a711c4556d5855f8caf14f&txTime=6a365669
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=088a7ea69e69a50b69832cd099179a65&txTime=6a365669
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=2ff5f06460a711c4556d5855f8caf14f&txTime=6a365669
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=088a7ea69e69a50b69832cd099179a65&txTime=6a365669
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781927961-0-0-84a3443f88ffdf855dfef3350f5ba032
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781927961-0-0-ceb21b2c6932e176ab4a07bbaeb0ce39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781927961-0-0-abdb72ea4e0f19d185f2a9d9c383b023
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781927961-0-0-1af1ab6dbaa149aba7c0de1f808a17e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781927961-0-0-6dfc47398ed8c935e956ca9e5b87d467
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781927961-0-0-dbe4f37696b425a472ab599e47933b23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781927961-0-0-132f9d83fabfb24eed0988e1e536d04d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781927961-0-0-f53ff50d99795464ef61fc0c1ec83d8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781927961-0-0-2247332cfe1d836249fe30753689de00
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781927961-0-0-1f47db8ec95d021e4e88488cbae53a91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781927961-0-0-2b39e6055a1b639469c6bf411a6b66ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781927961-0-0-8b5362bd85472c2e0928c2971416dc0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781927961-0-0-cee6e4e8c5beb78bec21469c500559f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781927961-0-0-2cdb79c92636599c4b4a23f0729bd8fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781927961-0-0-d1244cb7a82e12f25e1f884b5baea03c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c1fe0e2337cf55f2741c205cfd21ae31.png",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781927961-0-0-f3408221cdba011df9738f81abb390fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781927961-0-0-2689d27ed6baa27577dfb963a5ef5b12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781927961-0-0-1590c43308367bbb2cab226082a2c82c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781927961-0-0-bc4af0c935f1341e4e595bd51833edc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/6c5474d94360c158cd33e29fda5da334.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781927961-0-0-e1ba37cac9187561422c996650e7ce57
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10h00 20/06 Türkiye vs Paraguay (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
