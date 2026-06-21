@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÝ QUỲ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÝ QUỲ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÃO HẠC m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -53,6 +47,12 @@ https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fc
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34887_1h24kc808r6.png",07h30 ngày 21/06 Corpus Christi FC vs Sarasota Paradise (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -113,6 +113,38 @@ https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131644_b45a760d.png",09h00 ngày 21/06 Monterey Bay vs El Paso Locomotive (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131644_b45a760d.png",09h00 ngày 21/06 Monterey Bay vs El Paso Locomotive (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131622_0b1d83f4.png",09h30 ngày 21/06 Phoenix Rising vs Oakland Roots (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131622_0b1d83f4.png",09h30 ngày 21/06 Phoenix Rising vs Oakland Roots (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131618_326b768c.png",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131618_326b768c.png",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131624_a6435614.png",10h00 ngày 21/06 Sacramento Republic vs New Mexico United (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131624_a6435614.png",10h00 ngày 21/06 Sacramento Republic vs New Mexico United (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_8efc6b50.png",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -489,198 +521,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lsd.flv?txSecret=62d2b10bba62decdce49e14fb52208b3&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lhd.flv?txSecret=d167cb742c88c12738247b9ec700f47a&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=62d2b10bba62decdce49e14fb52208b3&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=d167cb742c88c12738247b9ec700f47a&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782005361-0-0-90a969ab6439f99732e87ec56b05fb21
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782005361-0-0-962f5ec2eb4337bd801e467b1cc83d6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782005361-0-0-e93e2400f9aca259294bf9d652af5c40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782005361-0-0-25490529afdd667b16892f87d89dd5e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782005361-0-0-0a3e86eeff3bd2874a522da3e1b23f1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782005361-0-0-d9659403ffe9aed141e9f525c6cd4547
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782005361-0-0-d1cee8e4cb3e2c64dd1ab6d6366a1902
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782005361-0-0-e6e192381855dff29ec3aebaee016db4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782005361-0-0-261e3fd92c9dcc217996261aac7c00ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782005361-0-0-f758c8568b30c35167bd31eba4899d1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782005361-0-0-c04a632099fdf76a255aab1a7ea4e7da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782005361-0-0-bc72f15c13ec0f9727b912fd9d04b41b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=4351dfe8f44145b0ecbad98d3f76d1f9&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=1e71f25b5adc9867442efd716f78ca41&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=4351dfe8f44145b0ecbad98d3f76d1f9&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=1e71f25b5adc9867442efd716f78ca41&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782005361-0-0-0dfabff823218d69017300cab1469624
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782005361-0-0-88406331566d299f53e9662c40efa6b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782005361-0-0-29fc933d2c1c1d04161a29ca77038b5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782005361-0-0-9a8437ba4057c5fc3c86985225c834e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782005361-0-0-cc044c57d3267dd546deb414240a6039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782005361-0-0-95a66961e6faa0f27c107cbc99a9ec33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782005361-0-0-e14fb302417c24302105d1c2e13fde32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782005361-0-0-7b5955c9684db8ddebb8035e0c71ad14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=a387fdfdef3304e179b64e907a79b033&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=eea41ed0c8b3b06e7a8df296f11ca7d7&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=a387fdfdef3304e179b64e907a79b033&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=eea41ed0c8b3b06e7a8df296f11ca7d7&txTime=6a3784c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782005361-0-0-00b498162b8c48f8631ed17b568ed828
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782005361-0-0-999f6c735e161e8621362c04914ab638
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782005361-0-0-4b12e5d370414ad01afe3ed9f1f4a1a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782005361-0-0-b11a210eb02443f7f7357a616f76e182
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782005361-0-0-c368ceb5ccf2db417b8e4b8c3699d2da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782005361-0-0-34fb2d2e425cd13963d9556f780ce8fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782005361-0-0-3c9b375a04e22e0f4ae92a3722c5eef8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782005361-0-0-8e0ad51c912687f200b909e67f568011
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782005361-0-0-91db13326578ba5eef8822131747af12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782005361-0-0-4f19d72195e8cb6834db9dd4daaa7633
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782005361-0-0-5879dde33574535418f32c62b9fa0153
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782005361-0-0-80625a3090f84d6cd3f71c68374c615e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782005721-0-0-044cac5731cf7590ccf6bed8fc891c6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782005721-0-0-f236244b9884f144233513c699b09178
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782005721-0-0-1207ddf1416d8b6f39ca706ab8d9d839
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782005721-0-0-69fadcd543fdd7ee44314bf7a0321cc6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=952738dd34529a2000ecfd79efaea5fe&txTime=6a378629
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=e47c4e82de6b328215f444ddacdc940d&txTime=6a378629
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=952738dd34529a2000ecfd79efaea5fe&txTime=6a378629
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e47c4e82de6b328215f444ddacdc940d&txTime=6a378629
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782005721-0-0-a7ac788f9920fbbc125ef71eb4cbdceb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782005721-0-0-0aea7c4832e145c083cfa1ddba1f3ea0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782005721-0-0-ea617e0e9e9bad0edb716618974bfed7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782005721-0-0-2711e97e012ea3ef75ec4dcc45928a58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782005721-0-0-1ae77482bed7b6540e11f59c65a68408
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782005721-0-0-890baaa7379d6691837001e122d1330f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782005721-0-0-af328ed999c09a067a7728a96a2d93d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782005721-0-0-0bf6f7fa9be403f9204b300c4e521bdc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782005721-0-0-2ff28d5c5825b4c6c1d4975e7afc66e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782005721-0-0-1ccb833fde009891103e6024d1d2fec7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782005721-0-0-4a19f9609473eecd189e3d427cda924d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782005721-0-0-0d1dd15a57a01f8510e5b1a1f940b280
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [HẢI THANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-599634_lsd.flv?txSecret=c309f322613d91440348d4a70d3b32cd&txTime=6a378791
@@ -741,18 +581,6 @@ https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=73bee1dff6e7f654eaf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=6bbf26d63a5ab879a5335e73b928e606&txTime=6a378791
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/4a25e305b2cefc14a9bc24d99d207a10.png",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=38638990166442a42d9617226f6a0968&txTime=6a378791
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/4a25e305b2cefc14a9bc24d99d207a10.png",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=50ff9a51f45bc5af02e072d5accbb848&txTime=6a378791
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/4a25e305b2cefc14a9bc24d99d207a10.png",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=38638990166442a42d9617226f6a0968&txTime=6a378791
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/4a25e305b2cefc14a9bc24d99d207a10.png",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=50ff9a51f45bc5af02e072d5accbb848&txTime=6a378791
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782006081-0-0-700e7bd69aee0e839b1eaf537e1a1631
@@ -849,6 +677,198 @@ https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782006081-0-0-d360
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782006081-0-0-6cd5cf863d3d152cf2749872d48989f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-527384_lsd.flv?txSecret=40617266f347d7738f99bde4c7538d06&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-527384_lhd.flv?txSecret=103f07ae29f51a5a4b45187daa1cba09&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=40617266f347d7738f99bde4c7538d06&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=103f07ae29f51a5a4b45187daa1cba09&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782006441-0-0-f496bc994e2efb85a6572efdd887b8c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782006441-0-0-b397f2f9e75aa9c4b15f8b6e7f38b463
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782006441-0-0-952c745d66226d5d037166f55c02ae0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782006441-0-0-d5aceb340b01b2f5f8e2c888405e0e78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782006441-0-0-5b5ad1164afb647b7c042abd012ca5e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782006441-0-0-3d0bc47a72eacfc12ad0d0e2ea3b0108
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782006441-0-0-7769b5464464c014434a56dd4c453afe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782006441-0-0-92aa41a235f0e14bd61cc7e6251de7f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782006441-0-0-325514a066da23d87a658c046ed5ead6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782006441-0-0-adeef1c0d75b3da8f5d4084bd66cfec0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782006441-0-0-511398004e8ad3bbaa1b0c6dcad2ab0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782006441-0-0-34d8c1f67d2ffe1dd410cd759c9b67bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=b5fe8226952e07dd066e4947026c2de4&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=1f49b2fe16f31ba1c310b0a8decc3480&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=b5fe8226952e07dd066e4947026c2de4&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=1f49b2fe16f31ba1c310b0a8decc3480&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782006441-0-0-f5d6e09cc49c328e662c9cc68bb18c20
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782006441-0-0-384cc56693b2fb149519bb133e834aa9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782006441-0-0-f008b5bfa13855da7dc052b8c43b6039
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782006441-0-0-9f1db063ad2c52880fed058bcee55bde
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782006441-0-0-8d3a2ab7baffdf80212e5d29321dc5cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782006441-0-0-f2dabfd3c3d0508b696c80e289f6d63d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782006441-0-0-4bc90cb7e3b45c15205237326f2d6c12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782006441-0-0-656ff3a433c3222187267d8be3c61368
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782006441-0-0-bbb0bb7d0c0ee36e5213030cbf748c31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782006441-0-0-cf995c1daddd2bb19d82e5abd2b0c9ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782006441-0-0-ce6116f89b2bae66a2218d04dad5b344
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/e1304c9749aea5debd50fab15c170b4e.png",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782006441-0-0-5c28049c281619001f8b177bb3b1b966
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782006441-0-0-8b77d41836adcf60087f51d4fbb49c46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782006441-0-0-7c46aee21a96213cdd13f119f83f9727
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782006441-0-0-d495c5b3707b06474ff042ae231638c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/57cb03bd620ce774826925ecc91ea45a.png",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [HÀ DUY KIÊN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782006441-0-0-66ac5f3a29b5d86b31e2aa6a348e8cae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=b47ba7bca1d67bf0022cce25e0e10365&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=be8d3c2d6ff2c4ff3fcd4f029fb5d168&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=b47ba7bca1d67bf0022cce25e0e10365&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d145190f796d8cf305f7b5f82521a0f4.png",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=be8d3c2d6ff2c4ff3fcd4f029fb5d168&txTime=6a3788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782006441-0-0-b69f0d60b2917963bc1b9d5230e08fd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782006441-0-0-686d6365296b3e669169083a6667e22c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782006441-0-0-b8a1c4ca6299dd76736010e1f2ac756d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/53c2419a7c64205d9a098a51d941f1ba.png",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782006441-0-0-bdccd586b174ca28124c67106c4288bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782006801-0-0-4a99cd99910c29b8fe5a187cd2625d4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782006801-0-0-4f9182464a3e5546ef5bd3b6611671c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782006801-0-0-c6438ec6e6d4ef8bb5d00ef3152b4889
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782006801-0-0-81a422f7088af5646a757b7006134c56
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=9d945d7f05c8beddfca74ebd82188f8d&txTime=6a378a61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=abb819ca3ba1ae916f56885de4f2668b&txTime=6a378a61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=9d945d7f05c8beddfca74ebd82188f8d&txTime=6a378a61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=abb819ca3ba1ae916f56885de4f2668b&txTime=6a378a61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782006801-0-0-6b96e1fc09125ac87c884745d297053a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782006801-0-0-9d966e3a570d41645d338faa981ec891
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782006801-0-0-a8b212a555266f8ee171b893a888a558
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/4cbbcb71445b44085940982886bb206b.png",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782006801-0-0-f1b602348ec2c31c44db9b13b32cde8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782006801-0-0-130fc83a288cb95d0f271e943b98cc85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782006801-0-0-a20caae8517d4e127c693deffd159c4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782006801-0-0-43b77171315b9209c7ab0a2b3f49c9f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/34263e785b00cbfe418e4c464d7b6b73.png",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782006801-0-0-3c7603ef2bfdd53fdf32304eaa027d53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782006801-0-0-1bb38f24f29525dfa27d2e63200f2971
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782006801-0-0-3301d9964c9bce917e4b9a482df04965
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782006801-0-0-e318acb06dd76ef5bed820640ad5ee21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782006801-0-0-1819e2e0bcdcd9114d268922f35b07c4
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",07h00 21/06 Ecuador vs Curaçao (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
