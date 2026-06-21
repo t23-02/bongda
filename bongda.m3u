@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/575_1j50e7s8g413.png",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk (Lương Sơn) BLV LIO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/575_1j50e7s8g413.png",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk (Lương Sơn) BLV LIO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1932_165363454417.png",01h00 ngày 22/06 Valur Reykjavik vs Keflavik (Lương Sơn) BLV PHI HỔ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
@@ -29,6 +23,12 @@ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15979_1gryyw1bnm31.png",01h00 ngày 22/06 Deportivo Madryn vs Los Andes (Lương Sơn) BLV GẤU KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -185,54 +185,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=785dc59aa05bd0c3ee5f651281901d2f&txTime=6a388349
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=633c572827bd063e34a47ea79605c322&txTime=6a388349
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=785dc59aa05bd0c3ee5f651281901d2f&txTime=6a388349
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=633c572827bd063e34a47ea79605c322&txTime=6a388349
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782070521-0-0-4278ec01afe7025ae5276b875447749d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782070521-0-0-90a35653a4b3665daa28aab5a4f6756d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782070521-0-0-2caa83152ebd4090bf61f9dc9166fcae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782070521-0-0-8a1de7382cf9670350a2fb647bd4929e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782070521-0-0-ce8ea64f8e23d04398a57700d9e557ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782070521-0-0-084c498f02644643f78eea5f4f9fe7d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782070521-0-0-359b5a17e3084a3eb578a0b8d9b72263
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782070521-0-0-6e6c846546461e6517f279b89a717b23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782070521-0-0-ca8f580358c9b49fdd891b2c62ec3cd9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782070521-0-0-563fdd2b5d61fc3aadb582c69b47aa14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782070521-0-0-8124f92922c8831735e585460e2bdd43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782070521-0-0-3effbab6ca7ac0e6c35f00b9184cf430
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782070881-0-0-c68853ffeedeef162b9df47b27036bde
@@ -485,6 +437,54 @@ https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782071241-0-0-927e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782071241-0-0-0dcbeedddafb73dc356651565536a5aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=8e0ae57aa16bae2cdc3debc6e712a2c5&txTime=6a388781
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=55d7c0d280f35c254a5a1057d3eff328&txTime=6a388781
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=8e0ae57aa16bae2cdc3debc6e712a2c5&txTime=6a388781
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=55d7c0d280f35c254a5a1057d3eff328&txTime=6a388781
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782071601-0-0-9048fc69678f7550ece751ab1a15bbb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782071601-0-0-6e77ca3bceb62664fef181506273fa23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782071601-0-0-0f35de42313afe660fbc125b53e28952
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/418aea9a6ffc2ed3b2bc8e1b3c12aad5.png",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782071601-0-0-9b3983fbba390d70fc4e2928c86fbbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782071601-0-0-fc3473a02a28584fb8a32cb7526d0443
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782071601-0-0-f4211e042cf1dee08f66b3aa6ef23c81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782071601-0-0-a04c07634065e7ff73bed25e9d735ce7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/35a355845db5fba2f2983bb057957cf1.png",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782071601-0-0-6a4090510b73b1324881328fccf5d1bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782071601-0-0-52db3135ea02f81f12ed2c509744b7cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782071601-0-0-c4fb27c4a984b0b9d5c4ab7b0546ccbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782071601-0-0-fb08ef37f1664e7dcae94caa15f8c082
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782071601-0-0-1a31fa4c71564bcf405df1a5d6244696
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",23h30 21/06 Thổ Nhĩ Kỳ vs Trung Quốc (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
