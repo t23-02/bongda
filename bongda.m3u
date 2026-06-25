@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782360267.png",11h08 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KAKA REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782360267.png",11h08 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KAKA REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782366156.png",12h42 ngày 25/06 Bồ Đào Nha vs Uzbekistan (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/24949_1gv76qy5yt29.png",18h00 ngày 25/06 Khoromkhon Club vs Ulaangom City FC (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782360267.png",11h08 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KAKA REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782360267.png",11h08 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KAKA REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -61,6 +61,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130559_a6ed3550.png",19h00 ngày 25/06 Sport Academy Kairat vs Khan Tengri (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130559_a6ed3550.png",19h00 ngày 25/06 Sport Academy Kairat vs Khan Tengri (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/27635.png",19h00 ngày 25/06 Yelimay Semey 2 vs Turan Turkistan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/27635.png",19h00 ngày 25/06 Yelimay Semey 2 vs Turan Turkistan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",19h30 ngày 25/06 Bahrain vs Kazakhstan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -197,66 +213,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782388042-0-0-69b361cd90ad209b6cfa98445cdf36a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782388042-0-0-42aec59e1feeed5ab5331182f9a87c37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782388042-0-0-ad198b8aa903bc77364ace9011191584
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782388042-0-0-4ce6ee0e60abc94890604d9434dcfbc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782388042-0-0-c58084dd6f4f182ce8cc41c272e717fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782388042-0-0-be347b1875837e2a20f77b8fb0a690a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782388042-0-0-57d6c0dc7ea1d3a3127e432cc90d02ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782388042-0-0-29d13e5e20575bd350180e11955b6889
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782388042-0-0-04ed2db42d7eed8dd54251429dd2d305
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782388042-0-0-ef7220ef9fe4f9238dfd5e3a07fc146c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782388042-0-0-058e463f9aa3d0e9154a35fd2fbb52e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782388042-0-0-52ebafe06d5e77ed06d6714e075a22d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782388042-0-0-6b90848d17e5329cb5659de23fa6a672
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782388042-0-0-5df86deef9c2f8ba2c98555caa23f8dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782388042-0-0-e76c1f17e8fd1d8ae01c5fae19e57ba3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782388042-0-0-e0e4a09698f7c59dce731a3e3aa88498
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782388042-0-0-88ec27b71705ca0001813bcef85798a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782388042-0-0-25b0bd2f51ec75e3432e90cc5acdac7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782388042-0-0-280e799ffb27dcff644486c2d72fd7a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782388042-0-0-39d1feabbfc8178ffb86b6bea28ea588
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782388402-0-0-7e30db101c591f184fff3122da5f9705
@@ -269,18 +225,6 @@ https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782388402-0-0-4af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782388402-0-0-88ca1e17fe1c62cb3211202466da7724
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782388402-0-0-f7d5b693f5fb1bd469ce719789969a7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782388402-0-0-2ea3c8b59001187b2f796c8ec15335a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782388402-0-0-3d922925fbe1acc6b38c503913ae4efe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782388402-0-0-39a0cb2aaa9b202739081bb4dce6ba89
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [QUỐC KHÁNH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782388402-0-0-aa6b74b93fc0dab54ece4c0d9a484c75
@@ -353,30 +297,6 @@ https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782388762-0-0-7125
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782388762-0-0-94e55f25cefa06c3ef08b6f86a2c8220
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=4a842bc5ea0d9bf8c1786f567e1b72eb&txTime=6a3d5e6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=51531a14511eaea75397bceb4f5329c8&txTime=6a3d5e6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=4a842bc5ea0d9bf8c1786f567e1b72eb&txTime=6a3d5e6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=51531a14511eaea75397bceb4f5329c8&txTime=6a3d5e6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782388762-0-0-d5aebf06576df743a170e04da0f399c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782388762-0-0-7a842e76229a95719d787d3c470df4d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782388762-0-0-f44d12083355960a0fc7633b94c44030
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/9dbcfc5eec3b13dbc73d31093f53f4a8.png",16h00 ngày 25/06 Ha Noi II Women vs Hồ Chí Minh City Women [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782388762-0-0-64df4244838cb6efae4e4d7d5b8afc98
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782388762-0-0-eb6b9c37aad9c5b3dc340b1d96241fdf
@@ -401,18 +321,66 @@ https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782388762-0-0-81d9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782388762-0-0-c9c946a9de55329ee909fd04fdede679
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",16h00 25/06 Ha Noi 2 W vs Ho Chi Minh W (Hội Quán) FHD 
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",16h00 25/06 Ha Noi 2 W vs Ho Chi Minh W (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782389122-0-0-8633be63a3ba73c1c187255a1a329e38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",16h00 25/06 Ha Noi 2 W vs Ho Chi Minh W (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782389122-0-0-a4c785262a76c0a58ded662067f8fdeb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782389122-0-0-924f999fbeb7e37cc2d243927aa83f8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782389122-0-0-7c67517e7339cadbc2b99d183cb13617
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782389122-0-0-d0f796fe8d1c2234e994f6b253f22f1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782389122-0-0-9e439d7731286d17383b2f922d3afc84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782389122-0-0-6b854c491d8dd7f285662720b5b2b228
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/3e361b877876eef22f35ecf80dcf475e.png",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782389122-0-0-4fb638de9fb8727a6e5894a16bce26d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782389122-0-0-aeb94eb950b39ce09b70f571b6bdcf25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782389122-0-0-98eb815a4b0b7510254badddd2517474
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782389122-0-0-43c9b28927c88d2b018f17cbad1b94f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/dafd28157b21413eb8a4801517c77602.png",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782389122-0-0-33f47da0b6af7c9143e292289595fab6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782389122-0-0-1390912737fbddd51d5a6a46c20fd1e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782389122-0-0-75dcb69d030eec74ef0a1a31c92401d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782389122-0-0-8665844eb1704ee94b50291bc14e91f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782389122-0-0-76662f8f2db60794ee75f2d2aa3f9804
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782389122-0-0-dfcaf161e4c9a8868b839ddd39dbe8f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782389122-0-0-70b6fb7d7539a93645fb785f2afee7ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782389122-0-0-1c7e9dbc9b87ba6cd1bc95db7b620e62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782389122-0-0-17b1a51b30db760b9e9ace555a39304a
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",16h30 25/06 Đài Loan vs New Zealand (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
