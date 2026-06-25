@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5800_1gq92pex2wr.png",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5800_1gq92pex2wr.png",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3422_165363440831.png",02h15 ngày 26/06 Breidablik vs Vikingur Reykjavik (Lương Sơn) BLV HEINEKEN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3081_1gqgp6phb115.png",01h45 ngày 26/06 Al-Salmiyah vs Al-Arabi Club (KUW) (Lương Sơn) BLV PHI HỔ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5800_1gq92pex2wr.png",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5800_1gq92pex2wr.png",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -123,6 +123,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_8efc6b50.png",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -275,78 +291,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782419362-0-0-2705d3fe1493a3ceef07e0ba54c4dd10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782419362-0-0-30501bf93f42cf65e85a41d8a7307ba9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782419362-0-0-c8d0b00d76629cfa714e92d26097af0a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782419362-0-0-33c59a5e92514a4d58a2630c96847a7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=8c7971b0bc3f19d4747b5d45f754e539&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=c48b22ce696a7b77bd51e989fdca8547&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=8c7971b0bc3f19d4747b5d45f754e539&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c48b22ce696a7b77bd51e989fdca8547&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=51b22f1e9d20373a663b68dac310adc5&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=93a175a17b60bf994d8c3d2ab6e3c86f&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=51b22f1e9d20373a663b68dac310adc5&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=93a175a17b60bf994d8c3d2ab6e3c86f&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-557845_lsd.flv?txSecret=f824bf8a48444c9db6d061efb64e093a&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-557845_lhd.flv?txSecret=f3a1f5f3056114bb89125d67ac1cd33e&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-557845_lsd.m3u8?txSecret=f824bf8a48444c9db6d061efb64e093a&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-557845_lhd.m3u8?txSecret=f3a1f5f3056114bb89125d67ac1cd33e&txTime=6a3dd5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782419362-0-0-71fe983ee87059cf9094d182eeb556ba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782419362-0-0-02abada227bbe69c82c48dbfe261dd27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782419362-0-0-c7249a7815f8c4ed7dae283a6e6bc276
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782419362-0-0-4f7873d43c367af72da58af3b05ef79c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782419362-0-0-218016840e5e751c1afdbb84028ea1f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782419362-0-0-91e31c14e0227ee0f0acf7c549fe6a52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782419362-0-0-9772a54d4671145f67ca29db2b53dfe1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782419362-0-0-fe5810b3e38183e480e8f3254970ad70
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782419722-0-0-893cc22edc9fcebf815ca52302176ac8
@@ -587,18 +531,78 @@ https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782420082-0-0-85f4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/866ebede1f1f296a44d43b211571ea78.png",01h45 ngày 26/06 Al Kuwait SC vs Kazma [QUỐC KHÁNH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782420082-0-0-0c5363ce01d3e3167be234909e82af26
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/866ebede1f1f296a44d43b211571ea78.png",01h45 ngày 26/06 Al Kuwait SC vs Kazma [BLV GIÓ] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782419918-0-0-958d52f2a3ac88d6128161b0ccd8ca1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/866ebede1f1f296a44d43b211571ea78.png",01h45 ngày 26/06 Al Kuwait SC vs Kazma [BLV GIÓ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782420442-0-0-7e531ed8500ac5a1b40c18a548ca7bfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782419918-0-0-e47838f8446051505b3580990bba8b30
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/866ebede1f1f296a44d43b211571ea78.png",01h45 ngày 26/06 Al Kuwait SC vs Kazma [BLV GIÓ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782420442-0-0-b267cd5f908f06c67fa48b8f17cb6270
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782419918-0-0-fcb7600d49bae5c3231a30297f2713fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/866ebede1f1f296a44d43b211571ea78.png",01h45 ngày 26/06 Al Kuwait SC vs Kazma [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782420442-0-0-2ab5a7f3e3fbf764fe9568bcf31ab946
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782419918-0-0-ab0b5cd8c996fb34f41eab8e101134c7
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782420442-0-0-d1f1e3ec05be098a5ddb3e6063aae04c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=327265babb20658ef1cf3078199e5dd2&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=448f199f6e15491a30c294a1990c070f&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=327265babb20658ef1cf3078199e5dd2&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e4a245272ae2c18747a9afe3a50b1118.png",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=448f199f6e15491a30c294a1990c070f&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782420442-0-0-cef0fab0aff616e2c335a0e088fc5459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782420442-0-0-e2652511f0095dc1c826640873b159e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782420442-0-0-a0897bebb580d79cd79fe4ef3c77bfe7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782420442-0-0-80efb963c0a7d5635779122a76aa41b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=164d98872e4bd57f4b32ccc1bae36cda&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e0474372ba1cfb3179623f478bcc3e52&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=164d98872e4bd57f4b32ccc1bae36cda&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e0474372ba1cfb3179623f478bcc3e52&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-557845_lsd.flv?txSecret=cb9eb411d1702e68755e35d1288b97b0&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-557845_lhd.flv?txSecret=8ced3a8b446d2a1f68e034ddaf8e5dc9&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-557845_lsd.m3u8?txSecret=cb9eb411d1702e68755e35d1288b97b0&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/176db06f1518661edbf74add8a278efc.png",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-557845_lhd.m3u8?txSecret=8ced3a8b446d2a1f68e034ddaf8e5dc9&txTime=6a3dda2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782420442-0-0-1e225bb45d56deb81b4afdc356b66640
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782420442-0-0-eabe505973b4136598ca3344608ef5e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782420442-0-0-373b43a87e75628d011de2e5fe37a8a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782420442-0-0-3ab9147cdb3e1dbaf4ffd8bc5973cf1b
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",03h00 26/06 Curaçao vs Ivory Coast (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
