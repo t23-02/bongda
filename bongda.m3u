@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/683_165018791043.png",07h00 ngày 27/06 Cape Verde vs Saudi Arabia (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/683_165018791043.png",07h00 ngày 27/06 Cape Verde vs Saudi Arabia (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",07h00 ngày 27/06 Uruguay vs Spain (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -71,6 +65,12 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/683_165018791043.png",07h00 ngày 27/06 Cape Verde vs Saudi Arabia (Lương Sơn) BLV LÃO HẠC flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/683_165018791043.png",07h00 ngày 27/06 Cape Verde vs Saudi Arabia (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/683_165018791043.png",07h00 ngày 27/06 Cape Verde vs Saudi Arabia (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -595,102 +595,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782527362-0-0-3a4493116da3bafd936e44f8c3b8703a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782527362-0-0-9159652243cbc4af0781f6cecec6d952
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782527362-0-0-83991e85ea452aee1985001a0e47068f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782527362-0-0-0bd7b7a0a507ce9a88cb1bcf87ebc46e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=96f81429f063501369dad6ffcd7b22b0&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=8ce37ec221d3a5cb89c95c849d05f26a&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=96f81429f063501369dad6ffcd7b22b0&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8ce37ec221d3a5cb89c95c849d05f26a&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782527362-0-0-4d6f6f9980b8bccc754556eaff8db085
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782527362-0-0-f846e365fe3b6c2ffae19d8e58139bd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782527362-0-0-d1172b51feb5eb8895e52578df490a3b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782527362-0-0-94f175985e8c65a86fd5cacc98adb96e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=608dc605ef7750fab9849b453e593c99&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=6ae3b4d62651c7125bc7e8d4e467fc63&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=608dc605ef7750fab9849b453e593c99&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=6ae3b4d62651c7125bc7e8d4e467fc63&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782527362-0-0-89c0818d662415d9c13a510f8eea70b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782527362-0-0-8ae0b8047b5447c87c1d04217ca4ba8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782527362-0-0-3b8a05e0a7df33e668192689b5e350cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782527362-0-0-a448571b249f0c7b85cb38adc7072f74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782527362-0-0-b9f4d7bc5a66b1555a4b11ab8a1d7065
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782527362-0-0-6144f91bdfbf65e491969f57852c05de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782527362-0-0-5c87c48d56292ef0d41f3bf161e0513a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782527362-0-0-668a2fa1e0bed1bb24df86252d76e06d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-511367_lsd.flv?txSecret=207a94d4ed866c0cb5f9f85a43e46215&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-511367_lhd.flv?txSecret=4f9aeae4beaec3bb1f75d6f5b71602cc&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=207a94d4ed866c0cb5f9f85a43e46215&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=4f9aeae4beaec3bb1f75d6f5b71602cc&txTime=6a3f7bd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782527362-0-0-257949fdb91f71afc0151a67fe9f77ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782527362-0-0-a9dbd9f8e0f1e8ddd7df9572d1e0c63f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782527362-0-0-6a11ceda5bf4f4245971c95f87f10c6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782527362-0-0-c200509ac4d8fe01755adf9657239a8a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782527722-0-0-0b3471be51d7347526b8d863f92b590b
@@ -919,6 +823,102 @@ https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782528082-0-0-45e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260625/fe1c94aa0ed7d77116b0ea8e7d0c5a90.png",09h15 ngày 27/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782528082-0-0-b48d602e4a487d190a9e52d003b7a334
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=8f265047988d87ef3e10b39822a34eb2&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=31c7ea205db4702e98e090b06d4eef74&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8f265047988d87ef3e10b39822a34eb2&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=31c7ea205db4702e98e090b06d4eef74&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782528442-0-0-a2e030239428a7945eaf3a7c8169e958
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782528442-0-0-8a79df70aaf69bbdbdd8297723ba0021
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782528442-0-0-75da254eb38c5be1c42198242ddf5a5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782528442-0-0-9b088d0e64a79b6c1afe96b33879ce5b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782528442-0-0-205d52a8a9142a7c407660f1e684d7c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782528442-0-0-749cf21534a155c2fe2c22d3f1191314
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782528442-0-0-e47e88323eadf7de285cce7def611c91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782528442-0-0-1557a1f1fd24996e3835fc2efdb5d11c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=671f052feeea7e8ebf1932abdaf9d06f&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=0685988171f0861ebc74812fb948481c&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=671f052feeea7e8ebf1932abdaf9d06f&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/1648d3b8c0402fb44f681262b80feb9b.png",07h00 ngày 27/06 Uruguay vs Spain [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=0685988171f0861ebc74812fb948481c&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782528442-0-0-72c88be4a4f9de2dbbe760b797c2ab65
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782528442-0-0-5796c1b6a85103790946d1590e521e1b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782528442-0-0-2cb2477706a202784d540e6799af97da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782528442-0-0-74334319da3a325fcbff1c290fc5c4e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782528442-0-0-ebb48fdd95b8a10894f3ba5595804af8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782528442-0-0-58dd2ddfcea689f4c34ac66b757a3388
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782528442-0-0-c6b36c2f83918f192c6ff8e7452abd48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782528442-0-0-82900bb3c6cb2a83e183bf47214e52f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-511367_lsd.flv?txSecret=220c83dc4940dd28360c1e4ec0b22eea&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-511367_lhd.flv?txSecret=1e85ce6e886fd442841b05953a5f060b&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=220c83dc4940dd28360c1e4ec0b22eea&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/be207c713ee383d87530d10f093aa69e.png",07h00 ngày 27/06 Cabo Verde vs Saudi Arabia [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=1e85ce6e886fd442841b05953a5f060b&txTime=6a3f800a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782528442-0-0-e72cad8756deca3a7fffd0359916501e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782528442-0-0-4862b5788070221b9bfbe6d6a3ab0e64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782528442-0-0-6f76ca49db510fecc077d01ffcead2b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782528442-0-0-c4612577fee2196f43eabcb2411a3e33
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",07h00 27/06 Cape Verde Islands vs Saudi Arabia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
