@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782704105.png",10h40 ngày 29/06 Jordan vs Argentina (Lương Sơn) BLV KAKA REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782704105.png",10h40 ngày 29/06 Jordan vs Argentina (Lương Sơn) BLV KAKA REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/26587_1k4948jhfm2k.png",16h00 ngày 29/06 Ha Noi (W) vs Ho Chi Minh City (W) (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -17,6 +11,12 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/26587_1k4948jhfm2k.png",16h00 ngày 29/06 Ha Noi (W) vs Ho Chi Minh City (W) (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782704105.png",10h40 ngày 29/06 Jordan vs Argentina (Lương Sơn) BLV KAKA REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782704105.png",10h40 ngày 29/06 Jordan vs Argentina (Lương Sơn) BLV KAKA REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -53,6 +53,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16h00 ngày 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16h00 ngày 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16h00 ngày 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16h00 ngày 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145106_186cdb3d.png",17h00 ngày 29/06 Tsirang vs Paro (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -285,18 +301,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1782726802-0-0-425bcce0d07ea740cac219afaebb3bef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1782726802-0-0-241169d9f2250c246df5f5bca68c6fac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782726802-0-0-aa416ed862d0758874fc5693ecdb4508
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782726802-0-0-04622303f77c2f97d5ecdb3eda621ffc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782727162-0-0-e3f8f5e37ad70905a9a7860aae26c431
@@ -477,6 +481,18 @@ https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782727522-0-0-a8b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782727522-0-0-93be45bb683598539ece08ddd7946a07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1782727882-0-0-84b9d2011c313407a335e1514570cda7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1782727882-0-0-13ad47ea0043e7b14b116d81c9b4f425
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782727882-0-0-df60b7f1361a29c1d37977b802d54c06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6091b3975cb3052129924e7db79030f2.png",16h00 ngày 29/06 Ha Noi Women vs Hồ Chí Minh City Women [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782727882-0-0-11aecafe634ce1902acd2dd1bc50e3e2
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/3670.png",16h00 29/06 Ha Noi W vs Ho Chi Minh W (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
