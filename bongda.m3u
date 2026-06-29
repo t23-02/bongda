@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1401_165363431223.png",02h15 ngày 30/06 IA Akranes vs Fram Reykjavik (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -47,6 +41,12 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -67,14 +67,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144555_7dd16e8b.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144555_7dd16e8b.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03h30 ngày 30/06 Germany vs Paraguay (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -435,18 +427,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782769282-0-0-40848ce259a6eaf87902608f9173bb74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782769282-0-0-fa0daa1a3c0a623b18cbd1e7b903be3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782769282-0-0-c192154dbabe4ea005be83d47009b9fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782769282-0-0-3f3c38b3e803c0a460cd54a7c4125289
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=f1f81a5b79ab6ab2c4f1683ef7db81c4&txTime=6a432e3a
@@ -471,18 +451,6 @@ https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=47c35e6337564b690c8a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=9688c74e4021d16daab468d5c32367de&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782769642-0-0-70187ea0a891d61cbd4cd4275b8b3e3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782769642-0-0-9915cdd0dc54400e76d48e42521a5084
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782769642-0-0-5365b5fe52b5b3eac167ed9c90e0c7f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782769642-0-0-cf174df266572fcfb0c265ab1bef613e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782769642-0-0-a8e3817ceee542e0a0597923c9f4fa26
@@ -507,54 +475,6 @@ https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=6263e8d475d8d16dd1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=59cd5edf985bab96a545e94bc75966a3&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782769642-0-0-a17b8bd82013e8599aec67a1842bcefd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782769642-0-0-ba837859f81d2dd4f6ad4d750eacbdf4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782769642-0-0-247b4fff0b7b1901f723914a6684e248
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782769642-0-0-de647dc7b7d861209b08c476bd4206ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782769642-0-0-ce77b4efcd8c2dea1b3f2002321e904f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782769642-0-0-0511d7ae7cf040cba0f32230084c8588
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782769642-0-0-e4326fc4e7301ce727d0fe85c8d98b61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782769642-0-0-04da56a02572a8b0dff46317f7ceb88d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=534c41e80949c6a5fa07caeadb8af6d2&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=229a2f6380b023a384ff817eb7082f93&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=534c41e80949c6a5fa07caeadb8af6d2&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=229a2f6380b023a384ff817eb7082f93&txTime=6a432e3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782769642-0-0-820f6cc10a34d6118fba7a4ba94595d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782769642-0-0-db63cddf86c1bf63583b6dd5790b8489
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782769642-0-0-7f3cda356d61ce0bb0b666b9a879de6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782769642-0-0-91220430bde0570e2eaa2207702bf87b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png",02h15 ngày 30/06 Akranes vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782769642-0-0-96f181a783965927367d4d1b70ef5901
@@ -663,30 +583,6 @@ https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782770002-0-0-c79
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782770002-0-0-b7f9bb191ceb2998a9237accbc77795d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782770002-0-0-1708bc4eaab41b447c8a3f94648e5b62
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1782770002-0-0-403bb77e129e5f1da0621b576fbfe26f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782770002-0-0-5b49036fc6e1ceb1bbdeeff2685011c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782770002-0-0-bf7517512155f5e2079a0d269e7dcb97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=6267473be872e713d26bd05ec4c9a998&txTime=6a432fbd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=e7b0bab0988f23c816c2f94a6cd0f911&txTime=6a432fbd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6267473be872e713d26bd05ec4c9a998&txTime=6a432fbd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e7b0bab0988f23c816c2f94a6cd0f911&txTime=6a432fbd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782770002-0-0-008dfc006e1e20e86a64fab63cc1b767
@@ -699,6 +595,18 @@ https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782770002-0-0-c6d1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782770002-0-0-d1baaef40487bed55241763064d7f00b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782770362-0-0-d4476a79b783ddcf6bb78bd769b2bd55
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782770362-0-0-fb942d32f192da23bfa1e7d81b632ad1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782770362-0-0-96169c15cb83a7223d0d62da515b200d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782770362-0-0-35decb75c54896dcf0da80e7f7132441
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",03h30 30/06 Germany vs Paraguay (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -738,9 +646,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",03h30 30/06 Đức vs Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/08552895.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",02h00 30/06 Croatia U19 vs Ukraine U19
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/19919577.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/9ea788376ee5eb240491893729802749.png!w80",02h15 30/06 Akranes vs Fram Reykjavik
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/82054853.m3u8
