@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif",01h00 ngày 01/07 Central Ballester vs CA Atlas (Lương Sơn) BLV PHI HỔ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif",01h00 ngày 01/07 Central Ballester vs CA Atlas (Lương Sơn) BLV PHI HỔ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png",01h00 ngày 01/07 Poland (W) U19 vs Germany (W) U19 (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png",01h00 ngày 01/07 Poland (W) U19 vs Germany (W) U19 (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif",01h00 ngày 01/07 Central Ballester vs CA Atlas (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif",01h00 ngày 01/07 Central Ballester vs CA Atlas (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -123,6 +123,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250922_095414_98362db6.png",17h00 ngày 01/07 Seoul vs Suwon FMC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -203,6 +219,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_a8ccfa99.png",22h00 ngày 01/07 Tukums vs Super Nova (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -387,54 +419,54 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782851002-0-0-c7f12bc2ad86cba9e5839186b5219594
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782851002-0-0-72575c082e90a8ca871156e0a2ff409b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782851002-0-0-380f8c9dda2c21e49d7d0d4a88cabd55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782851002-0-0-82eb3f2118dc577d4c4723d873673192
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782851002-0-0-43b34ef99064d49de94622274709209b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782851002-0-0-cd0ce76f62dff2c4fe2b6604d4d726d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782851002-0-0-2c47094844c2585856b23bf2e8b4ec86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782851002-0-0-d7f87eb9538d084e62c570bdb78fed83
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782851002-0-0-ff11f0219ce4921dccfe96c377d61773
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782852082-0-0-adefb9f8dc17ab191df148cd82fbacec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782851002-0-0-0f37af78e65b4f0599cde5dade7d8a89
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782852082-0-0-f1abd473b3ec98415b312ece07e504f8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782851002-0-0-ff550735cd4877239273a352c73d2ade
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782852082-0-0-99762e6d0ff276cc5403d57b222ad32b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782851002-0-0-808c49d4244b41b02083e75ceaffe213
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782852082-0-0-7ba2a2d050afa9ab408ae66e8b046d3e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782852082-0-0-cc0a99a45116a8e48f74dd7e10d4f021
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782852082-0-0-62d5c5db9f109b955d89d4b1397428f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782852082-0-0-ec9a0c78b39ad902a707394ded711df0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782852082-0-0-f8434a87dffb653b173b975ebd456156
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782852082-0-0-a6d6c1daae04ed6cb11d32dc0ff377b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782852082-0-0-806a1af4464dbceb415d17fb0a48824a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782852082-0-0-84b8b7f291ff9b1329435b1e9c1580fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/1e3a5249565384bc47b3560616399949.png",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782852082-0-0-82b7efcec77b3af54d709065e49de52f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782851002-0-0-6aa410c9ea0cd3109a5417b628d0912f
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782852082-0-0-7b5fd312f1ba3b4468b10975cd73b124
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782851002-0-0-17344c187e26492285773245ef8605c0
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782852082-0-0-7e59ceebedcd12121af78c403c544edd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782851002-0-0-be5f7d75378c4aa8694d790a04d367e4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782852082-0-0-e8604ddc7d375f8c6208aadd8880c656
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782851002-0-0-243b00f4cd451770e3865c26a3f82695
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782852082-0-0-1e1738cdf3531efed0f5bbd910186562
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",01h00 01/07 Ba Lan U19 Nữ vs Đức U19 Nữ
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.koepgd.app/live/14707124.m3u8
