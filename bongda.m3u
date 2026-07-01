@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",07h30 ngày 01/07 Univ Catolica vs Everton CD (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",07h30 ngày 01/07 Univ Catolica vs Everton CD (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV NGƯỜI THÉP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV NGƯỜI THÉP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -411,18 +411,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=02ecc0197a8e4a03d1ca1d33a4c67be8&txTime=6a44c33b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=bb5aaa8b491af535064c163fcd439c90&txTime=6a44c33b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=02ecc0197a8e4a03d1ca1d33a4c67be8&txTime=6a44c33b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=bb5aaa8b491af535064c163fcd439c90&txTime=6a44c33b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=fcbc903214a6830617d7feb1ec3c65ef&txTime=6a44c60b
@@ -615,6 +603,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782874103-0-0-6ab4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782874103-0-0-1ce4a7caf9904a20358e2bf0a98a9119
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=00822f5ed7bf3854d6d90100ae50adc8&txTime=6a44c773
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=93a366373ca786b2e1dec77e27673511&txTime=6a44c773
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=00822f5ed7bf3854d6d90100ae50adc8&txTime=6a44c773
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=93a366373ca786b2e1dec77e27673511&txTime=6a44c773
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08h00 01/07 Mexico vs Ecuador (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
