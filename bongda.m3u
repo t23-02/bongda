@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782852783.png",06h00 ngày 01/07 New York Liberty W vs Las Vegas Aces W (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -41,6 +35,12 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",07h30 ngày 01/07 Univ Catolica vs Everton CD (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",09h00 ngày 01/07 Mexico vs Ecuador (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -681,6 +681,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782871883-0-0-bad9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782871883-0-0-c3bb5498ad25450a3c206231b6404890
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=2ef34aa544b7cb48f3234dadb8f9ea35&txTime=6a44bf03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=5d5f2e1b37426c3a918ad8b32de04f36&txTime=6a44bf03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=2ef34aa544b7cb48f3234dadb8f9ea35&txTime=6a44bf03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",08h00 ngày 01/07 Mexico vs Ecuador [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=5d5f2e1b37426c3a918ad8b32de04f36&txTime=6a44bf03
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08h00 01/07 Mexico vs Ecuador (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -717,12 +729,9 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",08h00 01/07 Mexico vs Ecuador
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",09h00 01/07 Mexico vs Ecuador
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.koepgd.app/live/16226575.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",06h00 01/07 Botafogo vs CRB
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.koepgd.app/live/99121525.m3u8
+https://live05.koepgd.app/live/14830711.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",06h00 01/07 New York Liberty vs Las Vegas Aces
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.koepgd.app/live/82054853.m3u8
