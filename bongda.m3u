@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39671_1gzz88n8wd13.png",00h10 ngày 02/07 Forge FC vs Vancouver FC (Lương Sơn) BLV GẤU KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39671_1gzz88n8wd13.png",00h10 ngày 02/07 Forge FC vs Vancouver FC (Lương Sơn) BLV GẤU KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2043_1gtqmg9t2g1h.png",00h30 ngày 02/07 Slavia Mozyr vs ML Vitebsk (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
@@ -23,6 +17,12 @@ https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3594_165750011548.png",00h00 ngày 02/07 Denmark U19 vs Spain U19 (Lương Sơn) BLV LIO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39671_1gzz88n8wd13.png",00h10 ngày 02/07 Forge FC vs Vancouver FC (Lương Sơn) BLV GẤU KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39671_1gzz88n8wd13.png",00h10 ngày 02/07 Forge FC vs Vancouver FC (Lương Sơn) BLV GẤU KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -387,18 +387,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782932723-0-0-f0d3de32201633c12dd34ee61e5c43e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782932723-0-0-05d48debec8396e4103d2e27a0d7b1a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782932723-0-0-b15bd566a618c420ddb8c45de7398b23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782932723-0-0-55d320b94247ec65df86aab7b05452ac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/d7d3d79fd93f86af7f43616be205b7dc.png",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=4d28c4aa0b2d3f387e3bb9807ceb3775&txTime=6a45ae13
@@ -567,6 +555,30 @@ https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782933443-0-0-13e7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/c06a58e569bdd1628eca90872e8ae2ef.png",00h00 ngày 02/07 Forge FC vs Vancouver FC [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782933443-0-0-b02e927df86272a8f779bf203d6812d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5723776c8a912e6999a304bb63fcddfd.png",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=9bcf4670e837d6248b5d98c8fc66f20f&txTime=6a45af7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5723776c8a912e6999a304bb63fcddfd.png",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=a05f7952e8790d0d1f956fbfffd688a7&txTime=6a45af7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5723776c8a912e6999a304bb63fcddfd.png",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9bcf4670e837d6248b5d98c8fc66f20f&txTime=6a45af7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5723776c8a912e6999a304bb63fcddfd.png",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=a05f7952e8790d0d1f956fbfffd688a7&txTime=6a45af7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782933803-0-0-9213202b30b8b3d011b210440bb1fec1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782933803-0-0-37fba072aec899bef2b4ca0508eb7b57
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782933803-0-0-07bc90b2363c625ebc6c670fa78428f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260628/5aeb814df5ffd54337ee4f52c3daa050.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782933803-0-0-ad759b05cd1fa0d18debaa0dfecaeba8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10.png",23h00 01/07 England vs Congo DR (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
